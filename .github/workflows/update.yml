@@ -3,7 +3,7 @@ name: Aggiorna JSON
 on:
   schedule:
     # 13:15 italiane -> 11:15 UTC
-    - cron: '09 12 * * *'
+    - cron: '11 14 * * *'
     # 20:40 italiane -> 18:40 UTC
     - cron: '40 18 * * *'
 
