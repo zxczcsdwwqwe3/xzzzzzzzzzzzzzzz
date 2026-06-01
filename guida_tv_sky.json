@@ -4,16 +4,6 @@
         "categoria": "Digitale Terrestre",
         "programmi": [
             {
-                "ora": "00:15",
-                "titolo": "Cose Nostre - Nati Per Uccidere",
-                "descrizione": "$25"
-            },
-            {
-                "ora": "01:00",
-                "titolo": "Che Tempo Fa",
-                "descrizione": "L'appuntamento con le previsioni del tempo gestito dall'Aeronautica militare."
-            },
-            {
                 "ora": "01:05",
                 "titolo": "L'Eredità",
                 "descrizione": "Il game show di Rai Uno in cui 7 concorrenti si sfidano in diverse prove ad eliminazione, fino ad arrivare alla fase finale del gioco, l'imperdibile Ghigliottina. Qui, il campione della giornata, deve indovinare una parola attraverso le \"parole indizio\" per vincere."
@@ -32,6 +22,11 @@
                 "ora": "03:45",
                 "titolo": "RaiNew",
                 "descrizione": "RaiNews24"
+            },
+            {
+                "ora": "00:15",
+                "titolo": "Cose Nostre - Nati Per Uccidere",
+                "descrizione": "$2d"
             },
             {
                 "ora": "23:45",
@@ -62,19 +57,19 @@
                 "ora": "21:50",
                 "titolo": "GialappaShow",
                 "descrizione": "La Gialappa's Band commenta con la sua proverbiale ironia diversi noti programmi televisivi, tra cui MasterChef Italia, X Factor e Pechino Express. Inoltre, colgono l'ironia anche dei più importanti eventi sportivi e dei tormentoni del web."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Little Big Italy",
+                "descrizione": "Francesco Panella scopre i migliori ristoranti italiani all'estero."
             }
         ],
-        "aggiornato": "22:40"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Rai 2",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:06",
-                "titolo": "Minimarket",
-                "descrizione": "Manlio Viganò ha un sogno più grande di lui: diventare il protagonista di un vero show in televisione; si sente pronto, ma passa le giornate dietro la cassa di un minimarket di fronte agli studi televisivi di via Teulada. Ma non è solo, accanto a lui c'è Kevin Spacey: un amico immaginario, brillante e spietato."
-            },
             {
                 "ora": "00:45",
                 "titolo": "Radio2 Social Club",
@@ -129,34 +124,19 @@
                 "ora": "21:15",
                 "titolo": "NewsRoom - Fronte Artico",
                 "descrizione": "$2b"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Quarta Repubblica",
+                "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
             }
         ],
-        "aggiornato": "22:40"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Rai 3",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "TG3 Linea Notte",
-                "descrizione": "TG3 Linea Notte"
-            },
-            {
-                "ora": "01:00",
-                "titolo": "Meteo 3",
-                "descrizione": "Meteo 3"
-            },
-            {
-                "ora": "01:05",
-                "titolo": "Parlamento Magazine",
-                "descrizione": "Lo spazio di Rai Parlamento che ospita dal lunedì al venerdì ogni giorno una diversa rubrica: Filo Diretto, Orizzonti d'Europa, Il Cantiere delle Idee, Lavori in corso."
-            },
-            {
-                "ora": "01:15",
-                "titolo": "O Anche No",
-                "descrizione": "Paola Severini Melograni conduce il talk di infotainment dedicato all'inclusione e alla solidarietà che racconta attraverso i protagonisti le loro storie, attese, difficoltà e conquiste."
-            },
             {
                 "ora": "01:50",
                 "titolo": "Protestantesimo - Libri Per Crescere",
@@ -196,29 +176,34 @@
                 "ora": "23:00",
                 "titolo": "I complessi",
                 "descrizione": "Film a episodi. Un giovane giornalista aspira a diventare lettore del telegiornale nonostante la dentatura prominente. Un timido impiegato è perdutamente innamorato della propria affascinante collega, la quale è già fidanzata con un uomo più maturo. Un padre di famiglia, cattolico e moralista, tenta di distruggere tutte le copie di un film dove la propria moglie appare a seno nudo."
+            },
+            {
+                "ora": "21:50",
+                "titolo": "GialappaShow",
+                "descrizione": "La Gialappa's Band commenta con la sua proverbiale ironia diversi noti programmi televisivi, tra cui MasterChef Italia, X Factor e Pechino Express. Inoltre, colgono l'ironia anche dei più importanti eventi sportivi e dei tormentoni del web."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Little Big Italy",
+                "descrizione": "Francesco Panella scopre i migliori ristoranti italiani all'estero."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Spider-Man 2",
+                "descrizione": "A New York, il mite Peter Parker fa sempre più fatica a conciliare la vita del tranquillo e timido studente con quella del supereroe al servizio della giustizia. Peter, tormentato dai suoi segreti, si rende conto che i rapporti con le persone che ama sono in pericolo, in particolar modo il suo amore per Mary Jane Watson. Presto inoltre dovrà impiegare tutte le sue energie per sconfiggere un nuovo temibile nemico, il brillante scienziato Otto Octavius, che si è trasformato nel tentacolare e malvagio “Doc Ock”."
+            },
+            {
+                "ora": "22:48",
+                "titolo": "L'effetto farfalla",
+                "descrizione": "Quando il quattordicenne Marco, un senzatetto zingaro, viene arrestato alla frontiera danese per avere con sé il passaporto di un funzionario pubblico scomparso, l'ispettore di polizia Carl Mørck e gli uomini del Dipartimento Q hanno il compito di capire quale connessione vi sia tra le cose. Il caso presenta di fatto diversi elementi sospetti: il funzionario era stato accusato di pedofilia poco prima di scomparire e le indagini precedenti sono state condotte in maniera molto veloce e sommaria. Chiuso nel silenzio, il traumatizzato Marco si rifiuta di parlare con gli inquirenti e non passa molto tempo prima che sia costretto a fuggire da coloro che intendono ucciderlo a causa di ciò che sa."
             }
         ],
-        "aggiornato": "22:40"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Rai 4",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "22:48",
-                "titolo": "L'effetto farfalla",
-                "descrizione": "Quando il quattordicenne Marco, un senzatetto zingaro, viene arrestato alla frontiera danese per avere con sé il passaporto di un funzionario pubblico scomparso, l'ispettore di polizia Carl Mørck e gli uomini del Dipartimento Q hanno il compito di capire quale connessione vi sia tra le cose. Il caso presenta di fatto diversi elementi sospetti: il funzionario era stato accusato di pedofilia poco prima di scomparire e le indagini precedenti sono state condotte in maniera molto veloce e sommaria. Chiuso nel silenzio, il traumatizzato Marco si rifiuta di parlare con gli inquirenti e non passa molto tempo prima che sia costretto a fuggire da coloro che intendono ucciderlo a causa di ciò che sa."
-            },
-            {
-                "ora": "00:54",
-                "titolo": "Anica Appuntamento Al Cinema",
-                "descrizione": "Rubrica per la promozione della cultura cinematografica in Italia."
-            },
-            {
-                "ora": "00:57",
-                "titolo": "Criminal Minds",
-                "descrizione": "Criminal Minds è una serie poliziesca incentrata sull'Unità di analisi criminale (BAU) che ha sede presso l'accademia dell'FBI a Quantico, in Virginia. L'unità è composta da psichiatri, psicologi e criminologi in grado di “pensare” come gli S.I., sigla che utilizzano per indicare i “soggetti ignoti” che compiono delitti seriali sui quali sono chiamati ad indagare. La squadra interviene in ogni località degli Stati Uniti ogni qual volta si sospetti che i delitti possano essere opera di un serial killer, lavora stilando un profilo psicologico del S.I. in modo da anticiparne le mosse e catturarlo. La squadra è formata da diversi elementi, ognuno con un suo ruolo ben preciso: c'è chi ha l'incarico di indagare sul campo parlando con le famiglie e relazionandosi con le forze di polizia locale, chi si immedesima nel killer per comprenderlo, chi fa ricerche sui soggetti coinvolti. Ovviamente vengono analizzate anche le relazioni tra i vari personaggi."
-            },
             {
                 "ora": "01:52",
                 "titolo": "Narcos: Messico",
@@ -263,29 +248,29 @@
                 "ora": "21:15",
                 "titolo": "NewsRoom - Fronte Artico",
                 "descrizione": "$2b"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Quarta Repubblica",
+                "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
+            },
+            {
+                "ora": "22:01",
+                "titolo": "Cesaroni il ritorno\",\"prima\":true,\"description\":\"Marco confessa e Virginia parte per uno stage. Walter la raggiunge; Marco anche, ma li trova insieme. La Finanza vuole chiudere la bottiglieria e Giulio pensa di vendere.\",\"durata\":159,\"genre\":\"Commedia\",\"category\":\"Serie TV\",\"image\":\"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313804801000601/media/6/6/9afd437b-6a66-46f2-8777-b6e9c3a44b9b/917278a5-c400-4920-80e5-88bfb30ed9c6.jpg\",\"episode_number\":6,\"series_number\":7,\"director\":\"\",\"inizio\":\"2026-06-01T19:21:00.000Z\",\"fine\":\"2026-06-01T22:00:00.000Z\",\"continua\":true,\"condividi\":\"$undefined\"}},{\"canale\":{\"name\":\"Italia Uno\",\"logo\":\"italia1.png\",\"number\":6,\"live\":\"https://www.mediasetplay.mediaset.it/diretta/italia1_cI1\"},\"prog\":{\"id\":\"36YObvks2urS\",\"title\":\"Attacco al potere: Paris Has Fallen",
+                "descrizione": "Parigi è sotto attacco. Durante un ricevimento presso l'ambasciata britannica a Parigi, l'agente Vincent Taleb e l'agente dell'MI6 Zara Taylor riescono a fermare un attentato contro il ministro della Difesa francese Philippe Bardin. Ma la mente di tutto ciò, Jacob Pearce, ex capitano della Legione Straniera, riesce a fuggire ed è deciso a mettere la città sotto assedio finchè non otterrà la sua vendetta. Riusciranno a fermarlo?"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "I complessi",
+                "descrizione": "Film a episodi. Un giovane giornalista aspira a diventare lettore del telegiornale nonostante la dentatura prominente. Un timido impiegato è perdutamente innamorato della propria affascinante collega, la quale è già fidanzata con un uomo più maturo. Un padre di famiglia, cattolico e moralista, tenta di distruggere tutte le copie di un film dove la propria moglie appare a seno nudo."
             }
         ],
-        "aggiornato": "22:40"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Rai 5",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:06",
-                "titolo": "Jimmy's Hall - Una storia d'amore e libertà",
-                "descrizione": "Nel 1921, un'Irlanda sull'orlo della guerra civile, Jimmy Gralton aveva costruito nel suo paese di campagna un locale dove si poteva danzare, fare pugilato, imparare il disegno e partecipare ad altre attività culturali. Tacciato di comunismo era stato costretto a lasciare la propria terra per raggiungere gli Stati Uniti. Dieci anni dopo Jimmy vi fa ritorno e sono i giovani a spingerlo a riaprire il locale. Gralton è inizialmente indeciso ma ben presto cede alle richieste. Chi gli era stato ostile in passato torna a contrastarlo."
-            },
-            {
-                "ora": "00:52",
-                "titolo": "The Great Songwriters: Johnny Marr",
-                "descrizione": "Chitarrista e cantautore britannico divenuto famoso negli anni Ottanta con il gruppo degli Smiths insieme a Morrissey, Johnny Marr racconta, in uno studio raccolto, la genesi e il processo creativo dei suoi grandi successi, corredando la narrazione con un live rigorosamente acustico."
-            },
-            {
-                "ora": "01:39",
-                "titolo": "Rai News Notte",
-                "descrizione": "Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.. - 2026 ITA"
-            },
             {
                 "ora": "01:41",
                 "titolo": "Il Mondo Con Gli Occhi Di Overland - Un Altro Nepal: Giungla, Spiritualità E Tradizioni",
@@ -330,58 +315,6 @@
                 "ora": "21:33",
                 "titolo": "Quarta Repubblica",
                 "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
-            }
-        ],
-        "aggiornato": "22:40"
-    },
-    {
-        "canale": "Rete 4",
-        "categoria": "Digitale Terrestre",
-        "programmi": [
-            {
-                "ora": "21:33",
-                "titolo": "Quarta Repubblica",
-                "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
-            },
-            {
-                "ora": "02:03",
-                "titolo": "Marilyn Monroe: The rise of an icon\",\"prima\":true,\"description\":\"Nel 1954 Marilyn canta per 100.000 soldati in Corea, tra gelo e paura. Dieci show la consacrano icona. Quanto puo' un momento cambiare una vita?\",\"durata\":68,\"genre\":\"Personaggi\",\"category\":\"Documentari\",\"image\":\"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314259201000104/media/17/81/9a7e8aa2-2dd9-4b62-8a09-ee57d3364825/42eab5b8-8ef4-4242-9158-abd179136f0c.jpg\",\"director\":\"\",\"inizio\":\"2026-06-01T22:55:00.000Z\",\"fine\":\"2026-06-02T00:03:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2025\"},{\"id\":\"H7YtRH47uhRd\",\"title\":\"Tg4 - ultima ora notte",
-                "descrizione": "Informazione quotidiana con le notizie dall'Italia e dal mondo per il telegiornale di Rete 4."
-            },
-            {
-                "ora": "02:22",
-                "titolo": "Caro maestro",
-                "descrizione": "Stefano Giusti, un conducente d'autobus fa domanda al Provveditorato agli studi ed ottiene una supplenza proprio nella scuola elementare che aveva frequentato da bambino, a Forte dei Marmi. Viene così ospitato dall'eccentrica zia Ottilia e, dal momento in cui sale nella cattedra, instaura un fortissimo legame di complicità con i suoi alunni, risolvendo i problemi di ogni bambino. Si susseguono varie storie d'amore che vanno a finire più o meno bene, in particolare la ricostituzione della coppia tra il maestro Stefano e Elisa, insegnante e dirigente della scuola, che, dopo essere stati fidanzati da bambini, si ritrovano dopo anni di lontananza e, dopo varie peripezie, coronano il loro amore con il matrimonio e la nascita del piccolo Luca."
-            },
-            {
-                "ora": "03:08",
-                "titolo": "Il mucchio selvaggio",
-                "descrizione": "Nel 1914, durante la rivoluzione messicana guidata da Pancho Villa, un gruppo di fuorilegge subisce un'imboscata durante una rapina in banca tesa loro da alcuni cacciatori di taglie. Qualcuno resterà ucciso, mentre gli altri saranno costretti a scappare. Il gruppo di banditi si ripromette quindi di fare un ultimo colpo prima di abbandonare questa vita, accettando l'incarico di rubare armi alle reclute dell'Unione per rivenderle poi alle armate regolari messicane che le useranno contro i ribelli. Un po' alla volta gli uomini iniziano però ad affezionarsi alla causa messicana e l'uccisione di Angel ad opera dei regolari messicani farà scattare in loro la voglia di vendicarsi."
-            },
-            {
-                "ora": "05:32",
-                "titolo": "Tg4 - ultima ora mattina",
-                "descrizione": "Informazione quotidiana con le notizie dall'Italia e dal mondo per il telegiornale di Rete 4."
-            },
-            {
-                "ora": "05:54",
-                "titolo": "4 di sera news",
-                "descrizione": "Il programma di Rete4 dedicato a politica, economia e i principali casi di cronaca ed attualita'."
-            },
-            {
-                "ora": "00:15",
-                "titolo": "Cose Nostre - Nati Per Uccidere",
-                "descrizione": "$2a"
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Minimarket",
-                "descrizione": "Manlio Viganò ha un sogno più grande di lui: diventare il protagonista di un vero show in televisione; si sente pronto, ma passa le giornate dietro la cassa di un minimarket di fronte agli studi televisivi di via Teulada. Ma non è solo, accanto a lui c'è Kevin Spacey: un amico immaginario, brillante e spietato."
-            },
-            {
-                "ora": "21:15",
-                "titolo": "NewsRoom - Fronte Artico",
-                "descrizione": "$2b"
             },
             {
                 "ora": "22:01",
@@ -399,17 +332,79 @@
                 "descrizione": "La Gialappa's Band commenta con la sua proverbiale ironia diversi noti programmi televisivi, tra cui MasterChef Italia, X Factor e Pechino Express. Inoltre, colgono l'ironia anche dei più importanti eventi sportivi e dei tormentoni del web."
             }
         ],
-        "aggiornato": "22:40"
+        "aggiornato": "23:52"
+    },
+    {
+        "canale": "Rete 4",
+        "categoria": "Digitale Terrestre",
+        "programmi": [
+            {
+                "ora": "00:30",
+                "titolo": "Storie Italiane",
+                "descrizione": "Eleonora Daniele conduce il programma dedicato ai temi di stretta attualità e ai principali casi di cronaca. In studio storie e protagonisti che raccontano in prima persona le loro esperienze."
+            },
+            {
+                "ora": "23:05",
+                "titolo": "Il vendicatore",
+                "descrizione": "Un insospettabile professore di archeologia si trova, sua malgrado, implicato in un traffico di droga tra il Messico e gli Stati Uniti. Imprigionato nonostante si proclami innocente, riesce a fuggire per provare la sua innocenza e vendicarsi."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Come ti spaccio la famiglia",
+                "descrizione": "David Burke è uno spacciatore di marijuana e tra la sua clientela annovera cuochi e mamme borghesi ma niente ragazzini, dopotutto, si considera un uomo con scrupoli. Cosa potrebbe andare storto, quindi? Beh, diverse cose. Malgrado tenti di passare sempre inosservato, impara nel peggiore dei modi che nessuna buona azione resta impunita quando, per aiutare dei teenager, si trova ad essere aggredito da un gruppo di punkabbestie che gli ruba la \"roba\" e il contante, lasciandolo indebitato con il suo fornitore, Brad. Per poter rimettere ogni cosa a posto e soprattutto salvare la pelle, David deve passare allo spaccio di droghe pesanti e si trova, così, a collaborare all'ultima operazione di Brad: un carico in arrivo dal Messico. Coinvolgendo loro malgrado i propri vicini: la cinica spogliarellista Rose, il suo smanioso \"cliente\" Kenny e la tatuata e astuta teenager Casey. David organizza un piano perfetto: una moglie, due figlii e una roulotte, diretti verso il confine."
+            },
+            {
+                "ora": "21:10",
+                "titolo": "La locanda della sesta felicita'",
+                "descrizione": "Gladys è una giovane missionaria nel paese di When Chen in Cina dove – per favorire i contatti con la popolazione è stata aperta la “Locanda della sesta felicità”. Gladys riesce a conquistarsi la fiducia del mandarino grazie alle sue attività sociali e quando le truppe giapponesi arriveranno in Cina, riuscirà a fuggire – attraverso una lunga marcia sulle montagne – insieme ai suoi orfanelli."
+            },
+            {
+                "ora": "23:45",
+                "titolo": "Syriana",
+                "descrizione": "Il principe Nasir, erede al trono di un Paese produttore di petrolio, ha instaurato nuove relazioni commerciali con la Cina a scapito degli Usa, fino a quel momento privilegiati. Bob Barnes, un agente della Cia esperto in questioni mediorientali, riceve l'incarico di uccidere il principe Nasir. Ma non tutto va come dovrebbe..."
+            },
+            {
+                "ora": "23:59",
+                "titolo": "The Royal Saga\",\"prima\":true,\"description\":\"Raccontiamo il mondo del glamour in pink: da Barbie icona senza tempo agli anelli di fidanzamento che hanno fatto sognare, tra principesse e pop-star.\",\"durata\":89,\"genre\":\"Lifestyle\",\"category\":\"Intrattenimento\",\"image\":\"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314556801000501/media/15/15/42d71909-de34-42a6-9e95-6cff53fede6d/deb85942-e18a-455c-aab8-0c403117c9a3.jpg\",\"director\":\"\",\"inizio\":\"2026-06-01T21:22:00.000Z\",\"fine\":\"2026-06-01T22:51:00.000Z\",\"condividi\":\"$undefined\"}},{\"canale\":{\"name\":\"Real Time\",\"logo\":\"realtime.png\",\"number\":31,\"live\":\"https://www.discoveryplus.com/it/channel/real-time?pc=310\"},\"prog\":{\"id\":\"6Ek9YpIJ2sdl\",\"title\":\"Melek - Il coraggio di una madre\",\"prima\":true,\"description\":\"Essere madre significa non arrendersi nonostante tutte le difficoltà, ma al contrario aggrapparsi con tutte le proprie forze alla vita per i propri figli. La serie racconta la storia di Melek, che ricostruisce la propria vita insieme alla sua famiglia e ai suoi figli. Interpretata da Nehir Erdoğan, la serie mette in luce gli sforzi di una madre per rimanere in piedi e la sua lotta per la sopravvivenza insieme ai suoi tre figli, affrontando il passato per costruire un futuro migliore per la sua famiglia.\",\"durata\":190,\"genre\":\"Dramma Famiglia\",\"category\":\"Serie TV\",\"image\":\"https://img-guidatv.org/serie/69b7a95987b40a8cc6c2b8ce_p_3_rs_300.jpg\",\"ac\":[{\"n\":\"Nehir Erdoğan\",\"i\":\"eWRS4xu5e52az5jtw5uFX5fael6.jpg\",\"c\":\"Melek Karadağ/Şirhan\",\"u\":\"t\"},{\"n\":\"Kaan Çakır\",\"i\":\"yfaEoYuyW3CHIsbaphgEQ1cujzM.jpg\",\"c\":\"Alpay Yıldırım\",\"u\":\"t\"},{\"n\":\"Mehmet Çevik\",\"i\":\"jri3FWLflek9NTZN95r09T3t8XX.jpg\",\"c\":\"Seyit Ali Karadağ\",\"u\":\"t\"},{\"n\":\"Şerif Sezer\",\"i\":\"iNCTcx874hP31X1LmA74DuFDzY5.jpg\",\"c\":\"Nefise Karadağ\",\"u\":\"t\"},{\"n\":\"Rabia Soytürk\",\"i\":\"dd6FbHdtjIjiMagyuk8YCwWd40h.jpg\",\"c\":\"Defne Yıldırım/Şirhan\",\"u\":\"t\"},{\"n\":\"Ulvi Kahyaoğlu\",\"i\":\"krbeohlmEgZ09PHDlcuIG5uW2PV.jpg\",\"c\":\"Kerem Yıldırım\",\"u\":\"t\"},{\"n\":\"Poyraz Ar\",\"i\":\"ydMJSSx9JaM1U74sfP0S8UYR5jn.jpg\",\"c\":\"Seyit Ali Yıldırım\",\"u\":\"t\"},{\"n\":\"Kutsi\",\"i\":\"eAf9YUUkT5GMhNeyyf0ch9GdSV9.jpg\",\"c\":\"Halil Şirhan\",\"u\":\"t\"},{\"n\":\"Mustafa Mert Koç\",\"i\":\"5rqK4aDKOUTOsfQcSJidR9uo49P.jpg\",\"c\":\"Ömer Şirhan\",\"u\":\"t\"},{\"n\":\"Saim Güveloğlu\",\"i\":\"6QaWd64lNkhATFVvb1PH6d5LiXP.jpg\",\"c\":\"Mithat Karadağ\",\"u\":\"t\"}],\"director\":\"Celil Murat Sarı, Cem Akyoldaş\",\"bk\":\"https://img-guidatv.org/serie/69b7a95987b40a8cc6c2b8ce_b_4_rs_600.jpg\",\"inizio\":\"2026-06-01T19:45:00.000Z\",\"fine\":\"2026-06-01T22:55:00.000Z\",\"rating\":\"3,3335\",\"continua\":true,\"condividi\":\"$undefined\",\"year\":\"2019\",\"pr\":\"Turchia\",\"tiEp\":\"St.1 Ep.15\"}},{\"canale\":{\"name\":\"QVC\",\"logo\":\"qvc.png\",\"number\":32,\"live\":\"https://www.qvc.it/tv/live.html\"},\"prog\":{\"title\":\"Programmazione da definire",
+                "descrizione": "I palinsesti sono in via di definizione da parte emittente"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Giusina in cucina - Gusto e tradizione palermitana",
+                "descrizione": "Giusina prepara tre ricette della tradizione palermitana: brioche salata ripiena, involtini tuma e biscotti Excelsior."
+            },
+            {
+                "ora": "23:45",
+                "titolo": "Cane e gatto",
+                "descrizione": "Florida. Tony Roma (Tomás Milián), un playboy, cantante e ballerino italo-americano, nonché ladruncolo da strapazzo, adesca ricche donne per rubargli gioielli e altri preziosi; così facendo si invischia in una storia che ha a che fare con un importante politico legato alla mafia; il tenente della polizia Alan Parker (Bud Spencer) recupera più volte Tony e lo assicura ai colleghi della giustizia, i quali però si rivelano anche loro collusi con la mafia; nel frattempo Tony riesce a scappare più volte con esilaranti escamotages, e arriva per caso ad assistere (come testimone oculare) ad un omicidio di mafia; finisce così con l'essere alleato della polizia anziché ricercato; tra improbabili flirt \"on the road"
+            },
+            {
+                "ora": "23:38",
+                "titolo": "Freedom - Oltre il confine",
+                "descrizione": "Avventura, scoperta e indagine: un viaggio alla ricerca della conoscenza per scoprire l'ignoto e farsi stupire dalle meraviglie della natura e della storia."
+            },
+            {
+                "ora": "22:55",
+                "titolo": "Australia: la guerra dei sub",
+                "descrizione": "Le flotte tentano in tutti i modi di salvare i salvabile. Tuttavia, preparazione e pianificazione sembrano non servire contro la forza della natura e gli errori umani."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "L'ispettore Barnaby",
+                "descrizione": "L'ispettore capo Tom Barnaby della polizia di Midsomer e il suo fidato sergente, Gavin Troy, , devono investigare sugli omicidi che avvengono nei villaggi dell'immaginaria contea inglese di Midsomer. Le storie sono ambientate nel presente ed hanno una struttura di \"giallo classico"
+            },
+            {
+                "ora": "22:03",
+                "titolo": "C.S.I. Miami",
+                "descrizione": "Si tratta del primo spin-off della serie TV CSI - Scena del crimine, le cui vicende ruotano attorno alle indagini della squadra del turno di giorno della polizia scientifica di Miami. Sebbene la serie sia accomunata a CSI - Scena del crimine per quanto riguarda il metodo di indagine e ricerca delle prove, talvolta CSI: Miami si avvicina alle serie poliziesche in senso stretto in quanto è caratterizzata da un ruolo più preponderante dell'azione vera e propria, che in alcuni episodi ruba la scena all'analisi scientifica."
+            }
+        ],
+        "aggiornato": "23:52"
     },
     {
         "canale": "Canale 5",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:39",
-                "titolo": "Davos",
-                "descrizione": "Più determinata che mai a vivere la sua vita secondo i suoi desideri più profondi, l'infermiera Johanna Gabathuler si ritrova coinvolta in un complotto di spionaggio con implicazioni internazionali. C’è un prezzo alto da pagare ed è a dir poco rischioso, ma farà qualsiasi cosa per trovare sua figlia e, alla fine, assicurarle la libertà."
-            },
             {
                 "ora": "01:35",
                 "titolo": "Luce dei tuoi occhi",
@@ -464,24 +459,19 @@
                 "ora": "21:50",
                 "titolo": "GialappaShow",
                 "descrizione": "La Gialappa's Band commenta con la sua proverbiale ironia diversi noti programmi televisivi, tra cui MasterChef Italia, X Factor e Pechino Express. Inoltre, colgono l'ironia anche dei più importanti eventi sportivi e dei tormentoni del web."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Little Big Italy",
+                "descrizione": "Francesco Panella scopre i migliori ristoranti italiani all'estero."
             }
         ],
-        "aggiornato": "22:40"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Italia 1",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:30",
-                "titolo": "Sport Mediaset Live - Riccione 2026",
-                "descrizione": "Il campionato e' finito, ma SportMediaset non si ferma. Sulla spiaggia di Riccione, una giornata intera a parlare di calcio a stretto contatto con il pubblico"
-            },
-            {
-                "ora": "01:08",
-                "titolo": "E-Planet",
-                "descrizione": "Appuntamento con il Magazine Green all'insegna della sostenibilita'."
-            },
             {
                 "ora": "01:37",
                 "titolo": "Drive Up",
@@ -531,29 +521,24 @@
                 "ora": "05:56",
                 "titolo": "Miami Vice",
                 "descrizione": "Le gesta di due poliziotti sotto copertura, James 'Sonny' Crockett e Ricardo 'Rico' Tubbs, che lottano contro la criminalità in un'atmosfera ricca di glamour e fascino tipiche degli anni '80."
+            },
+            {
+                "ora": "00:15",
+                "titolo": "Cose Nostre - Nati Per Uccidere",
+                "descrizione": "$2b"
+            },
+            {
+                "ora": "23:45",
+                "titolo": "Minimarket",
+                "descrizione": "Manlio Viganò ha un sogno più grande di lui: diventare il protagonista di un vero show in televisione; si sente pronto, ma passa le giornate dietro la cassa di un minimarket di fronte agli studi televisivi di via Teulada. Ma non è solo, accanto a lui c'è Kevin Spacey: un amico immaginario, brillante e spietato."
             }
         ],
-        "aggiornato": "22:40"
+        "aggiornato": "23:52"
     },
     {
         "canale": "La7",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "I complessi",
-                "descrizione": "Film a episodi. Un giovane giornalista aspira a diventare lettore del telegiornale nonostante la dentatura prominente. Un timido impiegato è perdutamente innamorato della propria affascinante collega, la quale è già fidanzata con un uomo più maturo. Un padre di famiglia, cattolico e moralista, tenta di distruggere tutte le copie di un film dove la propria moglie appare a seno nudo."
-            },
-            {
-                "ora": "01:00",
-                "titolo": "TG LA7 Notte",
-                "descrizione": "Informazione a cura della redazione del TG LA7."
-            },
-            {
-                "ora": "01:10",
-                "titolo": "Otto e Mezzo",
-                "descrizione": "Il programma di approfondimento quotidiano condotto da Lilli Gruber, con ospiti in studio e il punto di Paolo Pagliaro. 25a Edizione"
-            },
             {
                 "ora": "01:40",
                 "titolo": "Camera con Vista",
@@ -598,9 +583,24 @@
                 "ora": "22:01",
                 "titolo": "Cesaroni il ritorno\",\"prima\":true,\"description\":\"Marco confessa e Virginia parte per uno stage. Walter la raggiunge; Marco anche, ma li trova insieme. La Finanza vuole chiudere la bottiglieria e Giulio pensa di vendere.\",\"durata\":159,\"genre\":\"Commedia\",\"category\":\"Serie TV\",\"image\":\"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313804801000601/media/6/6/9afd437b-6a66-46f2-8777-b6e9c3a44b9b/917278a5-c400-4920-80e5-88bfb30ed9c6.jpg\",\"episode_number\":6,\"series_number\":7,\"director\":\"\",\"inizio\":\"2026-06-01T19:21:00.000Z\",\"fine\":\"2026-06-01T22:00:00.000Z\",\"continua\":true,\"condividi\":\"$undefined\"}},{\"canale\":{\"name\":\"Italia Uno\",\"logo\":\"italia1.png\",\"number\":6,\"live\":\"https://www.mediasetplay.mediaset.it/diretta/italia1_cI1\"},\"prog\":{\"id\":\"36YObvks2urS\",\"title\":\"Attacco al potere: Paris Has Fallen",
                 "descrizione": "Parigi è sotto attacco. Durante un ricevimento presso l'ambasciata britannica a Parigi, l'agente Vincent Taleb e l'agente dell'MI6 Zara Taylor riescono a fermare un attentato contro il ministro della Difesa francese Philippe Bardin. Ma la mente di tutto ciò, Jacob Pearce, ex capitano della Legione Straniera, riesce a fuggire ed è deciso a mettere la città sotto assedio finchè non otterrà la sua vendetta. Riusciranno a fermarlo?"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "I complessi",
+                "descrizione": "Film a episodi. Un giovane giornalista aspira a diventare lettore del telegiornale nonostante la dentatura prominente. Un timido impiegato è perdutamente innamorato della propria affascinante collega, la quale è già fidanzata con un uomo più maturo. Un padre di famiglia, cattolico e moralista, tenta di distruggere tutte le copie di un film dove la propria moglie appare a seno nudo."
+            },
+            {
+                "ora": "21:50",
+                "titolo": "GialappaShow",
+                "descrizione": "La Gialappa's Band commenta con la sua proverbiale ironia diversi noti programmi televisivi, tra cui MasterChef Italia, X Factor e Pechino Express. Inoltre, colgono l'ironia anche dei più importanti eventi sportivi e dei tormentoni del web."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Little Big Italy",
+                "descrizione": "Francesco Panella scopre i migliori ristoranti italiani all'estero."
             }
         ],
-        "aggiornato": "22:40"
+        "aggiornato": "23:52"
     },
     {
         "canale": "TV8",
@@ -667,17 +667,12 @@
                 "descrizione": "La Gialappa's Band commenta con la sua proverbiale ironia diversi noti programmi televisivi, tra cui MasterChef Italia, X Factor e Pechino Express. Inoltre, colgono l'ironia anche dei più importanti eventi sportivi e dei tormentoni del web."
             }
         ],
-        "aggiornato": "22:40"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Nove",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:20",
-                "titolo": "Little Big Italy",
-                "descrizione": "Francesco Panella scopre i migliori ristoranti italiani all'estero."
-            },
             {
                 "ora": "01:00",
                 "titolo": "Nudi e crudi",
@@ -732,19 +727,19 @@
                 "ora": "23:00",
                 "titolo": "I complessi",
                 "descrizione": "Film a episodi. Un giovane giornalista aspira a diventare lettore del telegiornale nonostante la dentatura prominente. Un timido impiegato è perdutamente innamorato della propria affascinante collega, la quale è già fidanzata con un uomo più maturo. Un padre di famiglia, cattolico e moralista, tenta di distruggere tutte le copie di un film dove la propria moglie appare a seno nudo."
+            },
+            {
+                "ora": "21:50",
+                "titolo": "GialappaShow",
+                "descrizione": "La Gialappa's Band commenta con la sua proverbiale ironia diversi noti programmi televisivi, tra cui MasterChef Italia, X Factor e Pechino Express. Inoltre, colgono l'ironia anche dei più importanti eventi sportivi e dei tormentoni del web."
             }
         ],
-        "aggiornato": "22:40"
+        "aggiornato": "23:52"
     },
     {
         "canale": "20 Mediaset",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:20",
-                "titolo": "Spider-Man 2",
-                "descrizione": "A New York, il mite Peter Parker fa sempre più fatica a conciliare la vita del tranquillo e timido studente con quella del supereroe al servizio della giustizia. Peter, tormentato dai suoi segreti, si rende conto che i rapporti con le persone che ama sono in pericolo, in particolar modo il suo amore per Mary Jane Watson. Presto inoltre dovrà impiegare tutte le sue energie per sconfiggere un nuovo temibile nemico, il brillante scienziato Otto Octavius, che si è trasformato nel tentacolare e malvagio “Doc Ock”."
-            },
             {
                 "ora": "01:35",
                 "titolo": "Chicago Med",
@@ -799,14 +794,34 @@
                 "ora": "21:33",
                 "titolo": "Quarta Repubblica",
                 "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
+            },
+            {
+                "ora": "22:01",
+                "titolo": "Cesaroni il ritorno\",\"prima\":true,\"description\":\"Marco confessa e Virginia parte per uno stage. Walter la raggiunge; Marco anche, ma li trova insieme. La Finanza vuole chiudere la bottiglieria e Giulio pensa di vendere.\",\"durata\":159,\"genre\":\"Commedia\",\"category\":\"Serie TV\",\"image\":\"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313804801000601/media/6/6/9afd437b-6a66-46f2-8777-b6e9c3a44b9b/917278a5-c400-4920-80e5-88bfb30ed9c6.jpg\",\"episode_number\":6,\"series_number\":7,\"director\":\"\",\"inizio\":\"2026-06-01T19:21:00.000Z\",\"fine\":\"2026-06-01T22:00:00.000Z\",\"continua\":true,\"condividi\":\"$undefined\"}},{\"canale\":{\"name\":\"Italia Uno\",\"logo\":\"italia1.png\",\"number\":6,\"live\":\"https://www.mediasetplay.mediaset.it/diretta/italia1_cI1\"},\"prog\":{\"id\":\"36YObvks2urS\",\"title\":\"Attacco al potere: Paris Has Fallen",
+                "descrizione": "Parigi è sotto attacco. Durante un ricevimento presso l'ambasciata britannica a Parigi, l'agente Vincent Taleb e l'agente dell'MI6 Zara Taylor riescono a fermare un attentato contro il ministro della Difesa francese Philippe Bardin. Ma la mente di tutto ciò, Jacob Pearce, ex capitano della Legione Straniera, riesce a fuggire ed è deciso a mettere la città sotto assedio finchè non otterrà la sua vendetta. Riusciranno a fermarlo?"
             }
         ],
-        "aggiornato": "22:40"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Real Time",
         "categoria": "Digitale Terrestre",
         "programmi": [
+            {
+                "ora": "00:55",
+                "titolo": "Casa a prima vista\",\"prima\":true,\"description\":\"Chi tra Ida, Gianluca e Mariana riuscira' a trovare il trilocale perfetto sul lago di Lecco?\",\"durata\":65,\"genre\":\"Intrattenimento\",\"category\":\"Mondo E Tendenze\",\"image\":\"https://img-guidatv.org/37/casa-a-prima-vista/6.jpg\",\"director\":null,\"inizio\":\"2026-06-01T18:35:00.000Z\",\"fine\":\"2026-06-01T19:40:00.000Z\",\"condividi\":\"$undefined\",\"tiEp\":\"Fabio e Roberta\"},{\"id\":\"8bT2YupNukAE\",\"title\":\"Melek - Il coraggio di una madre - I riassunti\",\"prima\":true,\"description\":\"Melek e' una madre disposta a sacrificare tutto per i figli. Fuggita da un matrimonio combinato per amore, perde il sostegno della famiglia e, anni dopo, anche il marito, i figli e la salute.\",\"durata\":5,\"genre\":\"Intrattenimento\",\"category\":\"Mondo E Tendenze\",\"image\":\"https://img-guidatv.org/37/melek-il-coraggio-di-una-madre-i-riassunti/1.jpg\",\"director\":null,\"inizio\":\"2026-06-01T19:40:00.000Z\",\"fine\":\"2026-06-01T19:45:00.000Z\",\"condividi\":\"$undefined\",\"tiEp\":\"St. Ep.14\"},{\"id\":\"6Ek9YpIJ2sdl\",\"title\":\"Melek - Il coraggio di una madre\",\"prima\":true,\"description\":\"Essere madre significa non arrendersi nonostante tutte le difficoltà, ma al contrario aggrapparsi con tutte le proprie forze alla vita per i propri figli. La serie racconta la storia di Melek, che ricostruisce la propria vita insieme alla sua famiglia e ai suoi figli. Interpretata da Nehir Erdoğan, la serie mette in luce gli sforzi di una madre per rimanere in piedi e la sua lotta per la sopravvivenza insieme ai suoi tre figli, affrontando il passato per costruire un futuro migliore per la sua famiglia.\",\"durata\":190,\"genre\":\"Dramma Famiglia\",\"category\":\"Serie TV\",\"image\":\"https://img-guidatv.org/serie/69b7a95987b40a8cc6c2b8ce_p_3_rs_300.jpg\",\"ac\":[{\"n\":\"Nehir Erdoğan\",\"i\":\"eWRS4xu5e52az5jtw5uFX5fael6.jpg\",\"c\":\"Melek Karadağ/Şirhan\",\"u\":\"t\"},{\"n\":\"Kaan Çakır\",\"i\":\"yfaEoYuyW3CHIsbaphgEQ1cujzM.jpg\",\"c\":\"Alpay Yıldırım\",\"u\":\"t\"},{\"n\":\"Mehmet Çevik\",\"i\":\"jri3FWLflek9NTZN95r09T3t8XX.jpg\",\"c\":\"Seyit Ali Karadağ\",\"u\":\"t\"},{\"n\":\"Şerif Sezer\",\"i\":\"iNCTcx874hP31X1LmA74DuFDzY5.jpg\",\"c\":\"Nefise Karadağ\",\"u\":\"t\"},{\"n\":\"Rabia Soytürk\",\"i\":\"dd6FbHdtjIjiMagyuk8YCwWd40h.jpg\",\"c\":\"Defne Yıldırım/Şirhan\",\"u\":\"t\"},{\"n\":\"Ulvi Kahyaoğlu\",\"i\":\"krbeohlmEgZ09PHDlcuIG5uW2PV.jpg\",\"c\":\"Kerem Yıldırım\",\"u\":\"t\"},{\"n\":\"Poyraz Ar\",\"i\":\"ydMJSSx9JaM1U74sfP0S8UYR5jn.jpg\",\"c\":\"Seyit Ali Yıldırım\",\"u\":\"t\"},{\"n\":\"Kutsi\",\"i\":\"eAf9YUUkT5GMhNeyyf0ch9GdSV9.jpg\",\"c\":\"Halil Şirhan\",\"u\":\"t\"},{\"n\":\"Mustafa Mert Koç\",\"i\":\"5rqK4aDKOUTOsfQcSJidR9uo49P.jpg\",\"c\":\"Ömer Şirhan\",\"u\":\"t\"},{\"n\":\"Saim Güveloğlu\",\"i\":\"6QaWd64lNkhATFVvb1PH6d5LiXP.jpg\",\"c\":\"Mithat Karadağ\",\"u\":\"t\"}],\"director\":\"Celil Murat Sarı, Cem Akyoldaş\",\"bk\":\"https://img-guidatv.org/serie/69b7a95987b40a8cc6c2b8ce_b_4_rs_600.jpg\",\"inizio\":\"2026-06-01T19:45:00.000Z\",\"fine\":\"2026-06-01T22:55:00.000Z\",\"rating\":\"3,3335\",\"condividi\":\"$undefined\",\"year\":\"2019\",\"pr\":\"Turchia\",\"tiEp\":\"St.1 Ep.15\",\"primaSer\":true,\"secSer\":true},{\"id\":\"8jSTBDY4DYcQ\",\"title\":\"Vite al limite",
+                "descrizione": "Kelly ha ereditato l'amore per il cibo da sua madre, che era obesa. Dopo una tragedia personale, il suo peso e' aumentato a dismisura e ora rischia di non muoversi."
+            },
+            {
+                "ora": "03:10",
+                "titolo": "Vite al limite",
+                "descrizione": "A soli 9 anni, Annjeanette e' stata mandata in un campeggio che aiutava persone obese. Il suo disagio continua e la donna lotta ancora contro la sua ossessione per il cibo."
+            },
+            {
+                "ora": "05:05",
+                "titolo": "Vite al limite",
+                "descrizione": "Olivia lotta contro la depressione e non lascia la sua abitazione da due anni a causa del peso. La donna si reca a Houston nella speranza di sottoporsi a un intervento che le cambiera' la vita."
+            },
             {
                 "ora": "00:15",
                 "titolo": "Cose Nostre - Nati Per Uccidere",
@@ -851,59 +866,14 @@
                 "ora": "23:20",
                 "titolo": "Spider-Man 2",
                 "descrizione": "A New York, il mite Peter Parker fa sempre più fatica a conciliare la vita del tranquillo e timido studente con quella del supereroe al servizio della giustizia. Peter, tormentato dai suoi segreti, si rende conto che i rapporti con le persone che ama sono in pericolo, in particolar modo il suo amore per Mary Jane Watson. Presto inoltre dovrà impiegare tutte le sue energie per sconfiggere un nuovo temibile nemico, il brillante scienziato Otto Octavius, che si è trasformato nel tentacolare e malvagio “Doc Ock”."
-            },
-            {
-                "ora": "22:48",
-                "titolo": "L'effetto farfalla",
-                "descrizione": "Quando il quattordicenne Marco, un senzatetto zingaro, viene arrestato alla frontiera danese per avere con sé il passaporto di un funzionario pubblico scomparso, l'ispettore di polizia Carl Mørck e gli uomini del Dipartimento Q hanno il compito di capire quale connessione vi sia tra le cose. Il caso presenta di fatto diversi elementi sospetti: il funzionario era stato accusato di pedofilia poco prima di scomparire e le indagini precedenti sono state condotte in maniera molto veloce e sommaria. Chiuso nel silenzio, il traumatizzato Marco si rifiuta di parlare con gli inquirenti e non passa molto tempo prima che sia costretto a fuggire da coloro che intendono ucciderlo a causa di ciò che sa."
-            },
-            {
-                "ora": "23:07",
-                "titolo": "Identita' violate",
-                "descrizione": "Illeana Scott, una brillante psicologa dell'FBI, viene reclutata dalla polizia canadese per risolvere il caso di un serial killer che semina il panico nel Nord America assumendo l'identità della sua ultima vittima."
-            },
-            {
-                "ora": "23:06",
-                "titolo": "Jimmy's Hall - Una storia d'amore e libertà",
-                "descrizione": "Nel 1921, un'Irlanda sull'orlo della guerra civile, Jimmy Gralton aveva costruito nel suo paese di campagna un locale dove si poteva danzare, fare pugilato, imparare il disegno e partecipare ad altre attività culturali. Tacciato di comunismo era stato costretto a lasciare la propria terra per raggiungere gli Stati Uniti. Dieci anni dopo Jimmy vi fa ritorno e sono i giovani a spingerlo a riaprire il locale. Gralton è inizialmente indeciso ma ben presto cede alle richieste. Chi gli era stato ostile in passato torna a contrastarlo."
             }
         ],
-        "aggiornato": "22:40"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Boing",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:40",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Anais Gumbal e Darwin immaginano un amico e quello appare sul serio ma in verita' e' soltanto un giocattolo mostruoso in cerca di amici."
-            },
-            {
-                "ora": "00:55",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Palloncino e' buono e gentile con tutti e Gumball vuole scoprire il lato piu' oscuro del suo carattere cercando in tutti i modi di farlo arrabbiare."
-            },
-            {
-                "ora": "01:05",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball e' convinto che a scuola esista una societa' segreta e vuole a tutti i costi entrarne a far parte."
-            },
-            {
-                "ora": "01:15",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball tenta di evitare che gli raccontino le scene dell'ultimo film horror uscito al cinema ma pare che tutta Elmore lo abbia visto prima di lui."
-            },
-            {
-                "ora": "01:25",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball e Darwin rischiano di fare tardi a scuola e mentre provano ad arrivare in tempo causano una serie di sbalzi temporali."
-            },
-            {
-                "ora": "01:35",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball e Darwin scoprono che nascosto nel seminterrato di casa vive uno strano personaggio e cercano di capire da dove proviene e cosa vuole."
-            },
             {
                 "ora": "01:45",
                 "titolo": "Lo straordinario mondo di Gumball",
@@ -933,34 +903,44 @@
                 "ora": "02:40",
                 "titolo": "Lo straordinario mondo di Gumball",
                 "descrizione": "Nonostante i suoi sforzi, Rob, la nemesi di Gumbal e Darwin, non riesce ad essere cattivo e pericoloso come vorrebbe; cosi' i ragazzi decidono di aiutarlo."
+            },
+            {
+                "ora": "02:50",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball e Darwin credono che gli anziani di Elmore siano una gang e vogliono entrarci."
+            },
+            {
+                "ora": "03:00",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball e Darwin scoprono che a scuola non ci sono solo i loro compagni di classe ma anche altri studenti. Una di questi e' Clare Cooper e ha una triste storia."
+            },
+            {
+                "ora": "03:10",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Per impedire che Louie e nonna Jojo si sposino, Richard con l'inganno fa firmare un documento di adozione a Loiue dove diventa suo padre."
+            },
+            {
+                "ora": "03:25",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Alla notizia del compleanno di Nuvola, Gumball e Darwin entrano nel panico perche' non sanno cosa regalarle, dato che la ragazza ha gia' tutto quello che vuole."
+            },
+            {
+                "ora": "03:35",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball vuole dimostrare al sig.Fitzgerald di essere il ragazzo giusto per Nocciolina. Cosi' lo tampina e cerca di aiutarlo a vincere un contratto con una partita a golf."
+            },
+            {
+                "ora": "03:45",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Nonno Louie regala un assegno a Gumball, Darwin e Anais. Mentre i ragazzi pensano a come spendere i loro soldi, si intromettono Mamma e Papa'."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "K2",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:50",
-                "titolo": "La mia vita è una fattoria",
-                "descrizione": "1' Stagione Ep.9 - I maialini - Dan e Chris si dirigono verso il Lago Michigan per adottare due maialini. Intanto, un gallo subisce un intervento chirurgico, mentre una capra è particolarmente scontrosa."
-            },
-            {
-                "ora": "00:45",
-                "titolo": "Il mio gatto è in cima all'albero!",
-                "descrizione": "1' Stagione Ep.3 - Alla cieca - In un giorno di pioggia, Shaun è chiamato a Covington e sfida con coraggio le avverse condizioni climatiche per salvare un randagio sparito da casa."
-            },
-            {
-                "ora": "01:10",
-                "titolo": "I Dalton",
-                "descrizione": "1' Stagione Ep.7 - Le divertenti vicende di una gang di antieroi costituita dai fratelli Joe, William, Jack e Averell Dalton, noti avversari del leggendario Lucky Luke."
-            },
-            {
-                "ora": "01:30",
-                "titolo": "I Dalton",
-                "descrizione": "1' Stagione Ep.8 - Le divertenti vicende di una gang di antieroi costituita dai fratelli Joe, William, Jack e Averell Dalton, noti avversari del leggendario Lucky Luke."
-            },
             {
                 "ora": "01:50",
                 "titolo": "Zig & Sharko",
@@ -1000,34 +980,34 @@
                 "ora": "04:25",
                 "titolo": "Zig & Sharko",
                 "descrizione": "2' Stagione Ep.10 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "04:50",
+                "titolo": "Zig & Sharko",
+                "descrizione": "2' Stagione Ep.11 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "05:10",
+                "titolo": "Zig & Sharko",
+                "descrizione": "2' Stagione Ep.12 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "05:30",
+                "titolo": "I Dalton",
+                "descrizione": "1' Stagione Ep.11 - Le divertenti vicende di una gang di antieroi costituita dai fratelli Joe, William, Jack e Averell Dalton, noti avversari del leggendario Lucky Luke."
+            },
+            {
+                "ora": "05:45",
+                "titolo": "I Dalton",
+                "descrizione": "1' Stagione Ep.12 - Le divertenti vicende di una gang di antieroi costituita dai fratelli Joe, William, Jack e Averell Dalton, noti avversari del leggendario Lucky Luke."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Rai Gulp",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:35",
-                "titolo": "Spike Team",
-                "descrizione": "Alea cerca di infondere forza nella squadra delle Spike e organizza uno stratagemma usando delle pietre che adornavano la Torcia di Olimpia. Un'antica leggenda associa a ognuna di esse una virtù sportiva che le ragazze dovranno scoprire dentro di sé per trasformarsi in nuove sacerdotesse dello sport. Gli allenamenti di Lucky procedono e, alla ricerca di una ragazza che governi i palleggi della squadra, punta su Susan, cercando di sviluppare il suo equilibrio interiore. In una prova di rafting in acque selvagge, Susan guida con polso fermo il gommone delle ragazze alla salvezza."
-            },
-            {
-                "ora": "01:10",
-                "titolo": "Gormiti",
-                "descrizione": "Gli Heralds scoprono che i loro bracciali possono sparare potenti raggi energetici e questo porta subito a una sfida tra Riff e Ikor. Nel frattempo, Voidus invia Gredd e i suoi scagnozzi a Gorm, per acciuffare i nostri piccoli amici. Chi la spunterà?"
-            },
-            {
-                "ora": "01:20",
-                "titolo": "Gormiti",
-                "descrizione": "Gli Heralds stanno cercando di ristabilire l'energia della Torre degli Elementi. Non sarà un'impresa semplice, ma grazie alla forza e la tenacia della guerriera Ao-ki ci riusciranno."
-            },
-            {
-                "ora": "01:35",
-                "titolo": "La famiglia Skrokkiazeppi",
-                "descrizione": "Mankrovia è invitata al club di acquagym ma non può andarci con le sue gambe pelose da troll. Ortika decide di aiutarla a farsi la depilazione in modo che possa finalmente fare amicizia. Ma depilare le gambe dei troll risulta essere più facile a dirsi che a farsi. E se la soluzione fosse piuttosto amare i propri peli?"
-            },
             {
                 "ora": "01:45",
                 "titolo": "La famiglia Skrokkiazeppi",
@@ -1067,29 +1047,34 @@
                 "ora": "03:20",
                 "titolo": "I Puffi - La nuova serie",
                 "descrizione": "Quattrocchi non perde di vista nemmeno un Puffo: se ne va in giro a controllare il lavoro di tutti!"
+            },
+            {
+                "ora": "03:25",
+                "titolo": "I Puffi - La nuova serie",
+                "descrizione": "Puffetta convince Quattrocchi a usare i magici Ipnocchiali di Grande Puffo."
+            },
+            {
+                "ora": "03:50",
+                "titolo": "Le tre moschettiere",
+                "descrizione": "D'Artagnan scopre che la sua amica moschettiera ha qualcosa che la preoccupa, e decide di scoprire di cosa si tratta, sebbene la giovane si voglia tenere tutto per sé. Scoprirà che suo padre è in pericolo e farà di tutto per aiutarla, mostrandole così il vero valore dell'amicizia."
+            },
+            {
+                "ora": "03:55",
+                "titolo": "Le tre moschettiere",
+                "descrizione": "D'Artagnan dovrà cercare di recuperare la corona del Re che apparentemente sembra sia stata rubata da dei furfanti. Ma nulla è come sembra, e la verità è ben lontana da quella che tutti credono a corte."
+            },
+            {
+                "ora": "04:15",
+                "titolo": "Winx Club",
+                "descrizione": "Le Winx, accompagnate da Twinkly, giungono su Lumenia. Qui, la regina Dorana spiega loro che le stelle dell'Universo Magico sono in pericolo. Mentre le Winx scoprono cosa ha prosciugato uno dei fiumi di luce di Lumenia, Obscurum e gli Staryummy attaccano il nucleo della stella..."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Frisbee",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "Il dolce mondo di Renato",
-                "descrizione": "1' Stagione Ep.1 - Dopo aver trovato le fragole migliori, Renato si dedica alla preparazione del babà. Poi realizza un dolce per un evento di moda commissionato da due clienti."
-            },
-            {
-                "ora": "00:45",
-                "titolo": "La dolce bottega di Renato",
-                "descrizione": "1' Stagione Ep.1 - Il dolce della tradizione preparato da Renato è la cassata, mentre la torta artistica è per festeggiare la piccola Maria Matilde."
-            },
-            {
-                "ora": "01:10",
-                "titolo": "La dolce bottega di Renato",
-                "descrizione": "1' Stagione Ep.2 - Il dolce della tradizione è la torta della nonna, che Renato prepara con pinoli e mandorle, mentre la torta artistica è dedicata allamore."
-            },
             {
                 "ora": "01:35",
                 "titolo": "Floopaloo",
@@ -1134,19 +1119,29 @@
                 "ora": "04:35",
                 "titolo": "Oggy Oggy",
                 "descrizione": "2' Stagione Ep.24 - Gioco, avventura e amici rendono la vita di Oggy Oggy divertente! Curioso e audace, questo adorabile gattino è sempre pronto ad aiutare un amico e a vivere nuove esperienze."
+            },
+            {
+                "ora": "04:55",
+                "titolo": "Oggy Oggy",
+                "descrizione": "2' Stagione Ep.25 - Gioco, avventura e amici rendono la vita di Oggy Oggy divertente! Curioso e audace, questo adorabile gattino è sempre pronto ad aiutare un amico e a vivere nuove esperienze."
+            },
+            {
+                "ora": "05:15",
+                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
+                "descrizione": "3' Stagione Ep.5 - Oggy si prende cura di Piya, figlia dei suoi amici indiani"
+            },
+            {
+                "ora": "05:30",
+                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
+                "descrizione": "3' Stagione Ep.6 - Oggy si prende cura di Piya, figlia dei suoi amici indiani"
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "DMAX",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:20",
-                "titolo": "Per un pugno di giada\",\"prima\":true,\"description\":\"Una squadra va alla ricerca della preziosa giada.\",\"durata\":95,\"genre\":\"Intrattenimento\",\"category\":\"Mondo E Tendenze\",\"image\":\"https://img-guidatv.org/44/per-un-pugno-di-giada/5.jpg\",\"director\":null,\"inizio\":\"2026-06-01T19:45:00.000Z\",\"fine\":\"2026-06-01T21:20:00.000Z\",\"condividi\":\"$undefined\",\"tiEp\":\"St.5 Ep.2\",\"primaSer\":true},{\"id\":\"S60nGCslxGPW\",\"title\":\"Per un pugno di giada",
-                "descrizione": "Una squadra va alla ricerca della preziosa giada."
-            },
             {
                 "ora": "01:00",
                 "titolo": "Per un pugno di giada",
@@ -1201,9 +1196,14 @@
                 "ora": "22:01",
                 "titolo": "Cesaroni il ritorno\",\"prima\":true,\"description\":\"Marco confessa e Virginia parte per uno stage. Walter la raggiunge; Marco anche, ma li trova insieme. La Finanza vuole chiudere la bottiglieria e Giulio pensa di vendere.\",\"durata\":159,\"genre\":\"Commedia\",\"category\":\"Serie TV\",\"image\":\"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313804801000601/media/6/6/9afd437b-6a66-46f2-8777-b6e9c3a44b9b/917278a5-c400-4920-80e5-88bfb30ed9c6.jpg\",\"episode_number\":6,\"series_number\":7,\"director\":\"\",\"inizio\":\"2026-06-01T19:21:00.000Z\",\"fine\":\"2026-06-01T22:00:00.000Z\",\"continua\":true,\"condividi\":\"$undefined\"}},{\"canale\":{\"name\":\"Italia Uno\",\"logo\":\"italia1.png\",\"number\":6,\"live\":\"https://www.mediasetplay.mediaset.it/diretta/italia1_cI1\"},\"prog\":{\"id\":\"36YObvks2urS\",\"title\":\"Attacco al potere: Paris Has Fallen",
                 "descrizione": "Parigi è sotto attacco. Durante un ricevimento presso l'ambasciata britannica a Parigi, l'agente Vincent Taleb e l'agente dell'MI6 Zara Taylor riescono a fermare un attentato contro il ministro della Difesa francese Philippe Bardin. Ma la mente di tutto ciò, Jacob Pearce, ex capitano della Legione Straniera, riesce a fuggire ed è deciso a mettere la città sotto assedio finchè non otterrà la sua vendetta. Riusciranno a fermarlo?"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "I complessi",
+                "descrizione": "Film a episodi. Un giovane giornalista aspira a diventare lettore del telegiornale nonostante la dentatura prominente. Un timido impiegato è perdutamente innamorato della propria affascinante collega, la quale è già fidanzata con un uomo più maturo. Un padre di famiglia, cattolico e moralista, tenta di distruggere tutte le copie di un film dove la propria moglie appare a seno nudo."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Rai Sport",
@@ -1270,89 +1270,79 @@
                 "descrizione": "A New York, il mite Peter Parker fa sempre più fatica a conciliare la vita del tranquillo e timido studente con quella del supereroe al servizio della giustizia. Peter, tormentato dai suoi segreti, si rende conto che i rapporti con le persone che ama sono in pericolo, in particolar modo il suo amore per Mary Jane Watson. Presto inoltre dovrà impiegare tutte le sue energie per sconfiggere un nuovo temibile nemico, il brillante scienziato Otto Octavius, che si è trasformato nel tentacolare e malvagio “Doc Ock”."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sportitalia",
         "categoria": "Digitale Terrestre",
         "programmi": [
             {
-                "ora": "00:15",
-                "titolo": "Cose Nostre - Nati Per Uccidere",
-                "descrizione": "$2a"
+                "ora": "00:30",
+                "titolo": "Storie Italiane",
+                "descrizione": "Eleonora Daniele conduce il programma dedicato ai temi di stretta attualità e ai principali casi di cronaca. In studio storie e protagonisti che raccontano in prima persona le loro esperienze."
+            },
+            {
+                "ora": "23:05",
+                "titolo": "Il vendicatore",
+                "descrizione": "Un insospettabile professore di archeologia si trova, sua malgrado, implicato in un traffico di droga tra il Messico e gli Stati Uniti. Imprigionato nonostante si proclami innocente, riesce a fuggire per provare la sua innocenza e vendicarsi."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Come ti spaccio la famiglia",
+                "descrizione": "David Burke è uno spacciatore di marijuana e tra la sua clientela annovera cuochi e mamme borghesi ma niente ragazzini, dopotutto, si considera un uomo con scrupoli. Cosa potrebbe andare storto, quindi? Beh, diverse cose. Malgrado tenti di passare sempre inosservato, impara nel peggiore dei modi che nessuna buona azione resta impunita quando, per aiutare dei teenager, si trova ad essere aggredito da un gruppo di punkabbestie che gli ruba la \"roba\" e il contante, lasciandolo indebitato con il suo fornitore, Brad. Per poter rimettere ogni cosa a posto e soprattutto salvare la pelle, David deve passare allo spaccio di droghe pesanti e si trova, così, a collaborare all'ultima operazione di Brad: un carico in arrivo dal Messico. Coinvolgendo loro malgrado i propri vicini: la cinica spogliarellista Rose, il suo smanioso \"cliente\" Kenny e la tatuata e astuta teenager Casey. David organizza un piano perfetto: una moglie, due figlii e una roulotte, diretti verso il confine."
+            },
+            {
+                "ora": "21:10",
+                "titolo": "La locanda della sesta felicita'",
+                "descrizione": "Gladys è una giovane missionaria nel paese di When Chen in Cina dove – per favorire i contatti con la popolazione è stata aperta la “Locanda della sesta felicità”. Gladys riesce a conquistarsi la fiducia del mandarino grazie alle sue attività sociali e quando le truppe giapponesi arriveranno in Cina, riuscirà a fuggire – attraverso una lunga marcia sulle montagne – insieme ai suoi orfanelli."
             },
             {
                 "ora": "23:45",
-                "titolo": "Minimarket",
-                "descrizione": "Manlio Viganò ha un sogno più grande di lui: diventare il protagonista di un vero show in televisione; si sente pronto, ma passa le giornate dietro la cassa di un minimarket di fronte agli studi televisivi di via Teulada. Ma non è solo, accanto a lui c'è Kevin Spacey: un amico immaginario, brillante e spietato."
+                "titolo": "Syriana",
+                "descrizione": "Il principe Nasir, erede al trono di un Paese produttore di petrolio, ha instaurato nuove relazioni commerciali con la Cina a scapito degli Usa, fino a quel momento privilegiati. Bob Barnes, un agente della Cia esperto in questioni mediorientali, riceve l'incarico di uccidere il principe Nasir. Ma non tutto va come dovrebbe..."
             },
             {
-                "ora": "21:15",
-                "titolo": "NewsRoom - Fronte Artico",
-                "descrizione": "$2b"
-            },
-            {
-                "ora": "21:33",
-                "titolo": "Quarta Repubblica",
-                "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
-            },
-            {
-                "ora": "22:01",
-                "titolo": "Cesaroni il ritorno\",\"prima\":true,\"description\":\"Marco confessa e Virginia parte per uno stage. Walter la raggiunge; Marco anche, ma li trova insieme. La Finanza vuole chiudere la bottiglieria e Giulio pensa di vendere.\",\"durata\":159,\"genre\":\"Commedia\",\"category\":\"Serie TV\",\"image\":\"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313804801000601/media/6/6/9afd437b-6a66-46f2-8777-b6e9c3a44b9b/917278a5-c400-4920-80e5-88bfb30ed9c6.jpg\",\"episode_number\":6,\"series_number\":7,\"director\":\"\",\"inizio\":\"2026-06-01T19:21:00.000Z\",\"fine\":\"2026-06-01T22:00:00.000Z\",\"continua\":true,\"condividi\":\"$undefined\"}},{\"canale\":{\"name\":\"Italia Uno\",\"logo\":\"italia1.png\",\"number\":6,\"live\":\"https://www.mediasetplay.mediaset.it/diretta/italia1_cI1\"},\"prog\":{\"id\":\"36YObvks2urS\",\"title\":\"Attacco al potere: Paris Has Fallen",
-                "descrizione": "Parigi è sotto attacco. Durante un ricevimento presso l'ambasciata britannica a Parigi, l'agente Vincent Taleb e l'agente dell'MI6 Zara Taylor riescono a fermare un attentato contro il ministro della Difesa francese Philippe Bardin. Ma la mente di tutto ciò, Jacob Pearce, ex capitano della Legione Straniera, riesce a fuggire ed è deciso a mettere la città sotto assedio finchè non otterrà la sua vendetta. Riusciranno a fermarlo?"
+                "ora": "23:59",
+                "titolo": "The Royal Saga\",\"prima\":true,\"description\":\"Raccontiamo il mondo del glamour in pink: da Barbie icona senza tempo agli anelli di fidanzamento che hanno fatto sognare, tra principesse e pop-star.\",\"durata\":89,\"genre\":\"Lifestyle\",\"category\":\"Intrattenimento\",\"image\":\"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314556801000501/media/15/15/42d71909-de34-42a6-9e95-6cff53fede6d/deb85942-e18a-455c-aab8-0c403117c9a3.jpg\",\"director\":\"\",\"inizio\":\"2026-06-01T21:22:00.000Z\",\"fine\":\"2026-06-01T22:51:00.000Z\",\"condividi\":\"$undefined\"}},{\"canale\":{\"name\":\"Real Time\",\"logo\":\"realtime.png\",\"number\":31,\"live\":\"https://www.discoveryplus.com/it/channel/real-time?pc=310\"},\"prog\":{\"id\":\"6Ek9YpIJ2sdl\",\"title\":\"Melek - Il coraggio di una madre\",\"prima\":true,\"description\":\"Essere madre significa non arrendersi nonostante tutte le difficoltà, ma al contrario aggrapparsi con tutte le proprie forze alla vita per i propri figli. La serie racconta la storia di Melek, che ricostruisce la propria vita insieme alla sua famiglia e ai suoi figli. Interpretata da Nehir Erdoğan, la serie mette in luce gli sforzi di una madre per rimanere in piedi e la sua lotta per la sopravvivenza insieme ai suoi tre figli, affrontando il passato per costruire un futuro migliore per la sua famiglia.\",\"durata\":190,\"genre\":\"Dramma Famiglia\",\"category\":\"Serie TV\",\"image\":\"https://img-guidatv.org/serie/69b7a95987b40a8cc6c2b8ce_p_3_rs_300.jpg\",\"ac\":[{\"n\":\"Nehir Erdoğan\",\"i\":\"eWRS4xu5e52az5jtw5uFX5fael6.jpg\",\"c\":\"Melek Karadağ/Şirhan\",\"u\":\"t\"},{\"n\":\"Kaan Çakır\",\"i\":\"yfaEoYuyW3CHIsbaphgEQ1cujzM.jpg\",\"c\":\"Alpay Yıldırım\",\"u\":\"t\"},{\"n\":\"Mehmet Çevik\",\"i\":\"jri3FWLflek9NTZN95r09T3t8XX.jpg\",\"c\":\"Seyit Ali Karadağ\",\"u\":\"t\"},{\"n\":\"Şerif Sezer\",\"i\":\"iNCTcx874hP31X1LmA74DuFDzY5.jpg\",\"c\":\"Nefise Karadağ\",\"u\":\"t\"},{\"n\":\"Rabia Soytürk\",\"i\":\"dd6FbHdtjIjiMagyuk8YCwWd40h.jpg\",\"c\":\"Defne Yıldırım/Şirhan\",\"u\":\"t\"},{\"n\":\"Ulvi Kahyaoğlu\",\"i\":\"krbeohlmEgZ09PHDlcuIG5uW2PV.jpg\",\"c\":\"Kerem Yıldırım\",\"u\":\"t\"},{\"n\":\"Poyraz Ar\",\"i\":\"ydMJSSx9JaM1U74sfP0S8UYR5jn.jpg\",\"c\":\"Seyit Ali Yıldırım\",\"u\":\"t\"},{\"n\":\"Kutsi\",\"i\":\"eAf9YUUkT5GMhNeyyf0ch9GdSV9.jpg\",\"c\":\"Halil Şirhan\",\"u\":\"t\"},{\"n\":\"Mustafa Mert Koç\",\"i\":\"5rqK4aDKOUTOsfQcSJidR9uo49P.jpg\",\"c\":\"Ömer Şirhan\",\"u\":\"t\"},{\"n\":\"Saim Güveloğlu\",\"i\":\"6QaWd64lNkhATFVvb1PH6d5LiXP.jpg\",\"c\":\"Mithat Karadağ\",\"u\":\"t\"}],\"director\":\"Celil Murat Sarı, Cem Akyoldaş\",\"bk\":\"https://img-guidatv.org/serie/69b7a95987b40a8cc6c2b8ce_b_4_rs_600.jpg\",\"inizio\":\"2026-06-01T19:45:00.000Z\",\"fine\":\"2026-06-01T22:55:00.000Z\",\"rating\":\"3,3335\",\"continua\":true,\"condividi\":\"$undefined\",\"year\":\"2019\",\"pr\":\"Turchia\",\"tiEp\":\"St.1 Ep.15\"}},{\"canale\":{\"name\":\"QVC\",\"logo\":\"qvc.png\",\"number\":32,\"live\":\"https://www.qvc.it/tv/live.html\"},\"prog\":{\"title\":\"Programmazione da definire",
+                "descrizione": "I palinsesti sono in via di definizione da parte emittente"
             },
             {
                 "ora": "23:00",
-                "titolo": "I complessi",
-                "descrizione": "Film a episodi. Un giovane giornalista aspira a diventare lettore del telegiornale nonostante la dentatura prominente. Un timido impiegato è perdutamente innamorato della propria affascinante collega, la quale è già fidanzata con un uomo più maturo. Un padre di famiglia, cattolico e moralista, tenta di distruggere tutte le copie di un film dove la propria moglie appare a seno nudo."
+                "titolo": "Giusina in cucina - Gusto e tradizione palermitana",
+                "descrizione": "Giusina prepara tre ricette della tradizione palermitana: brioche salata ripiena, involtini tuma e biscotti Excelsior."
             },
             {
-                "ora": "21:50",
-                "titolo": "GialappaShow",
-                "descrizione": "La Gialappa's Band commenta con la sua proverbiale ironia diversi noti programmi televisivi, tra cui MasterChef Italia, X Factor e Pechino Express. Inoltre, colgono l'ironia anche dei più importanti eventi sportivi e dei tormentoni del web."
+                "ora": "23:45",
+                "titolo": "Cane e gatto",
+                "descrizione": "Florida. Tony Roma (Tomás Milián), un playboy, cantante e ballerino italo-americano, nonché ladruncolo da strapazzo, adesca ricche donne per rubargli gioielli e altri preziosi; così facendo si invischia in una storia che ha a che fare con un importante politico legato alla mafia; il tenente della polizia Alan Parker (Bud Spencer) recupera più volte Tony e lo assicura ai colleghi della giustizia, i quali però si rivelano anche loro collusi con la mafia; nel frattempo Tony riesce a scappare più volte con esilaranti escamotages, e arriva per caso ad assistere (come testimone oculare) ad un omicidio di mafia; finisce così con l'essere alleato della polizia anziché ricercato; tra improbabili flirt \"on the road"
             },
             {
-                "ora": "23:20",
-                "titolo": "Little Big Italy",
-                "descrizione": "Francesco Panella scopre i migliori ristoranti italiani all'estero."
+                "ora": "23:38",
+                "titolo": "Freedom - Oltre il confine",
+                "descrizione": "Avventura, scoperta e indagine: un viaggio alla ricerca della conoscenza per scoprire l'ignoto e farsi stupire dalle meraviglie della natura e della storia."
             },
             {
-                "ora": "23:20",
-                "titolo": "Spider-Man 2",
-                "descrizione": "A New York, il mite Peter Parker fa sempre più fatica a conciliare la vita del tranquillo e timido studente con quella del supereroe al servizio della giustizia. Peter, tormentato dai suoi segreti, si rende conto che i rapporti con le persone che ama sono in pericolo, in particolar modo il suo amore per Mary Jane Watson. Presto inoltre dovrà impiegare tutte le sue energie per sconfiggere un nuovo temibile nemico, il brillante scienziato Otto Octavius, che si è trasformato nel tentacolare e malvagio “Doc Ock”."
+                "ora": "22:55",
+                "titolo": "Australia: la guerra dei sub",
+                "descrizione": "Le flotte tentano in tutti i modi di salvare i salvabile. Tuttavia, preparazione e pianificazione sembrano non servire contro la forza della natura e gli errori umani."
             },
             {
-                "ora": "22:48",
-                "titolo": "L'effetto farfalla",
-                "descrizione": "Quando il quattordicenne Marco, un senzatetto zingaro, viene arrestato alla frontiera danese per avere con sé il passaporto di un funzionario pubblico scomparso, l'ispettore di polizia Carl Mørck e gli uomini del Dipartimento Q hanno il compito di capire quale connessione vi sia tra le cose. Il caso presenta di fatto diversi elementi sospetti: il funzionario era stato accusato di pedofilia poco prima di scomparire e le indagini precedenti sono state condotte in maniera molto veloce e sommaria. Chiuso nel silenzio, il traumatizzato Marco si rifiuta di parlare con gli inquirenti e non passa molto tempo prima che sia costretto a fuggire da coloro che intendono ucciderlo a causa di ciò che sa."
+                "ora": "23:00",
+                "titolo": "L'ispettore Barnaby",
+                "descrizione": "L'ispettore capo Tom Barnaby della polizia di Midsomer e il suo fidato sergente, Gavin Troy, , devono investigare sugli omicidi che avvengono nei villaggi dell'immaginaria contea inglese di Midsomer. Le storie sono ambientate nel presente ed hanno una struttura di \"giallo classico"
             },
             {
-                "ora": "23:07",
-                "titolo": "Identita' violate",
-                "descrizione": "Illeana Scott, una brillante psicologa dell'FBI, viene reclutata dalla polizia canadese per risolvere il caso di un serial killer che semina il panico nel Nord America assumendo l'identità della sua ultima vittima."
-            },
-            {
-                "ora": "23:06",
-                "titolo": "Jimmy's Hall - Una storia d'amore e libertà",
-                "descrizione": "Nel 1921, un'Irlanda sull'orlo della guerra civile, Jimmy Gralton aveva costruito nel suo paese di campagna un locale dove si poteva danzare, fare pugilato, imparare il disegno e partecipare ad altre attività culturali. Tacciato di comunismo era stato costretto a lasciare la propria terra per raggiungere gli Stati Uniti. Dieci anni dopo Jimmy vi fa ritorno e sono i giovani a spingerlo a riaprire il locale. Gralton è inizialmente indeciso ma ben presto cede alle richieste. Chi gli era stato ostile in passato torna a contrastarlo."
+                "ora": "22:03",
+                "titolo": "C.S.I. Miami",
+                "descrizione": "Si tratta del primo spin-off della serie TV CSI - Scena del crimine, le cui vicende ruotano attorno alle indagini della squadra del turno di giorno della polizia scientifica di Miami. Sebbene la serie sia accomunata a CSI - Scena del crimine per quanto riguarda il metodo di indagine e ricerca delle prove, talvolta CSI: Miami si avvicina alle serie poliziesche in senso stretto in quanto è caratterizzata da un ruolo più preponderante dell'azione vera e propria, che in alcuni episodi ruba la scena all'analisi scientifica."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport 24",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "00:30",
-                "titolo": "News Line",
-                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
-            },
-            {
-                "ora": "01:00",
-                "titolo": "News Line",
-                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
-            },
             {
                 "ora": "01:30",
                 "titolo": "News Line",
@@ -1402,19 +1392,24 @@
                 "ora": "23:00",
                 "titolo": "Calciomercato - L'originale",
                 "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Speciale Inter: Il Film Del Campionato",
+                "descrizione": "Campionato Inter Scudetto 2026. - Le emozioni, le partite piu' importanti, le migliori immagini e il filo conduttore di Chivu. Tutto concentrato in questo film del 21^ scudetto, quello dell'anima nerazzurra."
+            },
+            {
+                "ora": "23:40",
+                "titolo": "Finale",
+                "descrizione": "ATP 250 Santiago. - Darderi - Hanfmann"
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport Uno",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:55",
-                "titolo": "Calciomercato - L'originale",
-                "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-            },
             {
                 "ora": "00:55",
                 "titolo": "Premier League, I Gol Della Stagione 01/06/2026",
@@ -1469,24 +1464,19 @@
                 "ora": "22:15",
                 "titolo": "Monaco 2017 - F1",
                 "descrizione": "Rombano i motori per la gara del Mondiale F1 2017. 20 le gare in programma, uno in meno dell'anno scorso. A Monte-Carlo partono in prima fila le Ferrari di Raikkonen e Vettel."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Italia",
+                "descrizione": "Le analisi e gli approfondimenti sull'ultimo Gran Premio con Cristiana Buonamano e i suoi ospiti in studio e dal circuito del Mugello."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport Calcio",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "Premier League, I Gol Della Stagione 01/06/2026",
-                "descrizione": "Durante la stagione 2025/26 della Premier sono stati segnati 1.045 gol. Riviviamo le reti piu' belle e significative."
-            },
-            {
-                "ora": "01:00",
-                "titolo": "Mo Salah - When I Was A King",
-                "descrizione": "Dopo nove stagioni, Mo Salah saluta il Liverpool. Compagni di squadra e allenatori, attuali e passati, omaggiano l'attaccante egiziano, 257 gol con la maglia dei Reds."
-            },
             {
                 "ora": "01:30",
                 "titolo": "Milan - Liverpool",
@@ -1536,9 +1526,19 @@
                 "ora": "22:15",
                 "titolo": "Monaco 2017 - F1",
                 "descrizione": "Rombano i motori per la gara del Mondiale F1 2017. 20 le gare in programma, uno in meno dell'anno scorso. A Monte-Carlo partono in prima fila le Ferrari di Raikkonen e Vettel."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Italia",
+                "descrizione": "Le analisi e gli approfondimenti sull'ultimo Gran Premio con Cristiana Buonamano e i suoi ospiti in studio e dal circuito del Mugello."
+            },
+            {
+                "ora": "21:00",
+                "titolo": "Golf Dp World Tour - Ep. 80 - Golf Dp World Tour 2026 Austrian Alpine Open 4a Giornata 31/05/2026",
+                "descrizione": "DP World Tour. - From Golfclub Kitzbuhel-Schwarzsee-Reith in Kitzbuhel, Austria."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport Tennis",
@@ -1605,17 +1605,12 @@
                 "descrizione": "Commento: Pero-Bertolucci."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport F1",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "Monaco 2007 - F1",
-                "descrizione": "Sulla griglia di partenza in pole position c'e' la McLaren di Alonso, seguito dal compagno di scuderia Hamilton. Parte terza la Ferrari di Massa."
-            },
             {
                 "ora": "01:00",
                 "titolo": "Monaco 2015 - F1",
@@ -1670,24 +1665,19 @@
                 "ora": "23:00",
                 "titolo": "Speciale Inter: Il Film Del Campionato",
                 "descrizione": "Campionato Inter Scudetto 2026. - Le emozioni, le partite piu' importanti, le migliori immagini e il filo conduttore di Chivu. Tutto concentrato in questo film del 21^ scudetto, quello dell'anima nerazzurra."
+            },
+            {
+                "ora": "23:40",
+                "titolo": "Finale",
+                "descrizione": "ATP 250 Santiago. - Darderi - Hanfmann"
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport Legend",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "22:55",
-                "titolo": "Finale",
-                "descrizione": "Commento: Pero-Bertolucci."
-            },
-            {
-                "ora": "00:50",
-                "titolo": "Game, Set, Fabio. L'ultimo Wimbledon",
-                "descrizione": "Game, Set, Fabio. L'ultimo Wimbledon"
-            },
             {
                 "ora": "01:05",
                 "titolo": "Volley Femminile Cev Champions League 2020/2021 - Stag. -3 - Conegliano - Istanbul. Finale",
@@ -1737,24 +1727,24 @@
                 "ora": "21:00",
                 "titolo": "Golf Dp World Tour - Ep. 80 - Golf Dp World Tour 2026 Austrian Alpine Open 4a Giornata 31/05/2026",
                 "descrizione": "DP World Tour. - From Golfclub Kitzbuhel-Schwarzsee-Reith in Kitzbuhel, Austria."
+            },
+            {
+                "ora": "22:55",
+                "titolo": "Finale",
+                "descrizione": "Commento: Pero-Bertolucci."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Preliminari 2026 Regata Sardegna 1a Giornata",
+                "descrizione": "Giornata America's Cup. - Tutte le azioni delle regate dell'America's Cup"
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport MotoGP",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "00:30",
-                "titolo": "Aragona: Gara 2",
-                "descrizione": "Sesto Round della stagione 2026. Dal circuito di Aragon, in Spagna, la Race 2 della World Supersport. Telecronaca Vercellesi - Temporali"
-            },
-            {
-                "ora": "01:10",
-                "titolo": "Aragona: Superpole Race",
-                "descrizione": "Sesto Round della stagione 2026. Dal circuito di Aragon, in Spagna, la Superpole Race della World Superbike. Telecronaca Vercellesi - Temporali"
-            },
             {
                 "ora": "01:45",
                 "titolo": "Aragona: Gara 2",
@@ -1804,24 +1794,24 @@
                 "ora": "23:40",
                 "titolo": "Finale",
                 "descrizione": "ATP 250 Santiago. - Darderi - Hanfmann"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Rally Wrc - Ep. 37 - Rally Wrc 2026 Giappone Live Stage 4 31/05/2026",
+                "descrizione": "Championship. - Segui le gare del World Rally Championship."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Virtus Olidata Bologna - Umana Reyer Venezia",
+                "descrizione": "Venezia Lega Basket Serie A. - Dalla Virtus Segafredo Arena di Bologna, Italia."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport Basket",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Virtus Olidata Bologna - Umana Reyer Venezia",
-                "descrizione": "Venezia Lega Basket Serie A. - Dalla Virtus Segafredo Arena di Bologna, Italia."
-            },
-            {
-                "ora": "01:05",
-                "titolo": "Teo Soragna Incontra Luis Scola",
-                "descrizione": "Matteo Soragna intervista Luis Scola ripercorrendone la carriera attraverso l'NBA, l'Eurolega e i trionfi con la maglia dell'Argentina. Un viaggio a ritroso nelle parole di uno dei protagonisti dell'ultimo quarto di secolo di pallancanestro."
-            },
             {
                 "ora": "01:30",
                 "titolo": "NBA Action",
@@ -1858,6 +1848,11 @@
                 "descrizione": "Championship. - Segui le gare del World Rally Championship."
             },
             {
+                "ora": "23:00",
+                "titolo": "Virtus Olidata Bologna - Umana Reyer Venezia",
+                "descrizione": "Venezia Lega Basket Serie A. - Dalla Virtus Segafredo Arena di Bologna, Italia."
+            },
+            {
                 "ora": "23:30",
                 "titolo": "Italia - Turchia",
                 "descrizione": "Volley Maschile Amichevoli - Seconda uscita ufficiale della stagione per la Nazionale maschile del Ct De Giorgi a Bergamo contro la Turchia. Tc Locatelli-Zorzi"
@@ -1871,19 +1866,19 @@
                 "ora": "23:00",
                 "titolo": "Italia",
                 "descrizione": "Le analisi e gli approfondimenti sull'ultimo Gran Premio con Cristiana Buonamano e i suoi ospiti in studio e dal circuito del Mugello."
+            },
+            {
+                "ora": "21:00",
+                "titolo": "Golf Dp World Tour - Ep. 80 - Golf Dp World Tour 2026 Austrian Alpine Open 4a Giornata 31/05/2026",
+                "descrizione": "DP World Tour. - From Golfclub Kitzbuhel-Schwarzsee-Reith in Kitzbuhel, Austria."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport Arena",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "00:30",
-                "titolo": "Canada",
-                "descrizione": "Highlights F1 Academy"
-            },
             {
                 "ora": "01:00",
                 "titolo": "Calciomercato - L'originale",
@@ -1938,19 +1933,19 @@
                 "ora": "23:00",
                 "titolo": "Italia",
                 "descrizione": "Le analisi e gli approfondimenti sull'ultimo Gran Premio con Cristiana Buonamano e i suoi ospiti in studio e dal circuito del Mugello."
+            },
+            {
+                "ora": "21:00",
+                "titolo": "Golf Dp World Tour - Ep. 80 - Golf Dp World Tour 2026 Austrian Alpine Open 4a Giornata 31/05/2026",
+                "descrizione": "DP World Tour. - From Golfclub Kitzbuhel-Schwarzsee-Reith in Kitzbuhel, Austria."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport Max",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:30",
-                "titolo": "Italia - Turchia",
-                "descrizione": "Volley Maschile Amichevoli - Seconda uscita ufficiale della stagione per la Nazionale maschile del Ct De Giorgi a Bergamo contro la Turchia. Tc Locatelli-Zorzi"
-            },
             {
                 "ora": "01:30",
                 "titolo": "Icarus Ultra - Ep. 35 - Icarus Ultra 2025 Ep.35 01/06/2026",
@@ -1997,6 +1992,11 @@
                 "descrizione": "Venezia Lega Basket Serie A. - Dalla Virtus Segafredo Arena di Bologna, Italia."
             },
             {
+                "ora": "23:30",
+                "titolo": "Italia - Turchia",
+                "descrizione": "Volley Maschile Amichevoli - Seconda uscita ufficiale della stagione per la Nazionale maschile del Ct De Giorgi a Bergamo contro la Turchia. Tc Locatelli-Zorzi"
+            },
+            {
                 "ora": "22:15",
                 "titolo": "Monaco 2017 - F1",
                 "descrizione": "Rombano i motori per la gara del Mondiale F1 2017. 20 le gare in programma, uno in meno dell'anno scorso. A Monte-Carlo partono in prima fila le Ferrari di Raikkonen e Vettel."
@@ -2007,17 +2007,12 @@
                 "descrizione": "Le analisi e gli approfondimenti sull'ultimo Gran Premio con Cristiana Buonamano e i suoi ospiti in studio e dal circuito del Mugello."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport Mix",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Preliminari 2026 Regata Sardegna 1a Giornata",
-                "descrizione": "Giornata America's Cup. - Tutte le azioni delle regate dell'America's Cup"
-            },
             {
                 "ora": "01:10",
                 "titolo": "Rugby Urc - Stag. Rugby Urc 2025/2026 - Rugby Urc Quarto Di Finale 3 Stormers/ Cardiff Rugby 30/05/2026",
@@ -2072,9 +2067,14 @@
                 "ora": "22:15",
                 "titolo": "Monaco 2017 - F1",
                 "descrizione": "Rombano i motori per la gara del Mondiale F1 2017. 20 le gare in programma, uno in meno dell'anno scorso. A Monte-Carlo partono in prima fila le Ferrari di Raikkonen e Vettel."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Italia",
+                "descrizione": "Le analisi e gli approfondimenti sull'ultimo Gran Premio con Cristiana Buonamano e i suoi ospiti in studio e dal circuito del Mugello."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport Golf",
@@ -2141,7 +2141,7 @@
                 "descrizione": "Commento: Pero-Bertolucci."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport 251",
@@ -2208,7 +2208,7 @@
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport 252",
@@ -2275,7 +2275,7 @@
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport 253",
@@ -2342,7 +2342,7 @@
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport 254",
@@ -2409,7 +2409,7 @@
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport 255",
@@ -2476,7 +2476,7 @@
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport 256",
@@ -2543,7 +2543,7 @@
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport 257",
@@ -2610,7 +2610,7 @@
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport 258",
@@ -2677,7 +2677,7 @@
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Sport 259",
@@ -2744,7 +2744,7 @@
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Cinema Uno",
@@ -2811,17 +2811,12 @@
                 "descrizione": "John Vogel è nato il giorno della bandiera (14 giugno) e sotto una cattiva stella. Truffatore ispirato, sogna un grande futuro per sé e la propria famiglia, soprattutto per Jennifer, la figlia maggiore e prediletta. Padre carismatico, quando non è altrove, promette una vita vissuta come un'avventura. Il resto del tempo accumula i debiti e i rischi di una vita oltre i confini della legalità. Egoista e bugiardo, lascia moglie e figli una notte d'estate voltandosi indietro solo una volta, per guardare la sua Jennifer che non smetterà mai di cercarlo come la polizia di inseguirlo."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Cinema Collection",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "23:30",
-                "titolo": "Sully",
-                "descrizione": "Il 15 gennaio 2009, il mondo assiste al \"Miracolo dell'Hudson\" quando il capitano \"Sully\" Sullenberger atterra in emergenza col suo aereo nelle acque gelide del fiume Hudson, salvando la vita a tutti i 155 passeggeri presenti a bordo. Tuttavia, anche se Sully viene elogiato dall'opinione pubblica e dai media, considerando la sua impresa eroica senza precedenti, delle indagini minacciano di distruggere la sua reputazione e la sua carriera."
-            },
             {
                 "ora": "01:10",
                 "titolo": "Changeling",
@@ -2846,6 +2841,11 @@
                 "ora": "21:15",
                 "titolo": "Troy",
                 "descrizione": "Nel 1193 A.C., Paride, principe di Troia, rapisce Elena, regina di Sparta e moglie di Menelao. Questo sarŕ l'evento che scatenerŕ la guerra tra la Grecia micenea e Troia, una guerra lunga dieci anni che vedrà protagonisti due eroi contrapposti: Achille per i greci ed Ettore per i troiani."
+            },
+            {
+                "ora": "23:30",
+                "titolo": "Sully",
+                "descrizione": "Il 15 gennaio 2009, il mondo assiste al \"Miracolo dell'Hudson\" quando il capitano \"Sully\" Sullenberger atterra in emergenza col suo aereo nelle acque gelide del fiume Hudson, salvando la vita a tutti i 155 passeggeri presenti a bordo. Tuttavia, anche se Sully viene elogiato dall'opinione pubblica e dai media, considerando la sua impresa eroica senza precedenti, delle indagini minacciano di distruggere la sua reputazione e la sua carriera."
             },
             {
                 "ora": "22:50",
@@ -2878,7 +2878,7 @@
                 "descrizione": "John Vogel è nato il giorno della bandiera (14 giugno) e sotto una cattiva stella. Truffatore ispirato, sogna un grande futuro per sé e la propria famiglia, soprattutto per Jennifer, la figlia maggiore e prediletta. Padre carismatico, quando non è altrove, promette una vita vissuta come un'avventura. Il resto del tempo accumula i debiti e i rischi di una vita oltre i confini della legalità. Egoista e bugiardo, lascia moglie e figli una notte d'estate voltandosi indietro solo una volta, per guardare la sua Jennifer che non smetterà mai di cercarlo come la polizia di inseguirlo."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Cinema Family",
@@ -2945,17 +2945,12 @@
                 "descrizione": "William Thacker vive a Londra nel quartiere Notting Hill, in una casa che divide con Spike, un giovane sfaccendato che si muove bene nel disordine e nella confusione. William è proprietario di una libreria specializzata in libri di viaggio, dove un giorno capita Anna Scott, diva del cinema americano, a Londra per promuovere il suo ultimo film. Dopo un primo impatto, i due si rivedono poco dopo e avvertono il bisogno di ripetere i loro incontri. Amore a prima vista, complicato però dalle loro opposte situazioni. Per evitare difficoltà alla carriera dell'attrice, la coppia si vede di nascosto e di fretta. Solo in una occasione, William invita Anna ad una cena di compleanno della sorella. Qui la grande diva si confonde a tavola con i suoi ammiratori quasi increduli. Poco dopo però arriva in città il fidanzato di lei, e la storia sembra dover finire. Passano altri mesi. Anna entra all'improvviso in libreria..."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Cinema Action",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "23:05",
-                "titolo": "Le belve",
-                "descrizione": "Ben e Chon sono due amici per la pelle che condividono tutto, dall’amore per la bella Ophelia – detta O - all’attività di coltivatori e spacciatori della miglior marijuana della California del Sud. È stato Chon, ex marine, a riportare i primi semi dall’Afghanistan, poi è venuto Ben, botanico e buddista, che ne ha fatto un prodotto sopraffino, buono per far dollari così come per alleviare il dolore dei malati terminali. La vita scorre dunque idilliaca per il fortunato trio e i loro amici, finché un brutale cartello di trafficanti messicani non decide di fare affari con loro, che lo vogliano o meno."
-            },
             {
                 "ora": "01:20",
                 "titolo": "Way Down - Rapina alla Banca di Spagna",
@@ -2992,6 +2987,11 @@
                 "descrizione": "Il piccolo e solitario Tom scopre nella sua cantina un piccolo fantasma verde e gelatinoso, che gli racconta di essere dovuto fuggire dal maniero dove abitava a causa dell'arrivo di uno spirito malvagio. Tom decide di chiedere aiuto alla scontrosa Hetty, un'acchiappafantasmi appena licenziata dalla sua organizzazione segreta, con la quale riusciranno a sconfiggere il terribile nemico"
             },
             {
+                "ora": "23:05",
+                "titolo": "Le belve",
+                "descrizione": "Ben e Chon sono due amici per la pelle che condividono tutto, dall’amore per la bella Ophelia – detta O - all’attività di coltivatori e spacciatori della miglior marijuana della California del Sud. È stato Chon, ex marine, a riportare i primi semi dall’Afghanistan, poi è venuto Ben, botanico e buddista, che ne ha fatto un prodotto sopraffino, buono per far dollari così come per alleviare il dolore dei malati terminali. La vita scorre dunque idilliaca per il fortunato trio e i loro amici, finché un brutale cartello di trafficanti messicani non decide di fare affari con loro, che lo vogliano o meno."
+            },
+            {
                 "ora": "23:00",
                 "titolo": "Caccia a Ottobre Rosso",
                 "descrizione": "Nel 1984 \"Ottobre Rosso"
@@ -3012,17 +3012,12 @@
                 "descrizione": "John Vogel è nato il giorno della bandiera (14 giugno) e sotto una cattiva stella. Truffatore ispirato, sogna un grande futuro per sé e la propria famiglia, soprattutto per Jennifer, la figlia maggiore e prediletta. Padre carismatico, quando non è altrove, promette una vita vissuta come un'avventura. Il resto del tempo accumula i debiti e i rischi di una vita oltre i confini della legalità. Egoista e bugiardo, lascia moglie e figli una notte d'estate voltandosi indietro solo una volta, per guardare la sua Jennifer che non smetterà mai di cercarlo come la polizia di inseguirlo."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Cinema Suspense",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Caccia a Ottobre Rosso",
-                "descrizione": "Nel 1984 \"Ottobre Rosso"
-            },
             {
                 "ora": "01:20",
                 "titolo": "Assassinio sull'Orient Express",
@@ -3069,6 +3064,11 @@
                 "descrizione": "Ben e Chon sono due amici per la pelle che condividono tutto, dall’amore per la bella Ophelia – detta O - all’attività di coltivatori e spacciatori della miglior marijuana della California del Sud. È stato Chon, ex marine, a riportare i primi semi dall’Afghanistan, poi è venuto Ben, botanico e buddista, che ne ha fatto un prodotto sopraffino, buono per far dollari così come per alleviare il dolore dei malati terminali. La vita scorre dunque idilliaca per il fortunato trio e i loro amici, finché un brutale cartello di trafficanti messicani non decide di fare affari con loro, che lo vogliano o meno."
             },
             {
+                "ora": "23:00",
+                "titolo": "Caccia a Ottobre Rosso",
+                "descrizione": "Nel 1984 \"Ottobre Rosso"
+            },
+            {
                 "ora": "00:25",
                 "titolo": "Ammore e malavita",
                 "descrizione": "Don Vincenzo Strozzalone, 're del pesce' e boss camorrista, scampa a un attentato e decide di cambiare vita. Stressato e braccato da criminali e polizia, si finge morto per ricominciare altrove con donna Maria, la consorte cinéphile che trova la risoluzione a tutto nelle trame dei film. Ma il suo segreto, condiviso dalla moglie e dai fedeli Ciro e Rosario, ha il fiato corto. Fatima, una giovane infermiera, ha visto quello che non doveva vedere. L'ordine adesso è di eliminarla. Ciro è il primo a trovarla, risparmiandole la vita. Perché Fatima è il suo primo grande amore. Un amore perduto ma mai dimenticato. Messa in salvo la fanciulla, Ciro deve rispondere della sua insubordinazione. Davanti a Napoli, a don Vincenzo e alla sua malafemmina."
@@ -3079,7 +3079,7 @@
                 "descrizione": "William Thacker vive a Londra nel quartiere Notting Hill, in una casa che divide con Spike, un giovane sfaccendato che si muove bene nel disordine e nella confusione. William è proprietario di una libreria specializzata in libri di viaggio, dove un giorno capita Anna Scott, diva del cinema americano, a Londra per promuovere il suo ultimo film. Dopo un primo impatto, i due si rivedono poco dopo e avvertono il bisogno di ripetere i loro incontri. Amore a prima vista, complicato però dalle loro opposte situazioni. Per evitare difficoltà alla carriera dell'attrice, la coppia si vede di nascosto e di fretta. Solo in una occasione, William invita Anna ad una cena di compleanno della sorella. Qui la grande diva si confonde a tavola con i suoi ammiratori quasi increduli. Poco dopo però arriva in città il fidanzato di lei, e la storia sembra dover finire. Passano altri mesi. Anna entra all'improvviso in libreria..."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Cinema Romance",
@@ -3146,17 +3146,12 @@
                 "descrizione": "Jake Hoyt è una nuova recluta della polizia di Los Angeles e per diventare ispettore deve quindi sottoporsi a 24 ore di tirocinio con il sergente Alonzo Harris, un veterano della sezione antidroga che lavora da dodici anni nei quartieri più caldi della città. Alonzo, che considera Jake un pivello ingenuo e inesperto, se lo porta appresso. Poco a poco Jake comincia così a capire di che pasta sia fatto Alonzo, con il suo cinismo che lo spinge a cacciarsi nelle situazioni più complicate."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Cinema Drama",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "22:50",
-                "titolo": "Una vita in fuga",
-                "descrizione": "John Vogel è nato il giorno della bandiera (14 giugno) e sotto una cattiva stella. Truffatore ispirato, sogna un grande futuro per sé e la propria famiglia, soprattutto per Jennifer, la figlia maggiore e prediletta. Padre carismatico, quando non è altrove, promette una vita vissuta come un'avventura. Il resto del tempo accumula i debiti e i rischi di una vita oltre i confini della legalità. Egoista e bugiardo, lascia moglie e figli una notte d'estate voltandosi indietro solo una volta, per guardare la sua Jennifer che non smetterà mai di cercarlo come la polizia di inseguirlo."
-            },
             {
                 "ora": "00:45",
                 "titolo": "La stanza accanto",
@@ -3211,9 +3206,14 @@
                 "ora": "00:30",
                 "titolo": "Notting Hill",
                 "descrizione": "William Thacker vive a Londra nel quartiere Notting Hill, in una casa che divide con Spike, un giovane sfaccendato che si muove bene nel disordine e nella confusione. William è proprietario di una libreria specializzata in libri di viaggio, dove un giorno capita Anna Scott, diva del cinema americano, a Londra per promuovere il suo ultimo film. Dopo un primo impatto, i due si rivedono poco dopo e avvertono il bisogno di ripetere i loro incontri. Amore a prima vista, complicato però dalle loro opposte situazioni. Per evitare difficoltà alla carriera dell'attrice, la coppia si vede di nascosto e di fretta. Solo in una occasione, William invita Anna ad una cena di compleanno della sorella. Qui la grande diva si confonde a tavola con i suoi ammiratori quasi increduli. Poco dopo però arriva in città il fidanzato di lei, e la storia sembra dover finire. Passano altri mesi. Anna entra all'improvviso in libreria..."
+            },
+            {
+                "ora": "22:50",
+                "titolo": "Una vita in fuga",
+                "descrizione": "John Vogel è nato il giorno della bandiera (14 giugno) e sotto una cattiva stella. Truffatore ispirato, sogna un grande futuro per sé e la propria famiglia, soprattutto per Jennifer, la figlia maggiore e prediletta. Padre carismatico, quando non è altrove, promette una vita vissuta come un'avventura. Il resto del tempo accumula i debiti e i rischi di una vita oltre i confini della legalità. Egoista e bugiardo, lascia moglie e figli una notte d'estate voltandosi indietro solo una volta, per guardare la sua Jennifer che non smetterà mai di cercarlo come la polizia di inseguirlo."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Cinema Comedy",
@@ -3280,7 +3280,7 @@
                 "descrizione": "John Vogel è nato il giorno della bandiera (14 giugno) e sotto una cattiva stella. Truffatore ispirato, sogna un grande futuro per sé e la propria famiglia, soprattutto per Jennifer, la figlia maggiore e prediletta. Padre carismatico, quando non è altrove, promette una vita vissuta come un'avventura. Il resto del tempo accumula i debiti e i rischi di una vita oltre i confini della legalità. Egoista e bugiardo, lascia moglie e figli una notte d'estate voltandosi indietro solo una volta, per guardare la sua Jennifer che non smetterà mai di cercarlo come la polizia di inseguirlo."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Uno",
@@ -3347,7 +3347,7 @@
                 "descrizione": "Edoardo Leo, seguendo le tracce della nascita dell'Impero Romano, ci accompagna in un viaggio nel tempo per raccontarci Roma, tra incontri divertenti e svolte sorprendenti."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Atlantic",
@@ -3414,22 +3414,12 @@
                 "descrizione": "In India vivono 275 specie di serpenti e ogni anno oltre un milione di persone viene morso. L’erpetologo Romulus Whitaker viaggia nel Paese per educare, sfatare miti e salvare vite."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Serie",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "Chicago Fire",
-                "descrizione": "$24"
-            },
-            {
-                "ora": "00:45",
-                "titolo": "Chicago P.D.",
-                "descrizione": "La serie racconta le vicende del Distretto 21 del Dipartimento di Polizia di Chicago, composto da due gruppi differenti: l'Unità di pattuglia, che vigila le pericolose strade della città, e l'Unità di Intelligence, che combatte il crimine organizzato, il traffico di droga e si occupa dei casi di omicidio più complessi."
-            },
             {
                 "ora": "01:35",
                 "titolo": "A casa tutti bene - La serie",
@@ -3479,19 +3469,24 @@
                 "ora": "22:15",
                 "titolo": "The Serpent Queen",
                 "descrizione": "Considerata un'immigrata, comune e semplice, Caterina de' Medici è sposata alla corte francese del XVI secolo da adolescente orfana che dovrebbe portare una fortuna in dote e produrre molti eredi, solo per scoprire che suo marito è innamorato di una donna anziana, la sua la dote non è pagata e lei non riesce a concepire. Eppure, solo con la sua intelligenza e determinazione, riesce a mantenere vivo il suo matrimonio e padroneggia meglio di chiunque altro lo sport sanguinario che è la monarchia, governando la Francia per 50 anni."
+            },
+            {
+                "ora": "22:45",
+                "titolo": "Le indagini del comandante Saint Barth",
+                "descrizione": "Gabriel Saint-Barthélémy è chiamato da tutti Saint-Barth per le sue origini. Al suo ritorno nell'isola paradisiaca dove è nato finisce subito per doversi occupare di un omicidio suscitando la curiosità dei colleghi per la sua straordinaria attitudine a calarsi nei panni delle vittime."
+            },
+            {
+                "ora": "23:50",
+                "titolo": "Delitti a circuito chiuso",
+                "descrizione": "S10 Ep1 di 20 Mistero nel salone - Florida, 2018: Joleen Cummings, estetista 34enne e madre di due bambini, scompare misteriosamente."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Investigation",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "00:35",
-                "titolo": "Law & Order: Special Victims Unit",
-                "descrizione": "Le indagini dell'Unità Vittime Speciali, una nuova squadra speciale della Polizia di New York che si occupa di crimini a sfondo sessuale. In ogni episodio si segue da una parte l'attività investigativa attuata dalla squadra e dall'altra l'aspetto giudiziario con l'iniziativa processuale condotta dalla procura distrettuale."
-            },
             {
                 "ora": "01:20",
                 "titolo": "Law & Order: I due volti della giustizia",
@@ -3546,24 +3541,19 @@
                 "ora": "23:50",
                 "titolo": "Delitti a circuito chiuso",
                 "descrizione": "S10 Ep1 di 20 Mistero nel salone - Florida, 2018: Joleen Cummings, estetista 34enne e madre di due bambini, scompare misteriosamente."
+            },
+            {
+                "ora": "22:30",
+                "titolo": "Power of Rome",
+                "descrizione": "Edoardo Leo, seguendo le tracce della nascita dell'Impero Romano, ci accompagna in un viaggio nel tempo per raccontarci Roma, tra incontri divertenti e svolte sorprendenti."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Crime",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "23:50",
-                "titolo": "Delitti a circuito chiuso",
-                "descrizione": "S10 Ep1 di 20 Mistero nel salone - Florida, 2018: Joleen Cummings, estetista 34enne e madre di due bambini, scompare misteriosamente."
-            },
-            {
-                "ora": "00:45",
-                "titolo": "Real Time Crime",
-                "descrizione": "S1 Ep7 di 10 L’omicidio del postino - Un consueto giro di consegne si trasforma in tragedia quando un postino viene ucciso in pieno giorno."
-            },
             {
                 "ora": "01:40",
                 "titolo": "Leave no data: indagini online",
@@ -3610,22 +3600,27 @@
                 "descrizione": "Gabriel Saint-Barthélémy è chiamato da tutti Saint-Barth per le sue origini. Al suo ritorno nell'isola paradisiaca dove è nato finisce subito per doversi occupare di un omicidio suscitando la curiosità dei colleghi per la sua straordinaria attitudine a calarsi nei panni delle vittime."
             },
             {
+                "ora": "23:50",
+                "titolo": "Delitti a circuito chiuso",
+                "descrizione": "S10 Ep1 di 20 Mistero nel salone - Florida, 2018: Joleen Cummings, estetista 34enne e madre di due bambini, scompare misteriosamente."
+            },
+            {
                 "ora": "22:30",
                 "titolo": "Power of Rome",
                 "descrizione": "Edoardo Leo, seguendo le tracce della nascita dell'Impero Romano, ci accompagna in un viaggio nel tempo per raccontarci Roma, tra incontri divertenti e svolte sorprendenti."
+            },
+            {
+                "ora": "22:15",
+                "titolo": "I serpenti letali dell'India",
+                "descrizione": "In India vivono 275 specie di serpenti e ogni anno oltre un milione di persone viene morso. L’erpetologo Romulus Whitaker viaggia nel Paese per educare, sfatare miti e salvare vite."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Adventure",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "00:10",
-                "titolo": "Uomo Contro Squalo",
-                "descrizione": "Il biologo marino Jeremiah Sullivan ha inventato una particolare tuta, che rende immuni dai morsi degli squali. L'esperto vuole testarla con uno squalo tigre."
-            },
             {
                 "ora": "01:05",
                 "titolo": "Universe",
@@ -3680,19 +3675,19 @@
                 "ora": "22:15",
                 "titolo": "The Serpent Queen",
                 "descrizione": "Considerata un'immigrata, comune e semplice, Caterina de' Medici è sposata alla corte francese del XVI secolo da adolescente orfana che dovrebbe portare una fortuna in dote e produrre molti eredi, solo per scoprire che suo marito è innamorato di una donna anziana, la sua la dote non è pagata e lei non riesce a concepire. Eppure, solo con la sua intelligenza e determinazione, riesce a mantenere vivo il suo matrimonio e padroneggia meglio di chiunque altro lo sport sanguinario che è la monarchia, governando la Francia per 50 anni."
+            },
+            {
+                "ora": "22:45",
+                "titolo": "Le indagini del comandante Saint Barth",
+                "descrizione": "Gabriel Saint-Barthélémy è chiamato da tutti Saint-Barth per le sue origini. Al suo ritorno nell'isola paradisiaca dove è nato finisce subito per doversi occupare di un omicidio suscitando la curiosità dei colleghi per la sua straordinaria attitudine a calarsi nei panni delle vittime."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "MTV",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "00:40",
-                "titolo": "Ridiculousness: Veri American Idiots",
-                "descrizione": "Ep15 di 42 Sterling e Karrueche Tran XXV - Rob, Steelo e Karrueche Tran fanno spuntini notturni in CLUB GRUB e tifano per TINY FANS."
-            },
             {
                 "ora": "01:00",
                 "titolo": "All Star Shore",
@@ -3747,29 +3742,19 @@
                 "ora": "22:55",
                 "titolo": "Euphoria",
                 "descrizione": "Un gruppo di liceali si trova alle prime armi con droghe, sesso, identità, traumi, amore e amicizia."
+            },
+            {
+                "ora": "22:15",
+                "titolo": "The Serpent Queen",
+                "descrizione": "Considerata un'immigrata, comune e semplice, Caterina de' Medici è sposata alla corte francese del XVI secolo da adolescente orfana che dovrebbe portare una fortuna in dote e produrre molti eredi, solo per scoprire che suo marito è innamorato di una donna anziana, la sua la dote non è pagata e lei non riesce a concepire. Eppure, solo con la sua intelligenza e determinazione, riesce a mantenere vivo il suo matrimonio e padroneggia meglio di chiunque altro lo sport sanguinario che è la monarchia, governando la Francia per 50 anni."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Comedy Central",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "00:20",
-                "titolo": "Stand Up Comedy",
-                "descrizione": "Ep9 di 24 - In questo episodio: Antonio Ricatti, Daniele Gattano e Davide Mafrica."
-            },
-            {
-                "ora": "00:50",
-                "titolo": "Reno 911!",
-                "descrizione": "Ep16 di 16 Incidente al solarium - Dangle scopre che le sedute abbronzanti gratuite per le forze dell'ordine non sono necessariamente una buona cosa."
-            },
-            {
-                "ora": "01:15",
-                "titolo": "Frasier",
-                "descrizione": "Dopo molti anni trascorsi al bar \"Cheers"
-            },
             {
                 "ora": "01:40",
                 "titolo": "Frasier",
@@ -3814,19 +3799,29 @@
                 "ora": "04:35",
                 "titolo": "Mike Judge's Beavis and Butt-Head",
                 "descrizione": "Ep3 di 12 - Beavis e Butt-Head restano intrappolati sul tetto / Beavis e Butt-Head fanno rafting sul fiume ma finiscono alla deriva in mare."
+            },
+            {
+                "ora": "04:55",
+                "titolo": "Mike Judge's Beavis and Butt-Head",
+                "descrizione": "Ep4 di 12 - I procioni rubano i nachos di Beavis e Butt-Head e i ragazzi contrattaccano./Beavis scambia uno sconosciuto per Butt-Head."
+            },
+            {
+                "ora": "05:20",
+                "titolo": "See Dad Run",
+                "descrizione": "Ep20 di 20 - Dopo tre mesi in Europa, la moglie di Marcus, Alicia, torna a casa magrissima. Marcus non ce la fa a star dietro ai suoi ritmi di vita."
+            },
+            {
+                "ora": "05:40",
+                "titolo": "See Dad Run",
+                "descrizione": "Ep1 di 15 - E’ il giorno di San Valentino. Joe ha preso un regalo per la sua fidanzata Amanda, ma teme che la sua famiglia sia stata colpita dalla “maledizione di San Valentinio” che..."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Arte",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "00:35",
-                "titolo": "La nave dei folli - Oltre la ragione",
-                "descrizione": "Ep1 Nerone - Carlo Lucarelli introduce Nerone, imperatore romano emblema della follia al potere. Ma cosa c’è di vero nella leggenda più nera dell’antica Roma?"
-            },
             {
                 "ora": "01:10",
                 "titolo": "Power of Rome",
@@ -3881,19 +3876,19 @@
                 "ora": "22:30",
                 "titolo": "Power of Rome",
                 "descrizione": "Edoardo Leo, seguendo le tracce della nascita dell'Impero Romano, ci accompagna in un viaggio nel tempo per raccontarci Roma, tra incontri divertenti e svolte sorprendenti."
+            },
+            {
+                "ora": "22:15",
+                "titolo": "I serpenti letali dell'India",
+                "descrizione": "In India vivono 275 specie di serpenti e ogni anno oltre un milione di persone viene morso. L’erpetologo Romulus Whitaker viaggia nel Paese per educare, sfatare miti e salvare vite."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Documentaries",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "00:20",
-                "titolo": "Marilyn: C'era una volta Hollywood\",\"prima\":true,\"description\":\"Prima di diventare Marilyn Monroe, era Norma Jeane: una ragazza timida, desiderosa dell'amore della madre single, che lavorava a Hollywood. Ripercorriamo l'infanzia di Norma Jeane prima che diventasse una stella.\",\"durata\":60,\"genre\":\"Cinema\",\"category\":\"Mondo E Tendenze\",\"image\":\"https://ethaneurope.it.imageservice.sky.com/pd-image/a5b37645-1b1f-4dea-96f9-dba39ce71e7c/background/600\",\"episode_number\":1,\"series_number\":1,\"director\":null,\"inizio\":\"2026-06-01T19:15:00.000Z\",\"fine\":\"2026-06-01T20:15:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2022\",\"primaSer\":true},{\"id\":\"XzAi8GTUxAhS\",\"title\":\"Marilyn: C'era una volta Hollywood\",\"prima\":true,\"description\":\"Per Marilyn era importante costruirsi una carriera nel cinema, ma l'ascesa di una giovane donna nell'industria cinematografica hollywoodiana, dominata dagli uomini, non è stata sempre facile.\",\"durata\":60,\"genre\":\"Cinema\",\"category\":\"Mondo E Tendenze\",\"image\":\"https://ethaneurope.it.imageservice.sky.com/pd-image/0a08348b-89a8-433a-a5dc-f9dd22e75c0f/background/600\",\"episode_number\":2,\"series_number\":1,\"director\":null,\"inizio\":\"2026-06-01T20:15:00.000Z\",\"fine\":\"2026-06-01T21:15:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2022\",\"secSer\":true},{\"id\":\"9cbYefJ0j3i1\",\"title\":\"Marilyn: C'era una volta Hollywood\",\"prima\":true,\"description\":\"Ci soffermeremo sulla carriera di Marilyn, sui suoi rapporti con i mariti e con i fratelli Kennedy, per poi passare agli eventi che hanno portato alla sua morte prematura.\",\"durata\":65,\"genre\":\"Cinema\",\"category\":\"Mondo E Tendenze\",\"image\":\"https://ethaneurope.it.imageservice.sky.com/pd-image/0b19f06c-0ded-49cf-bcfb-a26b856a095d/background/600\",\"episode_number\":3,\"series_number\":1,\"director\":null,\"inizio\":\"2026-06-01T21:15:00.000Z\",\"fine\":\"2026-06-01T22:20:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2022\"},{\"id\":\"Q0YpGV1GtEEp\",\"title\":\"The Michael Jackson Story",
-                "descrizione": "Grazie alle testimonianze di persone vicine a lui, tra cui sua sorella La Toya, si ripercorre l'ascesa di Jackson da bambino prodigio a icona mondiale. Tuttavia, alcuni comportamenti discutibili sollevano interrogativi inquietanti."
-            },
             {
                 "ora": "01:10",
                 "titolo": "The Michael Jackson Story",
@@ -3948,19 +3943,19 @@
                 "ora": "21:15",
                 "titolo": "Marilyn: C'era una volta Hollywood\",\"prima\":true,\"description\":\"Prima di diventare Marilyn Monroe, era Norma Jeane: una ragazza timida, desiderosa dell'amore della madre single, che lavorava a Hollywood. Ripercorriamo l'infanzia di Norma Jeane prima che diventasse una stella.\",\"durata\":60,\"genre\":\"Cinema\",\"category\":\"Mondo E Tendenze\",\"image\":\"https://ethaneurope.it.imageservice.sky.com/pd-image/a5b37645-1b1f-4dea-96f9-dba39ce71e7c/background/600\",\"episode_number\":1,\"series_number\":1,\"director\":null,\"inizio\":\"2026-06-01T19:15:00.000Z\",\"fine\":\"2026-06-01T20:15:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2022\"}},{\"canale\":{\"logo\":\"11242.png\",\"name\":\"Sky Nature HD\",\"number\":\"404\",\"mondo\":\"documentari\"},\"prog\":{\"id\":\"5v0R0C32GYJE\",\"title\":\"Isole selvagge d'Irlanda",
                 "descrizione": "Ep3 Echi del passato - Incontrerete le rondini di mare durante i loro lunghi spostamenti, osserverete da vicino le balene e farete visita a un'enorme colonia di foche."
+            },
+            {
+                "ora": "21:05",
+                "titolo": "Nazisti: I complici del Fuhrer",
+                "descrizione": "S1 Ep5 di 6 Martin Bormann - Martin Bormann fu uno dei piu' fedeli seguaci e consiglieri di Hitler fino alla misteriosa scomparsa, avvenuta durante l'assedio di Berlino nel 1945."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky Nature",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "00:10",
-                "titolo": "I Grandi Fiumi Della Terra - Stag. 2 Ep. 2 - I Grandi Fiumi Della Terra 02 Ep.02",
-                "descrizione": "In Europa, scopriamo come il Danubio si sta adattando ai decenni di impatto antropico."
-            },
             {
                 "ora": "01:10",
                 "titolo": "I grandi fiumi della Terra",
@@ -4015,29 +4010,19 @@
                 "ora": "21:00",
                 "titolo": "Fatta a mano",
                 "descrizione": "Elena Spisni, una rezdora 2.0, racconta il mondo della pasta fresca attraverso l'arte più antica del mondo: tirare la sfoglia a mano."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Marilyn: C'era una volta Hollywood\",\"prima\":true,\"description\":\"Prima di diventare Marilyn Monroe, era Norma Jeane: una ragazza timida, desiderosa dell'amore della madre single, che lavorava a Hollywood. Ripercorriamo l'infanzia di Norma Jeane prima che diventasse una stella.\",\"durata\":60,\"genre\":\"Cinema\",\"category\":\"Mondo E Tendenze\",\"image\":\"https://ethaneurope.it.imageservice.sky.com/pd-image/a5b37645-1b1f-4dea-96f9-dba39ce71e7c/background/600\",\"episode_number\":1,\"series_number\":1,\"director\":null,\"inizio\":\"2026-06-01T19:15:00.000Z\",\"fine\":\"2026-06-01T20:15:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2022\"}},{\"canale\":{\"logo\":\"11242.png\",\"name\":\"Sky Nature HD\",\"number\":\"404\",\"mondo\":\"documentari\"},\"prog\":{\"id\":\"5v0R0C32GYJE\",\"title\":\"Isole selvagge d'Irlanda",
+                "descrizione": "Ep3 Echi del passato - Incontrerete le rondini di mare durante i loro lunghi spostamenti, osserverete da vicino le balene e farete visita a un'enorme colonia di foche."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Discovery Channel",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "00:25",
-                "titolo": "Come e' fatto",
-                "descrizione": "Congas, metallizzazione e bottoni: altri oggetti comuni vengono esaminati attentamente per scoprire come sono fatti."
-            },
-            {
-                "ora": "00:55",
-                "titolo": "Come e' fatto",
-                "descrizione": "Scopriamo come vengono realizzati alcuni oggetti di uso quotidiano, tra cui i sensori di movimento e gli scafandri."
-            },
-            {
-                "ora": "01:25",
-                "titolo": "Come e' fatto",
-                "descrizione": "Scopriamo come vengono realizzati alcuni oggetti di uso quotidiano, tra cui i paralumi in pelle grezza e gli scanner per la risonanza magnetica."
-            },
             {
                 "ora": "01:50",
                 "titolo": "NASA X-Files",
@@ -4082,9 +4067,24 @@
                 "ora": "21:15",
                 "titolo": "NewsRoom - Fronte Artico",
                 "descrizione": "$2b"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Quarta Repubblica",
+                "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
+            },
+            {
+                "ora": "22:01",
+                "titolo": "Cesaroni il ritorno\",\"prima\":true,\"description\":\"Marco confessa e Virginia parte per uno stage. Walter la raggiunge; Marco anche, ma li trova insieme. La Finanza vuole chiudere la bottiglieria e Giulio pensa di vendere.\",\"durata\":159,\"genre\":\"Commedia\",\"category\":\"Serie TV\",\"image\":\"https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F313804801000601/media/6/6/9afd437b-6a66-46f2-8777-b6e9c3a44b9b/917278a5-c400-4920-80e5-88bfb30ed9c6.jpg\",\"episode_number\":6,\"series_number\":7,\"director\":\"\",\"inizio\":\"2026-06-01T19:21:00.000Z\",\"fine\":\"2026-06-01T22:00:00.000Z\",\"continua\":true,\"condividi\":\"$undefined\"}},{\"canale\":{\"name\":\"Italia Uno\",\"logo\":\"italia1.png\",\"number\":6,\"live\":\"https://www.mediasetplay.mediaset.it/diretta/italia1_cI1\"},\"prog\":{\"id\":\"36YObvks2urS\",\"title\":\"Attacco al potere: Paris Has Fallen",
+                "descrizione": "Parigi è sotto attacco. Durante un ricevimento presso l'ambasciata britannica a Parigi, l'agente Vincent Taleb e l'agente dell'MI6 Zara Taylor riescono a fermare un attentato contro il ministro della Difesa francese Philippe Bardin. Ma la mente di tutto ciò, Jacob Pearce, ex capitano della Legione Straniera, riesce a fuggire ed è deciso a mettere la città sotto assedio finchè non otterrà la sua vendetta. Riusciranno a fermarlo?"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "I complessi",
+                "descrizione": "Film a episodi. Un giovane giornalista aspira a diventare lettore del telegiornale nonostante la dentatura prominente. Un timido impiegato è perdutamente innamorato della propria affascinante collega, la quale è già fidanzata con un uomo più maturo. Un padre di famiglia, cattolico e moralista, tenta di distruggere tutte le copie di un film dove la propria moglie appare a seno nudo."
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "History Channel",
@@ -4146,22 +4146,12 @@
                 "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     },
     {
         "canale": "Sky TG 24",
         "categoria": "News",
         "programmi": [
-            {
-                "ora": "00:30",
-                "titolo": "TG24 Edicola",
-                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
-            },
-            {
-                "ora": "01:00",
-                "titolo": "TG24 Edicola",
-                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
-            },
             {
                 "ora": "01:30",
                 "titolo": "TG24 Edicola",
@@ -4211,8 +4201,18 @@
                 "ora": "00:15",
                 "titolo": "Cose Nostre - Nati Per Uccidere",
                 "descrizione": "$2a"
+            },
+            {
+                "ora": "23:45",
+                "titolo": "Minimarket",
+                "descrizione": "Manlio Viganò ha un sogno più grande di lui: diventare il protagonista di un vero show in televisione; si sente pronto, ma passa le giornate dietro la cassa di un minimarket di fronte agli studi televisivi di via Teulada. Ma non è solo, accanto a lui c'è Kevin Spacey: un amico immaginario, brillante e spietato."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "NewsRoom - Fronte Artico",
+                "descrizione": "$2b"
             }
         ],
-        "aggiornato": "22:41"
+        "aggiornato": "23:52"
     }
 ]
