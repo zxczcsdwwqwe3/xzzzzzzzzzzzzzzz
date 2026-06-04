@@ -4,16 +4,6 @@
         "categoria": "Digitale Terrestre",
         "programmi": [
             {
-                "ora": "00:00",
-                "titolo": "Porta A Porta",
-                "descrizione": "Giunto alla trentunesima edizione, il programma di Bruno Vespa offre al pubblico grandi novità, pur confermando la linea editoriale legata agli avvenimenti della politica, come ai grandi fatti di cronaca e alle mutazioni della società."
-            },
-            {
-                "ora": "01:05",
-                "titolo": "Che Tempo Fa",
-                "descrizione": "L'appuntamento con le previsioni del tempo gestito dall'Aeronautica militare."
-            },
-            {
                 "ora": "01:10",
                 "titolo": "Reazione A Catena",
                 "descrizione": "Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e \"catene\" di vocaboli. Conduce Pino Insegno."
@@ -62,24 +52,24 @@
                 "ora": "23:35",
                 "titolo": "Omicidio all'italiana",
                 "descrizione": "Uno strano omicidio sconvolge la vita sempre uguale di Acitrullo, sperduta località dell'entroterra abruzzese. Quale occasione migliore per il sindaco e il suo vice per far uscire dall'anonimato il paesino? Oltre alle forze dell'ordine infatti, accorrerà sul posto una troupe del famigerato programma televisivo \"Chi l'acciso?"
+            },
+            {
+                "ora": "23:35",
+                "titolo": "LA7 DOC",
+                "descrizione": "Un viaggio alla scoperta dei più grandi misteri del nostro tempo"
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Italia's Got Talent",
+                "descrizione": "Una raccolta delle migliori esibizioni sul palco di Italia's Got Talent."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Rai 2",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:25",
-                "titolo": "Radio2 Social Club",
-                "descrizione": "Luca Barbarossa ed Ema Stokholma aprono le porte di via Asiago a Roma a importanti ospiti musicali della scena nazionale e internazionale che si esibiscono dal vivo accompagnati dalla Social Band e dalla voce di Frances Alina Ascione."
-            },
-            {
-                "ora": "01:33",
-                "titolo": "Meteo 2",
-                "descrizione": "Meteo 2"
-            },
             {
                 "ora": "01:40",
                 "titolo": "La parrucchiera",
@@ -129,39 +119,24 @@
                 "ora": "21:33",
                 "titolo": "Realpolitik",
                 "descrizione": "Tommaso Labate conduce il nuovo programma di informazione. Sondaggi, retroscena e analisi in tempo reale, per raccontare la politica e l'attualita' senza filtri!"
+            },
+            {
+                "ora": "21:20",
+                "titolo": "Ticket to Paradise",
+                "descrizione": "Wren Butler accompagna la sua amica Lily in gita a Bali: si sono entrambe da poco laureate all'Univeristà di Chicago e il viaggio è una sorta di premio e di pausa, prima di riprendere la vita e inserirsi nella società. Ma a Bali Lily incontra un ragazzo del posto, se en innamora e decide su due piedi di sposarlo. I suoi genitori venuti a conoscenza della decisione che appare davvero improvvida, si precipitano a Bali e, nonostante siano divorziati, fanno squadra nel tentativo di impedire che la loro figlia commetta il loro medesimo errore."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Omicidio all'italiana",
+                "descrizione": "Uno strano omicidio sconvolge la vita sempre uguale di Acitrullo, sperduta località dell'entroterra abruzzese. Quale occasione migliore per il sindaco e il suo vice per far uscire dall'anonimato il paesino? Oltre alle forze dell'ordine infatti, accorrerà sul posto una troupe del famigerato programma televisivo \"Chi l'acciso?"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Rai 3",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "TG3 Linea Notte",
-                "descrizione": "TG3 Linea Notte"
-            },
-            {
-                "ora": "01:00",
-                "titolo": "Meteo 3",
-                "descrizione": "Meteo 3"
-            },
-            {
-                "ora": "01:05",
-                "titolo": "Parlamento Magazine",
-                "descrizione": "Lo spazio di Rai Parlamento che ospita dal lunedì al venerdì ogni giorno una diversa rubrica: Filo Diretto, Orizzonti d'Europa, Il Cantiere delle Idee, Lavori in corso."
-            },
-            {
-                "ora": "01:15",
-                "titolo": "SVista",
-                "descrizione": "Il racconto per immagini della settimana interpretate con un linguaggio irriverente e onirico, un editoriale in 10 minuti attraverso suoni e colori ideato e realizzato da Alexander Jakhnagiev, fondatore e direttore dell'Agenzia VISTA."
-            },
-            {
-                "ora": "01:25",
-                "titolo": "Sorgente Di Vita",
-                "descrizione": "Attualità e cultura, feste e tradizioni, storia e identità degli ebrei in Italia, in Europa e nel mondo, a cura dell'Unione delle Comunità Ebraiche Italiane."
-            },
             {
                 "ora": "01:55",
                 "titolo": "Sulla Via Di Damasco",
@@ -196,24 +171,39 @@
                 "ora": "21:20",
                 "titolo": "Ticket to Paradise",
                 "descrizione": "Wren Butler accompagna la sua amica Lily in gita a Bali: si sono entrambe da poco laureate all'Univeristà di Chicago e il viaggio è una sorta di premio e di pausa, prima di riprendere la vita e inserirsi nella società. Ma a Bali Lily incontra un ragazzo del posto, se en innamora e decide su due piedi di sposarlo. I suoi genitori venuti a conoscenza della decisione che appare davvero improvvida, si precipitano a Bali e, nonostante siano divorziati, fanno squadra nel tentativo di impedire che la loro figlia commetta il loro medesimo errore."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Omicidio all'italiana",
+                "descrizione": "Uno strano omicidio sconvolge la vita sempre uguale di Acitrullo, sperduta località dell'entroterra abruzzese. Quale occasione migliore per il sindaco e il suo vice per far uscire dall'anonimato il paesino? Oltre alle forze dell'ordine infatti, accorrerà sul posto una troupe del famigerato programma televisivo \"Chi l'acciso?"
+            },
+            {
+                "ora": "23:35",
+                "titolo": "LA7 DOC",
+                "descrizione": "Un viaggio alla scoperta dei più grandi misteri del nostro tempo"
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Italia's Got Talent",
+                "descrizione": "Una raccolta delle migliori esibizioni sul palco di Italia's Got Talent."
+            },
+            {
+                "ora": "21:30",
+                "titolo": "Tutto suo padre... e anche un po' sua madre",
+                "descrizione": "Enrico Brignano ironizza su vizi, pregi e difetti sue e delle persone a lui piu' vicine."
+            },
+            {
+                "ora": "23:52",
+                "titolo": "Dungeons & Dragons - L'onore dei ladri",
+                "descrizione": "Un affascinante ladro e un gruppo di improbabili avventurieri realizzano il colpo del secolo recuperando una reliquia perduta. Ma le cose si mettono male quando il gruppo si imbatte nelle persone sbagliate."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Rai 4",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:22",
-                "titolo": "Berlin Falling",
-                "descrizione": "Frank si è lasciato alle spalle la sua vita da soldato e vuole ricostruirsi una vita a Brandeburgo. Sta andando a trovare sua figlia Lily, dopo tanto tempo che non la vedeva. Mentre si ferma a una stazione di servizio, incontra Andreas, che ha bisogno di un passaggio per Berlino. Con riluttanza, Frank accetta di portare Andreas con sé, ignaro delle conseguenze."
-            },
-            {
-                "ora": "00:54",
-                "titolo": "Criminal Minds",
-                "descrizione": "Criminal Minds è una serie poliziesca incentrata sull'Unità di analisi criminale (BAU) che ha sede presso l'accademia dell'FBI a Quantico, in Virginia. L'unità è composta da psichiatri, psicologi e criminologi in grado di “pensare” come gli S.I., sigla che utilizzano per indicare i “soggetti ignoti” che compiono delitti seriali sui quali sono chiamati ad indagare. La squadra interviene in ogni località degli Stati Uniti ogni qual volta si sospetti che i delitti possano essere opera di un serial killer, lavora stilando un profilo psicologico del S.I. in modo da anticiparne le mosse e catturarlo. La squadra è formata da diversi elementi, ognuno con un suo ruolo ben preciso: c'è chi ha l'incarico di indagare sul campo parlando con le famiglie e relazionandosi con le forze di polizia locale, chi si immedesima nel killer per comprenderlo, chi fa ricerche sui soggetti coinvolti. Ovviamente vengono analizzate anche le relazioni tra i vari personaggi."
-            },
             {
                 "ora": "01:56",
                 "titolo": "Narcos: Messico",
@@ -263,29 +253,24 @@
                 "ora": "21:20",
                 "titolo": "Ticket to Paradise",
                 "descrizione": "Wren Butler accompagna la sua amica Lily in gita a Bali: si sono entrambe da poco laureate all'Univeristà di Chicago e il viaggio è una sorta di premio e di pausa, prima di riprendere la vita e inserirsi nella società. Ma a Bali Lily incontra un ragazzo del posto, se en innamora e decide su due piedi di sposarlo. I suoi genitori venuti a conoscenza della decisione che appare davvero improvvida, si precipitano a Bali e, nonostante siano divorziati, fanno squadra nel tentativo di impedire che la loro figlia commetta il loro medesimo errore."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Omicidio all'italiana",
+                "descrizione": "Uno strano omicidio sconvolge la vita sempre uguale di Acitrullo, sperduta località dell'entroterra abruzzese. Quale occasione migliore per il sindaco e il suo vice per far uscire dall'anonimato il paesino? Oltre alle forze dell'ordine infatti, accorrerà sul posto una troupe del famigerato programma televisivo \"Chi l'acciso?"
+            },
+            {
+                "ora": "23:35",
+                "titolo": "LA7 DOC",
+                "descrizione": "Un viaggio alla scoperta dei più grandi misteri del nostro tempo"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Rai 5",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:12",
-                "titolo": "The Great Songwriters: Richard Ashcroft",
-                "descrizione": "Esploso sulla scena internazionale come frontman dei Verve, Richard Ashcroft è autore di canzoni indimenticabili. In uno studio raccolto, l'artista racconta la genesi e il processo creativo dei suoi grandi successi, corredando la narrazione con un live rigorosamente acustico. Regia di Lloyd Stanton"
-            },
-            {
-                "ora": "00:58",
-                "titolo": "Rai News Notte",
-                "descrizione": "NOTIZIARIO - Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.. - 2026 ITA"
-            },
-            {
-                "ora": "00:59",
-                "titolo": "Il Mondo Con Gli Occhi Di Overland - Nepal: Sulle Tracce Di Beppe Tenti - 25",
-                "descrizione": "$24"
-            },
             {
                 "ora": "01:51",
                 "titolo": "Lungo Il Fiume E Sull'Acqua",
@@ -330,19 +315,29 @@
                 "ora": "21:20",
                 "titolo": "Ticket to Paradise",
                 "descrizione": "Wren Butler accompagna la sua amica Lily in gita a Bali: si sono entrambe da poco laureate all'Univeristà di Chicago e il viaggio è una sorta di premio e di pausa, prima di riprendere la vita e inserirsi nella società. Ma a Bali Lily incontra un ragazzo del posto, se en innamora e decide su due piedi di sposarlo. I suoi genitori venuti a conoscenza della decisione che appare davvero improvvida, si precipitano a Bali e, nonostante siano divorziati, fanno squadra nel tentativo di impedire che la loro figlia commetta il loro medesimo errore."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Omicidio all'italiana",
+                "descrizione": "Uno strano omicidio sconvolge la vita sempre uguale di Acitrullo, sperduta località dell'entroterra abruzzese. Quale occasione migliore per il sindaco e il suo vice per far uscire dall'anonimato il paesino? Oltre alle forze dell'ordine infatti, accorrerà sul posto una troupe del famigerato programma televisivo \"Chi l'acciso?"
+            },
+            {
+                "ora": "23:35",
+                "titolo": "LA7 DOC",
+                "descrizione": "Un viaggio alla scoperta dei più grandi misteri del nostro tempo"
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Italia's Got Talent",
+                "descrizione": "Una raccolta delle migliori esibizioni sul palco di Italia's Got Talent."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Rete 4",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:33",
-                "titolo": "Realpolitik",
-                "descrizione": "Tommaso Labate conduce il nuovo programma di informazione. Sondaggi, retroscena e analisi in tempo reale, per raccontare la politica e l'attualita' senza filtri!"
-            },
             {
                 "ora": "00:54",
                 "titolo": "Alleanza mortale",
@@ -384,6 +379,11 @@
                 "descrizione": "$2a"
             },
             {
+                "ora": "21:33",
+                "titolo": "Realpolitik",
+                "descrizione": "Tommaso Labate conduce il nuovo programma di informazione. Sondaggi, retroscena e analisi in tempo reale, per raccontare la politica e l'attualita' senza filtri!"
+            },
+            {
                 "ora": "21:20",
                 "titolo": "Ticket to Paradise",
                 "descrizione": "Wren Butler accompagna la sua amica Lily in gita a Bali: si sono entrambe da poco laureate all'Univeristà di Chicago e il viaggio è una sorta di premio e di pausa, prima di riprendere la vita e inserirsi nella società. Ma a Bali Lily incontra un ragazzo del posto, se en innamora e decide su due piedi di sposarlo. I suoi genitori venuti a conoscenza della decisione che appare davvero improvvida, si precipitano a Bali e, nonostante siano divorziati, fanno squadra nel tentativo di impedire che la loro figlia commetta il loro medesimo errore."
@@ -399,17 +399,12 @@
                 "descrizione": "Un viaggio alla scoperta dei più grandi misteri del nostro tempo"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Canale 5",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:06",
-                "titolo": "Tg5",
-                "descrizione": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5."
-            },
             {
                 "ora": "00:49",
                 "titolo": "Beauty and the Billionaire",
@@ -464,39 +459,19 @@
                 "ora": "23:35",
                 "titolo": "LA7 DOC",
                 "descrizione": "Un viaggio alla scoperta dei più grandi misteri del nostro tempo"
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Italia's Got Talent",
+                "descrizione": "Una raccolta delle migliori esibizioni sul palco di Italia's Got Talent."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Italia 1",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:35",
-                "titolo": "Omicidio all'italiana",
-                "descrizione": "Uno strano omicidio sconvolge la vita sempre uguale di Acitrullo, sperduta località dell'entroterra abruzzese. Quale occasione migliore per il sindaco e il suo vice per far uscire dall'anonimato il paesino? Oltre alle forze dell'ordine infatti, accorrerà sul posto una troupe del famigerato programma televisivo \"Chi l'acciso?"
-            },
-            {
-                "ora": "01:31",
-                "titolo": "Studio Aperto - La giornata",
-                "descrizione": "I principali fatti e notizie della giornata a cura della redazione giornalistica di Studio Aperto."
-            },
-            {
-                "ora": "01:44",
-                "titolo": "Sport Mediaset - La giornata",
-                "descrizione": "Le principali notizie sportive della giornata a cura della redazione giornalistica di Sport Mediaset."
-            },
-            {
-                "ora": "01:59",
-                "titolo": "Camera Cafe'",
-                "descrizione": "Camera Café è una sitcom italiana prodotta dal 2003 al 2012 e trasmessa in prima visione da Italia 1. La sitcom è basata sull'omonimo format originale francese Caméra Café. Il titolo della serie deriva da una paronomasia in lingua francese data dall'accostamento e fusione dei termini café (\"caffè\") e caméra cachée (\"telecamera nascosta\")."
-            },
-            {
-                "ora": "02:03",
-                "titolo": "Camera Cafe'",
-                "descrizione": "Camera Café è una sitcom italiana prodotta dal 2003 al 2012 e trasmessa in prima visione da Italia 1. La sitcom è basata sull'omonimo format originale francese Caméra Café. Il titolo della serie deriva da una paronomasia in lingua francese data dall'accostamento e fusione dei termini café (\"caffè\") e caméra cachée (\"telecamera nascosta\")."
-            },
             {
                 "ora": "02:09",
                 "titolo": "Ingegneria XXL China Edition",
@@ -531,34 +506,39 @@
                 "ora": "23:20",
                 "titolo": "Porta A Porta",
                 "descrizione": "Giunto alla trentunesima edizione, il programma di Bruno Vespa offre al pubblico grandi novità, pur confermando la linea editoriale legata agli avvenimenti della politica, come ai grandi fatti di cronaca e alle mutazioni della società."
+            },
+            {
+                "ora": "22:27",
+                "titolo": "Mare fuori",
+                "descrizione": "L'Istituto di Pena Minorile di Napoli è a picco sul mare e ospita settanta detenuti: 50 maschi e 20 femmine. Quando entrano i ragazzi hanno sempre meno di 18 anni e lo fanno perché hanno \"sbagliato\". Questa serie racconta le loro storie."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Chi L'Ha Visto?",
+                "descrizione": "$2a"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Realpolitik",
+                "descrizione": "Tommaso Labate conduce il nuovo programma di informazione. Sondaggi, retroscena e analisi in tempo reale, per raccontare la politica e l'attualita' senza filtri!"
+            },
+            {
+                "ora": "21:20",
+                "titolo": "Ticket to Paradise",
+                "descrizione": "Wren Butler accompagna la sua amica Lily in gita a Bali: si sono entrambe da poco laureate all'Univeristà di Chicago e il viaggio è una sorta di premio e di pausa, prima di riprendere la vita e inserirsi nella società. Ma a Bali Lily incontra un ragazzo del posto, se en innamora e decide su due piedi di sposarlo. I suoi genitori venuti a conoscenza della decisione che appare davvero improvvida, si precipitano a Bali e, nonostante siano divorziati, fanno squadra nel tentativo di impedire che la loro figlia commetta il loro medesimo errore."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Omicidio all'italiana",
+                "descrizione": "Uno strano omicidio sconvolge la vita sempre uguale di Acitrullo, sperduta località dell'entroterra abruzzese. Quale occasione migliore per il sindaco e il suo vice per far uscire dall'anonimato il paesino? Oltre alle forze dell'ordine infatti, accorrerà sul posto una troupe del famigerato programma televisivo \"Chi l'acciso?"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "La7",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:35",
-                "titolo": "LA7 DOC",
-                "descrizione": "Un viaggio alla scoperta dei più grandi misteri del nostro tempo"
-            },
-            {
-                "ora": "01:00",
-                "titolo": "TG LA7 Notte",
-                "descrizione": "Informazione a cura della redazione del TG LA7."
-            },
-            {
-                "ora": "01:20",
-                "titolo": "Otto e Mezzo",
-                "descrizione": "Il programma di approfondimento quotidiano condotto da Lilli Gruber, con ospiti in studio e il punto di Paolo Pagliaro. 25a Edizione"
-            },
-            {
-                "ora": "01:55",
-                "titolo": "LIKE Tutto ciò che piace",
-                "descrizione": "Il magazine su lifestyle e nuove tendenze con interviste inedite e con le imperdibili rubriche di informazione e intrattenimento su moda, food, tecnologia, design, arte, viaggi, bellezza, cultura e Made in Italy"
-            },
             {
                 "ora": "02:20",
                 "titolo": "Le parole della salute",
@@ -598,19 +578,34 @@
                 "ora": "21:20",
                 "titolo": "Ticket to Paradise",
                 "descrizione": "Wren Butler accompagna la sua amica Lily in gita a Bali: si sono entrambe da poco laureate all'Univeristà di Chicago e il viaggio è una sorta di premio e di pausa, prima di riprendere la vita e inserirsi nella società. Ma a Bali Lily incontra un ragazzo del posto, se en innamora e decide su due piedi di sposarlo. I suoi genitori venuti a conoscenza della decisione che appare davvero improvvida, si precipitano a Bali e, nonostante siano divorziati, fanno squadra nel tentativo di impedire che la loro figlia commetta il loro medesimo errore."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Omicidio all'italiana",
+                "descrizione": "Uno strano omicidio sconvolge la vita sempre uguale di Acitrullo, sperduta località dell'entroterra abruzzese. Quale occasione migliore per il sindaco e il suo vice per far uscire dall'anonimato il paesino? Oltre alle forze dell'ordine infatti, accorrerà sul posto una troupe del famigerato programma televisivo \"Chi l'acciso?"
+            },
+            {
+                "ora": "23:35",
+                "titolo": "LA7 DOC",
+                "descrizione": "Un viaggio alla scoperta dei più grandi misteri del nostro tempo"
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Italia's Got Talent",
+                "descrizione": "Una raccolta delle migliori esibizioni sul palco di Italia's Got Talent."
+            },
+            {
+                "ora": "21:30",
+                "titolo": "Tutto suo padre... e anche un po' sua madre",
+                "descrizione": "Enrico Brignano ironizza su vizi, pregi e difetti sue e delle persone a lui piu' vicine."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "TV8",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:20",
-                "titolo": "Alessandro Borghese - Celebrity...\",\"prima\":true,\"description\":\"Alessandro Borghese apre le porte dei suoi ristoranti, milanese e veneziano, a due celebrities che con l’aiuto della brigata si sfideranno ai fornelli.\",\"durata\":10,\"genre\":\"Reality Show\",\"category\":\"Intrattenimento\",\"image\":\"https://ethaneurope.it.imageservice.sky.com/pd-image/32e75e53-e8b9-4985-a5c1-beac1d12b813/background/600\",\"episode_number\":10,\"series_number\":3,\"director\":null,\"inizio\":\"2026-06-03T18:35:00.000Z\",\"fine\":\"2026-06-03T18:45:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2023\"},{\"id\":\"ORJDMQov8tQn\",\"title\":\"Alessandro Borghese: Celebrity Chef\",\"prima\":true,\"description\":\"Alessandro Borghese oggi apre le porte del suo ristorante milanese a Rosa Chemical e Erica Martinelli che con l’aiuto della brigata si sfideranno ai fornelli.\",\"durata\":55,\"genre\":\"Reality Show\",\"category\":\"Intrattenimento\",\"image\":\"https://img-guidatv.org/45/alessandro-borghese-celebrity-chef/7.jpg\",\"episode_number\":12,\"series_number\":5,\"director\":null,\"inizio\":\"2026-06-03T18:45:00.000Z\",\"fine\":\"2026-06-03T19:40:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2026\"},{\"id\":\"RzZatoVfKehn\",\"title\":\"Italia's Got Talent\",\"prima\":true,\"description\":\"Una raccolta delle migliori esibizioni sul palco di Italia's Got Talent.\",\"durata\":100,\"genre\":\"Show\",\"category\":\"Intrattenimento\",\"image\":\"https://img-guidatv.org/45/italia-s-got-talent/12.jpg\",\"episode_number\":4,\"series_number\":14,\"director\":null,\"inizio\":\"2026-06-03T19:40:00.000Z\",\"fine\":\"2026-06-03T21:20:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2026\",\"primaSer\":true},{\"id\":\"HmFmDgiz4XEt\",\"title\":\"Italia's Got Talent",
-                "descrizione": "Una raccolta delle migliori esibizioni sul palco di Italia's Got Talent."
-            },
             {
                 "ora": "01:05",
                 "titolo": "Che Fine Hanno Fatto I Morgan?",
@@ -665,24 +660,19 @@
                 "ora": "23:35",
                 "titolo": "Omicidio all'italiana",
                 "descrizione": "Uno strano omicidio sconvolge la vita sempre uguale di Acitrullo, sperduta località dell'entroterra abruzzese. Quale occasione migliore per il sindaco e il suo vice per far uscire dall'anonimato il paesino? Oltre alle forze dell'ordine infatti, accorrerà sul posto una troupe del famigerato programma televisivo \"Chi l'acciso?"
+            },
+            {
+                "ora": "23:35",
+                "titolo": "LA7 DOC",
+                "descrizione": "Un viaggio alla scoperta dei più grandi misteri del nostro tempo"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Nove",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:30",
-                "titolo": "Tutto suo padre... e anche un po' sua madre",
-                "descrizione": "Enrico Brignano ironizza su vizi, pregi e difetti sue e delle persone a lui piu' vicine."
-            },
-            {
-                "ora": "00:45",
-                "titolo": "Michael Jackson: anatomia di una caduta",
-                "descrizione": "Un'analisi del famoso processo in cui la star era accusata di abusi su minori."
-            },
             {
                 "ora": "01:50",
                 "titolo": "Michael Jackson: anatomia di una caduta",
@@ -732,19 +722,24 @@
                 "ora": "21:20",
                 "titolo": "Ticket to Paradise",
                 "descrizione": "Wren Butler accompagna la sua amica Lily in gita a Bali: si sono entrambe da poco laureate all'Univeristà di Chicago e il viaggio è una sorta di premio e di pausa, prima di riprendere la vita e inserirsi nella società. Ma a Bali Lily incontra un ragazzo del posto, se en innamora e decide su due piedi di sposarlo. I suoi genitori venuti a conoscenza della decisione che appare davvero improvvida, si precipitano a Bali e, nonostante siano divorziati, fanno squadra nel tentativo di impedire che la loro figlia commetta il loro medesimo errore."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Omicidio all'italiana",
+                "descrizione": "Uno strano omicidio sconvolge la vita sempre uguale di Acitrullo, sperduta località dell'entroterra abruzzese. Quale occasione migliore per il sindaco e il suo vice per far uscire dall'anonimato il paesino? Oltre alle forze dell'ordine infatti, accorrerà sul posto una troupe del famigerato programma televisivo \"Chi l'acciso?"
+            },
+            {
+                "ora": "23:35",
+                "titolo": "LA7 DOC",
+                "descrizione": "Un viaggio alla scoperta dei più grandi misteri del nostro tempo"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "20 Mediaset",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:52",
-                "titolo": "Dungeons & Dragons - L'onore dei ladri",
-                "descrizione": "Un affascinante ladro e un gruppo di improbabili avventurieri realizzano il colpo del secolo recuperando una reliquia perduta. Ma le cose si mettono male quando il gruppo si imbatte nelle persone sbagliate."
-            },
             {
                 "ora": "02:05",
                 "titolo": "Chicago Med",
@@ -799,24 +794,19 @@
                 "ora": "21:20",
                 "titolo": "Ticket to Paradise",
                 "descrizione": "Wren Butler accompagna la sua amica Lily in gita a Bali: si sono entrambe da poco laureate all'Univeristà di Chicago e il viaggio è una sorta di premio e di pausa, prima di riprendere la vita e inserirsi nella società. Ma a Bali Lily incontra un ragazzo del posto, se en innamora e decide su due piedi di sposarlo. I suoi genitori venuti a conoscenza della decisione che appare davvero improvvida, si precipitano a Bali e, nonostante siano divorziati, fanno squadra nel tentativo di impedire che la loro figlia commetta il loro medesimo errore."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Omicidio all'italiana",
+                "descrizione": "Uno strano omicidio sconvolge la vita sempre uguale di Acitrullo, sperduta località dell'entroterra abruzzese. Quale occasione migliore per il sindaco e il suo vice per far uscire dall'anonimato il paesino? Oltre alle forze dell'ordine infatti, accorrerà sul posto una troupe del famigerato programma televisivo \"Chi l'acciso?"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Real Time",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:45",
-                "titolo": "Dr. Pimple Popper - I nuovi casi",
-                "descrizione": "Anthony non riesce ad andare avanti con la sua vita a causa di una massa sulla coscia."
-            },
-            {
-                "ora": "00:40",
-                "titolo": "Dr. Pimple Popper: la dottoressa schiacciabrufoli",
-                "descrizione": "La dottoressa si occupa di Reginald, che ha una rara protuberanza sulla schiena. Che'Re ha un bozzolo sul volto e Juan ha dolorosi foruncoli sul collo."
-            },
             {
                 "ora": "01:40",
                 "titolo": "Dr. Pimple Popper: la dottoressa schiacciabrufoli",
@@ -866,64 +856,24 @@
                 "ora": "21:20",
                 "titolo": "Ticket to Paradise",
                 "descrizione": "Wren Butler accompagna la sua amica Lily in gita a Bali: si sono entrambe da poco laureate all'Univeristà di Chicago e il viaggio è una sorta di premio e di pausa, prima di riprendere la vita e inserirsi nella società. Ma a Bali Lily incontra un ragazzo del posto, se en innamora e decide su due piedi di sposarlo. I suoi genitori venuti a conoscenza della decisione che appare davvero improvvida, si precipitano a Bali e, nonostante siano divorziati, fanno squadra nel tentativo di impedire che la loro figlia commetta il loro medesimo errore."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Omicidio all'italiana",
+                "descrizione": "Uno strano omicidio sconvolge la vita sempre uguale di Acitrullo, sperduta località dell'entroterra abruzzese. Quale occasione migliore per il sindaco e il suo vice per far uscire dall'anonimato il paesino? Oltre alle forze dell'ordine infatti, accorrerà sul posto una troupe del famigerato programma televisivo \"Chi l'acciso?"
+            },
+            {
+                "ora": "23:35",
+                "titolo": "LA7 DOC",
+                "descrizione": "Un viaggio alla scoperta dei più grandi misteri del nostro tempo"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Boing",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:35",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball, un gatto di 12 anni, e il suo amico Darwin, un pesce rosso, vivono avventure al limite della follia, in questa stravagante commedia animata."
-            },
-            {
-                "ora": "00:45",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball, un gatto di 12 anni, e il suo amico Darwin, un pesce rosso, vivono avventure al limite della follia, in questa stravagante commedia animata."
-            },
-            {
-                "ora": "00:55",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball se la prende con Carmen perche' gli corregge ogni suo comportamento, avendo sempre da ridire su tutto. Decide di affrontarla con la sua stessa arma: un dibattito."
-            },
-            {
-                "ora": "01:05",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Darwin, Gumball, Anais, papa' e mamma si lamentano delle loro giornate. Cosi' provano a mettersi nei panni dell'altro."
-            },
-            {
-                "ora": "01:15",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Nicole aveva una lista di sogni (mai realizzati) da ragazza. Invece di dare la lista delle cose da fare a Gumball e Darwin, da' loro la lista dei sogni."
-            },
-            {
-                "ora": "01:25",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Mamma Nicole diventa l'impiegata del mese, in ufficio. Entusiasta, torna a casa e da' sfogo alla sua euforia. Papa' Richard si sente trascurato."
-            },
-            {
-                "ora": "01:40",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Mamma, papa', Anais, Gumball e Darwin, per l'attesissima anteprima del film \"Odissea Stellare"
-            },
-            {
-                "ora": "01:50",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "In questo episodio, vari personaggi raccontano le loro vicissitudini quotidiane cantando."
-            },
-            {
-                "ora": "02:00",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "I vecchi pupazzi Frank, Howdy e Grady si vendicano con Gumball e Darwin per essere stati abbandonati in soffitta. Prenderanno vita e ne combineranno di tutti i colori."
-            },
-            {
-                "ora": "02:10",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball, un gatto di 12 anni, e il suo amico Darwin, un pesce rosso, vivono avventure al limite della follia, in questa stravagante commedia animata."
-            },
             {
                 "ora": "02:20",
                 "titolo": "Lo straordinario mondo di Gumball",
@@ -933,39 +883,64 @@
                 "ora": "02:30",
                 "titolo": "Lo straordinario mondo di Gumball",
                 "descrizione": "Corneille sfida un energumeno per amore dell'infermiera anche a costo di rimetterci la salute."
+            },
+            {
+                "ora": "02:40",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Nasce Anais ed e' subito guerra aperta con Darwin e Gumball."
+            },
+            {
+                "ora": "02:50",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Tobias vuole assolutamente diventare il miglior amico di Gumball e arriva al punto di progettare l'eliminazione fisica dei suoi amici piu' cari per riuscire nell'intento."
+            },
+            {
+                "ora": "03:05",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Arriva il giorno in cui limitarsi letteralmente a vegetare e Gumball e' deciso a rispettarlo, anche quando l'universo intero si coalizza contro di lui."
+            },
+            {
+                "ora": "03:15",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Dai Watterson arriva in visita Frankie, il padre di Richard, e l'accoglienza non certo e' tra le migliori, al punto da convincerlo a togliere il disturbo."
+            },
+            {
+                "ora": "03:25",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball, un gatto di 12 anni, e il suo amico Darwin, un pesce rosso, vivono avventure al limite della follia, in questa stravagante commedia animata."
+            },
+            {
+                "ora": "03:35",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball e Darwin non sanno piu' come evitare un loro vecchio vicino del quale non conoscono il nome e decidono di scorprirlo per uscire dall'imbarazzo."
+            },
+            {
+                "ora": "03:45",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball e il preside fanno il patto di parlare dei loro problemi con le rispettive ragazze."
+            },
+            {
+                "ora": "03:55",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Palloncino ha perso la fede nell'umanita' e vede il mondo in bianco e nero. Gumball riportera' i colori cantando."
+            },
+            {
+                "ora": "04:05",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Un gruppo di ragazzi resta bloccato nella scuola dopo una festa di beneficenza per i loro genitori. Gumball viene eletto come leader, ma succede il caos."
+            },
+            {
+                "ora": "04:15",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Per aiutarlo ad avere una vita emozionante, Gumball convince Clayton a trasformarsi nelle altre persone, ma la situazione sfugge di mano."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "K2",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:50",
-                "titolo": "Lo zoo degli Irwin",
-                "descrizione": "La famiglia Irwin si occupa di più di 1200 animali dell'Australia Zoo di Beerwah e supervisiona l'ospedale faunistico più grande al mondo."
-            },
-            {
-                "ora": "00:40",
-                "titolo": "Il mio gatto è in cima all'albero!",
-                "descrizione": "1' Stagione Ep.4 - Play-Play - Shaun si reca a La Conner per salvare Play-Play, il cui proprietario assiste ansioso 20 metri più giù. Nel frattempo, Tom è chiamato ad affrontare una missione in tarda notte."
-            },
-            {
-                "ora": "01:00",
-                "titolo": "I Dalton",
-                "descrizione": "1' Stagione Ep.11 - Le divertenti vicende di una gang di antieroi costituita dai fratelli Joe, William, Jack e Averell Dalton, noti avversari del leggendario Lucky Luke."
-            },
-            {
-                "ora": "01:20",
-                "titolo": "I Dalton",
-                "descrizione": "1' Stagione Ep.12 - Le divertenti vicende di una gang di antieroi costituita dai fratelli Joe, William, Jack e Averell Dalton, noti avversari del leggendario Lucky Luke."
-            },
-            {
-                "ora": "01:40",
-                "titolo": "Zig & Sharko",
-                "descrizione": "2' Stagione Ep.13 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
-            },
             {
                 "ora": "02:00",
                 "titolo": "Zig & Sharko",
@@ -1000,49 +975,39 @@
                 "ora": "04:10",
                 "titolo": "Zig & Sharko",
                 "descrizione": "2' Stagione Ep.18 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "04:30",
+                "titolo": "Zig & Sharko",
+                "descrizione": "2' Stagione Ep.19 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "04:55",
+                "titolo": "Zig & Sharko",
+                "descrizione": "2' Stagione Ep.20 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "05:15",
+                "titolo": "I Dalton",
+                "descrizione": "1' Stagione Ep.15 - Le divertenti vicende di una gang di antieroi costituita dai fratelli Joe, William, Jack e Averell Dalton, noti avversari del leggendario Lucky Luke."
+            },
+            {
+                "ora": "05:35",
+                "titolo": "I Dalton",
+                "descrizione": "1' Stagione Ep.16 - Le divertenti vicende di una gang di antieroi costituita dai fratelli Joe, William, Jack e Averell Dalton, noti avversari del leggendario Lucky Luke."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Porta A Porta",
+                "descrizione": "Giunto alla trentunesima edizione, il programma di Bruno Vespa offre al pubblico grandi novità, pur confermando la linea editoriale legata agli avvenimenti della politica, come ai grandi fatti di cronaca e alle mutazioni della società."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Rai Gulp",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:35",
-                "titolo": "Spike Team",
-                "descrizione": "Non è solo Madame che minaccia le Spike. La gang di Justin punta su Julio, fratello di Jo, e facendo leva sulla sua passione per le moto lo incastra in un finto furto. Solo grazie alla risoluta azione di Susan, le ragazze e gli Spiker riescono a sventare il colpo e a liberare Julio da una difficilissima situazione. Alla fine dell'avventura, Susan trova la sua pietra, simbolo di equilibrio, la dote essenziale per una buona palleggiatrice della squadra."
-            },
-            {
-                "ora": "01:05",
-                "titolo": "Gormiti",
-                "descrizione": "Ao-ki si reca nella foresta per meditare mentre Trek, Riff, Ikor e Eron restano nella torre. Nonostante le raccomandazioni di Ao-ki, decidono di evocare i Gormiti per organizzare un torneo tra di essi e determinare quale sia il più forte. Voidus percepisce il picco di energia nella Torre causato dall'evocazione dei Gormiti e invia Gredd a indagare. Ao-ki fa ritorno alla Torre seguita di nascosto da Gredd e scopre i quattro araldi e Gormiti intenti a discutere sul torneo. Gormiti e araldi scacciano Gredd attaccandolo tutti insieme."
-            },
-            {
-                "ora": "01:10",
-                "titolo": "Gormiti",
-                "descrizione": "Gli Araldi grazie ad Ao-ki incontrano per la prima volta le Hyperbeast, se stessi in versione animale, e per imparare a cavalcarle devono creare un legame con le bestie. Con l'aiuto delle Hyperbeast cercano di raggiungere il Regno del Ghiaccio dove si trova un frammento di Elestar. Nel frattempo, i Darkans approfittano della situazione e attaccano la Torre."
-            },
-            {
-                "ora": "01:30",
-                "titolo": "La famiglia Skrokkiazeppi",
-                "descrizione": "Mentre i genitori vanno per la prima volta in un ristorante, Nonna Cikuta deve fare da troll-sitter e si cimenta in una gara di lancio dell'ascia con i nipoti. Palla di Pus si rifugia dalla portinaia e in un primo momento sembra deciso a restare con lei. Ma con un trucco, Ortika riesce a fargli cambiare idea."
-            },
-            {
-                "ora": "01:35",
-                "titolo": "La famiglia Skrokkiazeppi",
-                "descrizione": "Ortika deve sottoporsi a un rito di passaggio attraverso il quale i giovani troll diventano maggiorenni e che consiste nel cacciare un essere umano a colpi di clava. Ortika non intende farlo, ma non sa come dirlo ai suoi famigliari, per non deluderli."
-            },
-            {
-                "ora": "01:55",
-                "titolo": "Il mondo di Karma",
-                "descrizione": "Karma è entusiasta di dormire fuori per la prima volta, ma il modo in cui gli amici parlano dei suoi capelli la fa sentire una outsider. La mamma la incoraggia ad essere orgogliosa dei suoi capelli e a dire ai suoi amici di trovare modi più rispettosi per parlare delle differenze."
-            },
-            {
-                "ora": "02:00",
-                "titolo": "Il mondo di Karma",
-                "descrizione": "Le parole sono venute sempre facili a Karma... fino ad ora! Mentre partecipa a un concorso di poesia aperto a tutta la città, Karma si scontra con il suo primo blocco dello scrittore. Messi da parte tutto ciò che non riguarda la scrittura nel tentativo ossessivo di risolvere il suo blocco, impara che è bene pensare ad altre cose, e trova il modo di tornare a scrivere per se stessa, non per il concorso."
-            },
             {
                 "ora": "02:20",
                 "titolo": "Super Spike Ball",
@@ -1067,39 +1032,49 @@
                 "ora": "03:20",
                 "titolo": "I Puffi - La nuova serie",
                 "descrizione": "Vanitoso, dopo l'ennesimo scherzo di Burlone, decide di dargli una lezione."
+            },
+            {
+                "ora": "03:25",
+                "titolo": "I Puffi - La nuova serie",
+                "descrizione": "Per sfuggire alle ire di Grande Puffo, dopo avergli rotto il cannocchiale, Forzuto e Fifone si nascondono travestendosi da puffe."
+            },
+            {
+                "ora": "03:50",
+                "titolo": "Le tre moschettiere",
+                "descrizione": "Un giovane infiltrato a corte sostiene di essere un parente prossimo di Re Luigi, e vorrebbe ottenere un'udienza, senza successo. D'Artagnan decide di aiutarlo e di concedergli il beneficio del dubbio, e seguendo il suo istinto di certo non sbaglierà: il giovane è davvero parente del sovrano."
+            },
+            {
+                "ora": "03:55",
+                "titolo": "Le tre moschettiere",
+                "descrizione": "Il famoso Rustignac approda in città fingendosi un giovane italiano, e cambiando cognome, con un intento malvagio a discapito del re. Sarà compito delle moschettiere scoprire le sue malefatte e cacciarlo via."
+            },
+            {
+                "ora": "04:15",
+                "titolo": "Winx Club",
+                "descrizione": "Ad Alfea, Sky sta preparando un romantico picnic sotto le stelle per Bloom. Ma la sua sorpresa salta completamente, perché le Winx devono partire per una nuova missione: dovranno salvare Peripla, la stella-nave, da Obscurum e gli Staryummy, fingendosi popstar intergalattiche. Intanto, Valtor crea un buco nero, con cui intende risucchiare l'astronave degli Specialisti..."
+            },
+            {
+                "ora": "04:40",
+                "titolo": "OGM Travels",
+                "descrizione": "Elvis è riuscito a vendere ad una famiglia di Morfoidi un tour al Polo Nord, promettendo loro che troveranno una temperatura estremamente mite, ha infatti una soluzione infallibile per tenerle al caldo! In realtà non ha nessuna soluzione. La OGM travels rischia di fare davvero una pessima figura e chiudere i battenti. Serve un piano, e Olivia ce l'ha."
+            },
+            {
+                "ora": "04:45",
+                "titolo": "OGM Travels",
+                "descrizione": "Olivia e Elvis, gasatissimi, stanno lavorando a un progetto segreto, anzi segretissimo: uno scivolo acquatico sul retro dell'agenzia. È così segreto che nessuno può vederlo, nemmeno Johnson. E hanno trovato anche una fonte di acqua inesauribile!"
+            },
+            {
+                "ora": "05:05",
+                "titolo": "Food Wizards",
+                "descrizione": "Riunione di famiglia per Ham, che invita Ginny e PC… sulla spiaggia! Ma la famiglia di Ham ama mangiare pesante: un bel problema per il Cugino Magro, innamorato dell'amica Stilelibero! I Food Wizards lo aiuteranno a star meglio… e a conquistarla!"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Frisbee",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:15",
-                "titolo": "Desperate House Cats",
-                "descrizione": "1' Stagione Ep.2 - Pazzo da legare - Vi siete mai chiesti cosa fanno i vostri amici felini quando non siete a casa? \"Desperate House Cats\" vi dà la possibilità di scoprire la vita segreta dei gatti."
-            },
-            {
-                "ora": "00:40",
-                "titolo": "Desperate House Cats",
-                "descrizione": "1' Stagione Ep.3 - Se gli sguardi potessero uccidere - Vi siete mai chiesti cosa fanno i vostri amici felini quando non siete a casa? \"Desperate House Cats\" vi dà la possibilità di scoprire la vita segreta dei gatti."
-            },
-            {
-                "ora": "01:05",
-                "titolo": "Floopaloo",
-                "descrizione": "2' Stagione Ep.9 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
-            },
-            {
-                "ora": "01:25",
-                "titolo": "Floopaloo",
-                "descrizione": "2' Stagione Ep.10 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
-            },
-            {
-                "ora": "01:45",
-                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
-                "descrizione": "3' Stagione Ep.9 - Oggy si prende cura di Piya, figlia dei suoi amici indiani"
-            },
             {
                 "ora": "02:05",
                 "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
@@ -1134,24 +1109,39 @@
                 "ora": "04:15",
                 "titolo": "Oggy Oggy",
                 "descrizione": "1' Stagione Ep.2 - Gioco, avventura e amici rendono la vita di Oggy Oggy divertente! Curioso e audace, questo adorabile gattino è sempre pronto ad aiutare un amico e a vivere nuove esperienze."
+            },
+            {
+                "ora": "04:35",
+                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
+                "descrizione": "3' Stagione Ep.13 - Oggy si prende cura di Piya, figlia dei suoi amici indiani"
+            },
+            {
+                "ora": "04:55",
+                "titolo": "Oggy e i maledetti scarafaggi",
+                "descrizione": "5' Stagione Ep.1 - I buffi dispetti di un gruppo di scatenati scarafaggi ai danni del gatto Oggy, costretto ogni giorno a subirne di tutti i colori."
+            },
+            {
+                "ora": "05:15",
+                "titolo": "Oggy e i maledetti scarafaggi",
+                "descrizione": "5' Stagione Ep.2 - I buffi dispetti di un gruppo di scatenati scarafaggi ai danni del gatto Oggy, costretto ogni giorno a subirne di tutti i colori."
+            },
+            {
+                "ora": "05:35",
+                "titolo": "Oggy e i maledetti scarafaggi",
+                "descrizione": "5' Stagione Ep.3 - I buffi dispetti di un gruppo di scatenati scarafaggi ai danni del gatto Oggy, costretto ogni giorno a subirne di tutti i colori."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Porta A Porta",
+                "descrizione": "Giunto alla trentunesima edizione, il programma di Bruno Vespa offre al pubblico grandi novità, pur confermando la linea editoriale legata agli avvenimenti della politica, come ai grandi fatti di cronaca e alle mutazioni della società."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "DMAX",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:35",
-                "titolo": "Mr. Oro: tutto ha un prezzo",
-                "descrizione": "Mr. Oro guida rete di compro oro nel nord Italia. Ogni giorno nuove trattative e colpi di scena"
-            },
-            {
-                "ora": "01:10",
-                "titolo": "Mr. Oro: tutto ha un prezzo",
-                "descrizione": "Mr. Oro guida rete di compro oro nel nord Italia. Ogni giorno nuove trattative e colpi di scena"
-            },
             {
                 "ora": "01:45",
                 "titolo": "L'occhio del ciclone",
@@ -1201,9 +1191,19 @@
                 "ora": "21:20",
                 "titolo": "Ticket to Paradise",
                 "descrizione": "Wren Butler accompagna la sua amica Lily in gita a Bali: si sono entrambe da poco laureate all'Univeristà di Chicago e il viaggio è una sorta di premio e di pausa, prima di riprendere la vita e inserirsi nella società. Ma a Bali Lily incontra un ragazzo del posto, se en innamora e decide su due piedi di sposarlo. I suoi genitori venuti a conoscenza della decisione che appare davvero improvvida, si precipitano a Bali e, nonostante siano divorziati, fanno squadra nel tentativo di impedire che la loro figlia commetta il loro medesimo errore."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Omicidio all'italiana",
+                "descrizione": "Uno strano omicidio sconvolge la vita sempre uguale di Acitrullo, sperduta località dell'entroterra abruzzese. Quale occasione migliore per il sindaco e il suo vice per far uscire dall'anonimato il paesino? Oltre alle forze dell'ordine infatti, accorrerà sul posto una troupe del famigerato programma televisivo \"Chi l'acciso?"
+            },
+            {
+                "ora": "23:35",
+                "titolo": "LA7 DOC",
+                "descrizione": "Un viaggio alla scoperta dei più grandi misteri del nostro tempo"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Rai Sport",
@@ -1270,94 +1270,79 @@
                 "descrizione": "Enrico Brignano ironizza su vizi, pregi e difetti sue e delle persone a lui piu' vicine."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sportitalia",
         "categoria": "Digitale Terrestre",
         "programmi": [
             {
-                "ora": "21:33",
-                "titolo": "Realpolitik",
-                "descrizione": "Tommaso Labate conduce il nuovo programma di informazione. Sondaggi, retroscena e analisi in tempo reale, per raccontare la politica e l'attualita' senza filtri!"
+                "ora": "00:20",
+                "titolo": "Hockey Su Pista: Camp. Italiano Maschile",
+                "descrizione": "Hockey su Pista: Camp. Italiano Maschile 2026 Finale gara 2: Hockey Bassano 1954 vs Hockey Trissino"
+            },
+            {
+                "ora": "00:05",
+                "titolo": "Affari a quattro ruote",
+                "descrizione": "Mike Brewer e Marc 'Elvis' Priestley restaurano e rivendono auto iconiche."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Sportitaliamercato",
+                "descrizione": "Il programma tratta le vicende del calciomercato sia nella sessione estiva che in quella invernale e va in onda alle ore 23.00 dal lunedì al venerdì"
+            },
+            {
+                "ora": "00:10",
+                "titolo": "WTA 1000 Roma 2026 - Ep. 52 - Aryna Sabalenka vs Sorana Cirstea WTA 1000 Roma 2026 # 1",
+                "descrizione": "Aryna Sabalenka vs Sorana Cirstea WTA 1000 Roma 2026"
+            },
+            {
+                "ora": "23:30",
+                "titolo": "Chef In Campo!",
+                "descrizione": "La cucina da sempre un argomento che attrae. Chi di noi davanti ai fornelli non si sentito almeno per una volta uno chef famoso? Chef in Campo ha deciso di mettere alla prova sportivi, conduttori tv, showgirl e comici Affiancati dallo chef Andrea Palmieri e dal nostro conduttore Anthony Peth."
+            },
+            {
+                "ora": "00:20",
+                "titolo": "La notte con Radio Italia",
+                "descrizione": "La colonna sonora ideale per chi resta sveglio con noi"
+            },
+            {
+                "ora": "23:05",
+                "titolo": "Quella Notte A Miami...",
+                "descrizione": "All'indomani della sconfitta inflitta a Sonny Liston nel 1964, il giovane pugile Cassius Clay incontra Malcolm X, Sam Cooke e Jim Brown. Durante il corso della serata, finiranno per cambiare la storia degli Stati Uniti del sud e della segregazione razziale, definendo l'idea di un nuovo mondo per loro e per la loro comunità."
+            },
+            {
+                "ora": "21:50",
+                "titolo": "Unknown - Senza Identità",
+                "descrizione": "A Berlino per un congresso, il Dott. Martin Harris è vittima di un incidente stradale a bordo di un taxi. Dopo quattro giorni di coma si risveglia, per scoprire che un altro uomo ha assunto la sua identità e che persino sua moglie, in viaggio con lui, afferma di non conoscerlo. Ignorato dalle autorità e braccato da un misterioso assassino, Martin trova nella tassista del suo incidente un alleato per scavare a fondo in un mistero che mette in gioco la sua identità e la sua sanità mentale."
+            },
+            {
+                "ora": "20:30",
+                "titolo": "Calcio: Nazionale - Amichevole: Lussemburgo - Italia",
+                "descrizione": "Prima amichevole di giugno per la Nazionale italiana: gli Azzurri, guidati per l'occasione da Silvio Baldini, affrontano il Lussemburgo."
             },
             {
                 "ora": "21:20",
-                "titolo": "Ticket to Paradise",
-                "descrizione": "Wren Butler accompagna la sua amica Lily in gita a Bali: si sono entrambe da poco laureate all'Univeristà di Chicago e il viaggio è una sorta di premio e di pausa, prima di riprendere la vita e inserirsi nella società. Ma a Bali Lily incontra un ragazzo del posto, se en innamora e decide su due piedi di sposarlo. I suoi genitori venuti a conoscenza della decisione che appare davvero improvvida, si precipitano a Bali e, nonostante siano divorziati, fanno squadra nel tentativo di impedire che la loro figlia commetta il loro medesimo errore."
+                "titolo": "Mare fuori",
+                "descrizione": "L'Istituto di Pena Minorile di Napoli è a picco sul mare e ospita settanta detenuti: 50 maschi e 20 femmine. Quando entrano i ragazzi hanno sempre meno di 18 anni e lo fanno perché hanno \"sbagliato\". Questa serie racconta le loro storie."
             },
             {
-                "ora": "23:35",
-                "titolo": "Omicidio all'italiana",
-                "descrizione": "Uno strano omicidio sconvolge la vita sempre uguale di Acitrullo, sperduta località dell'entroterra abruzzese. Quale occasione migliore per il sindaco e il suo vice per far uscire dall'anonimato il paesino? Oltre alle forze dell'ordine infatti, accorrerà sul posto una troupe del famigerato programma televisivo \"Chi l'acciso?"
+                "ora": "21:15",
+                "titolo": "Chi L'Ha Visto?",
+                "descrizione": "$2b"
             },
             {
-                "ora": "23:35",
-                "titolo": "LA7 DOC",
-                "descrizione": "Un viaggio alla scoperta dei più grandi misteri del nostro tempo"
-            },
-            {
-                "ora": "23:20",
-                "titolo": "Italia's Got Talent",
-                "descrizione": "Una raccolta delle migliori esibizioni sul palco di Italia's Got Talent."
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Tutto suo padre... e anche un po' sua madre",
-                "descrizione": "Enrico Brignano ironizza su vizi, pregi e difetti sue e delle persone a lui piu' vicine."
-            },
-            {
-                "ora": "23:52",
-                "titolo": "Dungeons & Dragons - L'onore dei ladri",
-                "descrizione": "Un affascinante ladro e un gruppo di improbabili avventurieri realizzano il colpo del secolo recuperando una reliquia perduta. Ma le cose si mettono male quando il gruppo si imbatte nelle persone sbagliate."
-            },
-            {
-                "ora": "23:22",
-                "titolo": "Berlin Falling",
-                "descrizione": "Frank si è lasciato alle spalle la sua vita da soldato e vuole ricostruirsi una vita a Brandeburgo. Sta andando a trovare sua figlia Lily, dopo tanto tempo che non la vedeva. Mentre si ferma a una stazione di servizio, incontra Andreas, che ha bisogno di un passaggio per Berlino. Con riluttanza, Frank accetta di portare Andreas con sé, ignaro delle conseguenze."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "I tre giorni del Condor",
-                "descrizione": "Un ricercatore della CIA è l'unico superstite di una sezione di New York dell'organizzazione, sterminata da un gruppo di sicari. Con l'aiuto di Kathie sfugge agli assassini che lo braccano e scopre che dietro al complotto si nasconde la CIA stessa, un suo settore deviato."
-            },
-            {
-                "ora": "23:18",
-                "titolo": "Di Là Dal Fiume E Tra Gli Alberi - Versione Ridotta - Il Vento Di Alghero",
-                "descrizione": "Gemma Giorgini racconta il fascino di Alghero, vista come un'' isola nell'isola': un unicum in Sardegna per le sue particolarità."
-            },
-            {
-                "ora": "23:10",
-                "titolo": "Piccole Donne",
-                "descrizione": "Dopo la fine della guerra di secessione americana le sorelle March dovranno affrontare problemi economici, sentimentali e sociali. Tra tutte spicca la figura di Jo, determinata a trovare la propria libertà e indipendenza, spronando anche le sorelle a dare spazio al proprio talento, nonostante le rigide imposizioni della società di quel periodo."
-            },
-            {
-                "ora": "22:20",
-                "titolo": "Le libere donne",
-                "descrizione": "Ambientata tra Lucca e Viareggio durante la seconda guerra mondiale, la serie racconta la storia dello psichiatra e poeta Mario Tobino, medico dell’ospedale psichiatrico femminile di Maggiano dove è giunto alla fine del 1942 dopo essere stato congedato dal fronte libico. Con un approccio umano e non convenzionale, Tobino si confronta con i metodi rigidi e repressivi dell’istituzione, cercando invece di restituire dignità, ascolto e comprensione alle pazienti ricoverate, molte delle quali sono state internate ingiustamente o per aver manifestato un comportamento ritenuto troppo libero per l’epoca."
+                "ora": "21:33",
+                "titolo": "Realpolitik",
+                "descrizione": "Tommaso Labate conduce il nuovo programma di informazione. Sondaggi, retroscena e analisi in tempo reale, per raccontare la politica e l'attualita' senza filtri!"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport 24",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "00:30",
-                "titolo": "News Line",
-                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
-            },
-            {
-                "ora": "01:00",
-                "titolo": "News Line",
-                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
-            },
-            {
-                "ora": "01:30",
-                "titolo": "News Line",
-                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
-            },
             {
                 "ora": "02:00",
                 "titolo": "News Line",
@@ -1402,24 +1387,29 @@
                 "ora": "23:00",
                 "titolo": "Calciomercato - L'originale",
                 "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-            }
-        ],
-        "aggiornato": "22:35"
-    },
-    {
-        "canale": "Sky Sport Uno",
-        "categoria": "Sport",
-        "programmi": [
+            },
             {
                 "ora": "00:00",
                 "titolo": "Calciomercato - L'originale",
                 "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
             },
             {
-                "ora": "01:00",
-                "titolo": "Ljubo - L'uomo Salvato Dal Tennis - Ep. 1 - 1a parte",
-                "descrizione": "tennis. - Ljubo - L'uomo salvato dal tennis"
+                "ora": "00:00",
+                "titolo": "Lussemburgo - Italia Amichevoli...",
+                "descrizione": "Seguite tutte le partite di competizioni nazionali e internazionali di calcio maschile."
             },
+            {
+                "ora": "00:00",
+                "titolo": "Tennis Atp World Tour Masters 1000 Roma 2019 - Stag. 1 Ep. 11 - Tennis Atp World Tour Masters 1000 Roma 2019 Finale Djokovic/ Nadal 19/05/19",
+                "descrizione": "Roma 2019 Finale Djokovic/ Nadal 19/05/19 Tennis Atp World Tour Masters 1000 Roma 2019. - Tennis Atp World Tour Masters 1000 Roma 2019"
+            }
+        ],
+        "aggiornato": "00:22"
+    },
+    {
+        "canale": "Sky Sport Uno",
+        "categoria": "Sport",
+        "programmi": [
             {
                 "ora": "01:45",
                 "titolo": "Ljubo - L'uomo Salvato Dal Tennis - Ep. 2 - 2a parte",
@@ -1437,6 +1427,11 @@
             },
             {
                 "ora": "23:00",
+                "titolo": "Calciomercato - L'originale",
+                "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
+            },
+            {
+                "ora": "00:00",
                 "titolo": "Calciomercato - L'originale",
                 "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
             },
@@ -1469,19 +1464,19 @@
                 "ora": "23:05",
                 "titolo": "GP Monaco",
                 "descrizione": "Edizione n.73. 22 gran premi, 20 piloti e un solo obiettivo: diventare il nuovo campione del mondo! Ferrari in prima fila. Leclerc in pole position davanti a Sainz. TC: Vanzini-Gene'-Chinchero."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "GP Italia: Gara",
+                "descrizione": "Settimo appuntamento del mondiale 2026: al Mugello, in Italia, si accendono i motori per la gara della MotoGP. Telecronaca Guido Meda e Mauro Sanchini"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport Calcio",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "Lussemburgo - Italia Amichevoli...",
-                "descrizione": "Seguite tutte le partite di competizioni nazionali e internazionali di calcio maschile."
-            },
             {
                 "ora": "02:00",
                 "titolo": "UEFA Europa & Conference League Magazine",
@@ -1514,6 +1509,11 @@
             },
             {
                 "ora": "00:00",
+                "titolo": "Lussemburgo - Italia Amichevoli...",
+                "descrizione": "Seguite tutte le partite di competizioni nazionali e internazionali di calcio maschile."
+            },
+            {
+                "ora": "00:00",
                 "titolo": "Tennis Atp World Tour Masters 1000 Roma 2019 - Stag. 1 Ep. 11 - Tennis Atp World Tour Masters 1000 Roma 2019 Finale Djokovic/ Nadal 19/05/19",
                 "descrizione": "Roma 2019 Finale Djokovic/ Nadal 19/05/19 Tennis Atp World Tour Masters 1000 Roma 2019. - Tennis Atp World Tour Masters 1000 Roma 2019"
             },
@@ -1538,7 +1538,7 @@
                 "descrizione": "Edizione n.73. 22 gran premi, 20 piloti e un solo obiettivo: diventare il nuovo campione del mondo! Ferrari in prima fila. Leclerc in pole position davanti a Sainz. TC: Vanzini-Gene'-Chinchero."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport Tennis",
@@ -1605,22 +1605,12 @@
                 "descrizione": "Dall'Augusta National Golf Club di Augusta, Stati Uniti"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport F1",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "00:05",
-                "titolo": "Monaco 2017 - F1",
-                "descrizione": "Rombano i motori per la gara del Mondiale F1 2017. 20 le gare in programma, uno in meno dell'anno scorso. A Monte-Carlo partono in prima fila le Ferrari di Raikkonen e Vettel."
-            },
-            {
-                "ora": "01:05",
-                "titolo": "Monaco 2007 - F1",
-                "descrizione": "Sulla griglia di partenza in pole position c'e' la McLaren di Alonso, seguito dal compagno di scuderia Hamilton. Parte terza la Ferrari di Massa."
-            },
             {
                 "ora": "02:00",
                 "titolo": "Discover Kimi",
@@ -1670,19 +1660,24 @@
                 "ora": "00:00",
                 "titolo": "Calciomercato - L'originale",
                 "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Lussemburgo - Italia Amichevoli...",
+                "descrizione": "Seguite tutte le partite di competizioni nazionali e internazionali di calcio maschile."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Tennis Atp World Tour Masters 1000 Roma 2019 - Stag. 1 Ep. 11 - Tennis Atp World Tour Masters 1000 Roma 2019 Finale Djokovic/ Nadal 19/05/19",
+                "descrizione": "Roma 2019 Finale Djokovic/ Nadal 19/05/19 Tennis Atp World Tour Masters 1000 Roma 2019. - Tennis Atp World Tour Masters 1000 Roma 2019"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport Legend",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "22:55",
-                "titolo": "Bayern M. - Inter 2010",
-                "descrizione": "UEFA Champions League Story. - 22 Maggio 2010, al Santiago Bernabeu di Madrid, Inter e Bayern Monaco si sfidano nella finale di Champions League. Per i nerazzurri sara' il terzo titolo della storia"
-            },
             {
                 "ora": "00:45",
                 "titolo": "Golf Pgaet Telecom Italia Open 2006 - Ep. 4 - Golf Pgaet Telecom Italia Open 2006 4ga 07/05/06",
@@ -1737,24 +1732,19 @@
                 "ora": "22:15",
                 "titolo": "Turku",
                 "descrizione": "Tour Gold. - Le gare del World Athletics Continental Tour Gold."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Olimpia Milano - Brescia",
+                "descrizione": "Serie A. - Dopo le due partite di Brescia la serie, sull'1-1, si sposta al Forum a casa dell'Olimpia che ora puo' giocarsi in casa le proprie possibilita'. Telecronaca di Geri De Rosa e Andrea Meneghin."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport MotoGP",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "GP Italia: Gara",
-                "descrizione": "Settimo appuntamento del mondiale 2026: al Mugello, in Italia, si accendono i motori per la gara della Moto2. Telecronaca Triolo - Pasini"
-            },
-            {
-                "ora": "01:00",
-                "titolo": "Aragon",
-                "descrizione": "Il magazine di approfondimento sul lungo weekend della Superbike. Gli approfondimenti tecnici, i momenti di gara, le interviste agli addetti ai lavori e ai piloti, le immagini piu' belle."
-            },
             {
                 "ora": "01:55",
                 "titolo": "All On Red",
@@ -1804,24 +1794,24 @@
                 "ora": "00:00",
                 "titolo": "Tennis Atp World Tour Masters 1000 Roma 2019 - Stag. 1 Ep. 11 - Tennis Atp World Tour Masters 1000 Roma 2019 Finale Djokovic/ Nadal 19/05/19",
                 "descrizione": "Roma 2019 Finale Djokovic/ Nadal 19/05/19 Tennis Atp World Tour Masters 1000 Roma 2019. - Tennis Atp World Tour Masters 1000 Roma 2019"
+            },
+            {
+                "ora": "22:15",
+                "titolo": "Turku",
+                "descrizione": "Tour Gold. - Le gare del World Athletics Continental Tour Gold."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Olimpia Milano - Brescia",
+                "descrizione": "Serie A. - Dopo le due partite di Brescia la serie, sull'1-1, si sposta al Forum a casa dell'Olimpia che ora puo' giocarsi in casa le proprie possibilita'. Telecronaca di Geri De Rosa e Andrea Meneghin."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport Basket",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Olimpia Milano - Brescia",
-                "descrizione": "Serie A. - Dopo le due partite di Brescia la serie, sull'1-1, si sposta al Forum a casa dell'Olimpia che ora puo' giocarsi in casa le proprie possibilita'. Telecronaca di Geri De Rosa e Andrea Meneghin."
-            },
-            {
-                "ora": "00:55",
-                "titolo": "Basket Room - Ep. 51 - Basket Room Nba Finals 02/06/2026",
-                "descrizione": "Un ospite d'eccezione, Marco Belinelli, campione NBA nel 2014 con gli Spurs, per parlare delle finali NBA che stanno per partire. In studio: Bonfardeci, Bevacqua, Soragna"
-            },
             {
                 "ora": "01:30",
                 "titolo": "New York Liberty - Toronto Tempo",
@@ -1858,6 +1848,11 @@
                 "descrizione": "Tour Gold. - Le gare del World Athletics Continental Tour Gold."
             },
             {
+                "ora": "23:00",
+                "titolo": "Olimpia Milano - Brescia",
+                "descrizione": "Serie A. - Dopo le due partite di Brescia la serie, sull'1-1, si sposta al Forum a casa dell'Olimpia che ora puo' giocarsi in casa le proprie possibilita'. Telecronaca di Geri De Rosa e Andrea Meneghin."
+            },
+            {
                 "ora": "00:30",
                 "titolo": "Rally Wrc - Ep. 37 - Rally Wrc 2026 Giappone Live Stage 4 31/05/2026",
                 "descrizione": "Championship. - Segui le gare del World Rally Championship."
@@ -1871,24 +1866,19 @@
                 "ora": "22:00",
                 "titolo": "GP Italia: Gara",
                 "descrizione": "Settimo appuntamento del mondiale 2026: al Mugello, in Italia, si accendono i motori per la gara della MotoGP. Telecronaca Guido Meda e Mauro Sanchini"
+            },
+            {
+                "ora": "21:05",
+                "titolo": "Giorno 4",
+                "descrizione": "Dall'Augusta National Golf Club di Augusta, Stati Uniti"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport Arena",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "00:30",
-                "titolo": "This Is Padel 2026 Ep.6 22/05/2026",
-                "descrizione": "I protagonisti, le sfide e gli eventi nazionali e internazionali in collegamento con i circoli di tutta Italia. Gli eventi del padel dilettantistico e le analisi dei materiali tecnici all'avanguardia."
-            },
-            {
-                "ora": "01:00",
-                "titolo": "Calciomercato - L'originale",
-                "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-            },
             {
                 "ora": "01:55",
                 "titolo": "Clermont - Racing 92",
@@ -1938,19 +1928,24 @@
                 "ora": "23:05",
                 "titolo": "GP Monaco",
                 "descrizione": "Edizione n.73. 22 gran premi, 20 piloti e un solo obiettivo: diventare il nuovo campione del mondo! Ferrari in prima fila. Leclerc in pole position davanti a Sainz. TC: Vanzini-Gene'-Chinchero."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "GP Italia: Gara",
+                "descrizione": "Settimo appuntamento del mondiale 2026: al Mugello, in Italia, si accendono i motori per la gara della MotoGP. Telecronaca Guido Meda e Mauro Sanchini"
+            },
+            {
+                "ora": "21:05",
+                "titolo": "Giorno 4",
+                "descrizione": "Dall'Augusta National Golf Club di Augusta, Stati Uniti"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport Max",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "00:30",
-                "titolo": "Rally Wrc - Ep. 37 - Rally Wrc 2026 Giappone Live Stage 4 31/05/2026",
-                "descrizione": "Championship. - Segui le gare del World Rally Championship."
-            },
             {
                 "ora": "02:00",
                 "titolo": "Juventus - Galatasaray",
@@ -1997,6 +1992,11 @@
                 "descrizione": "Serie A. - Dopo le due partite di Brescia la serie, sull'1-1, si sposta al Forum a casa dell'Olimpia che ora puo' giocarsi in casa le proprie possibilita'. Telecronaca di Geri De Rosa e Andrea Meneghin."
             },
             {
+                "ora": "00:30",
+                "titolo": "Rally Wrc - Ep. 37 - Rally Wrc 2026 Giappone Live Stage 4 31/05/2026",
+                "descrizione": "Championship. - Segui le gare del World Rally Championship."
+            },
+            {
                 "ora": "23:05",
                 "titolo": "GP Monaco",
                 "descrizione": "Edizione n.73. 22 gran premi, 20 piloti e un solo obiettivo: diventare il nuovo campione del mondo! Ferrari in prima fila. Leclerc in pole position davanti a Sainz. TC: Vanzini-Gene'-Chinchero."
@@ -2007,22 +2007,12 @@
                 "descrizione": "Settimo appuntamento del mondiale 2026: al Mugello, in Italia, si accendono i motori per la gara della MotoGP. Telecronaca Guido Meda e Mauro Sanchini"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport Mix",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:05",
-                "titolo": "Preliminari 2026 Regata Sardegna 3a Giornata",
-                "descrizione": "Giornata America's Cup. - A Cagliari, gli AC40 competono nelle regate preliminari della 38.a Louis Vuitton America's Cup. Tc: Guido Meda, Giovanni Bruno, Flavia Tartaglini."
-            },
-            {
-                "ora": "01:00",
-                "titolo": "The Boat Show",
-                "descrizione": "Regate, grandi eventi, saloni nautici e tutto il nuovo che arriva dal mondo della cantieristica, a vela e a motore. In ogni occasione, un personaggio del mondo della nautica si racconta al pubblico."
-            },
             {
                 "ora": "01:30",
                 "titolo": "Sinner, Il Maestro: Atp Finals 2025... - Ep. 28 - Sinner, Il Maestro: Atp Finals 2025 26/12/2025",
@@ -2072,9 +2062,19 @@
                 "ora": "23:00",
                 "titolo": "Olimpia Milano - Brescia",
                 "descrizione": "Serie A. - Dopo le due partite di Brescia la serie, sull'1-1, si sposta al Forum a casa dell'Olimpia che ora puo' giocarsi in casa le proprie possibilita'. Telecronaca di Geri De Rosa e Andrea Meneghin."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "Rally Wrc - Ep. 37 - Rally Wrc 2026 Giappone Live Stage 4 31/05/2026",
+                "descrizione": "Championship. - Segui le gare del World Rally Championship."
+            },
+            {
+                "ora": "23:05",
+                "titolo": "GP Monaco",
+                "descrizione": "Edizione n.73. 22 gran premi, 20 piloti e un solo obiettivo: diventare il nuovo campione del mondo! Ferrari in prima fila. Leclerc in pole position davanti a Sainz. TC: Vanzini-Gene'-Chinchero."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport Golf",
@@ -2141,7 +2141,7 @@
                 "descrizione": "Dall'Augusta National Golf Club di Augusta, Stati Uniti"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport 251",
@@ -2149,16 +2149,6 @@
         "programmi": [
             {
                 "ora": "00:00",
-                "titolo": "Calciomercato - L'originale",
-                "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Lussemburgo - Italia Amichevoli...",
-                "descrizione": "Seguite tutte le partite di competizioni nazionali e internazionali di calcio maschile."
-            },
-            {
-                "ora": "00:00",
                 "titolo": "Tennis Atp World Tour Masters 1000 Roma 2019 - Stag. 1 Ep. 11 - Tennis Atp World Tour Masters 1000 Roma 2019 Finale Djokovic/ Nadal 19/05/19",
                 "descrizione": "Roma 2019 Finale Djokovic/ Nadal 19/05/19 Tennis Atp World Tour Masters 1000 Roma 2019. - Tennis Atp World Tour Masters 1000 Roma 2019"
             },
@@ -2206,9 +2196,19 @@
                 "ora": "23:45",
                 "titolo": "Real Madrid - FC Bayern Monaco",
                 "descrizione": "Champions League. - Nei 14 precedenti al Santiago Bernabeu tra coppa Campioni e Champions League, Real Madrid in vantaggio 10 a 2, per il resto 2 pareggi. TC: Compagnoni-Marchegiani"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport 252",
@@ -2216,16 +2216,6 @@
         "programmi": [
             {
                 "ora": "00:00",
-                "titolo": "Calciomercato - L'originale",
-                "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Lussemburgo - Italia Amichevoli...",
-                "descrizione": "Seguite tutte le partite di competizioni nazionali e internazionali di calcio maschile."
-            },
-            {
-                "ora": "00:00",
                 "titolo": "Tennis Atp World Tour Masters 1000 Roma 2019 - Stag. 1 Ep. 11 - Tennis Atp World Tour Masters 1000 Roma 2019 Finale Djokovic/ Nadal 19/05/19",
                 "descrizione": "Roma 2019 Finale Djokovic/ Nadal 19/05/19 Tennis Atp World Tour Masters 1000 Roma 2019. - Tennis Atp World Tour Masters 1000 Roma 2019"
             },
@@ -2273,9 +2263,19 @@
                 "ora": "23:45",
                 "titolo": "Real Madrid - FC Bayern Monaco",
                 "descrizione": "Champions League. - Nei 14 precedenti al Santiago Bernabeu tra coppa Campioni e Champions League, Real Madrid in vantaggio 10 a 2, per il resto 2 pareggi. TC: Compagnoni-Marchegiani"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport 253",
@@ -2283,16 +2283,6 @@
         "programmi": [
             {
                 "ora": "00:00",
-                "titolo": "Calciomercato - L'originale",
-                "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Lussemburgo - Italia Amichevoli...",
-                "descrizione": "Seguite tutte le partite di competizioni nazionali e internazionali di calcio maschile."
-            },
-            {
-                "ora": "00:00",
                 "titolo": "Tennis Atp World Tour Masters 1000 Roma 2019 - Stag. 1 Ep. 11 - Tennis Atp World Tour Masters 1000 Roma 2019 Finale Djokovic/ Nadal 19/05/19",
                 "descrizione": "Roma 2019 Finale Djokovic/ Nadal 19/05/19 Tennis Atp World Tour Masters 1000 Roma 2019. - Tennis Atp World Tour Masters 1000 Roma 2019"
             },
@@ -2340,9 +2330,19 @@
                 "ora": "23:45",
                 "titolo": "Real Madrid - FC Bayern Monaco",
                 "descrizione": "Champions League. - Nei 14 precedenti al Santiago Bernabeu tra coppa Campioni e Champions League, Real Madrid in vantaggio 10 a 2, per il resto 2 pareggi. TC: Compagnoni-Marchegiani"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport 254",
@@ -2350,16 +2350,6 @@
         "programmi": [
             {
                 "ora": "00:00",
-                "titolo": "Calciomercato - L'originale",
-                "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Lussemburgo - Italia Amichevoli...",
-                "descrizione": "Seguite tutte le partite di competizioni nazionali e internazionali di calcio maschile."
-            },
-            {
-                "ora": "00:00",
                 "titolo": "Tennis Atp World Tour Masters 1000 Roma 2019 - Stag. 1 Ep. 11 - Tennis Atp World Tour Masters 1000 Roma 2019 Finale Djokovic/ Nadal 19/05/19",
                 "descrizione": "Roma 2019 Finale Djokovic/ Nadal 19/05/19 Tennis Atp World Tour Masters 1000 Roma 2019. - Tennis Atp World Tour Masters 1000 Roma 2019"
             },
@@ -2407,9 +2397,19 @@
                 "ora": "23:45",
                 "titolo": "Real Madrid - FC Bayern Monaco",
                 "descrizione": "Champions League. - Nei 14 precedenti al Santiago Bernabeu tra coppa Campioni e Champions League, Real Madrid in vantaggio 10 a 2, per il resto 2 pareggi. TC: Compagnoni-Marchegiani"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport 255",
@@ -2417,16 +2417,6 @@
         "programmi": [
             {
                 "ora": "00:00",
-                "titolo": "Calciomercato - L'originale",
-                "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Lussemburgo - Italia Amichevoli...",
-                "descrizione": "Seguite tutte le partite di competizioni nazionali e internazionali di calcio maschile."
-            },
-            {
-                "ora": "00:00",
                 "titolo": "Tennis Atp World Tour Masters 1000 Roma 2019 - Stag. 1 Ep. 11 - Tennis Atp World Tour Masters 1000 Roma 2019 Finale Djokovic/ Nadal 19/05/19",
                 "descrizione": "Roma 2019 Finale Djokovic/ Nadal 19/05/19 Tennis Atp World Tour Masters 1000 Roma 2019. - Tennis Atp World Tour Masters 1000 Roma 2019"
             },
@@ -2474,9 +2464,19 @@
                 "ora": "23:45",
                 "titolo": "Real Madrid - FC Bayern Monaco",
                 "descrizione": "Champions League. - Nei 14 precedenti al Santiago Bernabeu tra coppa Campioni e Champions League, Real Madrid in vantaggio 10 a 2, per il resto 2 pareggi. TC: Compagnoni-Marchegiani"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport 256",
@@ -2484,16 +2484,6 @@
         "programmi": [
             {
                 "ora": "00:00",
-                "titolo": "Calciomercato - L'originale",
-                "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Lussemburgo - Italia Amichevoli...",
-                "descrizione": "Seguite tutte le partite di competizioni nazionali e internazionali di calcio maschile."
-            },
-            {
-                "ora": "00:00",
                 "titolo": "Tennis Atp World Tour Masters 1000 Roma 2019 - Stag. 1 Ep. 11 - Tennis Atp World Tour Masters 1000 Roma 2019 Finale Djokovic/ Nadal 19/05/19",
                 "descrizione": "Roma 2019 Finale Djokovic/ Nadal 19/05/19 Tennis Atp World Tour Masters 1000 Roma 2019. - Tennis Atp World Tour Masters 1000 Roma 2019"
             },
@@ -2541,9 +2531,19 @@
                 "ora": "23:45",
                 "titolo": "Real Madrid - FC Bayern Monaco",
                 "descrizione": "Champions League. - Nei 14 precedenti al Santiago Bernabeu tra coppa Campioni e Champions League, Real Madrid in vantaggio 10 a 2, per il resto 2 pareggi. TC: Compagnoni-Marchegiani"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport 257",
@@ -2551,16 +2551,6 @@
         "programmi": [
             {
                 "ora": "00:00",
-                "titolo": "Calciomercato - L'originale",
-                "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Lussemburgo - Italia Amichevoli...",
-                "descrizione": "Seguite tutte le partite di competizioni nazionali e internazionali di calcio maschile."
-            },
-            {
-                "ora": "00:00",
                 "titolo": "Tennis Atp World Tour Masters 1000 Roma 2019 - Stag. 1 Ep. 11 - Tennis Atp World Tour Masters 1000 Roma 2019 Finale Djokovic/ Nadal 19/05/19",
                 "descrizione": "Roma 2019 Finale Djokovic/ Nadal 19/05/19 Tennis Atp World Tour Masters 1000 Roma 2019. - Tennis Atp World Tour Masters 1000 Roma 2019"
             },
@@ -2608,9 +2598,19 @@
                 "ora": "23:45",
                 "titolo": "Real Madrid - FC Bayern Monaco",
                 "descrizione": "Champions League. - Nei 14 precedenti al Santiago Bernabeu tra coppa Campioni e Champions League, Real Madrid in vantaggio 10 a 2, per il resto 2 pareggi. TC: Compagnoni-Marchegiani"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport 258",
@@ -2618,16 +2618,6 @@
         "programmi": [
             {
                 "ora": "00:00",
-                "titolo": "Calciomercato - L'originale",
-                "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Lussemburgo - Italia Amichevoli...",
-                "descrizione": "Seguite tutte le partite di competizioni nazionali e internazionali di calcio maschile."
-            },
-            {
-                "ora": "00:00",
                 "titolo": "Tennis Atp World Tour Masters 1000 Roma 2019 - Stag. 1 Ep. 11 - Tennis Atp World Tour Masters 1000 Roma 2019 Finale Djokovic/ Nadal 19/05/19",
                 "descrizione": "Roma 2019 Finale Djokovic/ Nadal 19/05/19 Tennis Atp World Tour Masters 1000 Roma 2019. - Tennis Atp World Tour Masters 1000 Roma 2019"
             },
@@ -2675,9 +2665,19 @@
                 "ora": "23:45",
                 "titolo": "Real Madrid - FC Bayern Monaco",
                 "descrizione": "Champions League. - Nei 14 precedenti al Santiago Bernabeu tra coppa Campioni e Champions League, Real Madrid in vantaggio 10 a 2, per il resto 2 pareggi. TC: Compagnoni-Marchegiani"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Sport 259",
@@ -2685,16 +2685,6 @@
         "programmi": [
             {
                 "ora": "00:00",
-                "titolo": "Calciomercato - L'originale",
-                "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Lussemburgo - Italia Amichevoli...",
-                "descrizione": "Seguite tutte le partite di competizioni nazionali e internazionali di calcio maschile."
-            },
-            {
-                "ora": "00:00",
                 "titolo": "Tennis Atp World Tour Masters 1000 Roma 2019 - Stag. 1 Ep. 11 - Tennis Atp World Tour Masters 1000 Roma 2019 Finale Djokovic/ Nadal 19/05/19",
                 "descrizione": "Roma 2019 Finale Djokovic/ Nadal 19/05/19 Tennis Atp World Tour Masters 1000 Roma 2019. - Tennis Atp World Tour Masters 1000 Roma 2019"
             },
@@ -2742,19 +2732,24 @@
                 "ora": "23:45",
                 "titolo": "Real Madrid - FC Bayern Monaco",
                 "descrizione": "Champions League. - Nei 14 precedenti al Santiago Bernabeu tra coppa Campioni e Champions League, Real Madrid in vantaggio 10 a 2, per il resto 2 pareggi. TC: Compagnoni-Marchegiani"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Cinema Uno",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "00:30",
-                "titolo": "Stolen",
-                "descrizione": "Will Montgomery ha trascorso gli ultimi anni della sua vita in carcere per essere stato tradito dopo una rapina il cui milionario bottino non è mai stato recuperato. Non appena ritornato in libertà, l'uomo ha intenzione di lasciarsi il passato criminale alle spalle e ricostruire il rapporto con la figlia Allison, ma viene contattato dal vecchio socio Vincent, il quale ha appena rapito la ragazza e per liberarla chiede un riscatto di dieci milioni di dollari. Per trovare i soldi necessari Will ha solo 12 ore di tempo, durante le quali dovrà fidarsi del suo istinto e dell'altra sua ex compagna di rapine, la bella Riley, prima che per sua figlia sia troppo tardi."
-            },
             {
                 "ora": "02:10",
                 "titolo": "The Secret - Le verità nascoste",
@@ -2809,19 +2804,19 @@
                 "ora": "23:00",
                 "titolo": "After 2",
                 "descrizione": "Dopo la loro rottura, Hardin e Tessa cercano di andare avanti ognuno per la propria strada. Mentre Hardin torna a perdersi in cattive abitudini, Tessa, forte della sicurezza acquisita, inizia a frequentare lo stage dei suoi sogni alla casa editrice Vance dove attira l’attenzione del suo collega Trevor, il ragazzo perfetto col quale intraprendere una relazione. Tessa, nonostante questo nuovo incontro, non riesce a togliersi dalla testa Hardin."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Orlando",
+                "descrizione": "La favola moderna di un vecchio e una bambina, che, senza volerlo, si ritrovano ad affrontare insieme il presente e le scelte che porta con sé, nonostante siano distanti come possono esserlo la vita rurale in un piccolo borgo dell'entroterra e quella metropolitana di una grande città europea."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Cinema Collection",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "23:35",
-                "titolo": "Cry Macho - Ritorno a casa",
-                "descrizione": "Cry Macho, adattamento cinematografico dell’omonimo romanzo di N. Richard Nash, racconta la storia di Mike Milo, un’ex stella del rodeo con un passato difficile che, per ripagare un debito nei confronti del suo benefattore, decide di andare in Messico per riportargli a casa il figlio. Durante questo viaggio, che doveva essere di breve durata, ma che si rivelerà non privo di insidie e fuoriprogramma."
-            },
             {
                 "ora": "01:25",
                 "titolo": "Ore 15:17 - Attacco al treno",
@@ -2846,6 +2841,11 @@
                 "ora": "23:20",
                 "titolo": "The Michael Jackson Story",
                 "descrizione": "Dopo essere stato scagionato da ulteriori accuse di abusi, Jackson tenta un ambizioso tour di ritorno sulle scene. Quando muore improvvisamente, i gestori del suo patrimonio iniziano a monetizzare la sua eredità."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Cry Macho - Ritorno a casa",
+                "descrizione": "Cry Macho, adattamento cinematografico dell’omonimo romanzo di N. Richard Nash, racconta la storia di Mike Milo, un’ex stella del rodeo con un passato difficile che, per ripagare un debito nei confronti del suo benefattore, decide di andare in Messico per riportargli a casa il figlio. Durante questo viaggio, che doveva essere di breve durata, ma che si rivelerà non privo di insidie e fuoriprogramma."
             },
             {
                 "ora": "22:45",
@@ -2878,17 +2878,12 @@
                 "descrizione": "La favola moderna di un vecchio e una bambina, che, senza volerlo, si ritrovano ad affrontare insieme il presente e le scelte che porta con sé, nonostante siano distanti come possono esserlo la vita rurale in un piccolo borgo dell'entroterra e quella metropolitana di una grande città europea."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Cinema Family",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "00:30",
-                "titolo": "100% Lupo",
-                "descrizione": "Freddy Lupin, erede della più potente famiglia di lupi mannari, è un piccolo sbruffoncello certo che diventerà il lupo mannaro più temibile di sempre. Allo scoccare del suo 14° compleanno, durante il rito della sua prima trasformazione, qualcosa va però storto e Freddy si troverà trasformato in un feroce… barboncino."
-            },
             {
                 "ora": "02:05",
                 "titolo": "10 giorni con Babbo Natale",
@@ -2943,19 +2938,19 @@
                 "ora": "23:00",
                 "titolo": "After 2",
                 "descrizione": "Dopo la loro rottura, Hardin e Tessa cercano di andare avanti ognuno per la propria strada. Mentre Hardin torna a perdersi in cattive abitudini, Tessa, forte della sicurezza acquisita, inizia a frequentare lo stage dei suoi sogni alla casa editrice Vance dove attira l’attenzione del suo collega Trevor, il ragazzo perfetto col quale intraprendere una relazione. Tessa, nonostante questo nuovo incontro, non riesce a togliersi dalla testa Hardin."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Orlando",
+                "descrizione": "La favola moderna di un vecchio e una bambina, che, senza volerlo, si ritrovano ad affrontare insieme il presente e le scelte che porta con sé, nonostante siano distanti come possono esserlo la vita rurale in un piccolo borgo dell'entroterra e quella metropolitana di una grande città europea."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Cinema Action",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Bullet Train",
-                "descrizione": "Bullet Train è basato sul romanzo giapponese scritto da Kōtarō Isaka ed è ambientato su un treno proiettile giapponese che viaggia ad alta velocità da Tokyo a Morioka con pochissime fermate lungo il percorso. A bordo del veicolo ci sono cinque assassini impegnati in incarichi individuali che, a loro insaputa, sono tutti collegati tra loro. Quando gli assassini iniziano a rendersi conto di ciò che sta realmente accadendo, dovranno lottare per la loro sopravvivenza l’uno contro l’altro e scoprire i segreti che li attendono a destinazione."
-            },
             {
                 "ora": "01:10",
                 "titolo": "Terminator Genisys",
@@ -2992,6 +2987,11 @@
                 "descrizione": "In Cina, il dodicenne Tian viene mandato con la sorella a stare con la nonna sulle montagne del Sichuan. Mentre ci si aspetta che studi per soddisfare le grandi aspettative del padre, Tian preferisce avventurarsi nella rigogliosa foresta circostante. Lì, fa un incontro sorprendente con Moon, un cucciolo di panda. Con il passare dei giorni, si sviluppa tra loro un legame intenso e segreto sotto lo sguardo divertito della nonna. Ma i due migliori amici vengono separati dopo che Tian è costretto dal padre a tornare in città. Quando Tian scopre che Moon deve essere trasferito in un posto più sicuro, intraprende un viaggio avvincente per dire un ultimo addio al suo amico peloso."
             },
             {
+                "ora": "23:00",
+                "titolo": "Bullet Train",
+                "descrizione": "Bullet Train è basato sul romanzo giapponese scritto da Kōtarō Isaka ed è ambientato su un treno proiettile giapponese che viaggia ad alta velocità da Tokyo a Morioka con pochissime fermate lungo il percorso. A bordo del veicolo ci sono cinque assassini impegnati in incarichi individuali che, a loro insaputa, sono tutti collegati tra loro. Quando gli assassini iniziano a rendersi conto di ciò che sta realmente accadendo, dovranno lottare per la loro sopravvivenza l’uno contro l’altro e scoprire i segreti che li attendono a destinazione."
+            },
+            {
                 "ora": "22:55",
                 "titolo": "Nella morsa del ragno",
                 "descrizione": "Morgan Freeman si cala nuovamente nei panni di Alex Cross, il detective-psicologo del dipartimento di polizia di Washington. Questa volta deve vedersela con Gary Soneji, autore di un audace rapimento. In cambio della libertà della sua vittima il criminale pretende molto di più di un semplice riscatto: vuole passare alla storia. Per ottenere il suo scopo, ha pianificato ogni singola mossa con la precisione di un ragno che tesse la tela, mentre Alex Cross e l'agente dei servizi segreti Jezzie Flannigan cercano di fermarlo prima che sia troppo tardi."
@@ -3012,22 +3012,12 @@
                 "descrizione": "La favola moderna di un vecchio e una bambina, che, senza volerlo, si ritrovano ad affrontare insieme il presente e le scelte che porta con sé, nonostante siano distanti come possono esserlo la vita rurale in un piccolo borgo dell'entroterra e quella metropolitana di una grande città europea."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Cinema Suspense",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "22:55",
-                "titolo": "Nella morsa del ragno",
-                "descrizione": "Morgan Freeman si cala nuovamente nei panni di Alex Cross, il detective-psicologo del dipartimento di polizia di Washington. Questa volta deve vedersela con Gary Soneji, autore di un audace rapimento. In cambio della libertà della sua vittima il criminale pretende molto di più di un semplice riscatto: vuole passare alla storia. Per ottenere il suo scopo, ha pianificato ogni singola mossa con la precisione di un ragno che tesse la tela, mentre Alex Cross e l'agente dei servizi segreti Jezzie Flannigan cercano di fermarlo prima che sia troppo tardi."
-            },
-            {
-                "ora": "00:40",
-                "titolo": "Questo O Quello - Steven Spielberg - Ep. 272 - Questo O Quello - Steven Spielberg",
-                "descrizione": "Francesco Castelnuovo e Gianni Canova si confrontano su alcune delle migliori pellicole del regista premio Oscar che ha fatto e continua a far sognare generazioni di spettatori."
-            },
             {
                 "ora": "01:00",
                 "titolo": "M3GAN 2.0",
@@ -3069,6 +3059,11 @@
                 "descrizione": "Bullet Train è basato sul romanzo giapponese scritto da Kōtarō Isaka ed è ambientato su un treno proiettile giapponese che viaggia ad alta velocità da Tokyo a Morioka con pochissime fermate lungo il percorso. A bordo del veicolo ci sono cinque assassini impegnati in incarichi individuali che, a loro insaputa, sono tutti collegati tra loro. Quando gli assassini iniziano a rendersi conto di ciò che sta realmente accadendo, dovranno lottare per la loro sopravvivenza l’uno contro l’altro e scoprire i segreti che li attendono a destinazione."
             },
             {
+                "ora": "22:55",
+                "titolo": "Nella morsa del ragno",
+                "descrizione": "Morgan Freeman si cala nuovamente nei panni di Alex Cross, il detective-psicologo del dipartimento di polizia di Washington. Questa volta deve vedersela con Gary Soneji, autore di un audace rapimento. In cambio della libertà della sua vittima il criminale pretende molto di più di un semplice riscatto: vuole passare alla storia. Per ottenere il suo scopo, ha pianificato ogni singola mossa con la precisione di un ragno che tesse la tela, mentre Alex Cross e l'agente dei servizi segreti Jezzie Flannigan cercano di fermarlo prima che sia troppo tardi."
+            },
+            {
                 "ora": "22:40",
                 "titolo": "Un matrimonio da favola",
                 "descrizione": "Daniele sta per sposare la figlia del presidente della banca di Zurigo presso la quale è impiegato. In vista del gran giorno chiama accanto a sé i suoi ex compagni di liceo, che non vedeva dai tempi della maturità. Al contrario di Daniele, pochi di loro hanno coronato i sogni giovanili: Luca voleva viaggiare e invece fa la guida turistica; Luciana voleva diventare giocatrice di calcio professionista ma un incidente le ha stroncato la carriera e lei ha finito per sposare il perito dell'assicurazione; Alessandro ha dovuto seguire le orme del padre nell'esercito nascondendo la propria omosessualità; e Giovanni, che voleva giocare in Borsa, vende borsette e ha sposato un'avvocatessa divorzista (ma ha un'amante che lo crede un uomo libero). Il matrimonio a Zurigo diventa l'occasione per ritrovarsi e fare il punto delle vite di tutti, magari con la speranza di cambiarne qualcuna."
@@ -3077,19 +3072,19 @@
                 "ora": "23:00",
                 "titolo": "After 2",
                 "descrizione": "Dopo la loro rottura, Hardin e Tessa cercano di andare avanti ognuno per la propria strada. Mentre Hardin torna a perdersi in cattive abitudini, Tessa, forte della sicurezza acquisita, inizia a frequentare lo stage dei suoi sogni alla casa editrice Vance dove attira l’attenzione del suo collega Trevor, il ragazzo perfetto col quale intraprendere una relazione. Tessa, nonostante questo nuovo incontro, non riesce a togliersi dalla testa Hardin."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Orlando",
+                "descrizione": "La favola moderna di un vecchio e una bambina, che, senza volerlo, si ritrovano ad affrontare insieme il presente e le scelte che porta con sé, nonostante siano distanti come possono esserlo la vita rurale in un piccolo borgo dell'entroterra e quella metropolitana di una grande città europea."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Cinema Romance",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "After 2",
-                "descrizione": "Dopo la loro rottura, Hardin e Tessa cercano di andare avanti ognuno per la propria strada. Mentre Hardin torna a perdersi in cattive abitudini, Tessa, forte della sicurezza acquisita, inizia a frequentare lo stage dei suoi sogni alla casa editrice Vance dove attira l’attenzione del suo collega Trevor, il ragazzo perfetto col quale intraprendere una relazione. Tessa, nonostante questo nuovo incontro, non riesce a togliersi dalla testa Hardin."
-            },
             {
                 "ora": "00:55",
                 "titolo": "2 Young 4 Me - Un fidanzato per mamma",
@@ -3144,19 +3139,19 @@
                 "ora": "22:40",
                 "titolo": "Un matrimonio da favola",
                 "descrizione": "Daniele sta per sposare la figlia del presidente della banca di Zurigo presso la quale è impiegato. In vista del gran giorno chiama accanto a sé i suoi ex compagni di liceo, che non vedeva dai tempi della maturità. Al contrario di Daniele, pochi di loro hanno coronato i sogni giovanili: Luca voleva viaggiare e invece fa la guida turistica; Luciana voleva diventare giocatrice di calcio professionista ma un incidente le ha stroncato la carriera e lei ha finito per sposare il perito dell'assicurazione; Alessandro ha dovuto seguire le orme del padre nell'esercito nascondendo la propria omosessualità; e Giovanni, che voleva giocare in Borsa, vende borsette e ha sposato un'avvocatessa divorzista (ma ha un'amante che lo crede un uomo libero). Il matrimonio a Zurigo diventa l'occasione per ritrovarsi e fare il punto delle vite di tutti, magari con la speranza di cambiarne qualcuna."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "After 2",
+                "descrizione": "Dopo la loro rottura, Hardin e Tessa cercano di andare avanti ognuno per la propria strada. Mentre Hardin torna a perdersi in cattive abitudini, Tessa, forte della sicurezza acquisita, inizia a frequentare lo stage dei suoi sogni alla casa editrice Vance dove attira l’attenzione del suo collega Trevor, il ragazzo perfetto col quale intraprendere una relazione. Tessa, nonostante questo nuovo incontro, non riesce a togliersi dalla testa Hardin."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Cinema Drama",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "23:10",
-                "titolo": "Orlando",
-                "descrizione": "La favola moderna di un vecchio e una bambina, che, senza volerlo, si ritrovano ad affrontare insieme il presente e le scelte che porta con sé, nonostante siano distanti come possono esserlo la vita rurale in un piccolo borgo dell'entroterra e quella metropolitana di una grande città europea."
-            },
             {
                 "ora": "01:15",
                 "titolo": "Soldato Jane",
@@ -3211,19 +3206,19 @@
                 "ora": "23:00",
                 "titolo": "After 2",
                 "descrizione": "Dopo la loro rottura, Hardin e Tessa cercano di andare avanti ognuno per la propria strada. Mentre Hardin torna a perdersi in cattive abitudini, Tessa, forte della sicurezza acquisita, inizia a frequentare lo stage dei suoi sogni alla casa editrice Vance dove attira l’attenzione del suo collega Trevor, il ragazzo perfetto col quale intraprendere una relazione. Tessa, nonostante questo nuovo incontro, non riesce a togliersi dalla testa Hardin."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Orlando",
+                "descrizione": "La favola moderna di un vecchio e una bambina, che, senza volerlo, si ritrovano ad affrontare insieme il presente e le scelte che porta con sé, nonostante siano distanti come possono esserlo la vita rurale in un piccolo borgo dell'entroterra e quella metropolitana di una grande città europea."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Cinema Comedy",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "00:25",
-                "titolo": "Come ti spaccio la famiglia",
-                "descrizione": "David Burke è uno spacciatore di marijuana e tra la sua clientela annovera cuochi e mamme borghesi ma niente ragazzini, dopotutto, si considera un uomo con scrupoli. Cosa potrebbe andare storto, quindi? Beh, diverse cose. Malgrado tenti di passare sempre inosservato, impara nel peggiore dei modi che nessuna buona azione resta impunita quando, per aiutare dei teenager, si trova ad essere aggredito da un gruppo di punkabbestie che gli ruba la \"roba\" e il contante, lasciandolo indebitato con il suo fornitore, Brad. Per poter rimettere ogni cosa a posto e soprattutto salvare la pelle, David deve passare allo spaccio di droghe pesanti e si trova, così, a collaborare all'ultima operazione di Brad: un carico in arrivo dal Messico. Coinvolgendo loro malgrado i propri vicini: la cinica spogliarellista Rose, il suo smanioso \"cliente\" Kenny e la tatuata e astuta teenager Casey. David organizza un piano perfetto: una moglie, due figlii e una roulotte, diretti verso il confine."
-            },
             {
                 "ora": "02:15",
                 "titolo": "CHiPS",
@@ -3278,19 +3273,19 @@
                 "ora": "23:00",
                 "titolo": "After 2",
                 "descrizione": "Dopo la loro rottura, Hardin e Tessa cercano di andare avanti ognuno per la propria strada. Mentre Hardin torna a perdersi in cattive abitudini, Tessa, forte della sicurezza acquisita, inizia a frequentare lo stage dei suoi sogni alla casa editrice Vance dove attira l’attenzione del suo collega Trevor, il ragazzo perfetto col quale intraprendere una relazione. Tessa, nonostante questo nuovo incontro, non riesce a togliersi dalla testa Hardin."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Orlando",
+                "descrizione": "La favola moderna di un vecchio e una bambina, che, senza volerlo, si ritrovano ad affrontare insieme il presente e le scelte che porta con sé, nonostante siano distanti come possono esserlo la vita rurale in un piccolo borgo dell'entroterra e quella metropolitana di una grande città europea."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Uno",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "22:20",
-                "titolo": "GialappaShow",
-                "descrizione": "I momenti imperdibili della settima stagione del programma della Gialappa's Band, guidato dal Mago Forest, con un cast eccezionale e tanti ospiti speciali."
-            },
             {
                 "ora": "00:45",
                 "titolo": "Money Road - Ogni tentazione ha un...",
@@ -3315,6 +3310,11 @@
                 "ora": "05:15",
                 "titolo": "Hell's Kitchen USA",
                 "descrizione": "Ep10 di 16 - Per la prima volta in assoluto, diciotto talentuosi Capi Chef professionisti, si sfideranno ad altissimi livelli per diventare il Capo Chef del ristorante Hell's Kitchen."
+            },
+            {
+                "ora": "22:20",
+                "titolo": "GialappaShow",
+                "descrizione": "I momenti imperdibili della settima stagione del programma della Gialappa's Band, guidato dal Mago Forest, con un cast eccezionale e tanti ospiti speciali."
             },
             {
                 "ora": "23:05",
@@ -3347,27 +3347,12 @@
                 "descrizione": "S1 Ep1 L'uragano Dorian - Le tempeste piu' violente e temibili del pianeta raccontate attraverso le immagini e le esperienze di persone che lavorano nelle principali zone soggette agli uragani."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Atlantic",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "23:05",
-                "titolo": "Euphoria",
-                "descrizione": "Un gruppo di liceali si trova alle prime armi con droghe, sesso, identità, traumi, amore e amicizia."
-            },
-            {
-                "ora": "00:40",
-                "titolo": "Questo o quello - Speciale",
-                "descrizione": "Analisi della pellicola di Gabriele Muccino sulla fragilità delle relazioni e della serie che reinterpreta il giallo-poliziesco."
-            },
-            {
-                "ora": "01:00",
-                "titolo": "Poker Face",
-                "descrizione": "Charlie è una donna con un dono straordinario: riconoscere quando qualcuno mente. A bordo della sua Plymouth Barracuda, attraversa il paese e, a ogni tappa, si trova coinvolta in strani crimini che non può fare a meno di risolvere."
-            },
             {
                 "ora": "02:05",
                 "titolo": "Poker Face",
@@ -3399,6 +3384,11 @@
                 "descrizione": "I momenti imperdibili della settima stagione del programma della Gialappa's Band, guidato dal Mago Forest, con un cast eccezionale e tanti ospiti speciali."
             },
             {
+                "ora": "23:05",
+                "titolo": "Euphoria",
+                "descrizione": "Un gruppo di liceali si trova alle prime armi con droghe, sesso, identità, traumi, amore e amicizia."
+            },
+            {
                 "ora": "22:10",
                 "titolo": "Chicago Fire\",\"prima\":true,\"description\":\"$2a\",\"durata\":50,\"genre\":\"Dramma\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/r915sk2JpthZSjHEgZKifWxgo6L.jpg\",\"episode_number\":10,\"series_number\":14,\"ac\":[{\"n\":\"Taylor Kinney\",\"i\":\"lOYVNwhlvah02OnrGIZkFpyr4Wf.jpg\",\"c\":\"Kelly Severide\",\"u\":\"t\"},{\"n\":\"David Eigenberg\",\"i\":\"3JOY715n7Low0Y1a9YZAzhNjvZM.jpg\",\"c\":\"Christopher Herrmann\",\"u\":\"t\"},{\"n\":\"Joe Miñoso\",\"i\":\"je6BoStc1WicNZQNJWSrf0kNhAG.jpg\",\"c\":\"Joe Cruz\",\"u\":\"t\"},{\"n\":\"Christian Stolte\",\"i\":\"hE460cJmuckGHWKGdSgmPxD9ixY.jpg\",\"c\":\"Randy 'Mouch' McHolland\",\"u\":\"t\"},{\"n\":\"Miranda Rae Mayo\",\"i\":\"dvCagUBHBNGwsozC8KS3tFPtCcj.jpg\",\"c\":\"Stella Kidd\",\"u\":\"t\"},{\"n\":\"Hanako Greensmith\",\"i\":\"bm5JcCwJpTfyGlJQxx6wZysKu2n.jpg\",\"c\":\"Violet Mikami\",\"u\":\"t\"},{\"n\":\"Jocelyn Hudon\",\"i\":\"quI2sUAc3opQ3Bb2H2OMHEMchGf.jpg\",\"c\":\"Paramedic Lyla 'Lizzie' Novak\",\"u\":\"t\"},{\"n\":\"Brandon Larracuente\",\"i\":\"fpyAr0bxgSsmNXkDUeg1ASEjU7n.jpg\",\"c\":\"Sal Vasquez\",\"u\":\"t\"},{\"n\":\"Randy Flagler\",\"i\":\"qCv65XyEg3qQt7rHwiqh55FsqQL.jpg\",\"c\":\"Harold Capp\",\"u\":\"t\"},{\"n\":\"Eamonn Walker\",\"i\":\"mJ2pENrcO4uRy2TNVUzg5cEI9b3.jpg\",\"c\":\"Wallace Boden\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/14LzHqJrFcHk7ruMNCXpEkB0Thg.jpg\",\"inizio\":\"2026-06-03T20:00:00.000Z\",\"fine\":\"2026-06-03T20:50:00.000Z\",\"rating\":\"4,2\",\"condividi\":\"$undefined\",\"year\":\"2025\",\"pr\":\"Stati Uniti\",\"tiEp\":\"Carry a Torch\",\"trEp\":null}},{\"canale\":{\"logo\":\"11246.png\",\"name\":\"Sky investigation HD\",\"number\":\"113\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"Z7NC4iWMFlzC\",\"title\":\"Delitti in Paradiso",
                 "descrizione": "La serie si svolge nella splendida cornice di una piccola isola caraibica, Saint-Marie, dove il poliziotto Richard Poole, britannico doc, viene inviato per risolvere un misterioso omicidio.Poole si ritrova in una fatiscente stazione di polizia a lavorare con una nuova partner, la brillante Camille Bordey, in un ambiente totalmente diverso da tutto ciò a cui lui è abituato. Lui è un tipo da giacca, cravatta e mocassini... in spiaggia. Nonostante ciò, pur essendo assolutamente un pesce fuor d'acqua in questo paradiso terrestre, si dimostrerà all’altezza di risolvere ogni caso che si presenterà di episodio in episodio."
@@ -3412,24 +3402,24 @@
                 "ora": "23:00",
                 "titolo": "Serial Killers: Joe DeAngelo",
                 "descrizione": "Serial Killers: Joe DeAngelo - Quelli che lo conoscevano dicevano che Joe DeAngelo era un buon amico e un bravo poliziotto."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Have you got it yet? La storia di Syd Barrett e dei Pink Floyd",
+                "descrizione": "La vicenda di Syd Barrett, leggendario fondatore dei Pink Floyd, esploratore di suoni e dimensioni psichedeliche."
+            },
+            {
+                "ora": "22:45",
+                "titolo": "La Tempesta Perfetta - Stag. 1 Ep. 1 - La Tempesta Perfetta Ep.01",
+                "descrizione": "S1 Ep1 L'uragano Dorian - Le tempeste piu' violente e temibili del pianeta raccontate attraverso le immagini e le esperienze di persone che lavorano nelle principali zone soggette agli uragani."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Serie",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "00:25",
-                "titolo": "Chicago Fire",
-                "descrizione": "$25"
-            },
-            {
-                "ora": "01:15",
-                "titolo": "Chicago P.D.",
-                "descrizione": "La serie racconta le vicende del Distretto 21 del Dipartimento di Polizia di Chicago, composto da due gruppi differenti: l'Unità di pattuglia, che vigila le pericolose strade della città, e l'Unità di Intelligence, che combatte il crimine organizzato, il traffico di droga e si occupa dei casi di omicidio più complessi."
-            },
             {
                 "ora": "02:05",
                 "titolo": "The Office",
@@ -3479,29 +3469,24 @@
                 "ora": "22:10",
                 "titolo": "Chicago Fire\",\"prima\":true,\"description\":\"$2d\",\"durata\":50,\"genre\":\"Dramma\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/r915sk2JpthZSjHEgZKifWxgo6L.jpg\",\"episode_number\":10,\"series_number\":14,\"ac\":[{\"n\":\"Taylor Kinney\",\"i\":\"lOYVNwhlvah02OnrGIZkFpyr4Wf.jpg\",\"c\":\"Kelly Severide\",\"u\":\"t\"},{\"n\":\"David Eigenberg\",\"i\":\"3JOY715n7Low0Y1a9YZAzhNjvZM.jpg\",\"c\":\"Christopher Herrmann\",\"u\":\"t\"},{\"n\":\"Joe Miñoso\",\"i\":\"je6BoStc1WicNZQNJWSrf0kNhAG.jpg\",\"c\":\"Joe Cruz\",\"u\":\"t\"},{\"n\":\"Christian Stolte\",\"i\":\"hE460cJmuckGHWKGdSgmPxD9ixY.jpg\",\"c\":\"Randy 'Mouch' McHolland\",\"u\":\"t\"},{\"n\":\"Miranda Rae Mayo\",\"i\":\"dvCagUBHBNGwsozC8KS3tFPtCcj.jpg\",\"c\":\"Stella Kidd\",\"u\":\"t\"},{\"n\":\"Hanako Greensmith\",\"i\":\"bm5JcCwJpTfyGlJQxx6wZysKu2n.jpg\",\"c\":\"Violet Mikami\",\"u\":\"t\"},{\"n\":\"Jocelyn Hudon\",\"i\":\"quI2sUAc3opQ3Bb2H2OMHEMchGf.jpg\",\"c\":\"Paramedic Lyla 'Lizzie' Novak\",\"u\":\"t\"},{\"n\":\"Brandon Larracuente\",\"i\":\"fpyAr0bxgSsmNXkDUeg1ASEjU7n.jpg\",\"c\":\"Sal Vasquez\",\"u\":\"t\"},{\"n\":\"Randy Flagler\",\"i\":\"qCv65XyEg3qQt7rHwiqh55FsqQL.jpg\",\"c\":\"Harold Capp\",\"u\":\"t\"},{\"n\":\"Eamonn Walker\",\"i\":\"mJ2pENrcO4uRy2TNVUzg5cEI9b3.jpg\",\"c\":\"Wallace Boden\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/14LzHqJrFcHk7ruMNCXpEkB0Thg.jpg\",\"inizio\":\"2026-06-03T20:00:00.000Z\",\"fine\":\"2026-06-03T20:50:00.000Z\",\"rating\":\"4,2\",\"condividi\":\"$undefined\",\"year\":\"2025\",\"pr\":\"Stati Uniti\",\"tiEp\":\"Carry a Torch\",\"trEp\":null}},{\"canale\":{\"logo\":\"11246.png\",\"name\":\"Sky investigation HD\",\"number\":\"113\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"Z7NC4iWMFlzC\",\"title\":\"Delitti in Paradiso",
                 "descrizione": "La serie si svolge nella splendida cornice di una piccola isola caraibica, Saint-Marie, dove il poliziotto Richard Poole, britannico doc, viene inviato per risolvere un misterioso omicidio.Poole si ritrova in una fatiscente stazione di polizia a lavorare con una nuova partner, la brillante Camille Bordey, in un ambiente totalmente diverso da tutto ciò a cui lui è abituato. Lui è un tipo da giacca, cravatta e mocassini... in spiaggia. Nonostante ciò, pur essendo assolutamente un pesce fuor d'acqua in questo paradiso terrestre, si dimostrerà all’altezza di risolvere ogni caso che si presenterà di episodio in episodio."
+            },
+            {
+                "ora": "22:05",
+                "titolo": "Seal Team",
+                "descrizione": "La serie segue le vicende di un'unità d'élite dei Navy SEAL. La squadra è impegnata in operazioni militari non solo sul suolo statunitense, ma soprattutto in giro per il mondo dove affrontano terroristi, aiutano innocenti, e combattono in nome del loro Paese."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Serial Killers: Joe DeAngelo",
+                "descrizione": "Serial Killers: Joe DeAngelo - Quelli che lo conoscevano dicevano che Joe DeAngelo era un buon amico e un bravo poliziotto."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Investigation",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "23:50",
-                "titolo": "The Equalizer",
-                "descrizione": "The Equalizer, serie tv di Andrew W. Marlowe (l'ideatore di Castle) e Terri Edda Miller per la rete americana CBS, è il remake al femminile dell'omonimo crime drama degli anni '80, in Italia meglio conosciuto con il titolo Un giustiziere a New York. Queen Latifah (Chicago) interpreta Robyn McCall, una donna enigmatica e con un passato misterioso la quale usa le proprie ampie capacità per aiutare chi non ha nessun altro cui rivolgersi. Robyn si presenta alla maggior parte delle persone come una qualunque madre single che sta crescendo tranquillamente la figlia adolescente, Delilah (Laya DeLeon Hayes). Ma per pochi fidati, lei è Il Giustiziere - un angelo custode e difensore degli oppressi che è anche ostinato nella sua ricerca di una redenzione."
-            },
-            {
-                "ora": "00:45",
-                "titolo": "Law & Order: I due volti della giustizia",
-                "descrizione": "Law & Order è un media franchise creato da Dick Wolf per la NBC Universal e formato da varie serie televisive poliziesco-giudiziarie e un film per la televisione, trasmessi sul network NBC dal 13 settembre 1990. Il franchise Law & Order nel tempo ha ispirato anche una serie di adattamenti televisivi stranieri, un docu-reality e videogiochi ufficiali, oltre a generare una serie di crossover con altre serie tv statunitensi."
-            },
-            {
-                "ora": "01:30",
-                "titolo": "Law & Order: I due volti della giustizia",
-                "descrizione": "Law & Order è un media franchise creato da Dick Wolf per la NBC Universal e formato da varie serie televisive poliziesco-giudiziarie e un film per la televisione, trasmessi sul network NBC dal 13 settembre 1990. Il franchise Law & Order nel tempo ha ispirato anche una serie di adattamenti televisivi stranieri, un docu-reality e videogiochi ufficiali, oltre a generare una serie di crossover con altre serie tv statunitensi."
-            },
             {
                 "ora": "02:15",
                 "titolo": "NCIS",
@@ -3546,24 +3531,29 @@
                 "ora": "22:05",
                 "titolo": "Seal Team",
                 "descrizione": "La serie segue le vicende di un'unità d'élite dei Navy SEAL. La squadra è impegnata in operazioni militari non solo sul suolo statunitense, ma soprattutto in giro per il mondo dove affrontano terroristi, aiutano innocenti, e combattono in nome del loro Paese."
-            }
-        ],
-        "aggiornato": "22:35"
-    },
-    {
-        "canale": "Sky Crime",
-        "categoria": "Intrattenimento",
-        "programmi": [
+            },
             {
                 "ora": "23:00",
                 "titolo": "Serial Killers: Joe DeAngelo",
                 "descrizione": "Serial Killers: Joe DeAngelo - Quelli che lo conoscevano dicevano che Joe DeAngelo era un buon amico e un bravo poliziotto."
             },
             {
-                "ora": "00:40",
-                "titolo": "Predator: caccia al taxi dello stupro",
-                "descrizione": "Predator: caccia al taxi dello stupro - La caccia a John Worboys, stupratore che ha terrorizzato piu' di 100 vittime nel suo taxi."
+                "ora": "23:00",
+                "titolo": "Have you got it yet? La storia di Syd Barrett e dei Pink Floyd",
+                "descrizione": "La vicenda di Syd Barrett, leggendario fondatore dei Pink Floyd, esploratore di suoni e dimensioni psichedeliche."
             },
+            {
+                "ora": "22:45",
+                "titolo": "La Tempesta Perfetta - Stag. 1 Ep. 1 - La Tempesta Perfetta Ep.01",
+                "descrizione": "S1 Ep1 L'uragano Dorian - Le tempeste piu' violente e temibili del pianeta raccontate attraverso le immagini e le esperienze di persone che lavorano nelle principali zone soggette agli uragani."
+            }
+        ],
+        "aggiornato": "00:22"
+    },
+    {
+        "canale": "Sky Crime",
+        "categoria": "Intrattenimento",
+        "programmi": [
             {
                 "ora": "01:35",
                 "titolo": "#FindGabby: Tradita, l'ultimo viaggio di Gabby Petito",
@@ -3611,26 +3601,26 @@
             },
             {
                 "ora": "23:00",
+                "titolo": "Serial Killers: Joe DeAngelo",
+                "descrizione": "Serial Killers: Joe DeAngelo - Quelli che lo conoscevano dicevano che Joe DeAngelo era un buon amico e un bravo poliziotto."
+            },
+            {
+                "ora": "23:00",
                 "titolo": "Have you got it yet? La storia di Syd Barrett e dei Pink Floyd",
                 "descrizione": "La vicenda di Syd Barrett, leggendario fondatore dei Pink Floyd, esploratore di suoni e dimensioni psichedeliche."
+            },
+            {
+                "ora": "22:45",
+                "titolo": "La Tempesta Perfetta - Stag. 1 Ep. 1 - La Tempesta Perfetta Ep.01",
+                "descrizione": "S1 Ep1 L'uragano Dorian - Le tempeste piu' violente e temibili del pianeta raccontate attraverso le immagini e le esperienze di persone che lavorano nelle principali zone soggette agli uragani."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Adventure",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "00:35",
-                "titolo": "Universe",
-                "descrizione": "Ep3 di 5 La Via Lattea - Isola di luce: una straordinaria missione spaziale rivela la drammatica storia della Via Lattea, permettendoci di predire il suo futuro catastrofico."
-            },
-            {
-                "ora": "01:35",
-                "titolo": "Stupidi al quadrato",
-                "descrizione": "Dallas Campbell ci mostra divertenti video di disastri, che ci permettono di scoprire i principi scientifici che si applicano in vari casi. Tra questi, quando si vuole attraversare a cavallo un corso d'acqua."
-            },
             {
                 "ora": "02:00",
                 "titolo": "MythBusters",
@@ -3680,29 +3670,24 @@
                 "ora": "22:05",
                 "titolo": "Seal Team",
                 "descrizione": "La serie segue le vicende di un'unità d'élite dei Navy SEAL. La squadra è impegnata in operazioni militari non solo sul suolo statunitense, ma soprattutto in giro per il mondo dove affrontano terroristi, aiutano innocenti, e combattono in nome del loro Paese."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Serial Killers: Joe DeAngelo",
+                "descrizione": "Serial Killers: Joe DeAngelo - Quelli che lo conoscevano dicevano che Joe DeAngelo era un buon amico e un bravo poliziotto."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Have you got it yet? La storia di Syd Barrett e dei Pink Floyd",
+                "descrizione": "La vicenda di Syd Barrett, leggendario fondatore dei Pink Floyd, esploratore di suoni e dimensioni psichedeliche."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "MTV",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "00:20",
-                "titolo": "Ridiculousness: Veri American Idiots",
-                "descrizione": "Ep29 di 42 Sterling e Nina Agdal XXIII - Rob, Steelo e Nina Agdal si mettono le scarpe da running e si fanno PAIN MILLS."
-            },
-            {
-                "ora": "00:55",
-                "titolo": "Ridiculousness: Veri American Idiots",
-                "descrizione": "Ep31 di 42 Sterling e Lolo Wood XXIV - Rob, Steelo e Lolo Wood si avvicinano al divertimento in STAIR PLAY e alzano le mani davanti all'assurdità in UP AND STUCK."
-            },
-            {
-                "ora": "01:25",
-                "titolo": "The Challenge: All Stars - Stag. 5 Ep. 1",
-                "descrizione": "S5 Ep1 A Star Studded Ar-Rival - Per la prima volta nella storia di All Stars, ventisei veterani nostalgici e sfidanti in cerca di riscatto di The Challenge devono fare squadra con i loro piu' grandi..."
-            },
             {
                 "ora": "02:10",
                 "titolo": "Ex On The Beach: la rivincita degli Ex",
@@ -3747,34 +3732,29 @@
                 "ora": "23:05",
                 "titolo": "Euphoria",
                 "descrizione": "Un gruppo di liceali si trova alle prime armi con droghe, sesso, identità, traumi, amore e amicizia."
+            },
+            {
+                "ora": "22:10",
+                "titolo": "Chicago Fire\",\"prima\":true,\"description\":\"$2a\",\"durata\":50,\"genre\":\"Dramma\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/r915sk2JpthZSjHEgZKifWxgo6L.jpg\",\"episode_number\":10,\"series_number\":14,\"ac\":[{\"n\":\"Taylor Kinney\",\"i\":\"lOYVNwhlvah02OnrGIZkFpyr4Wf.jpg\",\"c\":\"Kelly Severide\",\"u\":\"t\"},{\"n\":\"David Eigenberg\",\"i\":\"3JOY715n7Low0Y1a9YZAzhNjvZM.jpg\",\"c\":\"Christopher Herrmann\",\"u\":\"t\"},{\"n\":\"Joe Miñoso\",\"i\":\"je6BoStc1WicNZQNJWSrf0kNhAG.jpg\",\"c\":\"Joe Cruz\",\"u\":\"t\"},{\"n\":\"Christian Stolte\",\"i\":\"hE460cJmuckGHWKGdSgmPxD9ixY.jpg\",\"c\":\"Randy 'Mouch' McHolland\",\"u\":\"t\"},{\"n\":\"Miranda Rae Mayo\",\"i\":\"dvCagUBHBNGwsozC8KS3tFPtCcj.jpg\",\"c\":\"Stella Kidd\",\"u\":\"t\"},{\"n\":\"Hanako Greensmith\",\"i\":\"bm5JcCwJpTfyGlJQxx6wZysKu2n.jpg\",\"c\":\"Violet Mikami\",\"u\":\"t\"},{\"n\":\"Jocelyn Hudon\",\"i\":\"quI2sUAc3opQ3Bb2H2OMHEMchGf.jpg\",\"c\":\"Paramedic Lyla 'Lizzie' Novak\",\"u\":\"t\"},{\"n\":\"Brandon Larracuente\",\"i\":\"fpyAr0bxgSsmNXkDUeg1ASEjU7n.jpg\",\"c\":\"Sal Vasquez\",\"u\":\"t\"},{\"n\":\"Randy Flagler\",\"i\":\"qCv65XyEg3qQt7rHwiqh55FsqQL.jpg\",\"c\":\"Harold Capp\",\"u\":\"t\"},{\"n\":\"Eamonn Walker\",\"i\":\"mJ2pENrcO4uRy2TNVUzg5cEI9b3.jpg\",\"c\":\"Wallace Boden\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/14LzHqJrFcHk7ruMNCXpEkB0Thg.jpg\",\"inizio\":\"2026-06-03T20:00:00.000Z\",\"fine\":\"2026-06-03T20:50:00.000Z\",\"rating\":\"4,2\",\"condividi\":\"$undefined\",\"year\":\"2025\",\"pr\":\"Stati Uniti\",\"tiEp\":\"Carry a Torch\",\"trEp\":null}},{\"canale\":{\"logo\":\"11246.png\",\"name\":\"Sky investigation HD\",\"number\":\"113\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"Z7NC4iWMFlzC\",\"title\":\"Delitti in Paradiso",
+                "descrizione": "La serie si svolge nella splendida cornice di una piccola isola caraibica, Saint-Marie, dove il poliziotto Richard Poole, britannico doc, viene inviato per risolvere un misterioso omicidio.Poole si ritrova in una fatiscente stazione di polizia a lavorare con una nuova partner, la brillante Camille Bordey, in un ambiente totalmente diverso da tutto ciò a cui lui è abituato. Lui è un tipo da giacca, cravatta e mocassini... in spiaggia. Nonostante ciò, pur essendo assolutamente un pesce fuor d'acqua in questo paradiso terrestre, si dimostrerà all’altezza di risolvere ogni caso che si presenterà di episodio in episodio."
+            },
+            {
+                "ora": "22:05",
+                "titolo": "Seal Team",
+                "descrizione": "La serie segue le vicende di un'unità d'élite dei Navy SEAL. La squadra è impegnata in operazioni militari non solo sul suolo statunitense, ma soprattutto in giro per il mondo dove affrontano terroristi, aiutano innocenti, e combattono in nome del loro Paese."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Serial Killers: Joe DeAngelo",
+                "descrizione": "Serial Killers: Joe DeAngelo - Quelli che lo conoscevano dicevano che Joe DeAngelo era un buon amico e un bravo poliziotto."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Comedy Central",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "00:25",
-                "titolo": "Stand Up Comedy",
-                "descrizione": "Ep7 di 24 - In questo episodio: Daniele Fabbri, Filippo Spreafico e Monir Ghassem."
-            },
-            {
-                "ora": "00:55",
-                "titolo": "Reno 911!",
-                "descrizione": "Ep2 di 15 Estradato in Tailandia - Uno sguardo irriverente a quello che succede dietro le quinte del dipartimento dello sceriffo di Reno, mentre il tenente Jim Dangle e i suoi agenti cercano di manten"
-            },
-            {
-                "ora": "01:15",
-                "titolo": "Frasier",
-                "descrizione": "Dopo molti anni trascorsi al bar \"Cheers"
-            },
-            {
-                "ora": "01:40",
-                "titolo": "Frasier",
-                "descrizione": "Dopo molti anni trascorsi al bar \"Cheers"
-            },
             {
                 "ora": "02:05",
                 "titolo": "Frasier",
@@ -3814,19 +3794,34 @@
                 "ora": "23:00",
                 "titolo": "Serial Killers: Joe DeAngelo",
                 "descrizione": "Serial Killers: Joe DeAngelo - Quelli che lo conoscevano dicevano che Joe DeAngelo era un buon amico e un bravo poliziotto."
-            }
-        ],
-        "aggiornato": "22:35"
-    },
-    {
-        "canale": "Sky Arte",
-        "categoria": "Documentari",
-        "programmi": [
+            },
             {
                 "ora": "23:00",
                 "titolo": "Have you got it yet? La storia di Syd Barrett e dei Pink Floyd",
                 "descrizione": "La vicenda di Syd Barrett, leggendario fondatore dei Pink Floyd, esploratore di suoni e dimensioni psichedeliche."
             },
+            {
+                "ora": "22:45",
+                "titolo": "La Tempesta Perfetta - Stag. 1 Ep. 1 - La Tempesta Perfetta Ep.01",
+                "descrizione": "S1 Ep1 L'uragano Dorian - Le tempeste piu' violente e temibili del pianeta raccontate attraverso le immagini e le esperienze di persone che lavorano nelle principali zone soggette agli uragani."
+            },
+            {
+                "ora": "00:20",
+                "titolo": "Gounod - Faust",
+                "descrizione": "Opera composta da Gounod nel 1859 - con P. Bezcala, I. Abdrazakov, M. Agresta - Wiener Philharmoniker - Philarmonia Chor Vienna - Alejo Perez dir. - Reinhard von der Thannen reg. (Salzburg, 2016)"
+            },
+            {
+                "ora": "23:55",
+                "titolo": "Stand Up Comedy",
+                "descrizione": "Ep8 di 24 - In questo episodio: Chiara Becchimanzi e Daniele Raco."
+            }
+        ],
+        "aggiornato": "00:22"
+    },
+    {
+        "canale": "Sky Arte",
+        "categoria": "Documentari",
+        "programmi": [
             {
                 "ora": "00:40",
                 "titolo": "Moonage Daydream",
@@ -3878,32 +3873,22 @@
                 "descrizione": "Serial Killers: Joe DeAngelo - Quelli che lo conoscevano dicevano che Joe DeAngelo era un buon amico e un bravo poliziotto."
             },
             {
+                "ora": "23:00",
+                "titolo": "Have you got it yet? La storia di Syd Barrett e dei Pink Floyd",
+                "descrizione": "La vicenda di Syd Barrett, leggendario fondatore dei Pink Floyd, esploratore di suoni e dimensioni psichedeliche."
+            },
+            {
                 "ora": "22:45",
                 "titolo": "La Tempesta Perfetta - Stag. 1 Ep. 1 - La Tempesta Perfetta Ep.01",
                 "descrizione": "S1 Ep1 L'uragano Dorian - Le tempeste piu' violente e temibili del pianeta raccontate attraverso le immagini e le esperienze di persone che lavorano nelle principali zone soggette agli uragani."
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Documentaries",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "23:50",
-                "titolo": "The Michael Jackson Story",
-                "descrizione": "Michael Jackson tra solitudine e dipendenze pianifica un grande ritorno sulle scene. La morte improvvisa, nel giugno di quell'anno, lo impedirà."
-            },
-            {
-                "ora": "00:45",
-                "titolo": "Un avvertimento prima di iniziare",
-                "descrizione": "Cronaca di una tortura. Pablo Trincia incontra Lorenzo Guadagnucci, giornalista e Enrico Zucca, sostituto procuratore per ripercorrere l’irruzione della polizia nella scuola Diaz, durante il G8 di Genova"
-            },
-            {
-                "ora": "01:40",
-                "titolo": "The Editor Is In",
-                "descrizione": "Ep5 di 12 Gmor - Un'incredibile serie in live-action e animazione che racconta la realta' quotidiana di un editor alle prese con collaboratori eccezionali. L'orco Gmor ha un'idea: pubblicare un libro con le sue ricette."
-            },
             {
                 "ora": "01:50",
                 "titolo": "Food Markets. Profumi e sapori a km zero",
@@ -3948,24 +3933,29 @@
                 "ora": "21:00",
                 "titolo": "Storie di cucina marchigiana",
                 "descrizione": "Lo chef Daniele Citeroni si trova ad Ascoli Piceno, dove rivisita la ricetta tipica dei ravioli 'incaciati'. Preparazione tra le più conosciute tra quelle marchigiane, è tradizionalmente associata al periodo del carnevale."
+            },
+            {
+                "ora": "20:30",
+                "titolo": "The Michael Jackson Story",
+                "descrizione": "Michael Jackson firma il contratto con la Sony ed esplodono le accuse di abusi sessuali su minori. La squadra di Michael si è data da fare per preservare intatti sia il suo impero commerciale che la sua immagine."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Grandi felini: Dall'alba al tramonto",
+                "descrizione": "Nel delta dell'Okavango, alla scoperta della complessità sociale del branco di leoni, guidato dai maschi Big Toe e Madumo, e delle sfide delle leonesse per nutrire i loro cuccioli. Le riprese notturne rivelano cacce spettacolari."
+            },
+            {
+                "ora": "21:10",
+                "titolo": "Enigmi Alieni",
+                "descrizione": "S18 Ep3 di 3 Isole del Pacifico - Nel Pacifico occidentale, l'Oceania ospita isole remote: resti di un'antica civilta' aliena?"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky Nature",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "00:20",
-                "titolo": "Spy In The Wild: A tu per tu con la...",
-                "descrizione": "Le spie si lanciano all'esplorazione delle isole nei mari del sud. Alcune delle specie più uniche sul nostro pianeta si sono evolute proprio in luoghi isolati, lontano dalla terraferma."
-            },
-            {
-                "ora": "01:20",
-                "titolo": "Spy In The Wild: A tu per tu con la...",
-                "descrizione": "Questa volta troviamo le spie su una terra coperta di neve e ghiaccio, sopra il Circolo Polare Artico e sotto il Circolo Antartico. Qui scoprono il mondo di alcuni animali coraggiosi e carismatici delle regioni di ghiaccio."
-            },
             {
                 "ora": "02:20",
                 "titolo": "Abissi alieni",
@@ -4015,29 +4005,24 @@
                 "ora": "20:30",
                 "titolo": "The Michael Jackson Story",
                 "descrizione": "Michael Jackson firma il contratto con la Sony ed esplodono le accuse di abusi sessuali su minori. La squadra di Michael si è data da fare per preservare intatti sia il suo impero commerciale che la sua immagine."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Grandi felini: Dall'alba al tramonto",
+                "descrizione": "Nel delta dell'Okavango, alla scoperta della complessità sociale del branco di leoni, guidato dai maschi Big Toe e Madumo, e delle sfide delle leonesse per nutrire i loro cuccioli. Le riprese notturne rivelano cacce spettacolari."
+            },
+            {
+                "ora": "21:10",
+                "titolo": "Enigmi Alieni",
+                "descrizione": "S18 Ep3 di 3 Isole del Pacifico - Nel Pacifico occidentale, l'Oceania ospita isole remote: resti di un'antica civilta' aliena?"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Discovery Channel",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "00:20",
-                "titolo": "Come e' fatto",
-                "descrizione": "Pennelli, lavagne, salmone affumicato e chiusure lampo: altri oggetti comuni vengono esaminati attentamente per scoprire come sono fatti."
-            },
-            {
-                "ora": "00:55",
-                "titolo": "Come e' fatto",
-                "descrizione": "Scopriamo come vengono realizzati alcuni oggetti di uso quotidiano, tra cui le lavanderie degli ospedali e le riproduzioni dei cavalli."
-            },
-            {
-                "ora": "01:20",
-                "titolo": "Come e' fatto",
-                "descrizione": "Scopriamo come vengono realizzati alcuni oggetti di uso quotidiano, tra cui i caminetti in ceramica e le pavimentazioni per i garage."
-            },
             {
                 "ora": "01:50",
                 "titolo": "NASA X-Files",
@@ -4082,19 +4067,29 @@
                 "ora": "21:15",
                 "titolo": "Chi L'Ha Visto?",
                 "descrizione": "$2a"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Realpolitik",
+                "descrizione": "Tommaso Labate conduce il nuovo programma di informazione. Sondaggi, retroscena e analisi in tempo reale, per raccontare la politica e l'attualita' senza filtri!"
+            },
+            {
+                "ora": "21:20",
+                "titolo": "Ticket to Paradise",
+                "descrizione": "Wren Butler accompagna la sua amica Lily in gita a Bali: si sono entrambe da poco laureate all'Univeristà di Chicago e il viaggio è una sorta di premio e di pausa, prima di riprendere la vita e inserirsi nella società. Ma a Bali Lily incontra un ragazzo del posto, se en innamora e decide su due piedi di sposarlo. I suoi genitori venuti a conoscenza della decisione che appare davvero improvvida, si precipitano a Bali e, nonostante siano divorziati, fanno squadra nel tentativo di impedire che la loro figlia commetta il loro medesimo errore."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Omicidio all'italiana",
+                "descrizione": "Uno strano omicidio sconvolge la vita sempre uguale di Acitrullo, sperduta località dell'entroterra abruzzese. Quale occasione migliore per il sindaco e il suo vice per far uscire dall'anonimato il paesino? Oltre alle forze dell'ordine infatti, accorrerà sul posto una troupe del famigerato programma televisivo \"Chi l'acciso?"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "History Channel",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "23:45",
-                "titolo": "Anni di Piombo Musica Leggera",
-                "descrizione": "Anni di Piombo Musica Leggera - Un incredibile viaggio nella storia della canzone d'autore italiana sullo sfondo della crisi politica e sociale degli anni Settanta."
-            },
             {
                 "ora": "01:40",
                 "titolo": "Affari di famiglia",
@@ -4131,6 +4126,11 @@
                 "descrizione": "I maschi del branco di leoni sono feriti e le madri con i cuccioli sono rimaste vulnerabili dopo un attacco. Xudum, la leoparda, corre dei rischi per trovare un compagno."
             },
             {
+                "ora": "23:45",
+                "titolo": "Anni di Piombo Musica Leggera",
+                "descrizione": "Anni di Piombo Musica Leggera - Un incredibile viaggio nella storia della canzone d'autore italiana sullo sfondo della crisi politica e sociale degli anni Settanta."
+            },
+            {
                 "ora": "21:00",
                 "titolo": "Storie di cucina marchigiana",
                 "descrizione": "Lo chef Daniele Citeroni si trova ad Ascoli Piceno, dove rivisita la ricetta tipica dei ravioli 'incaciati'. Preparazione tra le più conosciute tra quelle marchigiane, è tradizionalmente associata al periodo del carnevale."
@@ -4151,27 +4151,12 @@
                 "descrizione": "S18 Ep3 di 3 Isole del Pacifico - Nel Pacifico occidentale, l'Oceania ospita isole remote: resti di un'antica civilta' aliena?"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     },
     {
         "canale": "Sky TG 24",
         "categoria": "News",
         "programmi": [
-            {
-                "ora": "00:30",
-                "titolo": "TG24 Edicola",
-                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
-            },
-            {
-                "ora": "01:00",
-                "titolo": "TG24 Edicola",
-                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
-            },
-            {
-                "ora": "01:30",
-                "titolo": "TG24 Edicola",
-                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
-            },
             {
                 "ora": "02:00",
                 "titolo": "TG24 Edicola",
@@ -4216,8 +4201,23 @@
                 "ora": "23:20",
                 "titolo": "Porta A Porta",
                 "descrizione": "Giunto alla trentunesima edizione, il programma di Bruno Vespa offre al pubblico grandi novità, pur confermando la linea editoriale legata agli avvenimenti della politica, come ai grandi fatti di cronaca e alle mutazioni della società."
+            },
+            {
+                "ora": "22:27",
+                "titolo": "Mare fuori",
+                "descrizione": "L'Istituto di Pena Minorile di Napoli è a picco sul mare e ospita settanta detenuti: 50 maschi e 20 femmine. Quando entrano i ragazzi hanno sempre meno di 18 anni e lo fanno perché hanno \"sbagliato\". Questa serie racconta le loro storie."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Chi L'Ha Visto?",
+                "descrizione": "$2a"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Realpolitik",
+                "descrizione": "Tommaso Labate conduce il nuovo programma di informazione. Sondaggi, retroscena e analisi in tempo reale, per raccontare la politica e l'attualita' senza filtri!"
             }
         ],
-        "aggiornato": "22:35"
+        "aggiornato": "00:22"
     }
 ]
