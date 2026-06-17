@@ -4,16 +4,6 @@
         "categoria": "Digitale Terrestre",
         "programmi": [
             {
-                "ora": "23:59",
-                "titolo": "Notti Mondiali",
-                "descrizione": "Commenti e approfondimenti sulla partita dei Mondiali FIFA 2026 appena conclusa. Conduce Alessandro Antinelli. Ospiti Paulo Roberto Falcao, Marco Tardelli, Ciccio Graziani, Massimo De Luca, Manuela Giugliano, Alessio Dionisi. Regia di Annarita Cardinali."
-            },
-            {
-                "ora": "00:55",
-                "titolo": "Che Tempo Fa",
-                "descrizione": "L'appuntamento con le previsioni del tempo gestito dall'Aeronautica militare."
-            },
-            {
                 "ora": "01:00",
                 "titolo": "Reazione A Catena",
                 "descrizione": "Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e \"catene\" di vocaboli."
@@ -62,19 +52,24 @@
                 "ora": "23:47",
                 "titolo": "2 single a nozze - Wedding Crashers",
                 "descrizione": "John e Jeremy, amici per la pelle non più giovanissimi, si imbucano ai matrimoni con lo scopo di ingozzarsi a sbafo e, seguendo precise regole, abbordare giovani donne per portarsele a letto a colpo sicuro. Proprio quando John, avvertendo il peso degli anni, comincerà a rendersi conto della vacuità delle proprie azioni, Jeremy riuscirà a convincerlo a seguirlo nell'imbucata del secolo: il matrimonio della figlia del cancelliere di stato. Infatuatosi di una damigella d'onore, che si scoprirà essere fidanzata, John costringerà l'amico a proseguire la mascherata oltre le nozze: una regola infranta, si sa, tira l'altra, e la situazione non tarderà a degenerare."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Il caso Epstein. Il racconto continua",
+                "descrizione": "Dopo la deposizione di Bill Gates, il caso Epstein si riapre. Tra video inediti e testimonianze esclusive, entriamo nei luoghi del finanziere svelando l'identità dei suoi potenti ospiti. Speciale a cura di La7 Digital Media..."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Money Road - Ogni tentazione ha un...",
+                "descrizione": "Parola d’ordine: spaccatura. Il gruppo si divide per affrontare un trekking fisico ed emotivo molto impegnativo. E nella giungla, le tentazioni si fanno sempre più dure."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Rai 2",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:20",
-                "titolo": "Storie Al Bivio Di Sera",
-                "descrizione": "I protagonisti della politica, dell'attualità, della cultura o dello spettacolo raccontano senza filtri il loro momento di svolta e le loro scelte di vita, tra famiglia, carriera, figli e amori."
-            },
             {
                 "ora": "00:50",
                 "titolo": "Lasciami per sempre",
@@ -129,34 +124,19 @@
                 "ora": "23:15",
                 "titolo": "Notti Mondiali",
                 "descrizione": "Commenti e approfondimenti sulla partita dei Mondiali FIFA 2026 appena conclusa. Conduce Alessandro Antinelli. Ospiti Paulo Roberto Falcao, Marco Tardelli, Ciccio Graziani, Massimo De Luca, Manuela Giugliano, Alessio Dionisi. Regia di Annarita Cardinali."
+            },
+            {
+                "ora": "21:20",
+                "titolo": "Storie Al Bivio Di Sera",
+                "descrizione": "I protagonisti della politica, dell'attualità, della cultura o dello spettacolo raccontano senza filtri il loro momento di svolta e le loro scelte di vita, tra famiglia, carriera, figli e amori."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Rai 3",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "TG3 Linea Notte",
-                "descrizione": "TG3 Linea Notte"
-            },
-            {
-                "ora": "01:00",
-                "titolo": "Meteo 3",
-                "descrizione": "Meteo 3"
-            },
-            {
-                "ora": "01:05",
-                "titolo": "TG Magazine",
-                "descrizione": "A cura di Rai Parlamento"
-            },
-            {
-                "ora": "01:15",
-                "titolo": "Sorgente Di Vita",
-                "descrizione": "In questa puntata, la vicenda di salvezza della famiglia Pollitzer durante l'occupazione nazista a Roma, grazie all'aiuto di Maria Cristina Bezzi-Scali Marconi e dell'ambasciatore spagnolo Domingo de las Barcenas, con testimonianze di figli e nipoti che ricostruiscono i fatti. Segue un focus sulla città di Fondi, importante crocevia storico che ospitò una comunità ebraica documentata dal 1280, poi scomparsa nel 1541 con l'espulsione degli ebrei dal Sud Italia, raccontata attraverso un percorso storico. Viene poi presentata la figura di Julia Pirotte, fotografa e partigiana ebrea polacca, protagonista di un documentario che ne celebra l'impegno nella Resistenza e la sua attività fotografica durante la guerra e nel dopoguerra. Infine, si parla dell'artista Marina Ortona, la cui prima mostra personale a Roma esplora memoria e identità attraverso opere ispirate anche alla sua esperienza di fuga da Tripoli nel 1967."
-            },
             {
                 "ora": "01:45",
                 "titolo": "Sulla Via Di Damasco",
@@ -178,6 +158,11 @@
                 "descrizione": "I protagonisti della politica, dell'attualità, della cultura o dello spettacolo raccontano senza filtri il loro momento di svolta e le loro scelte di vita, tra famiglia, carriera, figli e amori."
             },
             {
+                "ora": "00:00",
+                "titolo": "TG3 Linea Notte",
+                "descrizione": "TG3 Linea Notte"
+            },
+            {
                 "ora": "21:34",
                 "titolo": "E' sempre Cartabianca",
                 "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
@@ -196,24 +181,29 @@
                 "ora": "23:20",
                 "titolo": "Il caso Epstein. Il racconto continua",
                 "descrizione": "Dopo la deposizione di Bill Gates, il caso Epstein si riapre. Tra video inediti e testimonianze esclusive, entriamo nei luoghi del finanziere svelando l'identità dei suoi potenti ospiti. Speciale a cura di La7 Digital Media..."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Money Road - Ogni tentazione ha un...",
+                "descrizione": "Parola d’ordine: spaccatura. Il gruppo si divide per affrontare un trekking fisico ed emotivo molto impegnativo. E nella giungla, le tentazioni si fanno sempre più dure."
+            },
+            {
+                "ora": "21:30",
+                "titolo": "Spy",
+                "descrizione": "Susan Cooper (Melissa McCarthy) è una normale analista della CIA e lavora duramente dietro le missioni più pericolose condotte dall'Agenzia. Quando il suo partner (Jude Law) è disperso e un altro agente (Jason Statham) è compromesso, si offre volontaria per infiltrarsi sotto copertura nel mondo di un commerciante di armi di contrabbando per prevenire un disastro globale."
+            },
+            {
+                "ora": "23:06",
+                "titolo": "Ghost Rider - Spirito di vendetta",
+                "descrizione": "Johnny Blaze, funambolo motociclista trasformato in spirito, è ancora alle prese con la maledizione che lo ha reso cacciatore di taglie per il diavolo. Tuttavia, dopo l'incontro con il leader di un gruppo di monaci ribelli, Johnny sembra disposto a tutto pur di salvare un ragazzino dalle grinfie del demonio e liberarsi così una volta per tutte dalla maledizione che lo perseguita."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Rai 4",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:49",
-                "titolo": "Blood Creek",
-                "descrizione": "1936. Una famiglia tedesca, i Wollners vivono nella contea rurale di Morgan, nel West Virginia vengono contattati dal Terzo Raich per ospitare uno studioso Richard Wirth, che lo accettano subito nella loro casa. Il grande progetto occulto di Wirth isola i Wollner dal resto del mondo, facendoli diventare giocatori in un gioco di sopravvivenza. 71 anni dopo, la vita di Evan Marshall si è fermata a 25 anni, dopo la scomparsa del fratello maggiore Victor da un campeggio vicino a Town Creek, ma quando quest'ultimo è ricomparso vivo per farsi aiutare da suo fratello per sconfiggere i demoni."
-            },
-            {
-                "ora": "01:21",
-                "titolo": "Anica Appuntamento Al Cinema",
-                "descrizione": "Rubrica per la promozione della cultura cinematografica in Italia."
-            },
             {
                 "ora": "01:24",
                 "titolo": "Fire Country",
@@ -263,29 +253,24 @@
                 "ora": "00:00",
                 "titolo": "TG3 Linea Notte",
                 "descrizione": "TG3 Linea Notte"
+            },
+            {
+                "ora": "21:34",
+                "titolo": "E' sempre Cartabianca",
+                "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
+            },
+            {
+                "ora": "21:20",
+                "titolo": "Gigi & vanessa insieme",
+                "descrizione": "Un grande show che celebra l'amicizia e le emozioni. Ospiti: Paolo Bonolis, Luca Laurenti, Emma, Giorgio Panariello, Francesco Cicchella, Claudio Santamaria, Stash ed Eros Ramazzotti."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Rai 5",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:32",
-                "titolo": "Rispet",
-                "descrizione": "Corvaz è un trentenne semplice ed istintivo che lavora sodo nella vigna del padre e adora andare in giro con il suo cane Toni. La vita del villaggio di montagna è tutta incentrata sul bar, di proprietà del ricco viticoltore/proprietario terriero e gestito dalla fidanzata del figlio. Gli uomini passano il loro tempo bevendo, tra rancori e false amicizie, quando una notte, le statue di legno che decorano la piazza, sono vandalizzate. La colpa è subito data a Corvaz. Anche Mara, l'energica barista, crede che sia stato lui. Cercando però di superare l'ostilità collettiva, lo incontra e tra loro nasce un’amicizia mentre il desiderio di vendetta della comunità diventa sempre più forte. Il codice del rispet che li ha tenuti tutti insieme, ora è infranto."
-            },
-            {
-                "ora": "01:21",
-                "titolo": "Cantautori: Francesco De Gregori",
-                "descrizione": "Un compendio delle migliori \"perle\" tratte dagli archivi della RAI. Schivo, intelligente: il mondo musicale di De Gregori sembra romanzo fantastico sgranato in innumerevoli canzoni. Fra i suoi capolavori ritroviamo \"Pablo"
-            },
-            {
-                "ora": "01:48",
-                "titolo": "Rai News Notte",
-                "descrizione": "Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.. - 2026 ITA"
-            },
             {
                 "ora": "01:50",
                 "titolo": "Overland 19 - Le Indie Di Overland - Colori E Riti In Rajasthan - 18",
@@ -330,19 +315,29 @@
                 "ora": "21:20",
                 "titolo": "Gigi & vanessa insieme",
                 "descrizione": "Un grande show che celebra l'amicizia e le emozioni. Ospiti: Paolo Bonolis, Luca Laurenti, Emma, Giorgio Panariello, Francesco Cicchella, Claudio Santamaria, Stash ed Eros Ramazzotti."
+            },
+            {
+                "ora": "23:47",
+                "titolo": "2 single a nozze - Wedding Crashers",
+                "descrizione": "John e Jeremy, amici per la pelle non più giovanissimi, si imbucano ai matrimoni con lo scopo di ingozzarsi a sbafo e, seguendo precise regole, abbordare giovani donne per portarsele a letto a colpo sicuro. Proprio quando John, avvertendo il peso degli anni, comincerà a rendersi conto della vacuità delle proprie azioni, Jeremy riuscirà a convincerlo a seguirlo nell'imbucata del secolo: il matrimonio della figlia del cancelliere di stato. Infatuatosi di una damigella d'onore, che si scoprirà essere fidanzata, John costringerà l'amico a proseguire la mascherata oltre le nozze: una regola infranta, si sa, tira l'altra, e la situazione non tarderà a degenerare."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Il caso Epstein. Il racconto continua",
+                "descrizione": "Dopo la deposizione di Bill Gates, il caso Epstein si riapre. Tra video inediti e testimonianze esclusive, entriamo nei luoghi del finanziere svelando l'identità dei suoi potenti ospiti. Speciale a cura di La7 Digital Media..."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Money Road - Ogni tentazione ha un...",
+                "descrizione": "Parola d’ordine: spaccatura. Il gruppo si divide per affrontare un trekking fisico ed emotivo molto impegnativo. E nella giungla, le tentazioni si fanno sempre più dure."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Rete 4",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:34",
-                "titolo": "E' sempre Cartabianca",
-                "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
-            },
             {
                 "ora": "00:56",
                 "titolo": "Dalla parte degli animali",
@@ -384,6 +379,11 @@
                 "descrizione": "TG3 Linea Notte"
             },
             {
+                "ora": "21:34",
+                "titolo": "E' sempre Cartabianca",
+                "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
+            },
+            {
                 "ora": "21:20",
                 "titolo": "Gigi & vanessa insieme",
                 "descrizione": "Un grande show che celebra l'amicizia e le emozioni. Ospiti: Paolo Bonolis, Luca Laurenti, Emma, Giorgio Panariello, Francesco Cicchella, Claudio Santamaria, Stash ed Eros Ramazzotti."
@@ -399,22 +399,12 @@
                 "descrizione": "Dopo la deposizione di Bill Gates, il caso Epstein si riapre. Tra video inediti e testimonianze esclusive, entriamo nei luoghi del finanziere svelando l'identità dei suoi potenti ospiti. Speciale a cura di La7 Digital Media..."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Canale 5",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:20",
-                "titolo": "Gigi & vanessa insieme",
-                "descrizione": "Un grande show che celebra l'amicizia e le emozioni. Ospiti: Paolo Bonolis, Luca Laurenti, Emma, Giorgio Panariello, Francesco Cicchella, Claudio Santamaria, Stash ed Eros Ramazzotti."
-            },
-            {
-                "ora": "00:47",
-                "titolo": "Tg5",
-                "descrizione": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5."
-            },
             {
                 "ora": "01:30",
                 "titolo": "Luce dei tuoi occhi - seconda stagione",
@@ -456,6 +446,11 @@
                 "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
             },
             {
+                "ora": "21:20",
+                "titolo": "Gigi & vanessa insieme",
+                "descrizione": "Un grande show che celebra l'amicizia e le emozioni. Ospiti: Paolo Bonolis, Luca Laurenti, Emma, Giorgio Panariello, Francesco Cicchella, Claudio Santamaria, Stash ed Eros Ramazzotti."
+            },
+            {
                 "ora": "23:47",
                 "titolo": "2 single a nozze - Wedding Crashers",
                 "descrizione": "John e Jeremy, amici per la pelle non più giovanissimi, si imbucano ai matrimoni con lo scopo di ingozzarsi a sbafo e, seguendo precise regole, abbordare giovani donne per portarsele a letto a colpo sicuro. Proprio quando John, avvertendo il peso degli anni, comincerà a rendersi conto della vacuità delle proprie azioni, Jeremy riuscirà a convincerlo a seguirlo nell'imbucata del secolo: il matrimonio della figlia del cancelliere di stato. Infatuatosi di una damigella d'onore, che si scoprirà essere fidanzata, John costringerà l'amico a proseguire la mascherata oltre le nozze: una regola infranta, si sa, tira l'altra, e la situazione non tarderà a degenerare."
@@ -464,9 +459,14 @@
                 "ora": "23:20",
                 "titolo": "Il caso Epstein. Il racconto continua",
                 "descrizione": "Dopo la deposizione di Bill Gates, il caso Epstein si riapre. Tra video inediti e testimonianze esclusive, entriamo nei luoghi del finanziere svelando l'identità dei suoi potenti ospiti. Speciale a cura di La7 Digital Media..."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Money Road - Ogni tentazione ha un...",
+                "descrizione": "Parola d’ordine: spaccatura. Il gruppo si divide per affrontare un trekking fisico ed emotivo molto impegnativo. E nella giungla, le tentazioni si fanno sempre più dure."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Italia 1",
@@ -533,22 +533,12 @@
                 "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "La7",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:15",
-                "titolo": "TG LA7 Notte",
-                "descrizione": "Informazione a cura della redazione del TG LA7."
-            },
-            {
-                "ora": "01:10",
-                "titolo": "Otto e Mezzo",
-                "descrizione": "Il programma di approfondimento quotidiano condotto da Lilli Gruber, con ospiti in studio e il punto di Paolo Pagliaro. 25a Edizione"
-            },
             {
                 "ora": "01:50",
                 "titolo": "Camera con Vista",
@@ -598,19 +588,24 @@
                 "ora": "23:47",
                 "titolo": "2 single a nozze - Wedding Crashers",
                 "descrizione": "John e Jeremy, amici per la pelle non più giovanissimi, si imbucano ai matrimoni con lo scopo di ingozzarsi a sbafo e, seguendo precise regole, abbordare giovani donne per portarsele a letto a colpo sicuro. Proprio quando John, avvertendo il peso degli anni, comincerà a rendersi conto della vacuità delle proprie azioni, Jeremy riuscirà a convincerlo a seguirlo nell'imbucata del secolo: il matrimonio della figlia del cancelliere di stato. Infatuatosi di una damigella d'onore, che si scoprirà essere fidanzata, John costringerà l'amico a proseguire la mascherata oltre le nozze: una regola infranta, si sa, tira l'altra, e la situazione non tarderà a degenerare."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Il caso Epstein. Il racconto continua",
+                "descrizione": "Dopo la deposizione di Bill Gates, il caso Epstein si riapre. Tra video inediti e testimonianze esclusive, entriamo nei luoghi del finanziere svelando l'identità dei suoi potenti ospiti. Speciale a cura di La7 Digital Media..."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Money Road - Ogni tentazione ha un...",
+                "descrizione": "Parola d’ordine: spaccatura. Il gruppo si divide per affrontare un trekking fisico ed emotivo molto impegnativo. E nella giungla, le tentazioni si fanno sempre più dure."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "TV8",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:35",
-                "titolo": "Money Road - Ogni tentazione ha...\",\"prima\":true,\"description\":\"Parola d’ordine: spaccatura. Il gruppo si divide per affrontare un trekking fisico ed emotivo molto impegnativo. E nella giungla, le tentazioni si fanno sempre più dure.\",\"durata\":115,\"genre\":\"Show\",\"category\":\"Intrattenimento\",\"image\":\"https://img-guidatv.org/45/money-road-ogni-tentazione-ha/6.jpg\",\"episode_number\":4,\"series_number\":2,\"director\":null,\"inizio\":\"2026-06-16T19:40:00.000Z\",\"fine\":\"2026-06-16T21:35:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2026\",\"primaSer\":true},{\"id\":\"X7uiHYy4SNMB\",\"title\":\"Money Road - Ogni tentazione ha un...",
-                "descrizione": "Parola d’ordine: spaccatura. Il gruppo si divide per affrontare un trekking fisico ed emotivo molto impegnativo. E nella giungla, le tentazioni si fanno sempre più dure."
-            },
             {
                 "ora": "01:30",
                 "titolo": "Sex: una commedia sentimentalmente scorretta",
@@ -665,9 +660,14 @@
                 "ora": "23:20",
                 "titolo": "Il caso Epstein. Il racconto continua",
                 "descrizione": "Dopo la deposizione di Bill Gates, il caso Epstein si riapre. Tra video inediti e testimonianze esclusive, entriamo nei luoghi del finanziere svelando l'identità dei suoi potenti ospiti. Speciale a cura di La7 Digital Media..."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Money Road - Ogni tentazione ha un...",
+                "descrizione": "Parola d’ordine: spaccatura. Il gruppo si divide per affrontare un trekking fisico ed emotivo molto impegnativo. E nella giungla, le tentazioni si fanno sempre più dure."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Nove",
@@ -734,22 +734,12 @@
                 "descrizione": "Dopo la deposizione di Bill Gates, il caso Epstein si riapre. Tra video inediti e testimonianze esclusive, entriamo nei luoghi del finanziere svelando l'identità dei suoi potenti ospiti. Speciale a cura di La7 Digital Media..."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "20 Mediaset",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:06",
-                "titolo": "Ghost Rider - Spirito di vendetta",
-                "descrizione": "Johnny Blaze, funambolo motociclista trasformato in spirito, è ancora alle prese con la maledizione che lo ha reso cacciatore di taglie per il diavolo. Tuttavia, dopo l'incontro con il leader di un gruppo di monaci ribelli, Johnny sembra disposto a tutto pur di salvare un ragazzino dalle grinfie del demonio e liberarsi così una volta per tutte dalla maledizione che lo perseguita."
-            },
-            {
-                "ora": "00:57",
-                "titolo": "Chicago Med",
-                "descrizione": "Cavalcare il brivido emozionale attraverso il caos raccontanto giorno dopo giorno nell’ospedale più esplosivo della città, con la squadra coraggiosa dei medici che lo tengono insieme. Essi affronteranno nuovi casi unici ispirati dagli eventi di attualità, creeranno relazioni di fuoco nel pandemonio cardiopalmo del pronto soccorso. La serie è di genere medical drama è uno spinoff di Chicago Fire, creata da by Dick Wolf e Matt Olmstead."
-            },
             {
                 "ora": "01:38",
                 "titolo": "Chicago Med",
@@ -799,24 +789,24 @@
                 "ora": "00:00",
                 "titolo": "TG3 Linea Notte",
                 "descrizione": "TG3 Linea Notte"
+            },
+            {
+                "ora": "21:34",
+                "titolo": "E' sempre Cartabianca",
+                "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
+            },
+            {
+                "ora": "21:20",
+                "titolo": "Gigi & vanessa insieme",
+                "descrizione": "Un grande show che celebra l'amicizia e le emozioni. Ospiti: Paolo Bonolis, Luca Laurenti, Emma, Giorgio Panariello, Francesco Cicchella, Claudio Santamaria, Stash ed Eros Ramazzotti."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Real Time",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:20",
-                "titolo": "Vita da Amish\",\"prima\":true,\"description\":\"Sei persone lasciano la societa' moderna per unirsi alla comunita' Amish.\",\"durata\":100,\"genre\":\"Intrattenimento\",\"category\":\"Mondo E Tendenze\",\"image\":\"https://img-guidatv.org/37/vita-da-amish/5.jpg\",\"director\":null,\"inizio\":\"2026-06-16T19:40:00.000Z\",\"fine\":\"2026-06-16T21:20:00.000Z\",\"condividi\":\"$undefined\",\"tiEp\":\"Trasformazione\",\"primaSer\":true},{\"id\":\"xceiWoUlPJDE\",\"title\":\"ER: storie incredibili",
-                "descrizione": "Un adolescente perde il braccio dopo essere stato aggredito da un gruppo di uomini armati di spade. Inoltre, un giovane ha uno shock anafilattico. Da cosa e' stata causata la sua reazione allergica?"
-            },
-            {
-                "ora": "00:25",
-                "titolo": "ER: storie incredibili",
-                "descrizione": "Un soldato e' sofferente dopo aver ingoiato dei rasoi durante una sfida. Una futura sposa collassa mentre e' sull'altare. Inoltre, i dottori salveranno la gamba di una donna senza creare problemi al suo bambino?"
-            },
             {
                 "ora": "01:30",
                 "titolo": "ER: storie incredibili",
@@ -866,54 +856,24 @@
                 "ora": "21:20",
                 "titolo": "Gigi & vanessa insieme",
                 "descrizione": "Un grande show che celebra l'amicizia e le emozioni. Ospiti: Paolo Bonolis, Luca Laurenti, Emma, Giorgio Panariello, Francesco Cicchella, Claudio Santamaria, Stash ed Eros Ramazzotti."
+            },
+            {
+                "ora": "23:47",
+                "titolo": "2 single a nozze - Wedding Crashers",
+                "descrizione": "John e Jeremy, amici per la pelle non più giovanissimi, si imbucano ai matrimoni con lo scopo di ingozzarsi a sbafo e, seguendo precise regole, abbordare giovani donne per portarsele a letto a colpo sicuro. Proprio quando John, avvertendo il peso degli anni, comincerà a rendersi conto della vacuità delle proprie azioni, Jeremy riuscirà a convincerlo a seguirlo nell'imbucata del secolo: il matrimonio della figlia del cancelliere di stato. Infatuatosi di una damigella d'onore, che si scoprirà essere fidanzata, John costringerà l'amico a proseguire la mascherata oltre le nozze: una regola infranta, si sa, tira l'altra, e la situazione non tarderà a degenerare."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Il caso Epstein. Il racconto continua",
+                "descrizione": "Dopo la deposizione di Bill Gates, il caso Epstein si riapre. Tra video inediti e testimonianze esclusive, entriamo nei luoghi del finanziere svelando l'identità dei suoi potenti ospiti. Speciale a cura di La7 Digital Media..."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Boing",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:20",
-                "titolo": "Dragon Ball Super",
-                "descrizione": "Giunti alla fine del torneo tutti si preparano per evocare il drago Super Shenron ma manca ancora una sfera all'appello che si scopre essere il Pianeta Senza Nome."
-            },
-            {
-                "ora": "00:40",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball, un gatto di 12 anni, e il suo amico Darwin, un pesce rosso, vivono avventure al limite della follia, in questa stravagante commedia animata."
-            },
-            {
-                "ora": "00:55",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Hector e' stanco di essere un gigante e i nostri eroi riescono a rimpicciolirlo con una pozione della signora Jotunheim, ma le cose, non finiscono mai come dovrebbero."
-            },
-            {
-                "ora": "01:05",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Un losco personaggio tenta di eliminare Gumball dal palinesto di questa stazione televisiva sostituendolo con programmi molto discutibili."
-            },
-            {
-                "ora": "01:15",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Penny vuole convincere i genitori a farla vivere fuori dal proprio guscio e coinvolge Gumball in una drammatica discussione di famiglia."
-            },
-            {
-                "ora": "01:25",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball e Darwin cercano di fare amicizia con un nuovo compagno di scuola e si ritrovano complici di un attacco alle istituzioni orchestrato dai suoi genitori."
-            },
-            {
-                "ora": "01:35",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Richard ha comprato un cavallo e, nel tentative di guadagnare qualcosa, in famiglia si decide di affittare la casa a una coppia di anziani turisti."
-            },
-            {
-                "ora": "01:45",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Richard sta aspettando un pacco che contiene l'ultimo pezzo di un puzzle. Si scatena cosi' una folle gara con il fattorino, gara dall'esito quanto mai incerto."
-            },
             {
                 "ora": "01:55",
                 "titolo": "Lo straordinario mondo di Gumball",
@@ -933,39 +893,54 @@
                 "ora": "02:30",
                 "titolo": "Lo straordinario mondo di Gumball",
                 "descrizione": "Gumball e Darwin non riescono piu' a parlarsi. Disperati si rivolgono a varie persone senza trovare soluzioni. Ma il loro legame sara' piu' forte."
+            },
+            {
+                "ora": "02:40",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Banana Barbara scompare perche' rapita da Rob che ha scoperto le sue doti di prevedere il futuro dipingendo."
+            },
+            {
+                "ora": "02:50",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Brown non si dichiara e Scimmia se ne va. Poi I ragazzi fanno credere al preside che Scimmia si e' trasformata in un cuscino."
+            },
+            {
+                "ora": "03:00",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "La fabbrica Arcobaleno dove lavora Nicole sta per chiudere. Ci pensano Darwin e Gumball a salvarla."
+            },
+            {
+                "ora": "03:10",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Darwin prende le difese degli oggetti ma questi prendono coscienza del loro stato e si ribellano agli uomini."
+            },
+            {
+                "ora": "03:20",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Penny lascia per un paio d'ore la sorellina da Gumball e succede di tutto..."
+            },
+            {
+                "ora": "03:35",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball, un gatto di 12 anni, e il suo amico Darwin, un pesce rosso, vivono avventure al limite della follia, in questa stravagante commedia animata."
+            },
+            {
+                "ora": "03:45",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Si rompe la strana amicizia tra Gumball Darwin e il signor Robinson e solo un drastico intervento sul cuore di quest'ultimo risolvera' la crisi."
+            },
+            {
+                "ora": "03:55",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Siamo a Halloween ma i veri fantasmi non fanno piu'' paura... finche' Darwin e Gumball non decidono di intervenire."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "K2",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:50",
-                "titolo": "La mia nuova casa sull'albero",
-                "descrizione": "7' Stagione Ep.14 - Antonio Brown - Pete deve costruire una casa sull'albero per Antonio Brown. Il giocatore di football americano vuole una finestra che dia su due campi, uno di basketball e un altro di football."
-            },
-            {
-                "ora": "00:40",
-                "titolo": "Desperate House Cats",
-                "descrizione": "1' Stagione Ep.5 - Controllo del vicinato - Vi siete mai chiesti cosa fanno i vostri amici felini quando non siete a casa? \"Desperate House Cats\" vi dà la possibilità di scoprire la vita segreta dei gatti."
-            },
-            {
-                "ora": "01:00",
-                "titolo": "I Dalton",
-                "descrizione": "1' Stagione Ep.11 - Le divertenti vicende di una gang di antieroi costituita dai fratelli Joe, William, Jack e Averell Dalton, noti avversari del leggendario Lucky Luke."
-            },
-            {
-                "ora": "01:20",
-                "titolo": "I Dalton",
-                "descrizione": "1' Stagione Ep.12 - Le divertenti vicende di una gang di antieroi costituita dai fratelli Joe, William, Jack e Averell Dalton, noti avversari del leggendario Lucky Luke."
-            },
-            {
-                "ora": "01:40",
-                "titolo": "Zig & Sharko",
-                "descrizione": "4' Stagione Ep.13 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Sharko."
-            },
             {
                 "ora": "02:00",
                 "titolo": "Zig & Sharko",
@@ -1000,49 +975,39 @@
                 "ora": "04:10",
                 "titolo": "Zig & Sharko",
                 "descrizione": "4' Stagione Ep.18 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Sharko."
+            },
+            {
+                "ora": "04:30",
+                "titolo": "Zig & Sharko",
+                "descrizione": "4' Stagione Ep.19 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Sharko."
+            },
+            {
+                "ora": "04:55",
+                "titolo": "Zig & Sharko",
+                "descrizione": "4' Stagione Ep.20 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Sharko."
+            },
+            {
+                "ora": "05:15",
+                "titolo": "I Dalton",
+                "descrizione": "1' Stagione Ep.15 - Le divertenti vicende di una gang di antieroi costituita dai fratelli Joe, William, Jack e Averell Dalton, noti avversari del leggendario Lucky Luke."
+            },
+            {
+                "ora": "05:35",
+                "titolo": "I Dalton",
+                "descrizione": "1' Stagione Ep.16 - Le divertenti vicende di una gang di antieroi costituita dai fratelli Joe, William, Jack e Averell Dalton, noti avversari del leggendario Lucky Luke."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Notti Mondiali",
+                "descrizione": "Commenti e approfondimenti sulla partita dei Mondiali FIFA 2026 appena conclusa. Conduce Alessandro Antinelli. Ospiti Paulo Roberto Falcao, Marco Tardelli, Ciccio Graziani, Massimo De Luca, Manuela Giugliano, Alessio Dionisi. Regia di Annarita Cardinali."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Rai Gulp",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:10",
-                "titolo": "Spike Team",
-                "descrizione": "Jo, Ann, Vicky, Sue, Patty e Beth, sei ragazze, sei diversi temperamenti. Il loro scopo? Vincere unite in campo senza venire meno ai valori e all'etica dello sport."
-            },
-            {
-                "ora": "00:35",
-                "titolo": "Spike Team",
-                "descrizione": "Jo, Ann, Vicky, Sue, Patty e Beth, sei ragazze, sei diversi temperamenti. Il loro scopo? Vincere unite in campo senza venire meno ai valori e all'etica dello sport."
-            },
-            {
-                "ora": "01:00",
-                "titolo": "Gormiti",
-                "descrizione": "Motak sta aiutando i Guardiani a disattivare il Cristallo Meka, ma Gredd interviene e lo mette in difficoltà. Trek chiama Titano, ma neanche lui riesce a sconfiggerlo. Grazie all'aiuto di Siran, Trek riuscirà a ultra-concentrarsi, Titano riuscirà a battere Gredd e Motak potrà finalmente disattivare il Cristallo."
-            },
-            {
-                "ora": "01:10",
-                "titolo": "Gormiti",
-                "descrizione": "Xathor si presenta al cospetto di Voidus, perché crede di poter essere migliore di Gredd (già sconfitto dai Guardiani). Voidus allora erige un nuovo cristallo Meka nel Regno del Fuoco. I Guardiani, allarmati dalla Torre, si precipitano in questo regno e a pochi passi da un segnale si imbattono in Xathor. Riff chiama Koga, ma Xathor riesce a raggirare tutti illudendoli con dei miraggi. I Guardiani se ne rendono conto solo dopo aver attivato inconsapevolmente il sistema di difesa, provocando la spaccatura del dirupo su cui si trovano. Koga arriva in loro soccorso per non farli cadere nella lava, mentre Riff non sapendo come poter sbloccare il sistema di difesa, segue il consiglio dei suoi amici disperati e inizia a sparare contro ogni cosa, riuscendo così a sconfiggere Xathor."
-            },
-            {
-                "ora": "01:25",
-                "titolo": "La famiglia Skrokkiazeppi",
-                "descrizione": "Frequentando un nuovo food truck allestito in città, Ortika scopre di amare il cibo biologico. Deve presto gestire la sua dipendenza da questo nuovo cibo, che tutti amano. Ma a poco a poco sorgono effetti collaterali, questo alimento biologico sarà davvero biologico?"
-            },
-            {
-                "ora": "01:35",
-                "titolo": "La famiglia Skrokkiazeppi",
-                "descrizione": "Nonna Cikuta ha un diverbio con i netturbini che per dispetto decidono di non raccogliere l'immondizia nello stabile in cui abitano gli Skrokkiazeppi. La Vladivovitch minaccia gli Skrokkiazeppi di espulsione se non smaltiscono i rifiuti. Nonna Cikuta cerca un modo per sbarazzarsene, ma combina solo disastri."
-            },
-            {
-                "ora": "01:50",
-                "titolo": "Il mondo di Karma",
-                "descrizione": "Karma ha una fan... una grande fan! Neha è una compagna di scuola di Keys ed è un'esperta di tutto ciò che riguarda Karma. Così tanto da darle sui nervi. Karma accetta di partecipare come ospite al suo podcast, ma finisce per non prendere la cosa sul serio, ferendo i sentimenti di Neha. Con la guida di Lady K, Karma comprende di avere una voce che persone come Neha ascolteranno, e dipende da lei quello che fa con quella piattaforma."
-            },
             {
                 "ora": "02:00",
                 "titolo": "Il mondo di Karma",
@@ -1067,34 +1032,49 @@
                 "ora": "03:10",
                 "titolo": "I Puffi",
                 "descrizione": "Zuccone e Tontolone perdono il lavoro da pompieri. Al loro posto subentra Puffetta, abilissima protettrice del villaggio."
+            },
+            {
+                "ora": "03:15",
+                "titolo": "I Puffi - La nuova serie",
+                "descrizione": "Gargamella escogita un piano per catturare i Puffi rinchiudendoli in un armadio."
+            },
+            {
+                "ora": "03:25",
+                "titolo": "I Puffi - La nuova serie",
+                "descrizione": "Gargamella rapisce Grande Puffo e con una pozione magica scambia i loro corpi."
+            },
+            {
+                "ora": "03:50",
+                "titolo": "Le tre moschettiere",
+                "descrizione": "Acchiappa-tutto torna in città e decide di fare un nuovo sgarro alla corte. Sarà compito di D'Artagnan e delle Moschettiere svelare i suoi movimenti e gli obiettivi del celebre ladro."
+            },
+            {
+                "ora": "03:55",
+                "titolo": "Le tre moschettiere",
+                "descrizione": "D'Artagnan e le Moschettiere dovranno occuparsi di una ghironda nota per essere appartenuta al grande Stradivari, che a quanto pare non funziona bene, e Luigi XIII ne è particolarmente affezionato. Ma quando Rochefort ci mette lo zampino, la situazione che ne fuoriuscirà non sarà così semplice."
+            },
+            {
+                "ora": "04:15",
+                "titolo": "Winx Club",
+                "descrizione": "Tutte le stelle del cielo si stanno misteriosamente spegnendo una ad una, gettando man mano nell'oscurità i vari mondi dell'Universo Magico. E sembra proprio che dietro questa terribile minaccia si celi il ritorno di Valtor."
+            },
+            {
+                "ora": "04:35",
+                "titolo": "OGM Travels",
+                "descrizione": "Johnson, dopo giorni di lavoro intenso, è riuscito a produrre dell'ottimo compost! Olivia e Elvis, pur non afferrando l'attrattiva di questo prezioso fertilizzante ecologico, lo pubblicizzano come un esclusivissima attrazione terrestre. In men che non si dica un turista si prenota per il tour ma quei pasticcioni di Elvis e Buddy scambiano il compost di Johnson per della semplice sporcizia! La OGM Travels deve produrre del nuovo compost per accontentare il turista in arrivo ma ne saranno capaci senza l'aiuto di Johnson?"
+            },
+            {
+                "ora": "04:45",
+                "titolo": "OGM Travels",
+                "descrizione": "Cosa c'è di meglio di una bella vacanza rilassante per dimenticare una storia d'amore ormai finita? Probabilmente è quello che hanno pensato Brunilde e Sigfrido quando hanno prenotato un tour dell'Islanda. Quello che però questi due ex non sanno è che l'hanno prenotato... in contemporanea! Riusciranno Johnson, Olivia e Elvis a far visitare a questi due cuori infranti saune, cascate e geyzer senza farli incontrare... e senza mettere a repentaglio l'intero ecosistema?"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Frisbee",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "00:15",
-                "titolo": "Il boss delle torte",
-                "descrizione": "6' Stagione Ep.11 - Nevica - Dopo mesi di duro lavoro per la nuova pasticceria, una tempesta di neve minaccia di ritardare l'inaugurazione. Intanto, a Mary viene commissionata una torta vulcanica!"
-            },
-            {
-                "ora": "00:40",
-                "titolo": "Il boss delle torte",
-                "descrizione": "6' Stagione Ep.12 - Dolci per Pasqua - Buddy crea una gustosa torta di Pasqua a forma di cesto per un ente di beneficenza del luogo. Intanto, la mamma torna a casa per una visita e un importante controllo generale."
-            },
-            {
-                "ora": "01:05",
-                "titolo": "Floopaloo",
-                "descrizione": "1' Stagione Ep.9 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
-            },
-            {
-                "ora": "01:25",
-                "titolo": "Floopaloo",
-                "descrizione": "1' Stagione Ep.10 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
-            },
             {
                 "ora": "01:45",
                 "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
@@ -1134,14 +1114,64 @@
                 "ora": "04:15",
                 "titolo": "Oggy Oggy",
                 "descrizione": "1' Stagione Ep.16 - Gioco, avventura e amici rendono la vita di Oggy Oggy divertente! Curioso e audace, questo adorabile gattino è sempre pronto ad aiutare un amico e a vivere nuove esperienze."
+            },
+            {
+                "ora": "04:35",
+                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
+                "descrizione": "3' Stagione Ep.13 - Oggy si prende cura di Piya, figlia dei suoi amici indiani"
+            },
+            {
+                "ora": "04:55",
+                "titolo": "Oggy e i maledetti scarafaggi",
+                "descrizione": "5' Stagione Ep.1 - I buffi dispetti di un gruppo di scatenati scarafaggi ai danni del gatto Oggy, costretto ogni giorno a subirne di tutti i colori."
+            },
+            {
+                "ora": "05:15",
+                "titolo": "Oggy e i maledetti scarafaggi",
+                "descrizione": "5' Stagione Ep.2 - I buffi dispetti di un gruppo di scatenati scarafaggi ai danni del gatto Oggy, costretto ogni giorno a subirne di tutti i colori."
+            },
+            {
+                "ora": "05:35",
+                "titolo": "Oggy e i maledetti scarafaggi",
+                "descrizione": "5' Stagione Ep.3 - I buffi dispetti di un gruppo di scatenati scarafaggi ai danni del gatto Oggy, costretto ogni giorno a subirne di tutti i colori."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "DMAX",
         "categoria": "Digitale Terrestre",
         "programmi": [
+            {
+                "ora": "01:05",
+                "titolo": "L'occhio del ciclone\",\"prima\":true,\"description\":\"In Texas, la casa di una famiglia e' stata colpita da alcuni devastanti tornado.\",\"durata\":70,\"genre\":\"Intrattenimento\",\"category\":\"Mondo E Tendenze\",\"image\":\"https://img-guidatv.org/44/locchio-del-ciclone/5.jpg\",\"director\":null,\"inizio\":\"2026-06-16T21:55:00.000Z\",\"fine\":\"2026-06-16T23:05:00.000Z\",\"condividi\":\"$undefined\",\"tiEp\":\"Disastro in Texas\"},{\"id\":\"A3ZHBojcnt7n\",\"title\":\"L'occhio del ciclone",
+                "descrizione": "Nel 2024, una serie di devastanti tornado causa problemi nelle Grandi Pianure centrali."
+            },
+            {
+                "ora": "02:15",
+                "titolo": "Colpo di fulmini",
+                "descrizione": "Grazie ad alcuni video, osserviamo fenomeni naturali incredibili."
+            },
+            {
+                "ora": "03:20",
+                "titolo": "Colpo di fulmini",
+                "descrizione": "Grazie ad alcuni video, osserviamo fenomeni naturali incredibili."
+            },
+            {
+                "ora": "04:20",
+                "titolo": "Colpo di fulmini",
+                "descrizione": "Grazie ad alcuni video, osserviamo fenomeni naturali incredibili."
+            },
+            {
+                "ora": "05:45",
+                "titolo": "Affari in valigia",
+                "descrizione": "A Long Island, New York, e' in arrivo una grande sorpresa che coinvolge Valerie. Nella sua citta' natale, Mark restera' un eroe o diventera' una nullita'?"
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Notti Mondiali",
+                "descrizione": "Commenti e approfondimenti sulla partita dei Mondiali FIFA 2026 appena conclusa. Conduce Alessandro Antinelli. Ospiti Paulo Roberto Falcao, Marco Tardelli, Ciccio Graziani, Massimo De Luca, Manuela Giugliano, Alessio Dionisi. Regia di Annarita Cardinali."
+            },
             {
                 "ora": "21:20",
                 "titolo": "Storie Al Bivio Di Sera",
@@ -1171,54 +1201,14 @@
                 "ora": "23:20",
                 "titolo": "Il caso Epstein. Il racconto continua",
                 "descrizione": "Dopo la deposizione di Bill Gates, il caso Epstein si riapre. Tra video inediti e testimonianze esclusive, entriamo nei luoghi del finanziere svelando l'identità dei suoi potenti ospiti. Speciale a cura di La7 Digital Media..."
-            },
-            {
-                "ora": "23:35",
-                "titolo": "Money Road - Ogni tentazione ha un...",
-                "descrizione": "Parola d’ordine: spaccatura. Il gruppo si divide per affrontare un trekking fisico ed emotivo molto impegnativo. E nella giungla, le tentazioni si fanno sempre più dure."
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Spy",
-                "descrizione": "Susan Cooper (Melissa McCarthy) è una normale analista della CIA e lavora duramente dietro le missioni più pericolose condotte dall'Agenzia. Quando il suo partner (Jude Law) è disperso e un altro agente (Jason Statham) è compromesso, si offre volontaria per infiltrarsi sotto copertura nel mondo di un commerciante di armi di contrabbando per prevenire un disastro globale."
-            },
-            {
-                "ora": "23:06",
-                "titolo": "Ghost Rider - Spirito di vendetta",
-                "descrizione": "Johnny Blaze, funambolo motociclista trasformato in spirito, è ancora alle prese con la maledizione che lo ha reso cacciatore di taglie per il diavolo. Tuttavia, dopo l'incontro con il leader di un gruppo di monaci ribelli, Johnny sembra disposto a tutto pur di salvare un ragazzino dalle grinfie del demonio e liberarsi così una volta per tutte dalla maledizione che lo perseguita."
-            },
-            {
-                "ora": "23:49",
-                "titolo": "Blood Creek",
-                "descrizione": "1936. Una famiglia tedesca, i Wollners vivono nella contea rurale di Morgan, nel West Virginia vengono contattati dal Terzo Raich per ospitare uno studioso Richard Wirth, che lo accettano subito nella loro casa. Il grande progetto occulto di Wirth isola i Wollner dal resto del mondo, facendoli diventare giocatori in un gioco di sopravvivenza. 71 anni dopo, la vita di Evan Marshall si è fermata a 25 anni, dopo la scomparsa del fratello maggiore Victor da un campeggio vicino a Town Creek, ma quando quest'ultimo è ricomparso vivo per farsi aiutare da suo fratello per sconfiggere i demoni."
-            },
-            {
-                "ora": "21:12",
-                "titolo": "La legge del signore /L'uomo senza fucile",
-                "descrizione": "Nemmeno la guerra di Secessione è un motivo sufficiente perché Jess Birdwell (Cooper), di rigorosa osservanza quacchera, rinneghi i suoi principi che non ammettono in alcun modo la violenza. Il figlio Josh (Perkins), invece, si arruola nella Guardia Civile e sua madre (McGuire) è disperata. Ma il capofamiglia, quando è in gioco la vita di Josh, è pronto anch'egli ad armarsi di fucile."
-            },
-            {
-                "ora": "23:32",
-                "titolo": "Rispet",
-                "descrizione": "Corvaz è un trentenne semplice ed istintivo che lavora sodo nella vigna del padre e adora andare in giro con il suo cane Toni. La vita del villaggio di montagna è tutta incentrata sul bar, di proprietà del ricco viticoltore/proprietario terriero e gestito dalla fidanzata del figlio. Gli uomini passano il loro tempo bevendo, tra rancori e false amicizie, quando una notte, le statue di legno che decorano la piazza, sono vandalizzate. La colpa è subito data a Corvaz. Anche Mara, l'energica barista, crede che sia stato lui. Cercando però di superare l'ostilità collettiva, lo incontra e tra loro nasce un’amicizia mentre il desiderio di vendetta della comunità diventa sempre più forte. Il codice del rispet che li ha tenuti tutti insieme, ora è infranto."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Rai Sport",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:10",
-                "titolo": "Campionato Italiano - Final Four: Finale 3° posto",
-                "descrizione": "Calcio a 5 B1 (non vedenti): Campionato Italiano - Final Four: Finale 3° posto"
-            },
-            {
-                "ora": "00:45",
-                "titolo": "Ciclismo: Giro Next Gen 2026 - 3a Tappa: Sibari - Villa D'Agri",
-                "descrizione": "Il Giro Next Gen vede i migliori giovani ciclisti del panorama italiano e internazionale affrontarsi sulle strade dello stivale."
-            },
             {
                 "ora": "01:40",
                 "titolo": "Softball. World Cup Praga: Italia-Canada",
@@ -1268,34 +1258,24 @@
                 "ora": "23:35",
                 "titolo": "Money Road - Ogni tentazione ha un...",
                 "descrizione": "Parola d’ordine: spaccatura. Il gruppo si divide per affrontare un trekking fisico ed emotivo molto impegnativo. E nella giungla, le tentazioni si fanno sempre più dure."
+            },
+            {
+                "ora": "21:30",
+                "titolo": "Spy",
+                "descrizione": "Susan Cooper (Melissa McCarthy) è una normale analista della CIA e lavora duramente dietro le missioni più pericolose condotte dall'Agenzia. Quando il suo partner (Jude Law) è disperso e un altro agente (Jason Statham) è compromesso, si offre volontaria per infiltrarsi sotto copertura nel mondo di un commerciante di armi di contrabbando per prevenire un disastro globale."
+            },
+            {
+                "ora": "23:06",
+                "titolo": "Ghost Rider - Spirito di vendetta",
+                "descrizione": "Johnny Blaze, funambolo motociclista trasformato in spirito, è ancora alle prese con la maledizione che lo ha reso cacciatore di taglie per il diavolo. Tuttavia, dopo l'incontro con il leader di un gruppo di monaci ribelli, Johnny sembra disposto a tutto pur di salvare un ragazzino dalle grinfie del demonio e liberarsi così una volta per tutte dalla maledizione che lo perseguita."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sportitalia",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:20",
-                "titolo": "Storie Al Bivio Di Sera",
-                "descrizione": "I protagonisti della politica, dell'attualità, della cultura o dello spettacolo raccontano senza filtri il loro momento di svolta e le loro scelte di vita, tra famiglia, carriera, figli e amori."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "TG3 Linea Notte",
-                "descrizione": "TG3 Linea Notte"
-            },
-            {
-                "ora": "21:34",
-                "titolo": "E' sempre Cartabianca",
-                "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
-            },
-            {
-                "ora": "21:20",
-                "titolo": "Gigi & vanessa insieme",
-                "descrizione": "Un grande show che celebra l'amicizia e le emozioni. Ospiti: Paolo Bonolis, Luca Laurenti, Emma, Giorgio Panariello, Francesco Cicchella, Claudio Santamaria, Stash ed Eros Ramazzotti."
-            },
             {
                 "ora": "23:47",
                 "titolo": "2 single a nozze - Wedding Crashers",
@@ -1335,34 +1315,34 @@
                 "ora": "23:32",
                 "titolo": "Rispet",
                 "descrizione": "Corvaz è un trentenne semplice ed istintivo che lavora sodo nella vigna del padre e adora andare in giro con il suo cane Toni. La vita del villaggio di montagna è tutta incentrata sul bar, di proprietà del ricco viticoltore/proprietario terriero e gestito dalla fidanzata del figlio. Gli uomini passano il loro tempo bevendo, tra rancori e false amicizie, quando una notte, le statue di legno che decorano la piazza, sono vandalizzate. La colpa è subito data a Corvaz. Anche Mara, l'energica barista, crede che sia stato lui. Cercando però di superare l'ostilità collettiva, lo incontra e tra loro nasce un’amicizia mentre il desiderio di vendetta della comunità diventa sempre più forte. Il codice del rispet che li ha tenuti tutti insieme, ora è infranto."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Machine Gun Preacher",
+                "descrizione": "Adattamento cinematografico della vera storia di Sam Childers, un biker spacciatore che ha improvvisamente scoperto Dio e ha dedicato la sua vita alla cura e all’assistenza di centinaia di bambini sudanesi rapiti alle loro famiglie e forzati a diventare bambini-soldato."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Le libere donne",
+                "descrizione": "Ambientata tra Lucca e Viareggio durante la seconda guerra mondiale, la serie racconta la storia dello psichiatra e poeta Mario Tobino, medico dell’ospedale psichiatrico femminile di Maggiano dove è giunto alla fine del 1942 dopo essere stato congedato dal fronte libico. Con un approccio umano e non convenzionale, Tobino si confronta con i metodi rigidi e repressivi dell’istituzione, cercando invece di restituire dignità, ascolto e comprensione alle pazienti ricoverate, molte delle quali sono state internate ingiustamente o per aver manifestato un comportamento ritenuto troppo libero per l’epoca."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Outlander\",\"prima\":true,\"description\":\"Claire Randall, una donna sposata e un’infermiera della Seconda Guerra Mondiale, finisce misteriosamente in un’epoca passata, nel 1743, dove resta coinvolta velocemente in un mondo a lei estraneo ed eventi che mettono in pericolo la sua vita. Quando è costretta a sposare Jamie, un giovane guerriero scozzese galante e romantico, Claire è inebriata da questo nuovo amore passionale, il quale però si contrappone al suo primo matrimonio con Frank. Ed è così che il cuore di Claire si ritrova diviso tra due uomini molto diversi in due vite inconciliabili.\",\"durata\":65,\"genre\":\"Dramma Sci Fi Fantasy\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/h3YammKuOhXjuelViO8isioPWjb.jpg\",\"episode_number\":9,\"series_number\":1,\"ac\":[{\"n\":\"Caitríona Balfe\",\"i\":\"4KQRDj74lKwU52Ewmzz7sVIakgn.jpg\",\"c\":\"Claire Randall Fraser\",\"u\":\"t\"},{\"n\":\"Sam Heughan\",\"i\":\"toBZ2mxZ2AbYYBfFV3Xvwm2QR4I.jpg\",\"c\":\"Jamie Fraser\",\"u\":\"t\"},{\"n\":\"Sophie Skelton\",\"i\":\"oBkearm8XdrYTEK0VCWCGmwURt6.jpg\",\"c\":\"Brianna MacKenzie\",\"u\":\"t\"},{\"n\":\"Richard Rankin\",\"i\":\"gmtK4zTBxlOEcHQgvXOwdfLHObc.jpg\",\"c\":\"Roger MacKenzie\",\"u\":\"t\"},{\"n\":\"John Bell\",\"i\":\"aPMEzcv36aAXyCLgsRkP0H2ezf6.jpg\",\"c\":\"Ian Fraser Murray\",\"u\":\"t\"},{\"n\":\"David Berry\",\"i\":\"hiuSdXFjI7EIMv8Y83zh2KtGbbk.jpg\",\"c\":\"Lord John Grey\",\"u\":\"t\"},{\"n\":\"Charles Vandervaart\",\"i\":\"wo18r0IXjPhrybDFXHH6l68BeNW.jpg\",\"c\":\"William Ransom\",\"u\":\"t\"},{\"n\":\"Izzy Meikle-Small\",\"i\":\"zQZyOJXQF8XApPRBoDJaasI3RHA.jpg\",\"c\":\"Rachel Murray\",\"u\":\"t\"},{\"n\":\"Duncan Lacroix\",\"i\":\"5Ic9o2pMorNiD4HWvQ8rp5qY7h5.jpg\",\"c\":\"Murtagh Fitzgibbons Fraser\",\"u\":\"t\"},{\"n\":\"César Domboy\",\"i\":\"gM5gsLf5IzUOrhAtavVzkzEIVwN.jpg\",\"c\":\"Fergus Claudel Fraser\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg\",\"inizio\":\"2026-06-16T20:05:00.000Z\",\"fine\":\"2026-06-16T21:10:00.000Z\",\"rating\":\"4,097\",\"condividi\":\"$undefined\",\"year\":\"2014\",\"pr\":\"Regno Unito, Stati Uniti\",\"tiEp\":\"La resa dei conti\",\"trEp\":\"Jamie e gli Highlanders salvano Claire da Black Jack Randall. Ritornati al castello, questioni politiche minacciano di dividere il Clan MacKenzie e la giovane innamorata di Jamie ma non corrisposta, Laoghaire, tenta di riconquistarlo.\"}},{\"canale\":{\"name\":\"Mediaset 27\",\"logo\":\"27.png\",\"number\":27,\"live\":\"https://www.mediasetplay.mediaset.it/diretta/_cTS\"},\"prog\":{\"id\":\"4mJwRKEYV695\",\"title\":\"Free Willy - Un amico da salvare",
+                "descrizione": "Un'orca maschio, ribattezzata Willy, viene pescata e separata da i suoi genitori e finisce per diventare l'attrazione di un parco marino. Jesse, un ragazzino di strada, per atti di vandalismo, viene costretto a fare servizio di volontariato presso quell'acquario. Il ragazzino all'interno dell'acquario fa amicizia con Willy, e gli insegna alcuni trucchi e comportamenti, che neppure l'addestratore era riuscito ad insegnarli. Quando però Jesse capisce che di lì a poco il proprietario dell'acquario ha intenzione di sbarazzarsi di Willy, decide di donare la libertà all'orca, organizza un piano di fuga e riesce nell'impresa con l'aiuto di Rae, Randolph e dei suoi nuovi genitori. Sfortunatamente le acque sono alte 6 metri e le reti dei peschereggi le costeggiano tutte. Allora a Jesse viene un'idea, far saltare a Willy gli scogli. Dopo qualche minuto, Jesse convince Willy a saltare. Infine Willy, riunendosi alla sua famiglia ringrazia Jesse e i suoi amici facendo salti spettacolari."
+            },
+            {
+                "ora": "22:50",
+                "titolo": "Eroe per caso",
+                "descrizione": "Bernie, un piccolo truffatore, si trasforma in eroe salvando i passeggeri di un aereo precipitato, poi scompare nella notte. Quando una emittente offre un premio in denaro al misterioso salvatore, un barbone si spaccia per l'eroe e diventa un divo."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport 24",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "News Line",
-                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
-            },
-            {
-                "ora": "00:30",
-                "titolo": "News Line",
-                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
-            },
-            {
-                "ora": "01:00",
-                "titolo": "News Line",
-                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
-            },
-            {
-                "ora": "01:30",
-                "titolo": "News Line",
-                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
-            },
             {
                 "ora": "02:00",
                 "titolo": "News Line",
@@ -1402,19 +1382,34 @@
                 "ora": "05:30",
                 "titolo": "News Line",
                 "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Calciomercato - L'originale",
+                "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
+            },
+            {
+                "ora": "22:15",
+                "titolo": "Giorgio Porra' Intervista Roberto...",
+                "descrizione": "Mancini 12/06/2026. - - ... Mancini 12/06/2026. - Giorgio Porra' Intervista Roberto..."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Tennis Atp&Wta 2026 16/06/2026",
+                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
+            },
+            {
+                "ora": "23:30",
+                "titolo": "Finale 1°/2° Posto 13/06/2026",
+                "descrizione": "Champions League. - Seguiamo la Coppa dei Campioni della pallanuoto, organizzata dalla Ligue Europeenne de Natation."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport Uno",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "Calciomercato - L'originale",
-                "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-            },
             {
                 "ora": "01:00",
                 "titolo": "Finale, Gara 3: Umana Reyer Venezia - EA7 Emporio Armani Milano",
@@ -1469,24 +1464,19 @@
                 "ora": "00:30",
                 "titolo": "Giornata finale",
                 "descrizione": "Finale entusiasmante. Un debuttante vincente manca dal 1913: e' l'obbiettivo di Wolff. Ma le teorie di gioco di Dechambeau potrebbero risultare vincenti. TC: Gallerani-Zappa-Lupi-Grappasonni-Scarpa,"
+            },
+            {
+                "ora": "22:50",
+                "titolo": "Bayern M. - Inter 2010",
+                "descrizione": "UEFA Champions League Story. - 22 Maggio 2010, al Santiago Bernabeu di Madrid, Inter e Bayern Monaco si sfidano nella finale di Champions League. Per i nerazzurri sara' il terzo titolo della storia"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport Calcio",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "Marchegiani",
-                "descrizione": "Reload"
-            },
-            {
-                "ora": "00:30",
-                "titolo": "Giorgio Porra' Intervista Roberto...",
-                "descrizione": "In occasione del Festival della Serie A Roberto Mancini si racconta tra il ricordo commosso di Vialli, il trionfo a Euro 2020, il premio Legendary Coach e l'ipotesi di un ritorno"
-            },
             {
                 "ora": "01:30",
                 "titolo": "Manchester City - Chelsea",
@@ -1536,19 +1526,24 @@
                 "ora": "00:05",
                 "titolo": "Motori Indycar Series - Ep. 4 - Motori Indycar Series 2026 Barber Motorsports Park 29/03/2026",
                 "descrizione": "Prix: Gara Indycar Series. - Dal Barber Motorsports Park di Birmingham in Alabama, USA."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Rep. Ceca, Brno 1996. Classe 250 - MOTOGP",
+                "descrizione": "MOTOGP. - Sulla pista di Brno Biaggi su Aprilia e' a caccia della sesta vittoria in campionato inseguito dalle Honda di Jacque, Waldmann, Ukawa, Fucks, Ruggia e dalla Yamaha di Harada."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "Giornata finale",
+                "descrizione": "Finale entusiasmante. Un debuttante vincente manca dal 1913: e' l'obbiettivo di Wolff. Ma le teorie di gioco di Dechambeau potrebbero risultare vincenti. TC: Gallerani-Zappa-Lupi-Grappasonni-Scarpa,"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport Tennis",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Tennis Atp&Wta 2026 16/06/2026",
-                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
-            },
             {
                 "ora": "01:30",
                 "titolo": "Tennis Atp&Wta 2026 16/06/2026",
@@ -1563,6 +1558,11 @@
                 "ora": "22:15",
                 "titolo": "Giorgio Porra' Intervista Roberto...",
                 "descrizione": "Mancini 12/06/2026. - - ... Mancini 12/06/2026. - Giorgio Porra' Intervista Roberto..."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Tennis Atp&Wta 2026 16/06/2026",
+                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
             },
             {
                 "ora": "23:30",
@@ -1605,7 +1605,7 @@
                 "descrizione": "Le gare del World Athletics Continental Tour Gold."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport F1",
@@ -1672,17 +1672,12 @@
                 "descrizione": "Champions League. - Seguiamo la Coppa dei Campioni della pallanuoto, organizzata dalla Ligue Europeenne de Natation."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport Legend",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "22:50",
-                "titolo": "Bayern M. - Inter 2010",
-                "descrizione": "UEFA Champions League Story. - 22 Maggio 2010, al Santiago Bernabeu di Madrid, Inter e Bayern Monaco si sfidano nella finale di Champions League. Per i nerazzurri sara' il terzo titolo della storia"
-            },
             {
                 "ora": "00:45",
                 "titolo": "Milan - Juventus",
@@ -1737,29 +1732,19 @@
                 "ora": "22:30",
                 "titolo": "Ostrava",
                 "descrizione": "Le gare del World Athletics Continental Tour Gold."
+            },
+            {
+                "ora": "00:05",
+                "titolo": "Motori Indycar Series - Ep. 4 - Motori Indycar Series 2026 Barber Motorsports Park 29/03/2026",
+                "descrizione": "Prix: Gara Indycar Series. - Dal Barber Motorsports Park di Birmingham in Alabama, USA."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport MotoGP",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "Emilia Romagna: Gara 2",
-                "descrizione": "Settimo Round della stagione 2026. Dal circuito di Misano, la Race 2 della World Sportbike. Telecronaca Vercellesi - Temporali"
-            },
-            {
-                "ora": "00:30",
-                "titolo": "Emilia Romagna: Gara 2",
-                "descrizione": "Settimo Round della stagione 2026. Dal circuito di Misano, la Race 2 della World Supersport. Telecronaca Vercellesi - Temporali"
-            },
-            {
-                "ora": "01:15",
-                "titolo": "Emilia Romagna: Gara Superpole",
-                "descrizione": "Settimo Round della stagione 2026. Dal circuito di Misano, la Superpole Race della World Superbike. Telecronaca Vercellesi - Temporali"
-            },
             {
                 "ora": "01:45",
                 "titolo": "Emilia Romagna: Gara 2",
@@ -1804,24 +1789,29 @@
                 "ora": "23:30",
                 "titolo": "Finale 1°/2° Posto 13/06/2026",
                 "descrizione": "Champions League. - Seguiamo la Coppa dei Campioni della pallanuoto, organizzata dalla Ligue Europeenne de Natation."
-            }
-        ],
-        "aggiornato": "22:22"
-    },
-    {
-        "canale": "Sky Sport Basket",
-        "categoria": "Sport",
-        "programmi": [
+            },
             {
                 "ora": "22:50",
                 "titolo": "Finale, Gara 3: Umana Reyer Venezia - EA7 Emporio Armani Milano",
                 "descrizione": "- EA7 Emporio Armani Milano Serie A Basket. - L'Olimpia, avanti 2-0 nella serie, si gioca il primo match point scudetto. La Reyer, forte del pubblico di casa, ha bisogno di una grande prestazione per riaprire la serie. TC: De Rosa-Meneghin."
             },
             {
-                "ora": "00:45",
-                "titolo": "Il Maestro, La Pallacanestro Di Zelimir Obradovic",
-                "descrizione": "Zelimir Obradovic. - L'allenatore piu' vincente nella storia dell'Eurolega racconta se' stesso e la sua pallacanestro a margine di un clinic tenutosi a Roma. Intervista di Geri De Rosa, montaggio di Andrea Rappazzo."
+                "ora": "22:30",
+                "titolo": "Ostrava",
+                "descrizione": "Le gare del World Athletics Continental Tour Gold."
             },
+            {
+                "ora": "00:05",
+                "titolo": "Motori Indycar Series - Ep. 4 - Motori Indycar Series 2026 Barber Motorsports Park 29/03/2026",
+                "descrizione": "Prix: Gara Indycar Series. - Dal Barber Motorsports Park di Birmingham in Alabama, USA."
+            }
+        ],
+        "aggiornato": "00:01"
+    },
+    {
+        "canale": "Sky Sport Basket",
+        "categoria": "Sport",
+        "programmi": [
             {
                 "ora": "01:00",
                 "titolo": "Indiana Fever - Toronto Tempo",
@@ -1858,6 +1848,11 @@
                 "descrizione": "Champions League. - Seguiamo la Coppa dei Campioni della pallanuoto, organizzata dalla Ligue Europeenne de Natation."
             },
             {
+                "ora": "22:50",
+                "titolo": "Finale, Gara 3: Umana Reyer Venezia - EA7 Emporio Armani Milano",
+                "descrizione": "- EA7 Emporio Armani Milano Serie A Basket. - L'Olimpia, avanti 2-0 nella serie, si gioca il primo match point scudetto. La Reyer, forte del pubblico di casa, ha bisogno di una grande prestazione per riaprire la serie. TC: De Rosa-Meneghin."
+            },
+            {
                 "ora": "22:30",
                 "titolo": "Ostrava",
                 "descrizione": "Le gare del World Athletics Continental Tour Gold."
@@ -1871,24 +1866,19 @@
                 "ora": "22:00",
                 "titolo": "Rep. Ceca, Brno 1996. Classe 250 - MOTOGP",
                 "descrizione": "MOTOGP. - Sulla pista di Brno Biaggi su Aprilia e' a caccia della sesta vittoria in campionato inseguito dalle Honda di Jacque, Waldmann, Ukawa, Fucks, Ruggia e dalla Yamaha di Harada."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "Giornata finale",
+                "descrizione": "Finale entusiasmante. Un debuttante vincente manca dal 1913: e' l'obbiettivo di Wolff. Ma le teorie di gioco di Dechambeau potrebbero risultare vincenti. TC: Gallerani-Zappa-Lupi-Grappasonni-Scarpa,"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport Arena",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:30",
-                "titolo": "Finale 1°/2° Posto 13/06/2026",
-                "descrizione": "Champions League. - Seguiamo la Coppa dei Campioni della pallanuoto, organizzata dalla Ligue Europeenne de Natation."
-            },
-            {
-                "ora": "01:05",
-                "titolo": "Calciomercato - L'originale",
-                "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-            },
             {
                 "ora": "02:00",
                 "titolo": "Rugby Top 14 - Ep. 25 - Rugby Top 14 Barrage Pau/ Racing 92 13/06/2026",
@@ -1915,6 +1905,11 @@
                 "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
             },
             {
+                "ora": "23:30",
+                "titolo": "Finale 1°/2° Posto 13/06/2026",
+                "descrizione": "Champions League. - Seguiamo la Coppa dei Campioni della pallanuoto, organizzata dalla Ligue Europeenne de Natation."
+            },
+            {
                 "ora": "22:50",
                 "titolo": "Finale, Gara 3: Umana Reyer Venezia - EA7 Emporio Armani Milano",
                 "descrizione": "- EA7 Emporio Armani Milano Serie A Basket. - L'Olimpia, avanti 2-0 nella serie, si gioca il primo match point scudetto. La Reyer, forte del pubblico di casa, ha bisogno di una grande prestazione per riaprire la serie. TC: De Rosa-Meneghin."
@@ -1938,34 +1933,19 @@
                 "ora": "00:30",
                 "titolo": "Giornata finale",
                 "descrizione": "Finale entusiasmante. Un debuttante vincente manca dal 1913: e' l'obbiettivo di Wolff. Ma le teorie di gioco di Dechambeau potrebbero risultare vincenti. TC: Gallerani-Zappa-Lupi-Grappasonni-Scarpa,"
+            },
+            {
+                "ora": "22:50",
+                "titolo": "Bayern M. - Inter 2010",
+                "descrizione": "UEFA Champions League Story. - 22 Maggio 2010, al Santiago Bernabeu di Madrid, Inter e Bayern Monaco si sfidano nella finale di Champions League. Per i nerazzurri sara' il terzo titolo della storia"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport Max",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "22:30",
-                "titolo": "Ostrava",
-                "descrizione": "Le gare del World Athletics Continental Tour Gold."
-            },
-            {
-                "ora": "00:30",
-                "titolo": "Icarus Ultra",
-                "descrizione": "Avventure, sfide, storie, imprese e tante curiosita' dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra."
-            },
-            {
-                "ora": "01:00",
-                "titolo": "Bergomi",
-                "descrizione": "Reload"
-            },
-            {
-                "ora": "01:30",
-                "titolo": "Chivu D’italia",
-                "descrizione": "Dal 2003 a oggi. Il viaggio di Chivu da Roma a Milano, passando per Verona e Parma, la notte magica del Triplete, fino alla conquista di 2 trofei da allenatore dell'Inter."
-            },
             {
                 "ora": "02:00",
                 "titolo": "Inter - Torino",
@@ -2005,19 +1985,34 @@
                 "ora": "22:50",
                 "titolo": "Finale, Gara 3: Umana Reyer Venezia - EA7 Emporio Armani Milano",
                 "descrizione": "- EA7 Emporio Armani Milano Serie A Basket. - L'Olimpia, avanti 2-0 nella serie, si gioca il primo match point scudetto. La Reyer, forte del pubblico di casa, ha bisogno di una grande prestazione per riaprire la serie. TC: De Rosa-Meneghin."
+            },
+            {
+                "ora": "22:30",
+                "titolo": "Ostrava",
+                "descrizione": "Le gare del World Athletics Continental Tour Gold."
+            },
+            {
+                "ora": "00:05",
+                "titolo": "Motori Indycar Series - Ep. 4 - Motori Indycar Series 2026 Barber Motorsports Park 29/03/2026",
+                "descrizione": "Prix: Gara Indycar Series. - Dal Barber Motorsports Park di Birmingham in Alabama, USA."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Rep. Ceca, Brno 1996. Classe 250 - MOTOGP",
+                "descrizione": "MOTOGP. - Sulla pista di Brno Biaggi su Aprilia e' a caccia della sesta vittoria in campionato inseguito dalle Honda di Jacque, Waldmann, Ukawa, Fucks, Ruggia e dalla Yamaha di Harada."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "Giornata finale",
+                "descrizione": "Finale entusiasmante. Un debuttante vincente manca dal 1913: e' l'obbiettivo di Wolff. Ma le teorie di gioco di Dechambeau potrebbero risultare vincenti. TC: Gallerani-Zappa-Lupi-Grappasonni-Scarpa,"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport Mix",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "Ostrava",
-                "descrizione": "Le gare del World Athletics Continental Tour Gold."
-            },
             {
                 "ora": "02:00",
                 "titolo": "Preliminari 2026 Regata Sardegna 2a Giornata",
@@ -2072,19 +2067,19 @@
                 "ora": "00:30",
                 "titolo": "Giornata finale",
                 "descrizione": "Finale entusiasmante. Un debuttante vincente manca dal 1913: e' l'obbiettivo di Wolff. Ma le teorie di gioco di Dechambeau potrebbero risultare vincenti. TC: Gallerani-Zappa-Lupi-Grappasonni-Scarpa,"
+            },
+            {
+                "ora": "22:50",
+                "titolo": "Bayern M. - Inter 2010",
+                "descrizione": "UEFA Champions League Story. - 22 Maggio 2010, al Santiago Bernabeu di Madrid, Inter e Bayern Monaco si sfidano nella finale di Champions League. Per i nerazzurri sara' il terzo titolo della storia"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport Golf",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "PGTI Open",
-                "descrizione": "Hotelplanner Tour Series"
-            },
             {
                 "ora": "00:30",
                 "titolo": "Giornata finale",
@@ -2139,35 +2134,20 @@
                 "ora": "22:00",
                 "titolo": "Rep. Ceca, Brno 1996. Classe 250 - MOTOGP",
                 "descrizione": "MOTOGP. - Sulla pista di Brno Biaggi su Aprilia e' a caccia della sesta vittoria in campionato inseguito dalle Honda di Jacque, Waldmann, Ukawa, Fucks, Ruggia e dalla Yamaha di Harada."
+            },
+            {
+                "ora": "22:50",
+                "titolo": "Bayern M. - Inter 2010",
+                "descrizione": "UEFA Champions League Story. - 22 Maggio 2010, al Santiago Bernabeu di Madrid, Inter e Bayern Monaco si sfidano nella finale di Champions League. Per i nerazzurri sara' il terzo titolo della storia"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport 251",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "23:00",
-                "titolo": "Tennis Atp&Wta 2026 16/06/2026",
-                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Finale 1°/2° Posto 13/06/2026",
-                "descrizione": "Champions League. - Seguiamo la Coppa dei Campioni della pallanuoto, organizzata dalla Ligue Europeenne de Natation."
-            },
-            {
-                "ora": "22:50",
-                "titolo": "Finale, Gara 3: Umana Reyer Venezia - EA7 Emporio Armani Milano",
-                "descrizione": "- EA7 Emporio Armani Milano Serie A Basket. - L'Olimpia, avanti 2-0 nella serie, si gioca il primo match point scudetto. La Reyer, forte del pubblico di casa, ha bisogno di una grande prestazione per riaprire la serie. TC: De Rosa-Meneghin."
-            },
-            {
-                "ora": "22:30",
-                "titolo": "Ostrava",
-                "descrizione": "Le gare del World Athletics Continental Tour Gold."
-            },
-            {
                 "ora": "00:05",
                 "titolo": "Motori Indycar Series - Ep. 4 - Motori Indycar Series 2026 Barber Motorsports Park 29/03/2026",
                 "descrizione": "Prix: Gara Indycar Series. - Dal Barber Motorsports Park di Birmingham in Alabama, USA."
@@ -2206,35 +2186,35 @@
                 "ora": "00:00",
                 "titolo": "Nessun evento in onda",
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Dressage Season Review 2019   2020",
+                "descrizione": "The Dressage World Cup Series is composed of four Leagues: The Western Eur"
+            },
+            {
+                "ora": "19:35",
+                "titolo": "MLMC - Road to le Mans",
+                "descrizione": "Road to Le Mans, 58 vetture e 116 piloti si schiereranno sulla griglia di partenza per la terza tappa della Michelin Le Mans Cup, organizzata nell'ambito della settimana della 24 Ore di Le Mans"
+            },
+            {
+                "ora": "22:50",
+                "titolo": "AC Milan - Review",
+                "descrizione": "Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport 252",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "23:00",
-                "titolo": "Tennis Atp&Wta 2026 16/06/2026",
-                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Finale 1°/2° Posto 13/06/2026",
-                "descrizione": "Champions League. - Seguiamo la Coppa dei Campioni della pallanuoto, organizzata dalla Ligue Europeenne de Natation."
-            },
-            {
-                "ora": "22:50",
-                "titolo": "Finale, Gara 3: Umana Reyer Venezia - EA7 Emporio Armani Milano",
-                "descrizione": "- EA7 Emporio Armani Milano Serie A Basket. - L'Olimpia, avanti 2-0 nella serie, si gioca il primo match point scudetto. La Reyer, forte del pubblico di casa, ha bisogno di una grande prestazione per riaprire la serie. TC: De Rosa-Meneghin."
-            },
-            {
-                "ora": "22:30",
-                "titolo": "Ostrava",
-                "descrizione": "Le gare del World Athletics Continental Tour Gold."
-            },
-            {
                 "ora": "00:05",
                 "titolo": "Motori Indycar Series - Ep. 4 - Motori Indycar Series 2026 Barber Motorsports Park 29/03/2026",
                 "descrizione": "Prix: Gara Indycar Series. - Dal Barber Motorsports Park di Birmingham in Alabama, USA."
@@ -2273,35 +2253,35 @@
                 "ora": "00:00",
                 "titolo": "Nessun evento in onda",
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Dressage Season Review 2019   2020",
+                "descrizione": "The Dressage World Cup Series is composed of four Leagues: The Western Eur"
+            },
+            {
+                "ora": "19:35",
+                "titolo": "MLMC - Road to le Mans",
+                "descrizione": "Road to Le Mans, 58 vetture e 116 piloti si schiereranno sulla griglia di partenza per la terza tappa della Michelin Le Mans Cup, organizzata nell'ambito della settimana della 24 Ore di Le Mans"
+            },
+            {
+                "ora": "22:50",
+                "titolo": "AC Milan - Review",
+                "descrizione": "Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport 253",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "23:00",
-                "titolo": "Tennis Atp&Wta 2026 16/06/2026",
-                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Finale 1°/2° Posto 13/06/2026",
-                "descrizione": "Champions League. - Seguiamo la Coppa dei Campioni della pallanuoto, organizzata dalla Ligue Europeenne de Natation."
-            },
-            {
-                "ora": "22:50",
-                "titolo": "Finale, Gara 3: Umana Reyer Venezia - EA7 Emporio Armani Milano",
-                "descrizione": "- EA7 Emporio Armani Milano Serie A Basket. - L'Olimpia, avanti 2-0 nella serie, si gioca il primo match point scudetto. La Reyer, forte del pubblico di casa, ha bisogno di una grande prestazione per riaprire la serie. TC: De Rosa-Meneghin."
-            },
-            {
-                "ora": "22:30",
-                "titolo": "Ostrava",
-                "descrizione": "Le gare del World Athletics Continental Tour Gold."
-            },
-            {
                 "ora": "00:05",
                 "titolo": "Motori Indycar Series - Ep. 4 - Motori Indycar Series 2026 Barber Motorsports Park 29/03/2026",
                 "descrizione": "Prix: Gara Indycar Series. - Dal Barber Motorsports Park di Birmingham in Alabama, USA."
@@ -2340,35 +2320,35 @@
                 "ora": "00:00",
                 "titolo": "Nessun evento in onda",
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Dressage Season Review 2019   2020",
+                "descrizione": "The Dressage World Cup Series is composed of four Leagues: The Western Eur"
+            },
+            {
+                "ora": "19:35",
+                "titolo": "MLMC - Road to le Mans",
+                "descrizione": "Road to Le Mans, 58 vetture e 116 piloti si schiereranno sulla griglia di partenza per la terza tappa della Michelin Le Mans Cup, organizzata nell'ambito della settimana della 24 Ore di Le Mans"
+            },
+            {
+                "ora": "22:50",
+                "titolo": "AC Milan - Review",
+                "descrizione": "Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport 254",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "23:00",
-                "titolo": "Tennis Atp&Wta 2026 16/06/2026",
-                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Finale 1°/2° Posto 13/06/2026",
-                "descrizione": "Champions League. - Seguiamo la Coppa dei Campioni della pallanuoto, organizzata dalla Ligue Europeenne de Natation."
-            },
-            {
-                "ora": "22:50",
-                "titolo": "Finale, Gara 3: Umana Reyer Venezia - EA7 Emporio Armani Milano",
-                "descrizione": "- EA7 Emporio Armani Milano Serie A Basket. - L'Olimpia, avanti 2-0 nella serie, si gioca il primo match point scudetto. La Reyer, forte del pubblico di casa, ha bisogno di una grande prestazione per riaprire la serie. TC: De Rosa-Meneghin."
-            },
-            {
-                "ora": "22:30",
-                "titolo": "Ostrava",
-                "descrizione": "Le gare del World Athletics Continental Tour Gold."
-            },
-            {
                 "ora": "00:05",
                 "titolo": "Motori Indycar Series - Ep. 4 - Motori Indycar Series 2026 Barber Motorsports Park 29/03/2026",
                 "descrizione": "Prix: Gara Indycar Series. - Dal Barber Motorsports Park di Birmingham in Alabama, USA."
@@ -2407,35 +2387,35 @@
                 "ora": "00:00",
                 "titolo": "Nessun evento in onda",
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Dressage Season Review 2019   2020",
+                "descrizione": "The Dressage World Cup Series is composed of four Leagues: The Western Eur"
+            },
+            {
+                "ora": "19:35",
+                "titolo": "MLMC - Road to le Mans",
+                "descrizione": "Road to Le Mans, 58 vetture e 116 piloti si schiereranno sulla griglia di partenza per la terza tappa della Michelin Le Mans Cup, organizzata nell'ambito della settimana della 24 Ore di Le Mans"
+            },
+            {
+                "ora": "22:50",
+                "titolo": "AC Milan - Review",
+                "descrizione": "Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport 255",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "23:00",
-                "titolo": "Tennis Atp&Wta 2026 16/06/2026",
-                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Finale 1°/2° Posto 13/06/2026",
-                "descrizione": "Champions League. - Seguiamo la Coppa dei Campioni della pallanuoto, organizzata dalla Ligue Europeenne de Natation."
-            },
-            {
-                "ora": "22:50",
-                "titolo": "Finale, Gara 3: Umana Reyer Venezia - EA7 Emporio Armani Milano",
-                "descrizione": "- EA7 Emporio Armani Milano Serie A Basket. - L'Olimpia, avanti 2-0 nella serie, si gioca il primo match point scudetto. La Reyer, forte del pubblico di casa, ha bisogno di una grande prestazione per riaprire la serie. TC: De Rosa-Meneghin."
-            },
-            {
-                "ora": "22:30",
-                "titolo": "Ostrava",
-                "descrizione": "Le gare del World Athletics Continental Tour Gold."
-            },
-            {
                 "ora": "00:05",
                 "titolo": "Motori Indycar Series - Ep. 4 - Motori Indycar Series 2026 Barber Motorsports Park 29/03/2026",
                 "descrizione": "Prix: Gara Indycar Series. - Dal Barber Motorsports Park di Birmingham in Alabama, USA."
@@ -2474,35 +2454,35 @@
                 "ora": "00:00",
                 "titolo": "Nessun evento in onda",
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Dressage Season Review 2019   2020",
+                "descrizione": "The Dressage World Cup Series is composed of four Leagues: The Western Eur"
+            },
+            {
+                "ora": "19:35",
+                "titolo": "MLMC - Road to le Mans",
+                "descrizione": "Road to Le Mans, 58 vetture e 116 piloti si schiereranno sulla griglia di partenza per la terza tappa della Michelin Le Mans Cup, organizzata nell'ambito della settimana della 24 Ore di Le Mans"
+            },
+            {
+                "ora": "22:50",
+                "titolo": "AC Milan - Review",
+                "descrizione": "Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport 256",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "23:00",
-                "titolo": "Tennis Atp&Wta 2026 16/06/2026",
-                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Finale 1°/2° Posto 13/06/2026",
-                "descrizione": "Champions League. - Seguiamo la Coppa dei Campioni della pallanuoto, organizzata dalla Ligue Europeenne de Natation."
-            },
-            {
-                "ora": "22:50",
-                "titolo": "Finale, Gara 3: Umana Reyer Venezia - EA7 Emporio Armani Milano",
-                "descrizione": "- EA7 Emporio Armani Milano Serie A Basket. - L'Olimpia, avanti 2-0 nella serie, si gioca il primo match point scudetto. La Reyer, forte del pubblico di casa, ha bisogno di una grande prestazione per riaprire la serie. TC: De Rosa-Meneghin."
-            },
-            {
-                "ora": "22:30",
-                "titolo": "Ostrava",
-                "descrizione": "Le gare del World Athletics Continental Tour Gold."
-            },
-            {
                 "ora": "00:05",
                 "titolo": "Motori Indycar Series - Ep. 4 - Motori Indycar Series 2026 Barber Motorsports Park 29/03/2026",
                 "descrizione": "Prix: Gara Indycar Series. - Dal Barber Motorsports Park di Birmingham in Alabama, USA."
@@ -2541,35 +2521,35 @@
                 "ora": "00:00",
                 "titolo": "Nessun evento in onda",
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Dressage Season Review 2019   2020",
+                "descrizione": "The Dressage World Cup Series is composed of four Leagues: The Western Eur"
+            },
+            {
+                "ora": "19:35",
+                "titolo": "MLMC - Road to le Mans",
+                "descrizione": "Road to Le Mans, 58 vetture e 116 piloti si schiereranno sulla griglia di partenza per la terza tappa della Michelin Le Mans Cup, organizzata nell'ambito della settimana della 24 Ore di Le Mans"
+            },
+            {
+                "ora": "22:50",
+                "titolo": "AC Milan - Review",
+                "descrizione": "Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport 257",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "23:00",
-                "titolo": "Tennis Atp&Wta 2026 16/06/2026",
-                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Finale 1°/2° Posto 13/06/2026",
-                "descrizione": "Champions League. - Seguiamo la Coppa dei Campioni della pallanuoto, organizzata dalla Ligue Europeenne de Natation."
-            },
-            {
-                "ora": "22:50",
-                "titolo": "Finale, Gara 3: Umana Reyer Venezia - EA7 Emporio Armani Milano",
-                "descrizione": "- EA7 Emporio Armani Milano Serie A Basket. - L'Olimpia, avanti 2-0 nella serie, si gioca il primo match point scudetto. La Reyer, forte del pubblico di casa, ha bisogno di una grande prestazione per riaprire la serie. TC: De Rosa-Meneghin."
-            },
-            {
-                "ora": "22:30",
-                "titolo": "Ostrava",
-                "descrizione": "Le gare del World Athletics Continental Tour Gold."
-            },
-            {
                 "ora": "00:05",
                 "titolo": "Motori Indycar Series - Ep. 4 - Motori Indycar Series 2026 Barber Motorsports Park 29/03/2026",
                 "descrizione": "Prix: Gara Indycar Series. - Dal Barber Motorsports Park di Birmingham in Alabama, USA."
@@ -2608,35 +2588,35 @@
                 "ora": "00:00",
                 "titolo": "Nessun evento in onda",
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Dressage Season Review 2019   2020",
+                "descrizione": "The Dressage World Cup Series is composed of four Leagues: The Western Eur"
+            },
+            {
+                "ora": "19:35",
+                "titolo": "MLMC - Road to le Mans",
+                "descrizione": "Road to Le Mans, 58 vetture e 116 piloti si schiereranno sulla griglia di partenza per la terza tappa della Michelin Le Mans Cup, organizzata nell'ambito della settimana della 24 Ore di Le Mans"
+            },
+            {
+                "ora": "22:50",
+                "titolo": "AC Milan - Review",
+                "descrizione": "Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport 258",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "23:00",
-                "titolo": "Tennis Atp&Wta 2026 16/06/2026",
-                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Finale 1°/2° Posto 13/06/2026",
-                "descrizione": "Champions League. - Seguiamo la Coppa dei Campioni della pallanuoto, organizzata dalla Ligue Europeenne de Natation."
-            },
-            {
-                "ora": "22:50",
-                "titolo": "Finale, Gara 3: Umana Reyer Venezia - EA7 Emporio Armani Milano",
-                "descrizione": "- EA7 Emporio Armani Milano Serie A Basket. - L'Olimpia, avanti 2-0 nella serie, si gioca il primo match point scudetto. La Reyer, forte del pubblico di casa, ha bisogno di una grande prestazione per riaprire la serie. TC: De Rosa-Meneghin."
-            },
-            {
-                "ora": "22:30",
-                "titolo": "Ostrava",
-                "descrizione": "Le gare del World Athletics Continental Tour Gold."
-            },
-            {
                 "ora": "00:05",
                 "titolo": "Motori Indycar Series - Ep. 4 - Motori Indycar Series 2026 Barber Motorsports Park 29/03/2026",
                 "descrizione": "Prix: Gara Indycar Series. - Dal Barber Motorsports Park di Birmingham in Alabama, USA."
@@ -2675,35 +2655,35 @@
                 "ora": "00:00",
                 "titolo": "Nessun evento in onda",
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Dressage Season Review 2019   2020",
+                "descrizione": "The Dressage World Cup Series is composed of four Leagues: The Western Eur"
+            },
+            {
+                "ora": "19:35",
+                "titolo": "MLMC - Road to le Mans",
+                "descrizione": "Road to Le Mans, 58 vetture e 116 piloti si schiereranno sulla griglia di partenza per la terza tappa della Michelin Le Mans Cup, organizzata nell'ambito della settimana della 24 Ore di Le Mans"
+            },
+            {
+                "ora": "22:50",
+                "titolo": "AC Milan - Review",
+                "descrizione": "Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Sport 259",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "23:00",
-                "titolo": "Tennis Atp&Wta 2026 16/06/2026",
-                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Finale 1°/2° Posto 13/06/2026",
-                "descrizione": "Champions League. - Seguiamo la Coppa dei Campioni della pallanuoto, organizzata dalla Ligue Europeenne de Natation."
-            },
-            {
-                "ora": "22:50",
-                "titolo": "Finale, Gara 3: Umana Reyer Venezia - EA7 Emporio Armani Milano",
-                "descrizione": "- EA7 Emporio Armani Milano Serie A Basket. - L'Olimpia, avanti 2-0 nella serie, si gioca il primo match point scudetto. La Reyer, forte del pubblico di casa, ha bisogno di una grande prestazione per riaprire la serie. TC: De Rosa-Meneghin."
-            },
-            {
-                "ora": "22:30",
-                "titolo": "Ostrava",
-                "descrizione": "Le gare del World Athletics Continental Tour Gold."
-            },
-            {
                 "ora": "00:05",
                 "titolo": "Motori Indycar Series - Ep. 4 - Motori Indycar Series 2026 Barber Motorsports Park 29/03/2026",
                 "descrizione": "Prix: Gara Indycar Series. - Dal Barber Motorsports Park di Birmingham in Alabama, USA."
@@ -2742,19 +2722,34 @@
                 "ora": "00:00",
                 "titolo": "Nessun evento in onda",
                 "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Race Play",
+                "descrizione": "Per tutti gli appassionati, EQU TV offre in replica le corse italiane della giornata ippica appena trascorsa"
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Dressage Season Review 2019   2020",
+                "descrizione": "The Dressage World Cup Series is composed of four Leagues: The Western Eur"
+            },
+            {
+                "ora": "19:35",
+                "titolo": "MLMC - Road to le Mans",
+                "descrizione": "Road to Le Mans, 58 vetture e 116 piloti si schiereranno sulla griglia di partenza per la terza tappa della Michelin Le Mans Cup, organizzata nell'ambito della settimana della 24 Ore di Le Mans"
+            },
+            {
+                "ora": "22:50",
+                "titolo": "AC Milan - Review",
+                "descrizione": "Il Milan e in campo e il Club Channel rossonero segue la squadra con cuore e passione"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Cinema Uno",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "23:15",
-                "titolo": "Johnny Stecchino",
-                "descrizione": "Dante, autista di scuolabus per bimbi down, non sa di essere sosia di Johnny Stecchino, mafioso pentito barricato in casa per paura di essere ucciso. Dante conosce la donna di Stecchino e, innamorato, la segue in Sicilia dove rischia la morte."
-            },
             {
                 "ora": "01:15",
                 "titolo": "The Running Man",
@@ -2769,6 +2764,11 @@
                 "ora": "05:45",
                 "titolo": "Bud Spencer & Terence Hill",
                 "descrizione": "Francesco Castelnuovo e Gianni Canova si confrontano a colpi di film iconici del leggendario duo, disponibili su Sky Cinema e Sky On Demand."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Johnny Stecchino",
+                "descrizione": "Dante, autista di scuolabus per bimbi down, non sa di essere sosia di Johnny Stecchino, mafioso pentito barricato in casa per paura di essere ucciso. Dante conosce la donna di Stecchino e, innamorato, la segue in Sicilia dove rischia la morte."
             },
             {
                 "ora": "23:35",
@@ -2811,17 +2811,12 @@
                 "descrizione": "In una Napoli sospesa tra magia e superstizione, follia e razionalità, un mistero avvolge l'esistenza di Adriana (Giovanna Mezzogiorno) travolta da un amore improvviso e un delitto violento."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Cinema Collection",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "23:10",
-                "titolo": "Ghostbusters - Acchiappafantasmi",
-                "descrizione": "Peter Venkman, Raymond Stantz ed Egon Spengler sono tre ricercatori esperti di fenomeni paranormali espulsi dall'Università. Non resta loro che mettersi in proprio e fondare un'impresa specializzata come 'acchiappafantasmi'. La prima cliente è Dana Barrett che nel proprio appartamento di West Central Park è stata oggetto di visite terrificanti di cui non sa darsi una spiegazione. È solo l'inizio di un'avventura che porterà i ghostbusters a dover cercare di salvare la città da una minaccia che proviene dall'antichità."
-            },
             {
                 "ora": "01:00",
                 "titolo": "Shining",
@@ -2853,6 +2848,11 @@
                 "descrizione": "Nel 2009 il capitano Richard Phillips lascia la sua famiglia nel Vermont per guidare la nave porta container USA Maersk Alabama dall'altra parte del mondo. In acque extraterritoriali, il suo bastimento viene però attaccato da un manipolo di pirati somali, armati e pronti a tutto, e Phillips viene rapito, in cerca di riscatto."
             },
             {
+                "ora": "23:10",
+                "titolo": "Ghostbusters - Acchiappafantasmi",
+                "descrizione": "Peter Venkman, Raymond Stantz ed Egon Spengler sono tre ricercatori esperti di fenomeni paranormali espulsi dall'Università. Non resta loro che mettersi in proprio e fondare un'impresa specializzata come 'acchiappafantasmi'. La prima cliente è Dana Barrett che nel proprio appartamento di West Central Park è stata oggetto di visite terrificanti di cui non sa darsi una spiegazione. È solo l'inizio di un'avventura che porterà i ghostbusters a dover cercare di salvare la città da una minaccia che proviene dall'antichità."
+            },
+            {
                 "ora": "22:45",
                 "titolo": "Shrek",
                 "descrizione": "Shrek, un orco dal cuore d'oro, insieme al suo \"destriero\" Ciuchino cerca di tornare in possesso della sua palude, ora occupata dai personaggi delle fiabe, i quali sono stati imprigionati dal perfido Lord Farquaad, tiranno della terra di Duloc. L'orco e l'inseparabile asinello devono inoltre darsi da fare per liberare una principessa sottoposta a un sortilegio e tenuta prigioniera in un castello sorvegliato da un drago."
@@ -2878,17 +2878,12 @@
                 "descrizione": "Agathe, una ragazza goffa ma allo stesso tempo affascinante e piena di contraddizioni, si ritrova ad affrontare la sua solitudine. Sogna un amore simile ai personaggi di un romanzo di Jane Austen e la sua massima aspirazione è diventare una scrittrice. Invece, trascorre le sue giornate vendendo libri nella leggendaria libreria britannica Shakespeare & Co, a Parigi. Invitata in Inghilterra alla residenza per scrittori di Jane Austen, deve combattere con le sue insicurezze... fino a quando non accade qualcosa di inaspettato e la sua vita cambia magicamente."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Cinema Family",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "00:20",
-                "titolo": "Dolcissime",
-                "descrizione": "Mariagrazia, Chiara e Letizia sono tre amiche inseparabili costrette a fare i conti ogni giorno con gli odiati chili di troppo, tra sguardi di disapprovazione dei compagni e risatine nei corridori della scuola. Mariagrazia soffre il confronto con la madre (Valeria Solarino), ex campionessa sportiva. Chiara ha una chat con un coetaneo, ma tanta paura di svelarsi in foto. Letizia un talento per la musica ma troppa vergogna per esibirlo. Dopo l’ennesima presa in giro, un’inattesa occasione di riscatto arriva dalla popolare e bellissima Alice, capitano della squadra scolastica di nuoto sincronizzato, costretta da un ricatto ad allenarle in gran segreto. Le tre ragazzine si lanciano in un’impresa impossibile spinte in acqua dalla gran voglia di rivincita."
-            },
             {
                 "ora": "01:45",
                 "titolo": "Bla Bla Baby",
@@ -2943,19 +2938,19 @@
                 "ora": "23:00",
                 "titolo": "Jane Austen ha stravolto la mia vita",
                 "descrizione": "Agathe, una ragazza goffa ma allo stesso tempo affascinante e piena di contraddizioni, si ritrova ad affrontare la sua solitudine. Sogna un amore simile ai personaggi di un romanzo di Jane Austen e la sua massima aspirazione è diventare una scrittrice. Invece, trascorre le sue giornate vendendo libri nella leggendaria libreria britannica Shakespeare & Co, a Parigi. Invitata in Inghilterra alla residenza per scrittori di Jane Austen, deve combattere con le sue insicurezze... fino a quando non accade qualcosa di inaspettato e la sua vita cambia magicamente."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Napoli velata",
+                "descrizione": "In una Napoli sospesa tra magia e superstizione, follia e razionalità, un mistero avvolge l'esistenza di Adriana (Giovanna Mezzogiorno) travolta da un amore improvviso e un delitto violento."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Cinema Action",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "23:15",
-                "titolo": "Dangerous - Pericoloso",
-                "descrizione": "Giada, ballerina professionista, e Carlo, scrittore in crisi, condividono ancora complicità mentre inseguono le loro carriere. L’arrivo di Peter Drago, giovane artista ambizioso, affascina Carlo, che lo introduce in famiglia. Ma Giada reagisce in modo inaspettato: vuole tenerlo lontano. Lui potrebbe rivelare un segreto sepolto nel suo passato. E la verità, prima o poi, riaffiora sempre."
-            },
             {
                 "ora": "01:00",
                 "titolo": "2 Fast 2 Furious",
@@ -2992,6 +2987,11 @@
                 "descrizione": "Shrek, un orco dal cuore d'oro, insieme al suo \"destriero\" Ciuchino cerca di tornare in possesso della sua palude, ora occupata dai personaggi delle fiabe, i quali sono stati imprigionati dal perfido Lord Farquaad, tiranno della terra di Duloc. L'orco e l'inseparabile asinello devono inoltre darsi da fare per liberare una principessa sottoposta a un sortilegio e tenuta prigioniera in un castello sorvegliato da un drago."
             },
             {
+                "ora": "23:15",
+                "titolo": "Dangerous - Pericoloso",
+                "descrizione": "Giada, ballerina professionista, e Carlo, scrittore in crisi, condividono ancora complicità mentre inseguono le loro carriere. L’arrivo di Peter Drago, giovane artista ambizioso, affascina Carlo, che lo introduce in famiglia. Ma Giada reagisce in modo inaspettato: vuole tenerlo lontano. Lui potrebbe rivelare un segreto sepolto nel suo passato. E la verità, prima o poi, riaffiora sempre."
+            },
+            {
                 "ora": "00:30",
                 "titolo": "L'esercito delle 12 scimmie",
                 "descrizione": "L'esercito delle 12 scimmie è un piccolo gioiellino fantascientifico del 1995 che si focalizza sulla disperazione di un singolo uomo condannato,in un futuro ormai abitato da una razza umana rassegnata,ad essere il prescelto per poter trovare un rimedio alla loro situazione disastrosa. Nel 2035 gli esseri umani vivono nel sottosuolo,terrorizzati dall'ambiente esterno,portatore di un virus mortale che li ha decimati un pianeta terra dove i prigionieri sono diventati solo ed esclusivamente loro. Anche se solo in modo approssimativo,gli scienziati di quel terribile futuro hanno reso possibile il viaggio nel tempo unica possibilità per poter mettere le mani sul virus e crearne una cura (da notare che nonostante si ipotizzi il viaggio temporale,il film sottolinea che non si può cambiare nulla di ciò che è già avvenuto.paradossalmente si gioca ancora sul concetto che non esiste un libero arbitrio)."
@@ -3012,17 +3012,12 @@
                 "descrizione": "In una Napoli sospesa tra magia e superstizione, follia e razionalità, un mistero avvolge l'esistenza di Adriana (Giovanna Mezzogiorno) travolta da un amore improvviso e un delitto violento."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Cinema Suspense",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "22:50",
-                "titolo": "Scomparsa",
-                "descrizione": "Tornando a casa una sera e trovando il letto di sua sorella vuoto, Jill Parrish è convinta che il serial killer che l'aveva rapita due anni prima sia tornato. Gli investigatori della polizia non le credono e Jill è si vede costretta ad affrontare la situazione da sola."
-            },
             {
                 "ora": "00:30",
                 "titolo": "L'esercito delle 12 scimmie",
@@ -3077,19 +3072,19 @@
                 "ora": "23:00",
                 "titolo": "Jane Austen ha stravolto la mia vita",
                 "descrizione": "Agathe, una ragazza goffa ma allo stesso tempo affascinante e piena di contraddizioni, si ritrova ad affrontare la sua solitudine. Sogna un amore simile ai personaggi di un romanzo di Jane Austen e la sua massima aspirazione è diventare una scrittrice. Invece, trascorre le sue giornate vendendo libri nella leggendaria libreria britannica Shakespeare & Co, a Parigi. Invitata in Inghilterra alla residenza per scrittori di Jane Austen, deve combattere con le sue insicurezze... fino a quando non accade qualcosa di inaspettato e la sua vita cambia magicamente."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Napoli velata",
+                "descrizione": "In una Napoli sospesa tra magia e superstizione, follia e razionalità, un mistero avvolge l'esistenza di Adriana (Giovanna Mezzogiorno) travolta da un amore improvviso e un delitto violento."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Cinema Romance",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Jane Austen ha stravolto la mia vita",
-                "descrizione": "Agathe, una ragazza goffa ma allo stesso tempo affascinante e piena di contraddizioni, si ritrova ad affrontare la sua solitudine. Sogna un amore simile ai personaggi di un romanzo di Jane Austen e la sua massima aspirazione è diventare una scrittrice. Invece, trascorre le sue giornate vendendo libri nella leggendaria libreria britannica Shakespeare & Co, a Parigi. Invitata in Inghilterra alla residenza per scrittori di Jane Austen, deve combattere con le sue insicurezze... fino a quando non accade qualcosa di inaspettato e la sua vita cambia magicamente."
-            },
             {
                 "ora": "00:45",
                 "titolo": "Non succede, ma se succede...",
@@ -3144,19 +3139,19 @@
                 "ora": "22:40",
                 "titolo": "I migliori giorni",
                 "descrizione": "A Natale tutti più buoni? A Capodanno tanti buoni propositi? A San Valentino amore amore amore e l’8 marzo viva le donne? Quattro episodi, ognuno incentrato su una festività, per un film corale che sonda l’animo umano nell’affrontare le feste. Una deputata invita alla cena della Vigilia di Natale il segretario del suo partito sperando in un futuro sostegno, ma la presenza dei suoi due fratelli, eterni rivali, mette a rischio serata e carriera. Un ricco imprenditore tenta di rifarsi l’immagine passando il Capodanno alla mensa dei poveri, ma lì incontra il suo ex autista, ingiustamente licenziato e deciso a vendicarsi. Un San Valentino fin troppo affollato fra lui, lei, l’altra e la lei dell’altra per una coppia che, dopo 25 anni, lo festeggia ancora. Infine, l’8 marzo, una famosa conduttrice tv è costretta a chiedere scusa per la messa in onda di un servizio sulla “donna ideale” contestato sui social. Se questi sono i migliori giorni, figuriamoci i peggiori…"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Jane Austen ha stravolto la mia vita",
+                "descrizione": "Agathe, una ragazza goffa ma allo stesso tempo affascinante e piena di contraddizioni, si ritrova ad affrontare la sua solitudine. Sogna un amore simile ai personaggi di un romanzo di Jane Austen e la sua massima aspirazione è diventare una scrittrice. Invece, trascorre le sue giornate vendendo libri nella leggendaria libreria britannica Shakespeare & Co, a Parigi. Invitata in Inghilterra alla residenza per scrittori di Jane Austen, deve combattere con le sue insicurezze... fino a quando non accade qualcosa di inaspettato e la sua vita cambia magicamente."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Cinema Drama",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Napoli velata",
-                "descrizione": "In una Napoli sospesa tra magia e superstizione, follia e razionalità, un mistero avvolge l'esistenza di Adriana (Giovanna Mezzogiorno) travolta da un amore improvviso e un delitto violento."
-            },
             {
                 "ora": "00:55",
                 "titolo": "Delta",
@@ -3211,19 +3206,19 @@
                 "ora": "23:00",
                 "titolo": "Jane Austen ha stravolto la mia vita",
                 "descrizione": "Agathe, una ragazza goffa ma allo stesso tempo affascinante e piena di contraddizioni, si ritrova ad affrontare la sua solitudine. Sogna un amore simile ai personaggi di un romanzo di Jane Austen e la sua massima aspirazione è diventare una scrittrice. Invece, trascorre le sue giornate vendendo libri nella leggendaria libreria britannica Shakespeare & Co, a Parigi. Invitata in Inghilterra alla residenza per scrittori di Jane Austen, deve combattere con le sue insicurezze... fino a quando non accade qualcosa di inaspettato e la sua vita cambia magicamente."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Napoli velata",
+                "descrizione": "In una Napoli sospesa tra magia e superstizione, follia e razionalità, un mistero avvolge l'esistenza di Adriana (Giovanna Mezzogiorno) travolta da un amore improvviso e un delitto violento."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Cinema Comedy",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "22:40",
-                "titolo": "I migliori giorni",
-                "descrizione": "A Natale tutti più buoni? A Capodanno tanti buoni propositi? A San Valentino amore amore amore e l’8 marzo viva le donne? Quattro episodi, ognuno incentrato su una festività, per un film corale che sonda l’animo umano nell’affrontare le feste. Una deputata invita alla cena della Vigilia di Natale il segretario del suo partito sperando in un futuro sostegno, ma la presenza dei suoi due fratelli, eterni rivali, mette a rischio serata e carriera. Un ricco imprenditore tenta di rifarsi l’immagine passando il Capodanno alla mensa dei poveri, ma lì incontra il suo ex autista, ingiustamente licenziato e deciso a vendicarsi. Un San Valentino fin troppo affollato fra lui, lei, l’altra e la lei dell’altra per una coppia che, dopo 25 anni, lo festeggia ancora. Infine, l’8 marzo, una famosa conduttrice tv è costretta a chiedere scusa per la messa in onda di un servizio sulla “donna ideale” contestato sui social. Se questi sono i migliori giorni, figuriamoci i peggiori…"
-            },
             {
                 "ora": "00:50",
                 "titolo": "La Primavera Della Mia Vita",
@@ -3275,22 +3270,22 @@
                 "descrizione": "L'esercito delle 12 scimmie è un piccolo gioiellino fantascientifico del 1995 che si focalizza sulla disperazione di un singolo uomo condannato,in un futuro ormai abitato da una razza umana rassegnata,ad essere il prescelto per poter trovare un rimedio alla loro situazione disastrosa. Nel 2035 gli esseri umani vivono nel sottosuolo,terrorizzati dall'ambiente esterno,portatore di un virus mortale che li ha decimati un pianeta terra dove i prigionieri sono diventati solo ed esclusivamente loro. Anche se solo in modo approssimativo,gli scienziati di quel terribile futuro hanno reso possibile il viaggio nel tempo unica possibilità per poter mettere le mani sul virus e crearne una cura (da notare che nonostante si ipotizzi il viaggio temporale,il film sottolinea che non si può cambiare nulla di ciò che è già avvenuto.paradossalmente si gioca ancora sul concetto che non esiste un libero arbitrio)."
             },
             {
+                "ora": "22:40",
+                "titolo": "I migliori giorni",
+                "descrizione": "A Natale tutti più buoni? A Capodanno tanti buoni propositi? A San Valentino amore amore amore e l’8 marzo viva le donne? Quattro episodi, ognuno incentrato su una festività, per un film corale che sonda l’animo umano nell’affrontare le feste. Una deputata invita alla cena della Vigilia di Natale il segretario del suo partito sperando in un futuro sostegno, ma la presenza dei suoi due fratelli, eterni rivali, mette a rischio serata e carriera. Un ricco imprenditore tenta di rifarsi l’immagine passando il Capodanno alla mensa dei poveri, ma lì incontra il suo ex autista, ingiustamente licenziato e deciso a vendicarsi. Un San Valentino fin troppo affollato fra lui, lei, l’altra e la lei dell’altra per una coppia che, dopo 25 anni, lo festeggia ancora. Infine, l’8 marzo, una famosa conduttrice tv è costretta a chiedere scusa per la messa in onda di un servizio sulla “donna ideale” contestato sui social. Se questi sono i migliori giorni, figuriamoci i peggiori…"
+            },
+            {
                 "ora": "23:00",
                 "titolo": "Jane Austen ha stravolto la mia vita",
                 "descrizione": "Agathe, una ragazza goffa ma allo stesso tempo affascinante e piena di contraddizioni, si ritrova ad affrontare la sua solitudine. Sogna un amore simile ai personaggi di un romanzo di Jane Austen e la sua massima aspirazione è diventare una scrittrice. Invece, trascorre le sue giornate vendendo libri nella leggendaria libreria britannica Shakespeare & Co, a Parigi. Invitata in Inghilterra alla residenza per scrittori di Jane Austen, deve combattere con le sue insicurezze... fino a quando non accade qualcosa di inaspettato e la sua vita cambia magicamente."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Uno",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "23:45",
-                "titolo": "Quattro matrimoni",
-                "descrizione": "Uno degli ingredienti che non può mancare in un matrimonio è l'attenzione ai dettagli. Lo sanno le spose di oggi, che del dettaglio hanno fatto il must have del loro sì."
-            },
             {
                 "ora": "01:00",
                 "titolo": "Money Road - Ogni tentazione ha un...",
@@ -3345,19 +3340,19 @@
                 "ora": "23:10",
                 "titolo": "Italy For Movies",
                 "descrizione": "Ep.7 di 10 - Un racconto di opere architettoniche firmate da grandi architetti che vanno oltre la semplice funzionalita' ed estetica per integrarsi profondamente con l'ambiente circostante."
+            },
+            {
+                "ora": "22:55",
+                "titolo": "Airport Security: Madrid",
+                "descrizione": "Gli agenti fermano tre giovani provenienti dal Paraguay per visitare la famiglia, ma non trovano credibile la loro storia."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Atlantic",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "00:20",
-                "titolo": "Billy the Kid",
-                "descrizione": "Un'epica serie di avventure romantiche basata sulla vita del famoso fuorilegge americano Billy the Kid, dalle sue umili radici irlandesi, ai suoi primi giorni come cowboy e pistolero nella frontiera americana, al suo ruolo fondamentale nella guerra della contea di Lincoln e oltre."
-            },
             {
                 "ora": "01:15",
                 "titolo": "Ray Donovan",
@@ -3412,34 +3407,19 @@
                 "ora": "22:05",
                 "titolo": "Yellowstone",
                 "descrizione": "Segui il mondo violento della famiglia Dutton, che controlla il più grande ranch attiguo degli Stati Uniti. Guidata dal loro patriarca John Dutton, la famiglia difende la loro proprietà dagli attacchi costanti di sviluppatori di terreni, una riserva indiana e il primo Parco Nazionale d'America."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "Alla Ricerca Della Verita' - Stag. 1 Ep. 1 - Il Caso Jonbenet",
+                "descrizione": "S1 Ep1 Il Caso Jonbenet - Con l'aiuto di un ex detective, la giornalista Elizabeth Vargas indaga sul piu' famoso 'cold case' americano: l'omicidio della baby reginetta di bellezza JonBenet Ramsey."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Serie",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "23:55",
-                "titolo": "The Miniature Wife: Un piccolo problema",
-                "descrizione": "Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore."
-            },
-            {
-                "ora": "00:45",
-                "titolo": "Friends",
-                "descrizione": "Una delle commedie televisive più amate di sempre su un gruppo di sei amici trentenni, la trama si svolge prevalentemente in due appartamenti e un Coffee-Bar: Monica, Rachel, Phoebe, Chandler, Ross e Joey condividono sogni, amori, delusioni e speranze fra gag esilaranti e battute dal ritmo serratissimo."
-            },
-            {
-                "ora": "01:10",
-                "titolo": "Friends",
-                "descrizione": "Una delle commedie televisive più amate di sempre su un gruppo di sei amici trentenni, la trama si svolge prevalentemente in due appartamenti e un Coffee-Bar: Monica, Rachel, Phoebe, Chandler, Ross e Joey condividono sogni, amori, delusioni e speranze fra gag esilaranti e battute dal ritmo serratissimo."
-            },
-            {
-                "ora": "01:30",
-                "titolo": "Friends",
-                "descrizione": "Una delle commedie televisive più amate di sempre su un gruppo di sei amici trentenni, la trama si svolge prevalentemente in due appartamenti e un Coffee-Bar: Monica, Rachel, Phoebe, Chandler, Ross e Joey condividono sogni, amori, delusioni e speranze fra gag esilaranti e battute dal ritmo serratissimo."
-            },
             {
                 "ora": "01:55",
                 "titolo": "Downton Abbey",
@@ -3479,29 +3459,34 @@
                 "ora": "22:05",
                 "titolo": "The Miniature Wife: Un piccolo problema\",\"prima\":true,\"description\":\"Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy  a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore.\",\"durata\":55,\"genre\":\"Dramma Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/99SkFAS3S3iOtnplwH0byFUMiHK.jpg\",\"episode_number\":4,\"series_number\":1,\"ac\":[{\"n\":\"Elizabeth Banks\",\"i\":\"zrkI1dYucpTM8Qydtrtro9MgQPb.jpg\",\"c\":\"Lindy Littlejohn\",\"u\":\"t\"},{\"n\":\"Matthew Macfadyen\",\"i\":\"2IWtWZTpAGh8QFVBjry1IZMN7F3.jpg\",\"c\":\"Les Littlejohn\",\"u\":\"t\"},{\"n\":\"Zoe Lister-Jones\",\"i\":\"hiuMwG45QCg0eUzhO15jyAFzx1i.jpg\",\"c\":\"Vivienne\",\"u\":\"t\"},{\"n\":\"Sofia Rosinsky\",\"i\":\"iScV4kn0sGzg8E3iQmgIKuJn3Kp.jpg\",\"c\":\"Lulu Littlejohn\",\"u\":\"t\"},{\"n\":\"O-T Fagbenle\",\"i\":\"baIiZBDYpYXfG4SlonbcqyYg6l.jpg\",\"c\":\"Richie\",\"u\":\"t\"},{\"n\":\"Sian Clifford\",\"i\":\"rIqcwewXdkrDTMTwX56QPa7MNTC.jpg\",\"c\":\"Terry Leyland\",\"u\":\"t\"},{\"n\":\"Aasif Mandvi\",\"i\":\"hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg\",\"c\":\"Martin Mucklowe\",\"u\":\"t\"},{\"n\":\"Rong Fu\",\"i\":\"cm6lDVMrP0Hw2Vh6aYMhrdJO5dB.jpg\",\"c\":\"Janet\",\"u\":\"t\"},{\"n\":\"Durae McFarlane\",\"i\":\"\",\"c\":\"Marker Bob\",\"u\":\"t\"},{\"n\":\"Leo Choy\",\"i\":\"pLZJ9jkC48JIzyUu1n45U5qTBVY.jpg\",\"c\":\"Eraser Bob\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/gQTjztsHxB7swHm6Dy2h8blukEi.jpg\",\"inizio\":\"2026-06-16T20:05:00.000Z\",\"fine\":\"2026-06-16T21:00:00.000Z\",\"rating\":\"3,7605\",\"condividi\":\"$undefined\",\"year\":\"2026\",\"pr\":\"Stati Uniti\",\"tiEp\":\"Niente panico!\",\"trEp\":\"Les compie grandi progressi in laboratorio, ma il pericolo aumenta all'interno della casa delle bambole e il comportamento di Lindy si fa sempre più inquietante.\"}},{\"canale\":{\"logo\":\"11246.png\",\"name\":\"Sky investigation HD\",\"number\":\"113\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"L3OSx5IWT4kd\",\"title\":\"Sherlock & Daughter",
                 "descrizione": "Nel 1896, Sherlock Holmes viene coinvolto in una malvagia cospirazione che coinvolge l'organizzazione criminale Red Thread, che ha rapito i suoi amici più cari. Unisce le forze con Amelia Rojas, una giovane nativa americana la cui madre è stata recentemente assassinata. Mentre lavorano insieme per risolvere il caso, Amelia si propone anche di scoprire se il grande detective sia in realtà suo padre, da tempo scomparso."
+            },
+            {
+                "ora": "22:05",
+                "titolo": "Yellowstone",
+                "descrizione": "Segui il mondo violento della famiglia Dutton, che controlla il più grande ranch attiguo degli Stati Uniti. Guidata dal loro patriarca John Dutton, la famiglia difende la loro proprietà dagli attacchi costanti di sviluppatori di terreni, una riserva indiana e il primo Parco Nazionale d'America."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "Alla Ricerca Della Verita' - Stag. 1 Ep. 1 - Il Caso Jonbenet",
+                "descrizione": "S1 Ep1 Il Caso Jonbenet - Con l'aiuto di un ex detective, la giornalista Elizabeth Vargas indaga sul piu' famoso 'cold case' americano: l'omicidio della baby reginetta di bellezza JonBenet Ramsey."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Italy For Movies",
+                "descrizione": "Ep.7 di 10 - Un racconto di opere architettoniche firmate da grandi architetti che vanno oltre la semplice funzionalita' ed estetica per integrarsi profondamente con l'ambiente circostante."
+            },
+            {
+                "ora": "22:55",
+                "titolo": "Airport Security: Madrid",
+                "descrizione": "Gli agenti fermano tre giovani provenienti dal Paraguay per visitare la famiglia, ma non trovano credibile la loro storia."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Investigation",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "23:45",
-                "titolo": "Law & Order: Special Victims Unit",
-                "descrizione": "Le indagini dell'Unità Vittime Speciali, una nuova squadra speciale della Polizia di New York che si occupa di crimini a sfondo sessuale. In ogni episodio si segue da una parte l'attività investigativa attuata dalla squadra e dall'altra l'aspetto giudiziario con l'iniziativa processuale condotta dalla procura distrettuale."
-            },
-            {
-                "ora": "00:30",
-                "titolo": "Law & Order: I due volti della giustizia",
-                "descrizione": "Law & Order è un media franchise creato da Dick Wolf per la NBC Universal e formato da varie serie televisive poliziesco-giudiziarie e un film per la televisione, trasmessi sul network NBC dal 13 settembre 1990. Il franchise Law & Order nel tempo ha ispirato anche una serie di adattamenti televisivi stranieri, un docu-reality e videogiochi ufficiali, oltre a generare una serie di crossover con altre serie tv statunitensi."
-            },
-            {
-                "ora": "01:15",
-                "titolo": "Law & Order: I due volti della giustizia",
-                "descrizione": "Law & Order è un media franchise creato da Dick Wolf per la NBC Universal e formato da varie serie televisive poliziesco-giudiziarie e un film per la televisione, trasmessi sul network NBC dal 13 settembre 1990. Il franchise Law & Order nel tempo ha ispirato anche una serie di adattamenti televisivi stranieri, un docu-reality e videogiochi ufficiali, oltre a generare una serie di crossover con altre serie tv statunitensi."
-            },
             {
                 "ora": "02:00",
                 "titolo": "CSI: Miami",
@@ -3546,24 +3531,29 @@
                 "ora": "22:05",
                 "titolo": "Yellowstone",
                 "descrizione": "Segui il mondo violento della famiglia Dutton, che controlla il più grande ranch attiguo degli Stati Uniti. Guidata dal loro patriarca John Dutton, la famiglia difende la loro proprietà dagli attacchi costanti di sviluppatori di terreni, una riserva indiana e il primo Parco Nazionale d'America."
-            }
-        ],
-        "aggiornato": "22:22"
-    },
-    {
-        "canale": "Sky Crime",
-        "categoria": "Intrattenimento",
-        "programmi": [
-            {
-                "ora": "23:40",
-                "titolo": "Matrimonio con delitto",
-                "descrizione": "S1 Ep8 di 10 Soldi che scompaiono - Toni e Harold si incontrano a un convegno medico e presto si sposano. Ma quando iniziano a scomparire soldi dal conto di Toni, i sospetti ricadono su Harold."
             },
             {
                 "ora": "00:30",
                 "titolo": "Alla Ricerca Della Verita' - Stag. 1 Ep. 1 - Il Caso Jonbenet",
                 "descrizione": "S1 Ep1 Il Caso Jonbenet - Con l'aiuto di un ex detective, la giornalista Elizabeth Vargas indaga sul piu' famoso 'cold case' americano: l'omicidio della baby reginetta di bellezza JonBenet Ramsey."
             },
+            {
+                "ora": "23:10",
+                "titolo": "Italy For Movies",
+                "descrizione": "Ep.7 di 10 - Un racconto di opere architettoniche firmate da grandi architetti che vanno oltre la semplice funzionalita' ed estetica per integrarsi profondamente con l'ambiente circostante."
+            },
+            {
+                "ora": "22:55",
+                "titolo": "Airport Security: Madrid",
+                "descrizione": "Gli agenti fermano tre giovani provenienti dal Paraguay per visitare la famiglia, ma non trovano credibile la loro storia."
+            }
+        ],
+        "aggiornato": "00:01"
+    },
+    {
+        "canale": "Sky Crime",
+        "categoria": "Intrattenimento",
+        "programmi": [
             {
                 "ora": "01:45",
                 "titolo": "Playboy - Morte di una...",
@@ -3610,27 +3600,27 @@
                 "descrizione": "Segui il mondo violento della famiglia Dutton, che controlla il più grande ranch attiguo degli Stati Uniti. Guidata dal loro patriarca John Dutton, la famiglia difende la loro proprietà dagli attacchi costanti di sviluppatori di terreni, una riserva indiana e il primo Parco Nazionale d'America."
             },
             {
+                "ora": "00:30",
+                "titolo": "Alla Ricerca Della Verita' - Stag. 1 Ep. 1 - Il Caso Jonbenet",
+                "descrizione": "S1 Ep1 Il Caso Jonbenet - Con l'aiuto di un ex detective, la giornalista Elizabeth Vargas indaga sul piu' famoso 'cold case' americano: l'omicidio della baby reginetta di bellezza JonBenet Ramsey."
+            },
+            {
                 "ora": "23:10",
                 "titolo": "Italy For Movies",
                 "descrizione": "Ep.7 di 10 - Un racconto di opere architettoniche firmate da grandi architetti che vanno oltre la semplice funzionalita' ed estetica per integrarsi profondamente con l'ambiente circostante."
+            },
+            {
+                "ora": "22:55",
+                "titolo": "Airport Security: Madrid",
+                "descrizione": "Gli agenti fermano tre giovani provenienti dal Paraguay per visitare la famiglia, ma non trovano credibile la loro storia."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Adventure",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "23:50",
-                "titolo": "Supercar: i grandi miti",
-                "descrizione": "McLaren parte da zero per sviluppare il suo primo nuovo modello di auto dal 2011. Per scrivere un capitolo più ecologico della storia, la squadra sviluppa il suo primo motore ibrido."
-            },
-            {
-                "ora": "00:40",
-                "titolo": "Earth",
-                "descrizione": "800 milioni di anni fa Rodinia si spezza. Le forze tettoniche dividono la terra e avviano un calo drastico delle temperature."
-            },
             {
                 "ora": "01:40",
                 "titolo": "Stupidi al quadrato",
@@ -3680,34 +3670,24 @@
                 "ora": "22:05",
                 "titolo": "The Miniature Wife: Un piccolo problema\",\"prima\":true,\"description\":\"Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy  a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore.\",\"durata\":55,\"genre\":\"Dramma Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/99SkFAS3S3iOtnplwH0byFUMiHK.jpg\",\"episode_number\":4,\"series_number\":1,\"ac\":[{\"n\":\"Elizabeth Banks\",\"i\":\"zrkI1dYucpTM8Qydtrtro9MgQPb.jpg\",\"c\":\"Lindy Littlejohn\",\"u\":\"t\"},{\"n\":\"Matthew Macfadyen\",\"i\":\"2IWtWZTpAGh8QFVBjry1IZMN7F3.jpg\",\"c\":\"Les Littlejohn\",\"u\":\"t\"},{\"n\":\"Zoe Lister-Jones\",\"i\":\"hiuMwG45QCg0eUzhO15jyAFzx1i.jpg\",\"c\":\"Vivienne\",\"u\":\"t\"},{\"n\":\"Sofia Rosinsky\",\"i\":\"iScV4kn0sGzg8E3iQmgIKuJn3Kp.jpg\",\"c\":\"Lulu Littlejohn\",\"u\":\"t\"},{\"n\":\"O-T Fagbenle\",\"i\":\"baIiZBDYpYXfG4SlonbcqyYg6l.jpg\",\"c\":\"Richie\",\"u\":\"t\"},{\"n\":\"Sian Clifford\",\"i\":\"rIqcwewXdkrDTMTwX56QPa7MNTC.jpg\",\"c\":\"Terry Leyland\",\"u\":\"t\"},{\"n\":\"Aasif Mandvi\",\"i\":\"hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg\",\"c\":\"Martin Mucklowe\",\"u\":\"t\"},{\"n\":\"Rong Fu\",\"i\":\"cm6lDVMrP0Hw2Vh6aYMhrdJO5dB.jpg\",\"c\":\"Janet\",\"u\":\"t\"},{\"n\":\"Durae McFarlane\",\"i\":\"\",\"c\":\"Marker Bob\",\"u\":\"t\"},{\"n\":\"Leo Choy\",\"i\":\"pLZJ9jkC48JIzyUu1n45U5qTBVY.jpg\",\"c\":\"Eraser Bob\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/gQTjztsHxB7swHm6Dy2h8blukEi.jpg\",\"inizio\":\"2026-06-16T20:05:00.000Z\",\"fine\":\"2026-06-16T21:00:00.000Z\",\"rating\":\"3,7605\",\"condividi\":\"$undefined\",\"year\":\"2026\",\"pr\":\"Stati Uniti\",\"tiEp\":\"Niente panico!\",\"trEp\":\"Les compie grandi progressi in laboratorio, ma il pericolo aumenta all'interno della casa delle bambole e il comportamento di Lindy si fa sempre più inquietante.\"}},{\"canale\":{\"logo\":\"11246.png\",\"name\":\"Sky investigation HD\",\"number\":\"113\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"L3OSx5IWT4kd\",\"title\":\"Sherlock & Daughter",
                 "descrizione": "Nel 1896, Sherlock Holmes viene coinvolto in una malvagia cospirazione che coinvolge l'organizzazione criminale Red Thread, che ha rapito i suoi amici più cari. Unisce le forze con Amelia Rojas, una giovane nativa americana la cui madre è stata recentemente assassinata. Mentre lavorano insieme per risolvere il caso, Amelia si propone anche di scoprire se il grande detective sia in realtà suo padre, da tempo scomparso."
+            },
+            {
+                "ora": "22:05",
+                "titolo": "Yellowstone",
+                "descrizione": "Segui il mondo violento della famiglia Dutton, che controlla il più grande ranch attiguo degli Stati Uniti. Guidata dal loro patriarca John Dutton, la famiglia difende la loro proprietà dagli attacchi costanti di sviluppatori di terreni, una riserva indiana e il primo Parco Nazionale d'America."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "Alla Ricerca Della Verita' - Stag. 1 Ep. 1 - Il Caso Jonbenet",
+                "descrizione": "S1 Ep1 Il Caso Jonbenet - Con l'aiuto di un ex detective, la giornalista Elizabeth Vargas indaga sul piu' famoso 'cold case' americano: l'omicidio della baby reginetta di bellezza JonBenet Ramsey."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "MTV",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "00:15",
-                "titolo": "Ridiculousness: Veri American Idiots",
-                "descrizione": "Ep15 di 42 Sterling e Carly Aquilino XLIV - Rob, Steelo e Carly Aquilino si prendono cura di TINY TERRORS, organizzano le loro CRAZED COLLECTIONS e creano nuovi BATHROOM FRIENDS."
-            },
-            {
-                "ora": "00:45",
-                "titolo": "Ridiculousness: Veri American Idiots",
-                "descrizione": "Ep19 di 42 Sterling e Nina Agdal LII - Rob, Steelo e Nina Agdal hanno gli zoccoli bloccati in FOOT TRAPS e provano che alcune persone sono invincibili in NOT TODAY DEATH."
-            },
-            {
-                "ora": "01:10",
-                "titolo": "Queerpiphany - Stag. 1 Ep. 2",
-                "descrizione": "S1 Ep2 Becky Hill e Travis Alabanza - Tayce e Munroe Bergdorf accolgono ospiti celebri che raccontano quali momenti della cultura pop hanno segnato il loro queer awakening."
-            },
-            {
-                "ora": "01:35",
-                "titolo": "Queerpiphany - Stag. 1 Ep. 3",
-                "descrizione": "S1 Ep3 Tia Kofi e Florence Given - Tayce e Munroe Bergdorf accolgono ospiti celebri che raccontano quali momenti della cultura pop hanno segnato il loro queer awakening."
-            },
             {
                 "ora": "02:00",
                 "titolo": "Ex On The Beach US",
@@ -3747,34 +3727,34 @@
                 "ora": "05:45",
                 "titolo": "Ridiculousness: Veri American Idiots",
                 "descrizione": "Ep19 di 42 - Rob Dyrdek presenta i video più divertenti presi da Internet insieme ai co-conduttori Sterling Brim, Chanel West Coast e alcune delle celebrità più famose al mondo."
+            },
+            {
+                "ora": "22:30",
+                "titolo": "Quattro matrimoni",
+                "descrizione": "L'amore ha bussato alle porte delle quattro protagoniste, che superano i quarant'anni."
+            },
+            {
+                "ora": "22:20",
+                "titolo": "American Crime Story",
+                "descrizione": "American Crime Story è una serie televisiva antologica nata come una \"costola\" di American Horror Story. Ne mantiene la struttura, ma si discosta dal genere horror per raccontare noti casi giudiziari e di cronaca che hanno avuto un forte impatto mediatico."
+            },
+            {
+                "ora": "22:05",
+                "titolo": "The Miniature Wife: Un piccolo problema\",\"prima\":true,\"description\":\"Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy  a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore.\",\"durata\":55,\"genre\":\"Dramma Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/99SkFAS3S3iOtnplwH0byFUMiHK.jpg\",\"episode_number\":4,\"series_number\":1,\"ac\":[{\"n\":\"Elizabeth Banks\",\"i\":\"zrkI1dYucpTM8Qydtrtro9MgQPb.jpg\",\"c\":\"Lindy Littlejohn\",\"u\":\"t\"},{\"n\":\"Matthew Macfadyen\",\"i\":\"2IWtWZTpAGh8QFVBjry1IZMN7F3.jpg\",\"c\":\"Les Littlejohn\",\"u\":\"t\"},{\"n\":\"Zoe Lister-Jones\",\"i\":\"hiuMwG45QCg0eUzhO15jyAFzx1i.jpg\",\"c\":\"Vivienne\",\"u\":\"t\"},{\"n\":\"Sofia Rosinsky\",\"i\":\"iScV4kn0sGzg8E3iQmgIKuJn3Kp.jpg\",\"c\":\"Lulu Littlejohn\",\"u\":\"t\"},{\"n\":\"O-T Fagbenle\",\"i\":\"baIiZBDYpYXfG4SlonbcqyYg6l.jpg\",\"c\":\"Richie\",\"u\":\"t\"},{\"n\":\"Sian Clifford\",\"i\":\"rIqcwewXdkrDTMTwX56QPa7MNTC.jpg\",\"c\":\"Terry Leyland\",\"u\":\"t\"},{\"n\":\"Aasif Mandvi\",\"i\":\"hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg\",\"c\":\"Martin Mucklowe\",\"u\":\"t\"},{\"n\":\"Rong Fu\",\"i\":\"cm6lDVMrP0Hw2Vh6aYMhrdJO5dB.jpg\",\"c\":\"Janet\",\"u\":\"t\"},{\"n\":\"Durae McFarlane\",\"i\":\"\",\"c\":\"Marker Bob\",\"u\":\"t\"},{\"n\":\"Leo Choy\",\"i\":\"pLZJ9jkC48JIzyUu1n45U5qTBVY.jpg\",\"c\":\"Eraser Bob\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/gQTjztsHxB7swHm6Dy2h8blukEi.jpg\",\"inizio\":\"2026-06-16T20:05:00.000Z\",\"fine\":\"2026-06-16T21:00:00.000Z\",\"rating\":\"3,7605\",\"condividi\":\"$undefined\",\"year\":\"2026\",\"pr\":\"Stati Uniti\",\"tiEp\":\"Niente panico!\",\"trEp\":\"Les compie grandi progressi in laboratorio, ma il pericolo aumenta all'interno della casa delle bambole e il comportamento di Lindy si fa sempre più inquietante.\"}},{\"canale\":{\"logo\":\"11246.png\",\"name\":\"Sky investigation HD\",\"number\":\"113\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"L3OSx5IWT4kd\",\"title\":\"Sherlock & Daughter",
+                "descrizione": "Nel 1896, Sherlock Holmes viene coinvolto in una malvagia cospirazione che coinvolge l'organizzazione criminale Red Thread, che ha rapito i suoi amici più cari. Unisce le forze con Amelia Rojas, una giovane nativa americana la cui madre è stata recentemente assassinata. Mentre lavorano insieme per risolvere il caso, Amelia si propone anche di scoprire se il grande detective sia in realtà suo padre, da tempo scomparso."
+            },
+            {
+                "ora": "22:05",
+                "titolo": "Yellowstone",
+                "descrizione": "Segui il mondo violento della famiglia Dutton, che controlla il più grande ranch attiguo degli Stati Uniti. Guidata dal loro patriarca John Dutton, la famiglia difende la loro proprietà dagli attacchi costanti di sviluppatori di terreni, una riserva indiana e il primo Parco Nazionale d'America."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Comedy Central",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "Stand Up Comedy",
-                "descrizione": "Ep18 di 24 - Pietro Casella parla di una pratica erotica, Matteo Zafferano si cimenta in un genere di comicità, Valentina Medda ci confessa una sua opinione."
-            },
-            {
-                "ora": "00:30",
-                "titolo": "Stand Up Comedy",
-                "descrizione": "Ep13 di 24 - Nathan Kiboba ci parla di pregiuzi, Mario Raz ci racconta un aneddoto surreale vissuto in Thailandia, Monir Ghassem un'esperienza traumatica."
-            },
-            {
-                "ora": "01:00",
-                "titolo": "Reno 911!",
-                "descrizione": "Ep11 di 15 Il ballo del poliziotto - Levon French, il re degli spot pubblicitari di Reno, aiuta gli agenti a fare un nuovo annuncio per il reclutamento."
-            },
-            {
-                "ora": "01:20",
-                "titolo": "Frasier",
-                "descrizione": "Dopo molti anni trascorsi al bar \"Cheers"
-            },
             {
                 "ora": "01:45",
                 "titolo": "Frasier",
@@ -3814,19 +3794,34 @@
                 "ora": "04:15",
                 "titolo": "Mike Judge's Beavis and Butt-Head",
                 "descrizione": "Ep10 di 12 - Beavis e Butt-Head diventano accumulatori seriali. I ragazzi provano l'agopuntura e Beavis la adora."
+            },
+            {
+                "ora": "04:35",
+                "titolo": "Mike Judge's Beavis and Butt-Head",
+                "descrizione": "Ep11 di 12 - Old Beavis e Butt-Head provano un nuovo lavoro. Beavis indossa il costume da Burger di Butt-Head."
+            },
+            {
+                "ora": "04:55",
+                "titolo": "Mike Judge's Beavis and Butt-Head",
+                "descrizione": "Ep12 di 12 - Smart Beavis e Butt-Head rapiscono Tom Anderson. I ragazzi passano la notte da Cody."
+            },
+            {
+                "ora": "05:20",
+                "titolo": "Un papà da Oscar",
+                "descrizione": "David Hobbs, famoso attore di una sitcom, è costretto ad abbandonare il set perché sua moglie, ex-attrice di soap opera, decide di tornare a lavorare. L'uomo si ritrova così a fare il casalingo e a badare alla famiglia, rendendosi conto che intepretare il ruolo di padre in TV è molto meno impegnativo che esserlo nella vita reale..."
+            },
+            {
+                "ora": "05:40",
+                "titolo": "Un papà da Oscar",
+                "descrizione": "David Hobbs, famoso attore di una sitcom, è costretto ad abbandonare il set perché sua moglie, ex-attrice di soap opera, decide di tornare a lavorare. L'uomo si ritrova così a fare il casalingo e a badare alla famiglia, rendendosi conto che intepretare il ruolo di padre in TV è molto meno impegnativo che esserlo nella vita reale..."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Arte",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "00:05",
-                "titolo": "Italy For Movies",
-                "descrizione": "Ep.8 di 10 - Un viaggio tra i castelli e il loro simbolismo, luoghi da favola ma anche custodi di misteri antichi."
-            },
             {
                 "ora": "00:55",
                 "titolo": "Galleria Continua. The Ability to Dream",
@@ -3881,19 +3876,19 @@
                 "ora": "00:30",
                 "titolo": "Alla Ricerca Della Verita' - Stag. 1 Ep. 1 - Il Caso Jonbenet",
                 "descrizione": "S1 Ep1 Il Caso Jonbenet - Con l'aiuto di un ex detective, la giornalista Elizabeth Vargas indaga sul piu' famoso 'cold case' americano: l'omicidio della baby reginetta di bellezza JonBenet Ramsey."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Italy For Movies",
+                "descrizione": "Ep.7 di 10 - Un racconto di opere architettoniche firmate da grandi architetti che vanno oltre la semplice funzionalita' ed estetica per integrarsi profondamente con l'ambiente circostante."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Documentaries",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "00:10",
-                "titolo": "I tesori dell'antico Egitto",
-                "descrizione": "Ep.3 - Il critico e giornalista britannico Alastair Sooke ci accompagna alla scoperta della vera e sorprendente arte di una delle civilta' piu' antiche e misteriose: quella dell'Antico Egitto. Attraverso un viaggio in Egitto, ci rivela come alcuni dei tesori artistici piu' straordinari siano nati da un inaspettato incontro di culture."
-            },
             {
                 "ora": "01:05",
                 "titolo": "Uomini e Dei. Le meraviglie del museo egizio",
@@ -3948,24 +3943,19 @@
                 "ora": "21:15",
                 "titolo": "Tutankhamon: i misteri del faraone",
                 "descrizione": "Ep3 di 3 I misteri del tesoro - Piu' di 3000 anni fa, Tutankhamon fu seppellito. La sua tomba fu scoperta solo nel 1922 da Howard Carter. Quali tesori si nascondevano nella sua tomba?"
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Meraviglie sottomarine d'Africa",
+                "descrizione": "Ep1 di 5 I regni delle dune - All'interno della costa orientale del Sudafrica vi sono due mondi diversi: i Regni delle Dune di Aliwal e Sodwana."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky Nature",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "I segreti delle foreste incantate",
-                "descrizione": "Ep3 di 6 Mondi d'acqua - Ci immergeremo in ecosistemi acquatici, dove alberi e acqua si incontrano e danno origine alla vita."
-            },
-            {
-                "ora": "00:55",
-                "titolo": "Panorami nascosti",
-                "descrizione": "Ep3 di 6 La Baia di Fundy - Le maree piu' grandi si trovano nella Baia di Fundy. Il moto dell'acqua e i fanghi sottostanti favoriscono lo sviluppo di molteplici forme di vita."
-            },
             {
                 "ora": "01:45",
                 "titolo": "Terra - Un pianeta in evoluzione",
@@ -4015,29 +4005,24 @@
                 "ora": "22:00",
                 "titolo": "World War II con Tom Hanks",
                 "descrizione": "S1 Ep7 di 20 L'Olocausto - La tragedia delle leggi razziali e dell'Olocausto. Milioni di persone vengono deportate e uccise nei lager nazisti."
+            },
+            {
+                "ora": "20:25",
+                "titolo": "Questa terra e' la mia terra: Peppe...",
+                "descrizione": "Ep5 di 8 Calzoncelli / Sgombro con verdure / Arancini - Peppe Guida, i suoi fratelli e la loro passione per la cucina. Un viaggio nei sapori tra ricette e segreti di una grande famiglia."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Tutankhamon: i misteri del faraone",
+                "descrizione": "Ep3 di 3 I misteri del tesoro - Piu' di 3000 anni fa, Tutankhamon fu seppellito. La sua tomba fu scoperta solo nel 1922 da Howard Carter. Quali tesori si nascondevano nella sua tomba?"
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Discovery Channel",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "00:10",
-                "titolo": "Come e' fatto",
-                "descrizione": "Scopriamo come vengono realizzati alcuni oggetti di uso quotidiano, tra cui le mountain bike e i fucili con azionamento a leva."
-            },
-            {
-                "ora": "00:40",
-                "titolo": "Come e' fatto",
-                "descrizione": "Analizziamo alcuni oggetti di uso quotidiano e scopriamo come vengono realizzate le saune e gli ascensori per le sedie a rotelle."
-            },
-            {
-                "ora": "01:10",
-                "titolo": "Come e' fatto",
-                "descrizione": "Scopriamo come vengono realizzati alcuni oggetti di uso quotidiano come le gemme al plasma e la neve per gli effetti speciali."
-            },
             {
                 "ora": "01:40",
                 "titolo": "Come e' fatto",
@@ -4082,24 +4067,29 @@
                 "ora": "21:20",
                 "titolo": "Gigi & vanessa insieme",
                 "descrizione": "Un grande show che celebra l'amicizia e le emozioni. Ospiti: Paolo Bonolis, Luca Laurenti, Emma, Giorgio Panariello, Francesco Cicchella, Claudio Santamaria, Stash ed Eros Ramazzotti."
+            },
+            {
+                "ora": "23:47",
+                "titolo": "2 single a nozze - Wedding Crashers",
+                "descrizione": "John e Jeremy, amici per la pelle non più giovanissimi, si imbucano ai matrimoni con lo scopo di ingozzarsi a sbafo e, seguendo precise regole, abbordare giovani donne per portarsele a letto a colpo sicuro. Proprio quando John, avvertendo il peso degli anni, comincerà a rendersi conto della vacuità delle proprie azioni, Jeremy riuscirà a convincerlo a seguirlo nell'imbucata del secolo: il matrimonio della figlia del cancelliere di stato. Infatuatosi di una damigella d'onore, che si scoprirà essere fidanzata, John costringerà l'amico a proseguire la mascherata oltre le nozze: una regola infranta, si sa, tira l'altra, e la situazione non tarderà a degenerare."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Il caso Epstein. Il racconto continua",
+                "descrizione": "Dopo la deposizione di Bill Gates, il caso Epstein si riapre. Tra video inediti e testimonianze esclusive, entriamo nei luoghi del finanziere svelando l'identità dei suoi potenti ospiti. Speciale a cura di La7 Digital Media..."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Money Road - Ogni tentazione ha un...",
+                "descrizione": "Parola d’ordine: spaccatura. Il gruppo si divide per affrontare un trekking fisico ed emotivo molto impegnativo. E nella giungla, le tentazioni si fanno sempre più dure."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "History Channel",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "23:40",
-                "titolo": "World War II con Tom Hanks",
-                "descrizione": "S1 Ep7 di 20 L'Olocausto - La tragedia delle leggi razziali e dell'Olocausto. Milioni di persone vengono deportate e uccise nei lager nazisti."
-            },
-            {
-                "ora": "00:35",
-                "titolo": "World War II con Tom Hanks",
-                "descrizione": "S1 Ep8 di 20 La campagna del Nordafrica - Nel 1942, l'Operazione Torch porta allo sbarco alleato in Tunisia e alle battaglie contro Rommel."
-            },
             {
                 "ora": "01:25",
                 "titolo": "Affari di famiglia",
@@ -4149,34 +4139,24 @@
                 "ora": "20:25",
                 "titolo": "Questa terra e' la mia terra: Peppe...",
                 "descrizione": "Ep5 di 8 Calzoncelli / Sgombro con verdure / Arancini - Peppe Guida, i suoi fratelli e la loro passione per la cucina. Un viaggio nei sapori tra ricette e segreti di una grande famiglia."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Tutankhamon: i misteri del faraone",
+                "descrizione": "Ep3 di 3 I misteri del tesoro - Piu' di 3000 anni fa, Tutankhamon fu seppellito. La sua tomba fu scoperta solo nel 1922 da Howard Carter. Quali tesori si nascondevano nella sua tomba?"
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Meraviglie sottomarine d'Africa",
+                "descrizione": "Ep1 di 5 I regni delle dune - All'interno della costa orientale del Sudafrica vi sono due mondi diversi: i Regni delle Dune di Aliwal e Sodwana."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     },
     {
         "canale": "Sky TG 24",
         "categoria": "News",
         "programmi": [
-            {
-                "ora": "00:00",
-                "titolo": "Skyline",
-                "descrizione": "Con Skyline, dal lunedi' al venerdi', vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie."
-            },
-            {
-                "ora": "00:30",
-                "titolo": "TG24 Edicola",
-                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
-            },
-            {
-                "ora": "01:00",
-                "titolo": "TG24 Edicola",
-                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
-            },
-            {
-                "ora": "01:30",
-                "titolo": "TG24 Edicola",
-                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
-            },
             {
                 "ora": "02:00",
                 "titolo": "TG24 Edicola",
@@ -4216,8 +4196,28 @@
                 "ora": "05:30",
                 "titolo": "TG24 Edicola",
                 "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Notti Mondiali",
+                "descrizione": "Commenti e approfondimenti sulla partita dei Mondiali FIFA 2026 appena conclusa. Conduce Alessandro Antinelli. Ospiti Paulo Roberto Falcao, Marco Tardelli, Ciccio Graziani, Massimo De Luca, Manuela Giugliano, Alessio Dionisi. Regia di Annarita Cardinali."
+            },
+            {
+                "ora": "21:20",
+                "titolo": "Storie Al Bivio Di Sera",
+                "descrizione": "I protagonisti della politica, dell'attualità, della cultura o dello spettacolo raccontano senza filtri il loro momento di svolta e le loro scelte di vita, tra famiglia, carriera, figli e amori."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "TG3 Linea Notte",
+                "descrizione": "TG3 Linea Notte"
+            },
+            {
+                "ora": "21:34",
+                "titolo": "E' sempre Cartabianca",
+                "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
             }
         ],
-        "aggiornato": "22:22"
+        "aggiornato": "00:01"
     }
 ]
