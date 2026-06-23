@@ -4,16 +4,6 @@
         "categoria": "Digitale Terrestre",
         "programmi": [
             {
-                "ora": "21:30",
-                "titolo": "Inghilterra - Ghana",
-                "descrizione": "Inghilterra e Ghana si giocano a Boston il primato del gruppo L. La nazionale dei Tre Leoni di Kane e Bellingham parte ovviamente con tutti i favori del pronostico."
-            },
-            {
-                "ora": "00:15",
-                "titolo": "TG1 Sera",
-                "descrizione": "TG1 Sera"
-            },
-            {
                 "ora": "00:20",
                 "titolo": "Notti Mondiali",
                 "descrizione": "Commenti e approfondimenti sulla partita dei Mondiali FIFA 2026 appena conclusa. Conduce Alessandro Antinelli. Ospiti Paulo Roberto Falcao, Marco Tardelli, Ciccio Graziani, Massimo De Luca, Manuela Giugliano, Alessio Dionisi. Regia di Annarita Cardinali."
@@ -44,6 +34,11 @@
                 "descrizione": "RaiNews24"
             },
             {
+                "ora": "21:30",
+                "titolo": "Inghilterra - Ghana",
+                "descrizione": "Inghilterra e Ghana si giocano a Boston il primato del gruppo L. La nazionale dei Tre Leoni di Kane e Bellingham parte ovviamente con tutti i favori del pronostico."
+            },
+            {
                 "ora": "21:20",
                 "titolo": "Storie Al Bivio Di Sera",
                 "descrizione": "I protagonisti della politica, dell'attualità, della cultura o dello spettacolo raccontano senza filtri il loro momento di svolta e le loro scelte di vita, tra famiglia, carriera, figli e amori."
@@ -62,19 +57,19 @@
                 "ora": "21:20",
                 "titolo": "Gigi & Vanessa insieme",
                 "descrizione": "Uno show all'insegna della musica, dello spettacolo e della spontaneita'. Gigi D'Alessio e Vanessa Incontrada celebrano il loro forte legame condividendo il palco con diversi ospiti."
+            },
+            {
+                "ora": "23:56",
+                "titolo": "Due gran figli di ...",
+                "descrizione": "Kyle e Peter Reynolds sono due fratelli cui la madre, piuttosto eccentrica, ha sempre raccontato che il padre era morto quando erano ancora piccoli. Una volta scoperto che non è così, decidono di mettersi alla ricerca del loro vero padre e vengono anche a sapere alcune cose della loro madre che forse avrebbero preferito non conoscere."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Rai 2",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:20",
-                "titolo": "Storie Al Bivio Di Sera",
-                "descrizione": "I protagonisti della politica, dell'attualità, della cultura o dello spettacolo raccontano senza filtri il loro momento di svolta e le loro scelte di vita, tra famiglia, carriera, figli e amori."
-            },
             {
                 "ora": "00:50",
                 "titolo": "Rimetti a noi i nostri debiti",
@@ -126,27 +121,22 @@
                 "descrizione": "Inghilterra e Ghana si giocano a Boston il primato del gruppo L. La nazionale dei Tre Leoni di Kane e Bellingham parte ovviamente con tutti i favori del pronostico."
             },
             {
+                "ora": "21:20",
+                "titolo": "Storie Al Bivio Di Sera",
+                "descrizione": "I protagonisti della politica, dell'attualità, della cultura o dello spettacolo raccontano senza filtri il loro momento di svolta e le loro scelte di vita, tra famiglia, carriera, figli e amori."
+            },
+            {
                 "ora": "00:00",
                 "titolo": "TG3 Linea Notte",
                 "descrizione": "TG3 Linea Notte"
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Rai 3",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Che Ci Faccio Qui - Tutta La Vita Che Ho",
-                "descrizione": "$23"
-            },
-            {
-                "ora": "23:15",
-                "titolo": "Onore Al Merito",
-                "descrizione": "La settima puntata è dedicata al Cavaliere del Lavoro Fulvio Codecasa: con il suo rigoroso e lungimirante impegno ha trasformato il cantiere di pescherecci della sua famiglia in un'azienda che produce yacht di lusso, imbarcazioni che, partendo da Viareggio, navigano i mari di tutto il mondo. L'altro Cavaliere del Lavoro di questo settimo appuntamento sarà Claudio Luti, un grande manager che con creatività e ricerca ha rivoluzionato la storia del design italiano, introducendo materiali innovativi nella produzione di oggetti di arredamento. La sua azienda è diventata simbolo internazionale dell'Italian style."
-            },
             {
                 "ora": "00:00",
                 "titolo": "TG3 Linea Notte",
@@ -196,29 +186,24 @@
                 "ora": "21:20",
                 "titolo": "Gigi & Vanessa insieme",
                 "descrizione": "Uno show all'insegna della musica, dello spettacolo e della spontaneita'. Gigi D'Alessio e Vanessa Incontrada celebrano il loro forte legame condividendo il palco con diversi ospiti."
+            },
+            {
+                "ora": "23:56",
+                "titolo": "Due gran figli di ...",
+                "descrizione": "Kyle e Peter Reynolds sono due fratelli cui la madre, piuttosto eccentrica, ha sempre raccontato che il padre era morto quando erano ancora piccoli. Una volta scoperto che non è così, decidono di mettersi alla ricerca del loro vero padre e vengono anche a sapere alcune cose della loro madre che forse avrebbero preferito non conoscere."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Il caso Epstein. Il racconto continua - parte 2",
+                "descrizione": "Speciale a cura di La7 Digital Media Lab - Nuove rivelazioni dagli Epstein Files: documenti, testimonianze e rapporti con il potere. Focus su Bill Clinton e sui legami tra Epstein e Donald Trump."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Rai 4",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:19",
-                "titolo": "Visions",
-                "descrizione": "Estelle è una pilota di linee aree di lungo raggio dalla professionalità senza pari, che conduce un'esistenza perfettamente organizzata accanto a Guillaume, marito amorevole e protettivo. Tutto sembra andare per il meglio anche se i voli e i ripetuti jet lag cominciano a disturbare il ritmo biologico della donna, in particolare il suo sonno. Un giorno, per caso, in un corridoio dell'aeroporto di Nizza incontra Ana, fotografa con cui ha avuto una relazione appassionata vent'anni prima. Estelle non immagina che questa riunione la trascinerà in una spirale da incubo e farà precipitare la sua vita nell'irrazionale."
-            },
-            {
-                "ora": "23:22",
-                "titolo": "Wonderland",
-                "descrizione": "Cinema, serie Tv, videogame, editoria, fumetti: l'attualità e la storia della fantascienza, del fantasy e del crime tornano protagoniste nella nuova edizione del magazine settimanale di Rai4."
-            },
-            {
-                "ora": "23:57",
-                "titolo": "Anica Appuntamento Al Cinema",
-                "descrizione": "Rubrica per la promozione della cultura cinematografica in Italia."
-            },
             {
                 "ora": "00:00",
                 "titolo": "The Twin - L'altro volto del male",
@@ -263,24 +248,29 @@
                 "ora": "00:00",
                 "titolo": "TG3 Linea Notte",
                 "descrizione": "TG3 Linea Notte"
+            },
+            {
+                "ora": "21:34",
+                "titolo": "E' sempre cartabianca",
+                "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
+            },
+            {
+                "ora": "21:20",
+                "titolo": "Gigi & Vanessa insieme",
+                "descrizione": "Uno show all'insegna della musica, dello spettacolo e della spontaneita'. Gigi D'Alessio e Vanessa Incontrada celebrano il loro forte legame condividendo il palco con diversi ospiti."
+            },
+            {
+                "ora": "23:56",
+                "titolo": "Due gran figli di ...",
+                "descrizione": "Kyle e Peter Reynolds sono due fratelli cui la madre, piuttosto eccentrica, ha sempre raccontato che il padre era morto quando erano ancora piccoli. Una volta scoperto che non è così, decidono di mettersi alla ricerca del loro vero padre e vengono anche a sapere alcune cose della loro madre che forse avrebbero preferito non conoscere."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Rai 5",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:22",
-                "titolo": "Il bambino nascosto",
-                "descrizione": "Gabriele Santoro vive in un quartiere popolare di Napoli ed è titolare della cattedra di pianoforte al Conservatorio San Pietro a Majella. Una mattina, mentre sta radendosi la barba, il postino suona al citofono per avvertirlo che c'è un pacco, lui apre la porta e, prima di accoglierlo, corre a lavarsi la faccia. In quel breve lasso di tempo, un bambino di dieci anni si insinua nel suo appartamento e vi si nasconde. “Il maestro”– così lo chiamano nel quartiere - se ne accorgerà solo a tarda sera. Quando accade, riconoscerà nell’intruso, Ciro, un bambino che abita con i genitori e con i fratelli nell'attico del suo stesso palazzo. Interrogato sul perché della sua fuga Ciro non parla. Nonostante questo, il maestro, d'istinto, decide di nasconderlo in casa, ingaggiando una singolare, e tenace, sfida ai nemici di Ciro."
-            },
-            {
-                "ora": "23:10",
-                "titolo": "Samad",
-                "descrizione": "Un ex detenuto torna in prigione per raccontare ai suoi ex compagni di carcere, la sua nuova vita lontana dal crimine, ma qualcosa va storto e per restare vivo, è costretto a giocare una partita molto pericolosa."
-            },
             {
                 "ora": "00:26",
                 "titolo": "Rock Legends: Coldplay",
@@ -330,9 +320,19 @@
                 "ora": "21:20",
                 "titolo": "Storie Al Bivio Di Sera",
                 "descrizione": "I protagonisti della politica, dell'attualità, della cultura o dello spettacolo raccontano senza filtri il loro momento di svolta e le loro scelte di vita, tra famiglia, carriera, figli e amori."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "TG3 Linea Notte",
+                "descrizione": "TG3 Linea Notte"
+            },
+            {
+                "ora": "21:34",
+                "titolo": "E' sempre cartabianca",
+                "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Rete 4",
@@ -399,7 +399,7 @@
                 "descrizione": "Speciale a cura di La7 Digital Media Lab - Nuove rivelazioni dagli Epstein Files: documenti, testimonianze e rapporti con il potere. Focus su Bill Clinton e sui legami tra Epstein e Donald Trump."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Canale 5",
@@ -466,17 +466,12 @@
                 "descrizione": "Kyle e Peter Reynolds sono due fratelli cui la madre, piuttosto eccentrica, ha sempre raccontato che il padre era morto quando erano ancora piccoli. Una volta scoperto che non è così, decidono di mettersi alla ricerca del loro vero padre e vengono anche a sapere alcune cose della loro madre che forse avrebbero preferito non conoscere."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Italia 1",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:29",
-                "titolo": "Mi presenti i tuoi?",
-                "descrizione": "L'ex agente Cia e la moglie conoscono i futuri consuoceri.Jack Byrnes e sua moglie, in compagnia della figlia e del futuro genero Greg, si recano a Miami per conoscere i genitori del ragazzo. Bernie e Roz Fotter sono quanto di più distante dai Byrnes: avvocato in pensione lui e terapista sessuale lei, si rivelano immediatamente troppo eccentrici per i gusti dell'ex agente Cia Byrnes... In questo brillante sequel di Ti presento i miei, l'intuizione geniale è stata di aver affidato il ruolo dei genitori di Stiller a Dustin Hoffman e Barbra Streisand. Insieme, si impadroniscono del film con una verve che, a parte De Niro, stende tutti gli altri. La saga dei Focker non può finire qui."
-            },
             {
                 "ora": "23:56",
                 "titolo": "Due gran figli di ...",
@@ -531,24 +526,19 @@
                 "ora": "00:00",
                 "titolo": "TG3 Linea Notte",
                 "descrizione": "TG3 Linea Notte"
+            },
+            {
+                "ora": "21:34",
+                "titolo": "E' sempre cartabianca",
+                "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "La7",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Epstein: sopravvissute all'incubo - AVENGED; NO WAY OUT",
-                "descrizione": "E 3-4 - Documentario / Mini-serie TV di Anne Sundberg e Ricki Stern (USA 2020). Otto sopravvissuti condividono le loro storie nel documentario su Jeffrey Epstein, pluri condannato per reati sessuali e pedofili, che ha usato potere..."
-            },
-            {
-                "ora": "23:20",
-                "titolo": "Il caso Epstein. Il racconto continua - parte 2",
-                "descrizione": "Speciale a cura di La7 Digital Media Lab - Nuove rivelazioni dagli Epstein Files: documenti, testimonianze e rapporti con il potere. Focus su Bill Clinton e sui legami tra Epstein e Donald Trump."
-            },
             {
                 "ora": "00:15",
                 "titolo": "TG LA7 Notte",
@@ -598,14 +588,49 @@
                 "ora": "21:34",
                 "titolo": "E' sempre cartabianca",
                 "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
+            },
+            {
+                "ora": "21:20",
+                "titolo": "Gigi & Vanessa insieme",
+                "descrizione": "Uno show all'insegna della musica, dello spettacolo e della spontaneita'. Gigi D'Alessio e Vanessa Incontrada celebrano il loro forte legame condividendo il palco con diversi ospiti."
+            },
+            {
+                "ora": "23:56",
+                "titolo": "Due gran figli di ...",
+                "descrizione": "Kyle e Peter Reynolds sono due fratelli cui la madre, piuttosto eccentrica, ha sempre raccontato che il padre era morto quando erano ancora piccoli. Una volta scoperto che non è così, decidono di mettersi alla ricerca del loro vero padre e vengono anche a sapere alcune cose della loro madre che forse avrebbero preferito non conoscere."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "TV8",
         "categoria": "Digitale Terrestre",
         "programmi": [
+            {
+                "ora": "23:35",
+                "titolo": "Money Road - Ogni tentazione ha...\",\"prima\":true,\"description\":\"Alessandro Borghese è il protagonista della grande tentazione di questa puntata: cosa avrà in serbo per i membri della Compagnia?\",\"durata\":115,\"genre\":\"Show\",\"category\":\"Intrattenimento\",\"image\":\"https://img-guidatv.org/45/money-road-ogni-tentazione-ha/6.jpg\",\"episode_number\":5,\"series_number\":2,\"director\":null,\"inizio\":\"2026-06-23T19:40:00.000Z\",\"fine\":\"2026-06-23T21:35:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2026\",\"primaSer\":true},{\"id\":\"RGrpvr8rkFHy\",\"title\":\"Money Road - Ogni tentazione ha un...",
+                "descrizione": "Alessandro Borghese è il protagonista della grande tentazione di questa puntata: cosa avrà in serbo per i membri della Compagnia?"
+            },
+            {
+                "ora": "01:30",
+                "titolo": "Il mistero del Ragnarok",
+                "descrizione": "Da anni l'archeologo Sigurd Svendsen è ossessionato da una iscrizione trovata a bordo di una nave vichinga. Secondo il suo parere, quella enigmatica scritta contiene la risposta al mistero del Ragnarok, la fine del mondo nella mitologia dei paesi del nord. Quando il suo amico Allan trova altre iscrizioni simili, Sigurd si convince che si tratti in realtà di una mappa del tesoro e forma una piccola spedizione per un'avventura che lo porterà alla \"terra di nessuno"
+            },
+            {
+                "ora": "03:15",
+                "titolo": "Delitti",
+                "descrizione": "Ep.1 di 8 - Roma, 1991. La contessa Alberica Filo della Torre viene uccisa nella propria villa. Le ipotesi sull'omicidio sono molteplici, dalla vendetta allo spionaggio fino allo scioccante epilogo."
+            },
+            {
+                "ora": "04:25",
+                "titolo": "Lady Killer",
+                "descrizione": "Ep18 Prescilla Matula - Sono delicate, sono fragili. Sono generose, sono vanitose. Sono innamorate, vengono ferite, diventano vendicative e anche assassine. Chi sono queste donne spietate? E perche' uccidono?"
+            },
+            {
+                "ora": "05:15",
+                "titolo": "Lady Killer",
+                "descrizione": "Ep21 Patricia Brown - Sono delicate, sono fragili. Sono generose, sono vanitose. Sono innamorate, vengono ferite, diventano vendicative e anche assassine. Chi sono queste donne spietate? E perche' uccidono?"
+            },
             {
                 "ora": "21:30",
                 "titolo": "Inghilterra - Ghana",
@@ -640,44 +665,14 @@
                 "ora": "23:20",
                 "titolo": "Il caso Epstein. Il racconto continua - parte 2",
                 "descrizione": "Speciale a cura di La7 Digital Media Lab - Nuove rivelazioni dagli Epstein Files: documenti, testimonianze e rapporti con il potere. Focus su Bill Clinton e sui legami tra Epstein e Donald Trump."
-            },
-            {
-                "ora": "23:35",
-                "titolo": "Money Road - Ogni tentazione ha un...",
-                "descrizione": "Alessandro Borghese è il protagonista della grande tentazione di questa puntata: cosa avrà in serbo per i membri della Compagnia?"
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Le Crociate",
-                "descrizione": "Balian è un maniscalco che ha perso la famiglia e che ha rischiato di perdere anche la fede. Le guerre di religione che sconvolgono la remota Terra Santa gli sembrano lontane anni luce. Ma il destino bussa alla porta di Balian sotto le spoglie di un grande cavaliere, Godfrey di Ibelin, un crociato che dopo aver combattuto nel lontano Oriente ha fatto momentaneamente ritorno in patria, in Francia. Dichiarando di essere suo padre, Godfrey mostrerà a Balian che cosa voglia dire essere un cavaliere e lo porterà con sé in un favoloso viaggio attraverso i continenti per giungere fino in Terra Santa"
-            },
-            {
-                "ora": "23:31",
-                "titolo": "Operazione U.N.C.L.E.",
-                "descrizione": "Agli inizi degli anni Sessanta del Novecento, in piena guerra fredda, l'agente della Cia Napoleon Solo (Henry Cavill) e l'agente del KGB Ilya Kuryakin (Armie Hammer) sono costretti a mettere da parte il tradizionale antagonismo per impegnarsi in una missione comune. Il loro obiettivo è quello di mettere fuori dai giochi un'organizzazione criminale internazionale che minaccia di scuotere il già precario equilibrio globale con la proliferazione di armi e tecnologia nucleari. Solo e Kuryakin hanno una traccia da cui partire: il contatto con la figlia di uno scienziato tedesco scomparso, l'unico in grado di infiltrarsi nell'organizzazione. Finiranno così con l'essere impegnati in una corsa contro il tempo per ritrovare l'uomo e prevenire una catastrofe mondiale."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "The Twin - L'altro volto del male",
-                "descrizione": "A seguito di un tragico incidente che ha causato la morte di uno dei loro gemelli, Rachel e il marito Anthony si trasferiscono dall’altra parte del mondo con il figlio sopravvissuto nella speranza di costruirsi una nuova vita. Quello che inizia come un periodo di guarigione prende presto una svolta inquietante quando Rachel inizia a svelare la tortuosa verità su suo figlio e affronta le forze malvagie che tentano di impadronirsi di lui."
-            },
-            {
-                "ora": "23:17",
-                "titolo": "La legge del signore /L'uomo senza fucile",
-                "descrizione": "Nemmeno la guerra di Secessione è un motivo sufficiente perché Jess Birdwell (Cooper), di rigorosa osservanza quacchera, rinneghi i suoi principi che non ammettono in alcun modo la violenza. Il figlio Josh (Perkins), invece, si arruola nella Guardia Civile e sua madre (McGuire) è disperata. Ma il capofamiglia, quando è in gioco la vita di Josh, è pronto anch'egli ad armarsi di fucile."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Nove",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:30",
-                "titolo": "Le Crociate",
-                "descrizione": "Balian è un maniscalco che ha perso la famiglia e che ha rischiato di perdere anche la fede. Le guerre di religione che sconvolgono la remota Terra Santa gli sembrano lontane anni luce. Ma il destino bussa alla porta di Balian sotto le spoglie di un grande cavaliere, Godfrey di Ibelin, un crociato che dopo aver combattuto nel lontano Oriente ha fatto momentaneamente ritorno in patria, in Francia. Dichiarando di essere suo padre, Godfrey mostrerà a Balian che cosa voglia dire essere un cavaliere e lo porterà con sé in un favoloso viaggio attraverso i continenti per giungere fino in Terra Santa"
-            },
             {
                 "ora": "00:25",
                 "titolo": "Chernobyl: nuove verita'",
@@ -732,19 +727,19 @@
                 "ora": "23:20",
                 "titolo": "Il caso Epstein. Il racconto continua - parte 2",
                 "descrizione": "Speciale a cura di La7 Digital Media Lab - Nuove rivelazioni dagli Epstein Files: documenti, testimonianze e rapporti con il potere. Focus su Bill Clinton e sui legami tra Epstein e Donald Trump."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Money Road - Ogni tentazione ha un...",
+                "descrizione": "Alessandro Borghese è il protagonista della grande tentazione di questa puntata: cosa avrà in serbo per i membri della Compagnia?"
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "20 Mediaset",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:09",
-                "titolo": "Twister",
-                "descrizione": "Jo Harding (Helen Hunt), una cacciatrice di tornado, si lancia insieme all'ex-marito Bill (Bill Paxton), meteorologo, e a una strampalata squadra di storm-chasers (cacciatori di tempeste) in un grande progetto: immettere all'interno di un tornado (in inglese detto anche twister) uno speciale strumento scientifico che permetterà di ricavare tutte le informazioni necessarie per costruire un piano di emergenza al verificarsi di tali violenti fenomeni. Nel film si susseguono tornado sempre più forti e i primi tentativi di Bill e Jo falliscono. Alla fine riusciranno a far funzionare il loro strumento all'interno di un devastante tornado di categoria F5."
-            },
             {
                 "ora": "23:31",
                 "titolo": "Operazione U.N.C.L.E.",
@@ -799,14 +794,49 @@
                 "ora": "00:00",
                 "titolo": "TG3 Linea Notte",
                 "descrizione": "TG3 Linea Notte"
+            },
+            {
+                "ora": "21:34",
+                "titolo": "E' sempre cartabianca",
+                "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Real Time",
         "categoria": "Digitale Terrestre",
         "programmi": [
+            {
+                "ora": "00:20",
+                "titolo": "ER: storie incredibili",
+                "descrizione": "Un uomo viene portato al pronto soccorso con un tubo infilato in testa. Una sposa non smette di sanguinare e prigionieri di bande rivali si ritrovano al pronto soccorso nello stesso momento."
+            },
+            {
+                "ora": "01:25",
+                "titolo": "ER: storie incredibili",
+                "descrizione": "Un nuovo dottore contesta un suo superiore sul sanguinamento rettale di sua moglie. Un uomo ha una parte del corpo incastrata in un fornello da campeggio."
+            },
+            {
+                "ora": "02:25",
+                "titolo": "ER: storie incredibili",
+                "descrizione": "Mentre i medici si occupano di una vittima di una sparatoria, un Rottweiler vaga per il pronto soccorso. L'attacco di asma di una madre si trasforma in un arresto cardiaco. Un uomo in coma ha uno sfogo misterioso."
+            },
+            {
+                "ora": "03:25",
+                "titolo": "ER: storie incredibili",
+                "descrizione": "Un uomo nudo e' caduto su un cactus ed e' ricoperto di spine dalla testa ai piedi. Un paziente porta al pronto soccorso delle rocce radioattive, scatenando il panico."
+            },
+            {
+                "ora": "04:20",
+                "titolo": "ER: storie incredibili",
+                "descrizione": "I dottori devono rianimare manualmente una vittima di accoltellamento. Una donna crede di essere posseduta dai demoni. Un altro uomo vuole pagare per non far registrare le sue condizioni."
+            },
+            {
+                "ora": "05:05",
+                "titolo": "ER: storie incredibili",
+                "descrizione": "Un paziente che ha avuto un infarto e' impietrito e ammutolito quando sua moglie e due fidanzate litigano per lui. In Iraq, i dottori tentano di salvare le vite dei soldati che hanno perso gli arti in un'esplosione."
+            },
             {
                 "ora": "21:30",
                 "titolo": "Inghilterra - Ghana",
@@ -836,84 +866,14 @@
                 "ora": "23:56",
                 "titolo": "Due gran figli di ...",
                 "descrizione": "Kyle e Peter Reynolds sono due fratelli cui la madre, piuttosto eccentrica, ha sempre raccontato che il padre era morto quando erano ancora piccoli. Una volta scoperto che non è così, decidono di mettersi alla ricerca del loro vero padre e vengono anche a sapere alcune cose della loro madre che forse avrebbero preferito non conoscere."
-            },
-            {
-                "ora": "23:20",
-                "titolo": "Il caso Epstein. Il racconto continua - parte 2",
-                "descrizione": "Speciale a cura di La7 Digital Media Lab - Nuove rivelazioni dagli Epstein Files: documenti, testimonianze e rapporti con il potere. Focus su Bill Clinton e sui legami tra Epstein e Donald Trump."
-            },
-            {
-                "ora": "23:35",
-                "titolo": "Money Road - Ogni tentazione ha un...",
-                "descrizione": "Alessandro Borghese è il protagonista della grande tentazione di questa puntata: cosa avrà in serbo per i membri della Compagnia?"
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Le Crociate",
-                "descrizione": "Balian è un maniscalco che ha perso la famiglia e che ha rischiato di perdere anche la fede. Le guerre di religione che sconvolgono la remota Terra Santa gli sembrano lontane anni luce. Ma il destino bussa alla porta di Balian sotto le spoglie di un grande cavaliere, Godfrey di Ibelin, un crociato che dopo aver combattuto nel lontano Oriente ha fatto momentaneamente ritorno in patria, in Francia. Dichiarando di essere suo padre, Godfrey mostrerà a Balian che cosa voglia dire essere un cavaliere e lo porterà con sé in un favoloso viaggio attraverso i continenti per giungere fino in Terra Santa"
-            },
-            {
-                "ora": "23:31",
-                "titolo": "Operazione U.N.C.L.E.",
-                "descrizione": "Agli inizi degli anni Sessanta del Novecento, in piena guerra fredda, l'agente della Cia Napoleon Solo (Henry Cavill) e l'agente del KGB Ilya Kuryakin (Armie Hammer) sono costretti a mettere da parte il tradizionale antagonismo per impegnarsi in una missione comune. Il loro obiettivo è quello di mettere fuori dai giochi un'organizzazione criminale internazionale che minaccia di scuotere il già precario equilibrio globale con la proliferazione di armi e tecnologia nucleari. Solo e Kuryakin hanno una traccia da cui partire: il contatto con la figlia di uno scienziato tedesco scomparso, l'unico in grado di infiltrarsi nell'organizzazione. Finiranno così con l'essere impegnati in una corsa contro il tempo per ritrovare l'uomo e prevenire una catastrofe mondiale."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "The Twin - L'altro volto del male",
-                "descrizione": "A seguito di un tragico incidente che ha causato la morte di uno dei loro gemelli, Rachel e il marito Anthony si trasferiscono dall’altra parte del mondo con il figlio sopravvissuto nella speranza di costruirsi una nuova vita. Quello che inizia come un periodo di guarigione prende presto una svolta inquietante quando Rachel inizia a svelare la tortuosa verità su suo figlio e affronta le forze malvagie che tentano di impadronirsi di lui."
-            },
-            {
-                "ora": "23:17",
-                "titolo": "La legge del signore /L'uomo senza fucile",
-                "descrizione": "Nemmeno la guerra di Secessione è un motivo sufficiente perché Jess Birdwell (Cooper), di rigorosa osservanza quacchera, rinneghi i suoi principi che non ammettono in alcun modo la violenza. Il figlio Josh (Perkins), invece, si arruola nella Guardia Civile e sua madre (McGuire) è disperata. Ma il capofamiglia, quando è in gioco la vita di Josh, è pronto anch'egli ad armarsi di fucile."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Boing",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "22:45",
-                "titolo": "Beyblade X",
-                "descrizione": "Blaze e' ancora irreperibile, e l'incontro Persona-Yggdrasil giunge alla seconda battaglia: Multi contro Yuni Naniwa, due Blading Influencer molto popolari."
-            },
-            {
-                "ora": "23:10",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "I gentiori di Gumball non riescono a trovare una babysitter per Anais. La affidano quindi a Gumball e Darwin con risultati disastrosi. La colpa di tutto ricade come sempre sul povero papa'."
-            },
-            {
-                "ora": "23:25",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "I vestiti di Gumball si sono rovinati durante il bucatoe' cosi' costretto a indossare il vestito da sposa della madre. A scuola tutti lo scambiano per una femmina e si innamorano perdutamente."
-            },
-            {
-                "ora": "23:40",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball, un gatto di 12 anni, e il suo amico Darwin, un pesce rosso, vivono avventure al limite della follia, in questa stravagante commedia animata."
-            },
-            {
-                "ora": "23:50",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball, un gatto di 12 anni, e il suo amico Darwin, un pesce rosso, vivono avventure al limite della follia, in questa stravagante commedia animata."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Il padre fa uno scherzetto ai ragazzi e lor che non hanno il senso del limite si scatenano in una lunga faida di scherzi che culminera' in un grosso spavento."
-            },
-            {
-                "ora": "00:15",
-                "titolo": "Dragon Ball Super",
-                "descrizione": "Goten e Trunks aiutano Potage a difendersi dall'attacco del terribile Gryll e dei suoi uomini. L'intento dei criminali e' quello di rubare a Potage la preziosa 'acqua sovrumana'."
-            },
-            {
-                "ora": "00:35",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball e Darwin sono fissati con il karate diventando gli zimbelli della sucola. La madre se ne accorge e interviene per aiutarli ma i due capiranno solo sbattendoci il muso."
-            },
             {
                 "ora": "00:45",
                 "titolo": "Lo straordinario mondo di Gumball",
@@ -933,24 +893,54 @@
                 "ora": "01:20",
                 "titolo": "Lo straordinario mondo di Gumball",
                 "descrizione": "Robot e' triste vuole diventare un bambino vero e Gumball l'aiuta a immedesimarsi in un essere umano. Ma Robot si immedesima a tal punto da sostituire Gumball sia a scuola che in famiglia."
+            },
+            {
+                "ora": "01:30",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Mentre la classe si dirige verso l'area picnic Gumball e Darwin si perdono. Gumball non ha paura e'esperto di sopravvivenza ma rischiera' di essere mangiato dai mostri della notte."
+            },
+            {
+                "ora": "01:40",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball, un gatto di 12 anni, e il suo amico Darwin, un pesce rosso, vivono avventure al limite della follia, in questa stravagante commedia animata."
+            },
+            {
+                "ora": "01:55",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball, un gatto di 12 anni, e il suo amico Darwin, un pesce rosso, vivono avventure al limite della follia, in questa stravagante commedia animata."
+            },
+            {
+                "ora": "02:05",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball e Darwin hanno problemi a scuola perche' dicono continuamente bugie vengono mandati dallo psicologo scolastico perche' li aiuti. Ma la cura si rivela peggiore del male."
+            },
+            {
+                "ora": "02:15",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Darwin prende il massimo in un test attitudinale e viene reclutato in un centro di ricerche. Gumball allora tenta in tutti i modi di diventare intelligente ma il suo cervello si ribella."
+            },
+            {
+                "ora": "02:25",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball e Darwin sono stufi di essere bambini ed esprimono il desiderio di diventare adulti. Il desiderio si avvera ma presto si rendono conto che crescere in fretta non e' poi cosi' bello."
+            },
+            {
+                "ora": "02:35",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball riesce ad ottenere un appuntamento con Nocciolina. L'appuntamento consiste nel presenziare al funerale del ragno della bambina."
+            },
+            {
+                "ora": "02:50",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball si rende conto di essere l'unico in famiglia a non appartenere a nessun club. Gli viene proposto di entrare nel Club degli Scarti."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "K2",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "22:55",
-                "titolo": "La mia vita è una fattoria",
-                "descrizione": "1' Stagione Ep.2 - Arriva Buttercup - Buttercup, una mucca, arriva alla fattoria e la squadra è preoccupata per il suo comportamento. Ginger l'agnello, invece, ha una brutta infezione."
-            },
-            {
-                "ora": "23:50",
-                "titolo": "La mia nuova casa sull'albero",
-                "descrizione": "7' Stagione Ep.15 - In cielo - Pete costruisce una casa sull'albero per i bambini dei Marines feriti. L'entrata è costituita da una particolare rete di carico, che crea un ponte tra le sezioni."
-            },
             {
                 "ora": "00:40",
                 "titolo": "Desperate House Cats",
@@ -1000,39 +990,24 @@
                 "ora": "03:50",
                 "titolo": "Zig & Sharko",
                 "descrizione": "1' Stagione Ep.19 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "04:10",
+                "titolo": "Zig & Sharko",
+                "descrizione": "1' Stagione Ep.20 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "04:30",
+                "titolo": "Zig & Sharko",
+                "descrizione": "1' Stagione Ep.21 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Rai Gulp",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:05",
-                "titolo": "La Compagnia dei Celestini",
-                "descrizione": "Un gruppo di ragazzini si allena lontano da occhi indiscreti, per giocare alla pallastrada, un gioco simile al calcio dove le poche regole sono strutturate sull'ambiente urbano. Lentamente i giovani protagonisti sapranno convincere gli adulti che li circondano della bontà del loro sport, pieno di valori come rispetto, solidarietà e amicizia e con il loro sostegno potranno disputare partite di pallastrada in trasferta per tutto il mondo."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "La Compagnia dei Celestini",
-                "descrizione": "Un gruppo di ragazzini si allena lontano da occhi indiscreti, per giocare alla pallastrada, un gioco simile al calcio dove le poche regole sono strutturate sull'ambiente urbano. Lentamente i giovani protagonisti sapranno convincere gli adulti che li circondano della bontà del loro sport, pieno di valori come rispetto, solidarietà e amicizia e con il loro sostegno potranno disputare partite di pallastrada in trasferta per tutto il mondo."
-            },
-            {
-                "ora": "23:55",
-                "titolo": "Super Spike Ball",
-                "descrizione": "La Lucky Squad scopre un ring da wrestling con rete da Spikeball e affronta i Primitivi in una partita ibrida. Inizialmente Lj è terrorizzato dal wrestling e gioca in modo timido, bloccando la squadra. Quando vede Lizzy divertirsi contro il gorilla Morgo, Lj supera le sue paure e si unisce a Nino e Viola nel giocare in stile wrestling. Usando mosse acrobatiche, corde elastiche e colpi spettacolari, la Lucky Squad ribalta il risultato e vince 25-20 con una superschiacciata finale."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Super Spike Ball",
-                "descrizione": "La Lucky Squad arriva in uno stagno per un picnic ma viene sfidata dai Black Ninja a giocare su canne di bambù. Mr. Dudù avverte che chi tocca l'acqua si trasformerà in qualcun altro. Dopo vari tuffi accidentali, i ragazzi si ritrovano nei corpi degli altri compagni, creando scompiglio. Quando capiscono come sfruttare le abilità dei corpi in cui sono intrappolati, riescono a rimontare e vincere 25-24, tornando infine nei propri corpi originali dopo un tuffo collettivo."
-            },
-            {
-                "ora": "00:25",
-                "titolo": "Spike Team",
-                "descrizione": "Jo, Ann, Vicky, Sue, Patty e Beth, sei ragazze, sei diversi temperamenti. Il loro scopo? Vincere unite in campo senza venire meno ai valori e all'etica dello sport."
-            },
             {
                 "ora": "00:35",
                 "titolo": "Spike Team",
@@ -1067,34 +1042,39 @@
                 "ora": "02:10",
                 "titolo": "Il mondo di Karma",
                 "descrizione": "Le parole sono venute sempre facili a Karma... fino ad ora! Mentre partecipa a un concorso di poesia aperto a tutta la città, Karma si scontra con il suo primo blocco dello scrittore. Messi da parte tutto ciò che non riguarda la scrittura nel tentativo ossessivo di risolvere il suo blocco, impara che è bene pensare ad altre cose, e trova il modo di tornare a scrivere per se stessa, non per il concorso."
+            },
+            {
+                "ora": "02:25",
+                "titolo": "Super Spike Ball",
+                "descrizione": "Lucky acquista una macchina del tempo che, attivata per caso, fa saltare la partita tra diverse epoche storiche. Nella preistoria i ragazzi affrontano i Motorbots con mezzi primitivi e dinosauri, nel medioevo subiscono decisioni arbitrali ingiuste del \"re\" Tony Driver, mentre nel futuro i veicoli hi-tech dei Motorbots dominano fino a quando rimangono senza carburante. Tornati miracolosamente nel presente grazie a Lizzy, la Lucky Squad vince 25-22 dimostrando che non c'è epoca migliore del proprio tempo per giocare a Spikeball."
+            },
+            {
+                "ora": "02:30",
+                "titolo": "Super Spike Ball",
+                "descrizione": "Lucky trasforma una gita rilassante a Malta in un'avventura pirata a bordo di una caravella, dove la Lucky Squad deve affrontare gli Animals nel torneo maltese di Spikeball. Sul ponte della nave, tra corde, vele, botole e botti, i nostri faticano inizialmente contro le abilità animalesche degli avversari. Quando Lucky li esorta a comportarsi da veri pirati e vivere l'avventura, Nino capisce l'antifona e la squadra inizia a sfruttare creativamente l'ambiente marinaresco. Una falla provocata da Mako fa affondare la nave, ma i nostri vincono 25-20 proprio mentre l'acqua invade il ponte, giocando fino all'ultimo tra onde e graticci sommersi."
+            },
+            {
+                "ora": "02:55",
+                "titolo": "Geronimo Stilton",
+                "descrizione": "A Topazia c'è un nuovo supereroe: il SuperSauro! Esce dai tombini per aiutare vecchiette indifese. Ma come fa ad essere sempre nel posto giusto al momento giusto? E perché Sally arriva sempre nei luoghi delle apparizioni prima di Geronimo, rubandogli lo scoop? C'è qualcosa che non va…e Geronimo vuole scoprirlo!"
+            },
+            {
+                "ora": "03:15",
+                "titolo": "I Puffi - La nuova serie",
+                "descrizione": "Forzuto decide di \"curare\" Timido dalla sua timidezza."
+            },
+            {
+                "ora": "03:20",
+                "titolo": "I Puffi - La nuova serie",
+                "descrizione": "Inventore isola la casa di Fifone per proteggerlo dai fantasmi."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Frisbee",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "22:55",
-                "titolo": "Il boss delle torte",
-                "descrizione": "6' Stagione Ep.15 - Sorpresa per mamma - Buddy realizza una torta speciale per un progetto umanitario che si occuperà della ricostruzione di Atlantic City. Inoltre, organizzerà la festa per il 65esimo compleanno della sua mamma."
-            },
-            {
-                "ora": "23:25",
-                "titolo": "Il boss delle torte",
-                "descrizione": "6' Stagione Ep.16 - I capelli crescono - A Buddy viene chiesto di realizzare una torta..con i baffi, in tutti i sensi. Supererà la sfida? Inoltre tenta di realizzare il dolce perfetto per la Prima Comunione di suo figlio Buddy Jr."
-            },
-            {
-                "ora": "23:55",
-                "titolo": "Il boss delle torte",
-                "descrizione": "6' Stagione Ep.17 - Il cowboy - Buddy monta in sella per creare una torta gigantesca: un cowboy che cavalca un cavallo per un'associazione professionistica di rodeo. Inoltre, deve realizzare un dolce per una celebrazione top secret."
-            },
-            {
-                "ora": "00:15",
-                "titolo": "Il boss delle torte",
-                "descrizione": "6' Stagione Ep.18 - On the Road - Buddy accetta di preparare la torta per il compleanno del cantautore Willie Nelson, ma poi si ricorda che la stessa sera ha un appuntamento con sua moglie Lisa. Riuscirà a rendere felici entrambi?"
-            },
             {
                 "ora": "00:40",
                 "titolo": "Il boss delle torte",
@@ -1134,54 +1114,34 @@
                 "ora": "03:10",
                 "titolo": "Floopaloo",
                 "descrizione": "1' Stagione Ep.25 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
+            },
+            {
+                "ora": "03:30",
+                "titolo": "Floopaloo",
+                "descrizione": "1' Stagione Ep.26 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
+            },
+            {
+                "ora": "03:50",
+                "titolo": "Oggy Oggy",
+                "descrizione": "1' Stagione Ep.22 - Gioco, avventura e amici rendono la vita di Oggy Oggy divertente! Curioso e audace, questo adorabile gattino è sempre pronto ad aiutare un amico e a vivere nuove esperienze."
+            },
+            {
+                "ora": "04:15",
+                "titolo": "Oggy Oggy",
+                "descrizione": "1' Stagione Ep.23 - Gioco, avventura e amici rendono la vita di Oggy Oggy divertente! Curioso e audace, questo adorabile gattino è sempre pronto ad aiutare un amico e a vivere nuove esperienze."
+            },
+            {
+                "ora": "04:35",
+                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
+                "descrizione": "7' Stagione Ep.15 - Oggy si prende cura di Piya, figlia dei suoi amici indiani."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "DMAX",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "22:50",
-                "titolo": "72 animali pericolosi con Barbascura X",
-                "descrizione": "Barbascura X ci mostra gli animali piu' pericolosi del Sud America."
-            },
-            {
-                "ora": "01:00",
-                "titolo": "L'occhio del ciclone\",\"prima\":true,\"description\":\"Nel 2024, la Florida viene colpita da due enormi uragani mortali.\",\"durata\":65,\"genre\":\"Intrattenimento\",\"category\":\"Mondo E Tendenze\",\"image\":\"https://img-guidatv.org/44/locchio-del-ciclone/5.jpg\",\"director\":null,\"inizio\":\"2026-06-23T21:55:00.000Z\",\"fine\":\"2026-06-23T23:00:00.000Z\",\"condividi\":\"$undefined\",\"tiEp\":\"Doppio disastro\"},{\"id\":\"vA207fgEr3sY\",\"title\":\"L'occhio del ciclone",
-                "descrizione": "In Texas, la casa di una famiglia e' stata colpita da alcuni devastanti tornado."
-            },
-            {
-                "ora": "02:10",
-                "titolo": "L'occhio del ciclone",
-                "descrizione": "Diversi tornado si abbattono sul Midwest. I sopravvissuti riprendono tutto."
-            },
-            {
-                "ora": "03:15",
-                "titolo": "Colpo di fulmini",
-                "descrizione": "Nel 2020, una potente tempesta causa molti danni e devastanti allagamenti in Europa occidentale. Inoltre, quattro violenti uragani colpiscono Pilger, in Nebraska."
-            },
-            {
-                "ora": "04:10",
-                "titolo": "Colpo di fulmini",
-                "descrizione": "Un'eruzione vulcanica e una tempesta di fulmini colpiscono le Filippine. Inoltre, alcuni tornado notturni devastano diverse zone del Texas."
-            },
-            {
-                "ora": "05:10",
-                "titolo": "Colpo di fulmini",
-                "descrizione": "Quando alcune inondazioni colpiscono il Texas, i soccorritori tentano di salvare tre donne e un cane da una situazione pericolosa. Il tifone Kammuri devasta le Filippine."
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Inghilterra - Ghana",
-                "descrizione": "Inghilterra e Ghana si giocano a Boston il primato del gruppo L. La nazionale dei Tre Leoni di Kane e Bellingham parte ovviamente con tutti i favori del pronostico."
-            },
-            {
-                "ora": "21:20",
-                "titolo": "Storie Al Bivio Di Sera",
-                "descrizione": "I protagonisti della politica, dell'attualità, della cultura o dello spettacolo raccontano senza filtri il loro momento di svolta e le loro scelte di vita, tra famiglia, carriera, figli e amori."
-            },
             {
                 "ora": "00:00",
                 "titolo": "TG3 Linea Notte",
@@ -1201,9 +1161,49 @@
                 "ora": "23:56",
                 "titolo": "Due gran figli di ...",
                 "descrizione": "Kyle e Peter Reynolds sono due fratelli cui la madre, piuttosto eccentrica, ha sempre raccontato che il padre era morto quando erano ancora piccoli. Una volta scoperto che non è così, decidono di mettersi alla ricerca del loro vero padre e vengono anche a sapere alcune cose della loro madre che forse avrebbero preferito non conoscere."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Il caso Epstein. Il racconto continua - parte 2",
+                "descrizione": "Speciale a cura di La7 Digital Media Lab - Nuove rivelazioni dagli Epstein Files: documenti, testimonianze e rapporti con il potere. Focus su Bill Clinton e sui legami tra Epstein e Donald Trump."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Money Road - Ogni tentazione ha un...",
+                "descrizione": "Alessandro Borghese è il protagonista della grande tentazione di questa puntata: cosa avrà in serbo per i membri della Compagnia?"
+            },
+            {
+                "ora": "21:30",
+                "titolo": "Le Crociate",
+                "descrizione": "Balian è un maniscalco che ha perso la famiglia e che ha rischiato di perdere anche la fede. Le guerre di religione che sconvolgono la remota Terra Santa gli sembrano lontane anni luce. Ma il destino bussa alla porta di Balian sotto le spoglie di un grande cavaliere, Godfrey di Ibelin, un crociato che dopo aver combattuto nel lontano Oriente ha fatto momentaneamente ritorno in patria, in Francia. Dichiarando di essere suo padre, Godfrey mostrerà a Balian che cosa voglia dire essere un cavaliere e lo porterà con sé in un favoloso viaggio attraverso i continenti per giungere fino in Terra Santa"
+            },
+            {
+                "ora": "23:31",
+                "titolo": "Operazione U.N.C.L.E.",
+                "descrizione": "Agli inizi degli anni Sessanta del Novecento, in piena guerra fredda, l'agente della Cia Napoleon Solo (Henry Cavill) e l'agente del KGB Ilya Kuryakin (Armie Hammer) sono costretti a mettere da parte il tradizionale antagonismo per impegnarsi in una missione comune. Il loro obiettivo è quello di mettere fuori dai giochi un'organizzazione criminale internazionale che minaccia di scuotere il già precario equilibrio globale con la proliferazione di armi e tecnologia nucleari. Solo e Kuryakin hanno una traccia da cui partire: il contatto con la figlia di uno scienziato tedesco scomparso, l'unico in grado di infiltrarsi nell'organizzazione. Finiranno così con l'essere impegnati in una corsa contro il tempo per ritrovare l'uomo e prevenire una catastrofe mondiale."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "The Twin - L'altro volto del male",
+                "descrizione": "A seguito di un tragico incidente che ha causato la morte di uno dei loro gemelli, Rachel e il marito Anthony si trasferiscono dall’altra parte del mondo con il figlio sopravvissuto nella speranza di costruirsi una nuova vita. Quello che inizia come un periodo di guarigione prende presto una svolta inquietante quando Rachel inizia a svelare la tortuosa verità su suo figlio e affronta le forze malvagie che tentano di impadronirsi di lui."
+            },
+            {
+                "ora": "23:17",
+                "titolo": "La legge del signore /L'uomo senza fucile",
+                "descrizione": "Nemmeno la guerra di Secessione è un motivo sufficiente perché Jess Birdwell (Cooper), di rigorosa osservanza quacchera, rinneghi i suoi principi che non ammettono in alcun modo la violenza. Il figlio Josh (Perkins), invece, si arruola nella Guardia Civile e sua madre (McGuire) è disperata. Ma il capofamiglia, quando è in gioco la vita di Josh, è pronto anch'egli ad armarsi di fucile."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Samad",
+                "descrizione": "Un ex detenuto torna in prigione per raccontare ai suoi ex compagni di carcere, la sua nuova vita lontana dal crimine, ma qualcosa va storto e per restare vivo, è costretto a giocare una partita molto pericolosa."
+            },
+            {
+                "ora": "23:05",
+                "titolo": "Jerry Maguire",
+                "descrizione": "Jerry Maguire, spregiudicato procuratore sportivo dalla vita frenetica, viene licenziato dall'agenzia per cui lavora. Cercherà di ricostruirsi una nuova vita con l'aiuto di Rod Tidwell, atleta in declino, e di Dorothy, una deliziosa ragazza che decide di seguirlo nel suo futuro incerto."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Rai Sport",
@@ -1270,27 +1270,12 @@
                 "descrizione": "Agli inizi degli anni Sessanta del Novecento, in piena guerra fredda, l'agente della Cia Napoleon Solo (Henry Cavill) e l'agente del KGB Ilya Kuryakin (Armie Hammer) sono costretti a mettere da parte il tradizionale antagonismo per impegnarsi in una missione comune. Il loro obiettivo è quello di mettere fuori dai giochi un'organizzazione criminale internazionale che minaccia di scuotere il già precario equilibrio globale con la proliferazione di armi e tecnologia nucleari. Solo e Kuryakin hanno una traccia da cui partire: il contatto con la figlia di uno scienziato tedesco scomparso, l'unico in grado di infiltrarsi nell'organizzazione. Finiranno così con l'essere impegnati in una corsa contro il tempo per ritrovare l'uomo e prevenire una catastrofe mondiale."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sportitalia",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Sportitaliamercato",
-                "descrizione": "Il programma tratta le vicende del calciomercato sia nella sessione estiva che in quella invernale e va in onda alle ore 23.00 dal lunedì al venerdì"
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Inghilterra - Ghana",
-                "descrizione": "Inghilterra e Ghana si giocano a Boston il primato del gruppo L. La nazionale dei Tre Leoni di Kane e Bellingham parte ovviamente con tutti i favori del pronostico."
-            },
-            {
-                "ora": "21:20",
-                "titolo": "Storie Al Bivio Di Sera",
-                "descrizione": "I protagonisti della politica, dell'attualità, della cultura o dello spettacolo raccontano senza filtri il loro momento di svolta e le loro scelte di vita, tra famiglia, carriera, figli e amori."
-            },
             {
                 "ora": "00:00",
                 "titolo": "TG3 Linea Notte",
@@ -1335,29 +1320,29 @@
                 "ora": "00:00",
                 "titolo": "The Twin - L'altro volto del male",
                 "descrizione": "A seguito di un tragico incidente che ha causato la morte di uno dei loro gemelli, Rachel e il marito Anthony si trasferiscono dall’altra parte del mondo con il figlio sopravvissuto nella speranza di costruirsi una nuova vita. Quello che inizia come un periodo di guarigione prende presto una svolta inquietante quando Rachel inizia a svelare la tortuosa verità su suo figlio e affronta le forze malvagie che tentano di impadronirsi di lui."
+            },
+            {
+                "ora": "23:17",
+                "titolo": "La legge del signore /L'uomo senza fucile",
+                "descrizione": "Nemmeno la guerra di Secessione è un motivo sufficiente perché Jess Birdwell (Cooper), di rigorosa osservanza quacchera, rinneghi i suoi principi che non ammettono in alcun modo la violenza. Il figlio Josh (Perkins), invece, si arruola nella Guardia Civile e sua madre (McGuire) è disperata. Ma il capofamiglia, quando è in gioco la vita di Josh, è pronto anch'egli ad armarsi di fucile."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Samad",
+                "descrizione": "Un ex detenuto torna in prigione per raccontare ai suoi ex compagni di carcere, la sua nuova vita lontana dal crimine, ma qualcosa va storto e per restare vivo, è costretto a giocare una partita molto pericolosa."
+            },
+            {
+                "ora": "23:05",
+                "titolo": "Jerry Maguire",
+                "descrizione": "Jerry Maguire, spregiudicato procuratore sportivo dalla vita frenetica, viene licenziato dall'agenzia per cui lavora. Cercherà di ricostruirsi una nuova vita con l'aiuto di Rod Tidwell, atleta in declino, e di Dorothy, una deliziosa ragazza che decide di seguirlo nel suo futuro incerto."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport 24",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "TG Ultima Parola",
-                "descrizione": "Approfondimenti in studio con ospiti e live. Il riassunto della giornata sportiva vista con gli occhi della nostra redazione."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "TG Ultima Parola",
-                "descrizione": "Approfondimenti in studio con ospiti e live. Il riassunto della giornata sportiva vista con gli occhi della nostra redazione."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "News Line",
-                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
-            },
             {
                 "ora": "00:30",
                 "titolo": "News Line",
@@ -1402,29 +1387,29 @@
                 "ora": "04:30",
                 "titolo": "News Line",
                 "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
-            }
-        ],
-        "aggiornato": "21:08"
-    },
-    {
-        "canale": "Sky Sport Uno",
-        "categoria": "Sport",
-        "programmi": [
+            },
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
+                "ora": "05:00",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "05:30",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
             },
             {
                 "ora": "22:00",
                 "titolo": "Sport 24 Today",
                 "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Review Of The Season",
-                "descrizione": "League Magazine. - L'attenzione e' rivolta alla finale tra Paris Saint Germain e Arsenal, giocata alla Puskas Arena di Budapest. Un'occasione per rivivere momenti salienti, interviste esclusive ai protagonisti e retroscena della massima competizione europea."
-            },
+            }
+        ],
+        "aggiornato": "22:51"
+    },
+    {
+        "canale": "Sky Sport Uno",
+        "categoria": "Sport",
+        "programmi": [
             {
                 "ora": "00:30",
                 "titolo": "Tennis Atp&Wta - Ep. 257 - Tennis Atp&Wta 2026 23/06/2026",
@@ -1469,24 +1454,29 @@
                 "ora": "00:00",
                 "titolo": "Sinner, Re di Roma 50 Anni Dopo",
                 "descrizione": "50 anni dopo Adriano Panatta, un italiano torna a trionfare al Foro Italico. Il cammino di Jannik Sinner a Roma, attraverso i backstage e le immagini inedite di Sky Sport."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Paris Saint-Germain - Arsenal Finale:",
+                "descrizione": "Finale: UEFA Champions League. - Francesi per la seconda Champions consecutiva dopo il 5-0 all'Inter. Gunners per la prima Champions dopo la finale persa nel 2006 contro il Barcellona. TC: Marianella-Marchegiani"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport Calcio",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Calciomercato - L'originale",
-                "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Didier Drogba",
-                "descrizione": "Champions League. - Le partite memorabili, i gol, le giocate incredibili di Didier Drogba in Champions League raccontate con la colonna sonora di History Remix."
-            },
             {
                 "ora": "00:30",
                 "titolo": "Premier League, I Gol Della Stagione 01/06/2026",
@@ -1536,24 +1526,24 @@
                 "ora": "00:00",
                 "titolo": "Hengelo",
                 "descrizione": "Le gare del World Athletics Continental Tour Gold."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Oklahoma City Thunder - San Antonio Spurs",
+                "descrizione": "Spurs NBA. - Si torna a Oklahoma City con la serie in parita' sul 2-2: chi vince gara-5 si guadagna il primo match point nella serie. Telecronaca di Flavio Tranquillo e Davide Pessina"
+            },
+            {
+                "ora": "22:30",
+                "titolo": "Ulan Bator: Giorno 1",
+                "descrizione": "Le azioni dei Grand Slam del Judo."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport Tennis",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:30",
-                "titolo": "Tennis Atp&Wta - Ep. 257 - Tennis Atp&Wta 2026 23/06/2026",
-                "descrizione": "Tennis: ATP & WTA. - ... Tennis Atp&Wta. - Tennis Atp&Wta"
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Sinner, Re di Roma 50 Anni Dopo",
-                "descrizione": "50 anni dopo Adriano Panatta, un italiano torna a trionfare al Foro Italico. Il cammino di Jannik Sinner a Roma, attraverso i backstage e le immagini inedite di Sky Sport."
-            },
             {
                 "ora": "00:30",
                 "titolo": "Tennis Atp&Wta - Ep. 257 - Tennis Atp&Wta 2026 23/06/2026",
@@ -1603,19 +1593,24 @@
                 "ora": "21:00",
                 "titolo": "Golf Major Us Pga Championship - Ep. 4 - Golf Major Us Pga Championship 2026 4a Giornata 17/05/2026",
                 "descrizione": "World Tour. - Dall'Aronimink Golf Club di Newtown Square, Stati Uniti."
+            },
+            {
+                "ora": "23:05",
+                "titolo": "Bayern M. - Inter 2010",
+                "descrizione": "UEFA Champions League Story. - 22 Maggio 2010, al Santiago Bernabeu di Madrid, Inter e Bayern Monaco si sfidano nella finale di Champions League. Per i nerazzurri sara' il terzo titolo della storia"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Sinner, Re di Roma 50 Anni Dopo",
+                "descrizione": "50 anni dopo Adriano Panatta, un italiano torna a trionfare al Foro Italico. Il cammino di Jannik Sinner a Roma, attraverso i backstage e le immagini inedite di Sky Sport."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport F1",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:05",
-                "titolo": "Austria 1999 - F1",
-                "descrizione": "Prima fila tutta McLaren all'A1 Ring, con Hakkinen e Coulthard. Le Ferrari sono terza, con Irvine, e settima, con Salo che sostituisce Schumacher dopo l'infortunio di Silverstone."
-            },
             {
                 "ora": "00:05",
                 "titolo": "Austria 2003 - F1",
@@ -1670,9 +1665,14 @@
                 "ora": "22:00",
                 "titolo": "Review Of The Season",
                 "descrizione": "League Magazine. - L'attenzione e' rivolta alla finale tra Paris Saint Germain e Arsenal, giocata alla Puskas Arena di Budapest. Un'occasione per rivivere momenti salienti, interviste esclusive ai protagonisti e retroscena della massima competizione europea."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "Tennis Atp&Wta - Ep. 257 - Tennis Atp&Wta 2026 23/06/2026",
+                "descrizione": "Tennis: ATP & WTA. - ... Tennis Atp&Wta. - Tennis Atp&Wta"
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport Legend",
@@ -1739,17 +1739,12 @@
                 "descrizione": "Le azioni dei Grand Slam del Judo."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport MotoGP",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "GP Cechia: Gara",
-                "descrizione": "Nono appuntamento del mondiale 2026: a Brno, in Repubblica Ceca, si accendono i motori per la gara della MotoGP. Telecronaca Guido Meda e Mauro Sanchini"
-            },
             {
                 "ora": "00:00",
                 "titolo": "Olanda, Assen 2018. Moto2 - MOTOGP",
@@ -1804,19 +1799,19 @@
                 "ora": "00:30",
                 "titolo": "Tennis Atp&Wta - Ep. 257 - Tennis Atp&Wta 2026 23/06/2026",
                 "descrizione": "Tennis: ATP & WTA. - ... Tennis Atp&Wta. - Tennis Atp&Wta"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Hengelo",
+                "descrizione": "Le gare del World Athletics Continental Tour Gold."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport Basket",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Finale, Gara 4: Umana Reyer Venezia - EA7 Emporio Armani Milano",
-                "descrizione": "- EA7 Emporio Armani Milano Serie A Basket. - In gara 3 la Reyer ha riaperto la serie e ora punta a gara 5. L'Olimpia resta in vantaggio 2-1 ed e' ancora ad una sola vittoria dallo scudetto. Telecronaca di Geri De Rosa e Andrea Meneghin."
-            },
             {
                 "ora": "23:35",
                 "titolo": "Oklahoma City Thunder - San Antonio Spurs",
@@ -1871,24 +1866,19 @@
                 "ora": "21:00",
                 "titolo": "Golf Major Us Pga Championship - Ep. 4 - Golf Major Us Pga Championship 2026 4a Giornata 17/05/2026",
                 "descrizione": "World Tour. - Dall'Aronimink Golf Club di Newtown Square, Stati Uniti."
+            },
+            {
+                "ora": "23:05",
+                "titolo": "Bayern M. - Inter 2010",
+                "descrizione": "UEFA Champions League Story. - 22 Maggio 2010, al Santiago Bernabeu di Madrid, Inter e Bayern Monaco si sfidano nella finale di Champions League. Per i nerazzurri sara' il terzo titolo della storia"
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport Arena",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "22:30",
-                "titolo": "Sinner, Re di Roma 50 Anni Dopo",
-                "descrizione": "50 anni dopo Adriano Panatta, un italiano torna a trionfare al Foro Italico. Il cammino di Jannik Sinner a Roma, attraverso i backstage e le immagini inedite di Sky Sport."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "WRC Highlight Show",
-                "descrizione": "23/06/2026 WRC Highlight Show. - Riviviamo le fasi piu' emozionanti delle gare del World Rally Championship."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Hengelo",
@@ -1938,9 +1928,19 @@
                 "ora": "23:05",
                 "titolo": "Austria 1999 - F1",
                 "descrizione": "Prima fila tutta McLaren all'A1 Ring, con Hakkinen e Coulthard. Le Ferrari sono terza, con Irvine, e settima, con Salo che sostituisce Schumacher dopo l'infortunio di Silverstone."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Olanda, Assen 2018. Moto2 - MOTOGP",
+                "descrizione": "MOTOGP. - Ottavo appuntamento del mondiale 2018: da Assen, la gara della Moto2. In prima fila Bagnaia, Schrotter e Marini. Commento: Zoran Filicic-Roberto Locatelli."
+            },
+            {
+                "ora": "21:00",
+                "titolo": "Golf Major Us Pga Championship - Ep. 4 - Golf Major Us Pga Championship 2026 4a Giornata 17/05/2026",
+                "descrizione": "World Tour. - Dall'Aronimink Golf Club di Newtown Square, Stati Uniti."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport Max",
@@ -2007,22 +2007,12 @@
                 "descrizione": "MOTOGP. - Ottavo appuntamento del mondiale 2018: da Assen, la gara della Moto2. In prima fila Bagnaia, Schrotter e Marini. Commento: Zoran Filicic-Roberto Locatelli."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport Mix",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Icarus Ultra - Ep. 38 - Icarus Ultra 2025 Ep.38 22/06/2026",
-                "descrizione": "Andiamo al Castello Estense di Ferrara, palcoscenico della Spring Sup Race, per scoprire tutti i segreti di uno sport entusiasmante: lo stand up padel. Visitiamo poi un territorio selvaggio nel cuore della Sicilia."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "This Is Padel - Ep. 7 - This Is Padel 2026 Ep.7 05/06/2026",
-                "descrizione": "I protagonisti, le sfide e gli eventi nazionali e internazionali in collegamento con i circoli di tutta Italia. Gli eventi del padel dilettantistico e le analisi dei materiali tecnici all'avanguardia."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Sinner, Re di Roma 50 Anni Dopo",
@@ -2072,19 +2062,24 @@
                 "ora": "22:30",
                 "titolo": "Ulan Bator: Giorno 1",
                 "descrizione": "Le azioni dei Grand Slam del Judo."
+            },
+            {
+                "ora": "23:05",
+                "titolo": "Austria 1999 - F1",
+                "descrizione": "Prima fila tutta McLaren all'A1 Ring, con Hakkinen e Coulthard. Le Ferrari sono terza, con Irvine, e settima, con Salo che sostituisce Schumacher dopo l'infortunio di Silverstone."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Olanda, Assen 2018. Moto2 - MOTOGP",
+                "descrizione": "MOTOGP. - Ottavo appuntamento del mondiale 2018: da Assen, la gara della Moto2. In prima fila Bagnaia, Schrotter e Marini. Commento: Zoran Filicic-Roberto Locatelli."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport Golf",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Golf Major Us Pga Championship - Ep. 4 - Golf Major Us Pga Championship 2026 4a Giornata 17/05/2026",
-                "descrizione": "World Tour. - Dall'Aronimink Golf Club di Newtown Square, Stati Uniti."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Golf Dp World Tour - Ep. 68 - Golf Dp World Tour 2026 Catalunya Championship 4a Giornata 10/05/2026",
@@ -2136,33 +2131,23 @@
                 "descrizione": "MOTOGP. - Ottavo appuntamento del mondiale 2018: da Assen, la gara della Moto2. In prima fila Bagnaia, Schrotter e Marini. Commento: Zoran Filicic-Roberto Locatelli."
             },
             {
+                "ora": "21:00",
+                "titolo": "Golf Major Us Pga Championship - Ep. 4 - Golf Major Us Pga Championship 2026 4a Giornata 17/05/2026",
+                "descrizione": "World Tour. - Dall'Aronimink Golf Club di Newtown Square, Stati Uniti."
+            },
+            {
                 "ora": "23:05",
                 "titolo": "Bayern M. - Inter 2010",
                 "descrizione": "UEFA Champions League Story. - 22 Maggio 2010, al Santiago Bernabeu di Madrid, Inter e Bayern Monaco si sfidano nella finale di Champions League. Per i nerazzurri sara' il terzo titolo della storia"
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport 251",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Review Of The Season",
-                "descrizione": "League Magazine. - L'attenzione e' rivolta alla finale tra Paris Saint Germain e Arsenal, giocata alla Puskas Arena di Budapest. Un'occasione per rivivere momenti salienti, interviste esclusive ai protagonisti e retroscena della massima competizione europea."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis Atp&Wta - Ep. 257 - Tennis Atp&Wta 2026 23/06/2026",
                 "descrizione": "Tennis: ATP & WTA. - ... Tennis Atp&Wta. - Tennis Atp&Wta"
@@ -2206,30 +2191,30 @@
                 "ora": "00:00",
                 "titolo": "Sinner, Re di Roma 50 Anni Dopo",
                 "descrizione": "50 anni dopo Adriano Panatta, un italiano torna a trionfare al Foro Italico. Il cammino di Jannik Sinner a Roma, attraverso i backstage e le immagini inedite di Sky Sport."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Paris Saint-Germain - Arsenal Finale:",
+                "descrizione": "Finale: UEFA Champions League. - Francesi per la seconda Champions consecutiva dopo il 5-0 all'Inter. Gunners per la prima Champions dopo la finale persa nel 2006 contro il Barcellona. TC: Marianella-Marchegiani"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport 252",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Review Of The Season",
-                "descrizione": "League Magazine. - L'attenzione e' rivolta alla finale tra Paris Saint Germain e Arsenal, giocata alla Puskas Arena di Budapest. Un'occasione per rivivere momenti salienti, interviste esclusive ai protagonisti e retroscena della massima competizione europea."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis Atp&Wta - Ep. 257 - Tennis Atp&Wta 2026 23/06/2026",
                 "descrizione": "Tennis: ATP & WTA. - ... Tennis Atp&Wta. - Tennis Atp&Wta"
@@ -2273,30 +2258,30 @@
                 "ora": "00:00",
                 "titolo": "Sinner, Re di Roma 50 Anni Dopo",
                 "descrizione": "50 anni dopo Adriano Panatta, un italiano torna a trionfare al Foro Italico. Il cammino di Jannik Sinner a Roma, attraverso i backstage e le immagini inedite di Sky Sport."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Paris Saint-Germain - Arsenal Finale:",
+                "descrizione": "Finale: UEFA Champions League. - Francesi per la seconda Champions consecutiva dopo il 5-0 all'Inter. Gunners per la prima Champions dopo la finale persa nel 2006 contro il Barcellona. TC: Marianella-Marchegiani"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport 253",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Review Of The Season",
-                "descrizione": "League Magazine. - L'attenzione e' rivolta alla finale tra Paris Saint Germain e Arsenal, giocata alla Puskas Arena di Budapest. Un'occasione per rivivere momenti salienti, interviste esclusive ai protagonisti e retroscena della massima competizione europea."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis Atp&Wta - Ep. 257 - Tennis Atp&Wta 2026 23/06/2026",
                 "descrizione": "Tennis: ATP & WTA. - ... Tennis Atp&Wta. - Tennis Atp&Wta"
@@ -2340,30 +2325,30 @@
                 "ora": "00:00",
                 "titolo": "Sinner, Re di Roma 50 Anni Dopo",
                 "descrizione": "50 anni dopo Adriano Panatta, un italiano torna a trionfare al Foro Italico. Il cammino di Jannik Sinner a Roma, attraverso i backstage e le immagini inedite di Sky Sport."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Paris Saint-Germain - Arsenal Finale:",
+                "descrizione": "Finale: UEFA Champions League. - Francesi per la seconda Champions consecutiva dopo il 5-0 all'Inter. Gunners per la prima Champions dopo la finale persa nel 2006 contro il Barcellona. TC: Marianella-Marchegiani"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport 254",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Review Of The Season",
-                "descrizione": "League Magazine. - L'attenzione e' rivolta alla finale tra Paris Saint Germain e Arsenal, giocata alla Puskas Arena di Budapest. Un'occasione per rivivere momenti salienti, interviste esclusive ai protagonisti e retroscena della massima competizione europea."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis Atp&Wta - Ep. 257 - Tennis Atp&Wta 2026 23/06/2026",
                 "descrizione": "Tennis: ATP & WTA. - ... Tennis Atp&Wta. - Tennis Atp&Wta"
@@ -2407,30 +2392,30 @@
                 "ora": "00:00",
                 "titolo": "Sinner, Re di Roma 50 Anni Dopo",
                 "descrizione": "50 anni dopo Adriano Panatta, un italiano torna a trionfare al Foro Italico. Il cammino di Jannik Sinner a Roma, attraverso i backstage e le immagini inedite di Sky Sport."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Paris Saint-Germain - Arsenal Finale:",
+                "descrizione": "Finale: UEFA Champions League. - Francesi per la seconda Champions consecutiva dopo il 5-0 all'Inter. Gunners per la prima Champions dopo la finale persa nel 2006 contro il Barcellona. TC: Marianella-Marchegiani"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport 255",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Review Of The Season",
-                "descrizione": "League Magazine. - L'attenzione e' rivolta alla finale tra Paris Saint Germain e Arsenal, giocata alla Puskas Arena di Budapest. Un'occasione per rivivere momenti salienti, interviste esclusive ai protagonisti e retroscena della massima competizione europea."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis Atp&Wta - Ep. 257 - Tennis Atp&Wta 2026 23/06/2026",
                 "descrizione": "Tennis: ATP & WTA. - ... Tennis Atp&Wta. - Tennis Atp&Wta"
@@ -2474,30 +2459,30 @@
                 "ora": "00:00",
                 "titolo": "Sinner, Re di Roma 50 Anni Dopo",
                 "descrizione": "50 anni dopo Adriano Panatta, un italiano torna a trionfare al Foro Italico. Il cammino di Jannik Sinner a Roma, attraverso i backstage e le immagini inedite di Sky Sport."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Paris Saint-Germain - Arsenal Finale:",
+                "descrizione": "Finale: UEFA Champions League. - Francesi per la seconda Champions consecutiva dopo il 5-0 all'Inter. Gunners per la prima Champions dopo la finale persa nel 2006 contro il Barcellona. TC: Marianella-Marchegiani"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport 256",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Review Of The Season",
-                "descrizione": "League Magazine. - L'attenzione e' rivolta alla finale tra Paris Saint Germain e Arsenal, giocata alla Puskas Arena di Budapest. Un'occasione per rivivere momenti salienti, interviste esclusive ai protagonisti e retroscena della massima competizione europea."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis Atp&Wta - Ep. 257 - Tennis Atp&Wta 2026 23/06/2026",
                 "descrizione": "Tennis: ATP & WTA. - ... Tennis Atp&Wta. - Tennis Atp&Wta"
@@ -2541,30 +2526,30 @@
                 "ora": "00:00",
                 "titolo": "Sinner, Re di Roma 50 Anni Dopo",
                 "descrizione": "50 anni dopo Adriano Panatta, un italiano torna a trionfare al Foro Italico. Il cammino di Jannik Sinner a Roma, attraverso i backstage e le immagini inedite di Sky Sport."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Paris Saint-Germain - Arsenal Finale:",
+                "descrizione": "Finale: UEFA Champions League. - Francesi per la seconda Champions consecutiva dopo il 5-0 all'Inter. Gunners per la prima Champions dopo la finale persa nel 2006 contro il Barcellona. TC: Marianella-Marchegiani"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport 257",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Review Of The Season",
-                "descrizione": "League Magazine. - L'attenzione e' rivolta alla finale tra Paris Saint Germain e Arsenal, giocata alla Puskas Arena di Budapest. Un'occasione per rivivere momenti salienti, interviste esclusive ai protagonisti e retroscena della massima competizione europea."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis Atp&Wta - Ep. 257 - Tennis Atp&Wta 2026 23/06/2026",
                 "descrizione": "Tennis: ATP & WTA. - ... Tennis Atp&Wta. - Tennis Atp&Wta"
@@ -2608,30 +2593,30 @@
                 "ora": "00:00",
                 "titolo": "Sinner, Re di Roma 50 Anni Dopo",
                 "descrizione": "50 anni dopo Adriano Panatta, un italiano torna a trionfare al Foro Italico. Il cammino di Jannik Sinner a Roma, attraverso i backstage e le immagini inedite di Sky Sport."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Paris Saint-Germain - Arsenal Finale:",
+                "descrizione": "Finale: UEFA Champions League. - Francesi per la seconda Champions consecutiva dopo il 5-0 all'Inter. Gunners per la prima Champions dopo la finale persa nel 2006 contro il Barcellona. TC: Marianella-Marchegiani"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport 258",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Review Of The Season",
-                "descrizione": "League Magazine. - L'attenzione e' rivolta alla finale tra Paris Saint Germain e Arsenal, giocata alla Puskas Arena di Budapest. Un'occasione per rivivere momenti salienti, interviste esclusive ai protagonisti e retroscena della massima competizione europea."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis Atp&Wta - Ep. 257 - Tennis Atp&Wta 2026 23/06/2026",
                 "descrizione": "Tennis: ATP & WTA. - ... Tennis Atp&Wta. - Tennis Atp&Wta"
@@ -2675,30 +2660,30 @@
                 "ora": "00:00",
                 "titolo": "Sinner, Re di Roma 50 Anni Dopo",
                 "descrizione": "50 anni dopo Adriano Panatta, un italiano torna a trionfare al Foro Italico. Il cammino di Jannik Sinner a Roma, attraverso i backstage e le immagini inedite di Sky Sport."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Paris Saint-Germain - Arsenal Finale:",
+                "descrizione": "Finale: UEFA Champions League. - Francesi per la seconda Champions consecutiva dopo il 5-0 all'Inter. Gunners per la prima Champions dopo la finale persa nel 2006 contro il Barcellona. TC: Marianella-Marchegiani"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Sport 259",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Review Of The Season",
-                "descrizione": "League Magazine. - L'attenzione e' rivolta alla finale tra Paris Saint Germain e Arsenal, giocata alla Puskas Arena di Budapest. Un'occasione per rivivere momenti salienti, interviste esclusive ai protagonisti e retroscena della massima competizione europea."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis Atp&Wta - Ep. 257 - Tennis Atp&Wta 2026 23/06/2026",
                 "descrizione": "Tennis: ATP & WTA. - ... Tennis Atp&Wta. - Tennis Atp&Wta"
@@ -2742,19 +2727,29 @@
                 "ora": "00:00",
                 "titolo": "Sinner, Re di Roma 50 Anni Dopo",
                 "descrizione": "50 anni dopo Adriano Panatta, un italiano torna a trionfare al Foro Italico. Il cammino di Jannik Sinner a Roma, attraverso i backstage e le immagini inedite di Sky Sport."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Paris Saint-Germain - Arsenal Finale:",
+                "descrizione": "Finale: UEFA Champions League. - Francesi per la seconda Champions consecutiva dopo il 5-0 all'Inter. Gunners per la prima Champions dopo la finale persa nel 2006 contro il Barcellona. TC: Marianella-Marchegiani"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Cinema Uno",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "22:50",
-                "titolo": "L'uomo dei ghiacci - The Ice Road",
-                "descrizione": "Dopo il crollo avvenuto in un'isolata miniera di diamanti nelle regioni settentrionali del Canada, un autista guida una missione di salvataggio quasi impossibile su un oceano ghiacciato per salvare la vita dei minatori rimasti intrappolati. Si ritroverà così al centro di una corsa contro il tempo per evitare il peggio."
-            },
             {
                 "ora": "00:45",
                 "titolo": "Last Breath",
@@ -2769,6 +2764,11 @@
                 "ora": "04:40",
                 "titolo": "Family McMullen, The",
                 "descrizione": "Trent'anni dopo, Edward Burns dirige e interpreta il sequel del suo acclamato debutto. Ormai cinquantenne, Barry McMullen è alle prese con le turbolenze sentimentali dei suoi cari."
+            },
+            {
+                "ora": "22:50",
+                "titolo": "L'uomo dei ghiacci - The Ice Road",
+                "descrizione": "Dopo il crollo avvenuto in un'isolata miniera di diamanti nelle regioni settentrionali del Canada, un autista guida una missione di salvataggio quasi impossibile su un oceano ghiacciato per salvare la vita dei minatori rimasti intrappolati. Si ritroverà così al centro di una corsa contro il tempo per evitare il peggio."
             },
             {
                 "ora": "23:40",
@@ -2811,17 +2811,12 @@
                 "descrizione": "In fuga dall'Europa del dopoguerra, l'architetto visionario László Toth arriva in America per ricostruire la sua vita, il suo lavoro e il suo matrimonio con la moglie Erzsébet dopo essere stato costretto a separarsi durante la guerra da confini e regimi mutevoli. Da solo in un paese nuovo e sconosciuto, László si stabilisce in Pennsylvania, dove il ricco e importante industriale Harrison Lee Van Buren riconosce il suo talento nel costruire. Ma il potere e l'eredità hanno un costo elevato."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Cinema Collection",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Star Trek - Il futuro ha inizio",
-                "descrizione": "James Tiberius Kirk è nato tra le stelle ed è cresciuto nell'Iowa, ribelle e ostinato vuole conoscere il nome della bella Uhura, onorare la memoria del padre, servire una causa, esplorare nuovi mondi e arrivare là dove nessun uomo è giunto prima. Spock è nato sul pianeta Vulcano da madre umana e padre vulcaniano, razionale e controllato pratica la disciplina del Kolinahr per purificarsi dalle emozioni, ama con virtuoso trasporto Uhura, domina la sua metà umana e si arruola nella Flotta stellare. È sull'Enterprise, prestigiosa nave spaziale governata dal Capitano Christopher Pike, che i due giovani si incontrano e si scontrano per affrontare un temibile nemico venuto dal futuro. Nero, diabolico Capitano Romulano, ha infatti deciso di distruggere tutti i pianeti della Federazione per mettere a tacere il dolore di una perdita incommensurabile. Tra passato, presente e futuro, Kirk e Spock si arrenderanno a una grande amicizia e curveranno lo spaziotempo, salpando verso l'ultima frontiera."
-            },
             {
                 "ora": "23:25",
                 "titolo": "Into Darkness - Star Trek",
@@ -2876,19 +2871,19 @@
                 "ora": "23:00",
                 "titolo": "Mamma mia! - Ci risiamo",
                 "descrizione": "Sono passati alcuni anni e Sophie ha deciso di rimodernare l'hotel di famiglia, sull'isola greca di Kalokairi, per rendere omaggio a Donna, che l'ha cresciuta da sola in quel paradiso terrestre. Mentre soffre per la lontananza di Sky e si adopera perché l'inaugurazione dell'hotel sia memorabile, la giovane donna ripensa alla vita di sua madre, a quel pugno di giorni che le sconvolsero la vita e alla scelta di restare sull'isola, la stessa che sta maturando lei, tra entusiasmo e perplessità."
+            },
+            {
+                "ora": "21:00",
+                "titolo": "The Brutalist",
+                "descrizione": "In fuga dall'Europa del dopoguerra, l'architetto visionario László Toth arriva in America per ricostruire la sua vita, il suo lavoro e il suo matrimonio con la moglie Erzsébet dopo essere stato costretto a separarsi durante la guerra da confini e regimi mutevoli. Da solo in un paese nuovo e sconosciuto, László si stabilisce in Pennsylvania, dove il ricco e importante industriale Harrison Lee Van Buren riconosce il suo talento nel costruire. Ma il potere e l'eredità hanno un costo elevato."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Cinema Family",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:45",
-                "titolo": "Un bel giorno",
-                "descrizione": "Tommaso, vedovo e padre di quattro figlie, ha dedicato anni alla loro crescita, trascurando la propria vita sentimentale. Spronato dalle figlie, decide di rimettersi in gioco e incontra Lara, una donna affascinante e brillante. Tuttavia, Tommaso ha paura di confessare a Lara la sua realtà familiare e rischia di sabotare la relazione. Quello che Tommaso però non sa è che anche Lara ha un segreto: è madre single di tre ragazzi e sta affrontando le sue stesse difficoltà. Tra esitazioni e fraintendimenti, Tommaso e Lara si trovano a fare i conti con la paura e la voglia di costruire un nuovo futuro insieme, non solo per loro stessi, ma anche per le loro complicate e vivaci famiglie"
-            },
             {
                 "ora": "23:20",
                 "titolo": "Free Willy: Un amico da salvare",
@@ -2943,19 +2938,19 @@
                 "ora": "23:00",
                 "titolo": "Mamma mia! - Ci risiamo",
                 "descrizione": "Sono passati alcuni anni e Sophie ha deciso di rimodernare l'hotel di famiglia, sull'isola greca di Kalokairi, per rendere omaggio a Donna, che l'ha cresciuta da sola in quel paradiso terrestre. Mentre soffre per la lontananza di Sky e si adopera perché l'inaugurazione dell'hotel sia memorabile, la giovane donna ripensa alla vita di sua madre, a quel pugno di giorni che le sconvolsero la vita e alla scelta di restare sull'isola, la stessa che sta maturando lei, tra entusiasmo e perplessità."
+            },
+            {
+                "ora": "21:00",
+                "titolo": "The Brutalist",
+                "descrizione": "In fuga dall'Europa del dopoguerra, l'architetto visionario László Toth arriva in America per ricostruire la sua vita, il suo lavoro e il suo matrimonio con la moglie Erzsébet dopo essere stato costretto a separarsi durante la guerra da confini e regimi mutevoli. Da solo in un paese nuovo e sconosciuto, László si stabilisce in Pennsylvania, dove il ricco e importante industriale Harrison Lee Van Buren riconosce il suo talento nel costruire. Ma il potere e l'eredità hanno un costo elevato."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Cinema Action",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "22:30",
-                "titolo": "300",
-                "descrizione": "300 è il numero di spartani che si opposero al re persiano Serse nel 480 A.C. Questa pellicola narra infatti di una storia realmente accaduta, di una battaglia epica combattuta al passo delle Termopili che vedeva contrapporsi 300 spartani contro un milione di persiani. Re Serse, spinto dalla sua insaziabile sete di conquista, invia un messaggero in Grecia, a Sparta, che viene accolto dal re Leonida (G. Butler) e dalla regina Gorgo (L. Headey). Ma quando l’emissario pronuncia la parola 'sottomissione' decreta l’inizio della semi-disfatta per i persiani. Leonida, dopo aver ucciso il messaggero, decide di affrontare questa nuova minaccia chiamata Persia: dopo aver radunato 300 tra i migliori combattenti spartani si dirige allo stretto passo delle Termopili per contrastare il temibile nemico.."
-            },
             {
                 "ora": "00:35",
                 "titolo": "Fast & Furious: Hobbs & Shaw",
@@ -2992,6 +2987,11 @@
                 "descrizione": "La storia dell'amicizia tra l'orca Willy e l'orfano Jesse si trasforma in una toccante e indimenticabile storia in cui entrambi Jessie salva Willy dallo sfruttamento e Willy salva Jessie dalla strada."
             },
             {
+                "ora": "22:30",
+                "titolo": "300",
+                "descrizione": "300 è il numero di spartani che si opposero al re persiano Serse nel 480 A.C. Questa pellicola narra infatti di una storia realmente accaduta, di una battaglia epica combattuta al passo delle Termopili che vedeva contrapporsi 300 spartani contro un milione di persiani. Re Serse, spinto dalla sua insaziabile sete di conquista, invia un messaggero in Grecia, a Sparta, che viene accolto dal re Leonida (G. Butler) e dalla regina Gorgo (L. Headey). Ma quando l’emissario pronuncia la parola 'sottomissione' decreta l’inizio della semi-disfatta per i persiani. Leonida, dopo aver ucciso il messaggero, decide di affrontare questa nuova minaccia chiamata Persia: dopo aver radunato 300 tra i migliori combattenti spartani si dirige allo stretto passo delle Termopili per contrastare il temibile nemico.."
+            },
+            {
                 "ora": "22:40",
                 "titolo": "Demeter - Il risveglio di Dracula",
                 "descrizione": "Basato su un agghiacciante capitolo del romanzo cult di Bram Stoker, Dracula. Demeter: Il Risveglio di Dracula racconta la terrificante storia della nave mercantile Demeter, noleggiata per trasportare cinquanta casse di legno non contrassegnate da Carpathia a Londra. Strani eventi si abbattono sull'equipaggio mentre cerca di sopravvivere al lungo viaggio, perseguitato ogni notte da una presenza inquietante a bordo della nave. Quando la Demeter arriva finalmente al largo delle coste inglesi, è un relitto carbonizzato e abbandonato. Dell'equipaggio non c'è traccia."
@@ -3012,17 +3012,12 @@
                 "descrizione": "In fuga dall'Europa del dopoguerra, l'architetto visionario László Toth arriva in America per ricostruire la sua vita, il suo lavoro e il suo matrimonio con la moglie Erzsébet dopo essere stato costretto a separarsi durante la guerra da confini e regimi mutevoli. Da solo in un paese nuovo e sconosciuto, László si stabilisce in Pennsylvania, dove il ricco e importante industriale Harrison Lee Van Buren riconosce il suo talento nel costruire. Ma il potere e l'eredità hanno un costo elevato."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Cinema Suspense",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "22:40",
-                "titolo": "Demeter - Il risveglio di Dracula",
-                "descrizione": "Basato su un agghiacciante capitolo del romanzo cult di Bram Stoker, Dracula. Demeter: Il Risveglio di Dracula racconta la terrificante storia della nave mercantile Demeter, noleggiata per trasportare cinquanta casse di legno non contrassegnate da Carpathia a Londra. Strani eventi si abbattono sull'equipaggio mentre cerca di sopravvivere al lungo viaggio, perseguitato ogni notte da una presenza inquietante a bordo della nave. Quando la Demeter arriva finalmente al largo delle coste inglesi, è un relitto carbonizzato e abbandonato. Dell'equipaggio non c'è traccia."
-            },
             {
                 "ora": "00:45",
                 "titolo": "Inside Man",
@@ -3064,6 +3059,11 @@
                 "descrizione": "300 è il numero di spartani che si opposero al re persiano Serse nel 480 A.C. Questa pellicola narra infatti di una storia realmente accaduta, di una battaglia epica combattuta al passo delle Termopili che vedeva contrapporsi 300 spartani contro un milione di persiani. Re Serse, spinto dalla sua insaziabile sete di conquista, invia un messaggero in Grecia, a Sparta, che viene accolto dal re Leonida (G. Butler) e dalla regina Gorgo (L. Headey). Ma quando l’emissario pronuncia la parola 'sottomissione' decreta l’inizio della semi-disfatta per i persiani. Leonida, dopo aver ucciso il messaggero, decide di affrontare questa nuova minaccia chiamata Persia: dopo aver radunato 300 tra i migliori combattenti spartani si dirige allo stretto passo delle Termopili per contrastare il temibile nemico.."
             },
             {
+                "ora": "22:40",
+                "titolo": "Demeter - Il risveglio di Dracula",
+                "descrizione": "Basato su un agghiacciante capitolo del romanzo cult di Bram Stoker, Dracula. Demeter: Il Risveglio di Dracula racconta la terrificante storia della nave mercantile Demeter, noleggiata per trasportare cinquanta casse di legno non contrassegnate da Carpathia a Londra. Strani eventi si abbattono sull'equipaggio mentre cerca di sopravvivere al lungo viaggio, perseguitato ogni notte da una presenza inquietante a bordo della nave. Quando la Demeter arriva finalmente al largo delle coste inglesi, è un relitto carbonizzato e abbandonato. Dell'equipaggio non c'è traccia."
+            },
+            {
                 "ora": "22:45",
                 "titolo": "Benvenuti al Nord",
                 "descrizione": "Alberto Colombo, brianzolo impiegato alle poste, ha finalmente ottenuto la promozione e il trasferimento a Milano. Il Sud, in cui è stato benvenuto e benvoluto, sembra adesso un ricordo lontano che Mattia, indolente compagno meridionale, risveglia col suo arrivo improvviso. Perché la relazione con la bella Maria sta naufragando a causa della sua immaturità e di un mutuo procrastinato. Deciso a dimostrare alla consorte di essere un uomo responsabile, Mattia si lascia contagiare dall'operosità milanese finendo per fare brunch e carriera sotto la Madunina. Alberto intanto, promosso direttore e occupato full time, trascura la moglie che finirà per lasciarlo. Sedotti e abbandonati si rimboccheranno le maniche e proveranno a riprendersi la famiglia e una vita migliore in un'Italia senza confini e campanilismi."
@@ -3079,7 +3079,7 @@
                 "descrizione": "In fuga dall'Europa del dopoguerra, l'architetto visionario László Toth arriva in America per ricostruire la sua vita, il suo lavoro e il suo matrimonio con la moglie Erzsébet dopo essere stato costretto a separarsi durante la guerra da confini e regimi mutevoli. Da solo in un paese nuovo e sconosciuto, László si stabilisce in Pennsylvania, dove il ricco e importante industriale Harrison Lee Van Buren riconosce il suo talento nel costruire. Ma il potere e l'eredità hanno un costo elevato."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Cinema Romance",
@@ -3146,17 +3146,12 @@
                 "descrizione": "Alberto Colombo, brianzolo impiegato alle poste, ha finalmente ottenuto la promozione e il trasferimento a Milano. Il Sud, in cui è stato benvenuto e benvoluto, sembra adesso un ricordo lontano che Mattia, indolente compagno meridionale, risveglia col suo arrivo improvviso. Perché la relazione con la bella Maria sta naufragando a causa della sua immaturità e di un mutuo procrastinato. Deciso a dimostrare alla consorte di essere un uomo responsabile, Mattia si lascia contagiare dall'operosità milanese finendo per fare brunch e carriera sotto la Madunina. Alberto intanto, promosso direttore e occupato full time, trascura la moglie che finirà per lasciarlo. Sedotti e abbandonati si rimboccheranno le maniche e proveranno a riprendersi la famiglia e una vita migliore in un'Italia senza confini e campanilismi."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Cinema Drama",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "The Brutalist",
-                "descrizione": "In fuga dall'Europa del dopoguerra, l'architetto visionario László Toth arriva in America per ricostruire la sua vita, il suo lavoro e il suo matrimonio con la moglie Erzsébet dopo essere stato costretto a separarsi durante la guerra da confini e regimi mutevoli. Da solo in un paese nuovo e sconosciuto, László si stabilisce in Pennsylvania, dove il ricco e importante industriale Harrison Lee Van Buren riconosce il suo talento nel costruire. Ma il potere e l'eredità hanno un costo elevato."
-            },
             {
                 "ora": "00:20",
                 "titolo": "Lovely Boy",
@@ -3211,19 +3206,19 @@
                 "ora": "22:40",
                 "titolo": "Demeter - Il risveglio di Dracula",
                 "descrizione": "Basato su un agghiacciante capitolo del romanzo cult di Bram Stoker, Dracula. Demeter: Il Risveglio di Dracula racconta la terrificante storia della nave mercantile Demeter, noleggiata per trasportare cinquanta casse di legno non contrassegnate da Carpathia a Londra. Strani eventi si abbattono sull'equipaggio mentre cerca di sopravvivere al lungo viaggio, perseguitato ogni notte da una presenza inquietante a bordo della nave. Quando la Demeter arriva finalmente al largo delle coste inglesi, è un relitto carbonizzato e abbandonato. Dell'equipaggio non c'è traccia."
+            },
+            {
+                "ora": "22:45",
+                "titolo": "Benvenuti al Nord",
+                "descrizione": "Alberto Colombo, brianzolo impiegato alle poste, ha finalmente ottenuto la promozione e il trasferimento a Milano. Il Sud, in cui è stato benvenuto e benvoluto, sembra adesso un ricordo lontano che Mattia, indolente compagno meridionale, risveglia col suo arrivo improvviso. Perché la relazione con la bella Maria sta naufragando a causa della sua immaturità e di un mutuo procrastinato. Deciso a dimostrare alla consorte di essere un uomo responsabile, Mattia si lascia contagiare dall'operosità milanese finendo per fare brunch e carriera sotto la Madunina. Alberto intanto, promosso direttore e occupato full time, trascura la moglie che finirà per lasciarlo. Sedotti e abbandonati si rimboccheranno le maniche e proveranno a riprendersi la famiglia e una vita migliore in un'Italia senza confini e campanilismi."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Cinema Comedy",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "22:45",
-                "titolo": "Benvenuti al Nord",
-                "descrizione": "Alberto Colombo, brianzolo impiegato alle poste, ha finalmente ottenuto la promozione e il trasferimento a Milano. Il Sud, in cui è stato benvenuto e benvoluto, sembra adesso un ricordo lontano che Mattia, indolente compagno meridionale, risveglia col suo arrivo improvviso. Perché la relazione con la bella Maria sta naufragando a causa della sua immaturità e di un mutuo procrastinato. Deciso a dimostrare alla consorte di essere un uomo responsabile, Mattia si lascia contagiare dall'operosità milanese finendo per fare brunch e carriera sotto la Madunina. Alberto intanto, promosso direttore e occupato full time, trascura la moglie che finirà per lasciarlo. Sedotti e abbandonati si rimboccheranno le maniche e proveranno a riprendersi la famiglia e una vita migliore in un'Italia senza confini e campanilismi."
-            },
             {
                 "ora": "00:40",
                 "titolo": "2 fantasmi di troppo",
@@ -3275,22 +3270,22 @@
                 "descrizione": "Basato su un agghiacciante capitolo del romanzo cult di Bram Stoker, Dracula. Demeter: Il Risveglio di Dracula racconta la terrificante storia della nave mercantile Demeter, noleggiata per trasportare cinquanta casse di legno non contrassegnate da Carpathia a Londra. Strani eventi si abbattono sull'equipaggio mentre cerca di sopravvivere al lungo viaggio, perseguitato ogni notte da una presenza inquietante a bordo della nave. Quando la Demeter arriva finalmente al largo delle coste inglesi, è un relitto carbonizzato e abbandonato. Dell'equipaggio non c'è traccia."
             },
             {
+                "ora": "22:45",
+                "titolo": "Benvenuti al Nord",
+                "descrizione": "Alberto Colombo, brianzolo impiegato alle poste, ha finalmente ottenuto la promozione e il trasferimento a Milano. Il Sud, in cui è stato benvenuto e benvoluto, sembra adesso un ricordo lontano che Mattia, indolente compagno meridionale, risveglia col suo arrivo improvviso. Perché la relazione con la bella Maria sta naufragando a causa della sua immaturità e di un mutuo procrastinato. Deciso a dimostrare alla consorte di essere un uomo responsabile, Mattia si lascia contagiare dall'operosità milanese finendo per fare brunch e carriera sotto la Madunina. Alberto intanto, promosso direttore e occupato full time, trascura la moglie che finirà per lasciarlo. Sedotti e abbandonati si rimboccheranno le maniche e proveranno a riprendersi la famiglia e una vita migliore in un'Italia senza confini e campanilismi."
+            },
+            {
                 "ora": "23:00",
                 "titolo": "Mamma mia! - Ci risiamo",
                 "descrizione": "Sono passati alcuni anni e Sophie ha deciso di rimodernare l'hotel di famiglia, sull'isola greca di Kalokairi, per rendere omaggio a Donna, che l'ha cresciuta da sola in quel paradiso terrestre. Mentre soffre per la lontananza di Sky e si adopera perché l'inaugurazione dell'hotel sia memorabile, la giovane donna ripensa alla vita di sua madre, a quel pugno di giorni che le sconvolsero la vita e alla scelta di restare sull'isola, la stessa che sta maturando lei, tra entusiasmo e perplessità."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Uno",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "22:25",
-                "titolo": "Quattro matrimoni",
-                "descrizione": "Uno degli ingredienti che non può mancare in un matrimonio è l'attenzione ai dettagli. Lo sanno le spose di oggi, che del dettaglio hanno fatto il must have del loro sì."
-            },
             {
                 "ora": "23:40",
                 "titolo": "Quattro matrimoni",
@@ -3322,6 +3317,11 @@
                 "descrizione": "Ep8 di 16 - Per la prima volta in assoluto, diciotto talentuosi Capi Chef professionisti, si sfideranno ad altissimi livelli per diventare il Capo Chef del ristorante Hell's Kitchen."
             },
             {
+                "ora": "22:25",
+                "titolo": "Quattro matrimoni",
+                "descrizione": "Uno degli ingredienti che non può mancare in un matrimonio è l'attenzione ai dettagli. Lo sanno le spose di oggi, che del dettaglio hanno fatto il must have del loro sì."
+            },
+            {
                 "ora": "22:20",
                 "titolo": "American Crime Story",
                 "descrizione": "American Crime Story è una serie televisiva antologica nata come una \"costola\" di American Horror Story. Ne mantiene la struttura, ma si discosta dal genere horror per raccontare noti casi giudiziari e di cronaca che hanno avuto un forte impatto mediatico."
@@ -3347,22 +3347,12 @@
                 "descrizione": "Ep.9 di 10 - Giardini d'arte a cielo aperto. Murales, installazioni e sculture che non solo decorano, ma raccontano storie, riflettono culture e stimolano la riflessione."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Atlantic",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "22:20",
-                "titolo": "American Crime Story",
-                "descrizione": "American Crime Story è una serie televisiva antologica nata come una \"costola\" di American Horror Story. Ne mantiene la struttura, ma si discosta dal genere horror per raccontare noti casi giudiziari e di cronaca che hanno avuto un forte impatto mediatico."
-            },
-            {
-                "ora": "23:25",
-                "titolo": "House of the Dragon",
-                "descrizione": "La serie prequel vede la dinastia Targaryen all'apice assoluto del suo potere, con più di 15 draghi sotto il loro giogo. La maggior parte degli imperi, che siano reali o immaginari, crollano quando raggiungono tali poteri e tali altezze. Nel caso dei Targaryen, la loro lenta caduta inizia quasi 193 anni prima degli eventi de Il Trono di Spade, quando re Viserys Targaryen rompe un secolo di tradizione nominando sua figlia Rhaenyra erede al Trono di Spade. La corte rimane scioccata quando Rhaenyra mantiene il suo status di erede nonostante Viserys in seguito avrà un figlio maschio, legittimo erede. Inizia così ad attecchire il seme della divisione e forti attriti in tutto il regno."
-            },
             {
                 "ora": "00:35",
                 "titolo": "Billy the Kid",
@@ -3404,6 +3394,11 @@
                 "descrizione": "Uno degli ingredienti che non può mancare in un matrimonio è l'attenzione ai dettagli. Lo sanno le spose di oggi, che del dettaglio hanno fatto il must have del loro sì."
             },
             {
+                "ora": "22:20",
+                "titolo": "American Crime Story",
+                "descrizione": "American Crime Story è una serie televisiva antologica nata come una \"costola\" di American Horror Story. Ne mantiene la struttura, ma si discosta dal genere horror per raccontare noti casi giudiziari e di cronaca che hanno avuto un forte impatto mediatico."
+            },
+            {
                 "ora": "22:05",
                 "titolo": "The Miniature Wife: Un piccolo problema\",\"prima\":true,\"description\":\"Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy  a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore.\",\"durata\":50,\"genre\":\"Dramma Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/99SkFAS3S3iOtnplwH0byFUMiHK.jpg\",\"episode_number\":6,\"series_number\":1,\"ac\":[{\"n\":\"Elizabeth Banks\",\"i\":\"zrkI1dYucpTM8Qydtrtro9MgQPb.jpg\",\"c\":\"Lindy Littlejohn\",\"u\":\"t\"},{\"n\":\"Matthew Macfadyen\",\"i\":\"2IWtWZTpAGh8QFVBjry1IZMN7F3.jpg\",\"c\":\"Les Littlejohn\",\"u\":\"t\"},{\"n\":\"Zoe Lister-Jones\",\"i\":\"hiuMwG45QCg0eUzhO15jyAFzx1i.jpg\",\"c\":\"Vivienne\",\"u\":\"t\"},{\"n\":\"Sofia Rosinsky\",\"i\":\"iScV4kn0sGzg8E3iQmgIKuJn3Kp.jpg\",\"c\":\"Lulu Littlejohn\",\"u\":\"t\"},{\"n\":\"O-T Fagbenle\",\"i\":\"baIiZBDYpYXfG4SlonbcqyYg6l.jpg\",\"c\":\"Richie\",\"u\":\"t\"},{\"n\":\"Sian Clifford\",\"i\":\"rIqcwewXdkrDTMTwX56QPa7MNTC.jpg\",\"c\":\"Terry Leyland\",\"u\":\"t\"},{\"n\":\"Aasif Mandvi\",\"i\":\"hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg\",\"c\":\"Martin Mucklowe\",\"u\":\"t\"},{\"n\":\"Rong Fu\",\"i\":\"cm6lDVMrP0Hw2Vh6aYMhrdJO5dB.jpg\",\"c\":\"Janet\",\"u\":\"t\"},{\"n\":\"Durae McFarlane\",\"i\":\"\",\"c\":\"Marker Bob\",\"u\":\"t\"},{\"n\":\"Leo Choy\",\"i\":\"pLZJ9jkC48JIzyUu1n45U5qTBVY.jpg\",\"c\":\"Eraser Bob\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/gQTjztsHxB7swHm6Dy2h8blukEi.jpg\",\"inizio\":\"2026-06-23T20:05:00.000Z\",\"fine\":\"2026-06-23T20:55:00.000Z\",\"rating\":\"3,7605\",\"condividi\":\"$undefined\",\"year\":\"2026\",\"pr\":\"Stati Uniti\",\"tiEp\":\"Buon Anno, Les\",\"trEp\":\"Dopo un importante successo in laboratorio, Les viene colto di sorpresa dalla scoperta di un ospite inatteso nella casa delle bambole che fa divampare le tensioni in famiglia.\"}},{\"canale\":{\"logo\":\"11246.png\",\"name\":\"Sky investigation HD\",\"number\":\"113\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"PWPDfazAUdek\",\"title\":\"Delitti ai Tropici",
                 "descrizione": "Il comandante della Police Nationale Mélissa Sainte-Rose, originaria della Martinica, viene trasferita dalla Francia continentale a Fort-de-France, dove trova alle sue dipendenze il capitano Gaëlle Crivelli. I rapporti sono tesi tra le due poliziotte, perché totalmente diverse nel loro comportamento, ma complementari per la risoluzione degli omicidi."
@@ -3412,24 +3407,19 @@
                 "ora": "22:10",
                 "titolo": "Delitti ai Caraibi",
                 "descrizione": "Il comandante della Police Nationale Mélissa Sainte-Rose, originaria della Martinica, viene trasferita dalla Francia continentale a Fort-de-France, dove trova alle sue dipendenze il capitano Gaëlle Crivelli. I rapporti sono tesi tra le due poliziotte, perché totalmente diverse nel loro comportamento, ma complementari per la risoluzione degli omicidi."
+            },
+            {
+                "ora": "22:50",
+                "titolo": "Traccia criminale",
+                "descrizione": "S1 Ep8 di 10 Amore avvelenato - Un'improvvisa e fatale malattia sconvolge la famiglia di un'amatissima dottoressa."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Serie",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "22:55",
-                "titolo": "The Miniature Wife: Un piccolo problema\",\"prima\":true,\"description\":\"Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy  a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore.\",\"durata\":50,\"genre\":\"Dramma Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/99SkFAS3S3iOtnplwH0byFUMiHK.jpg\",\"episode_number\":5,\"series_number\":1,\"ac\":[{\"n\":\"Elizabeth Banks\",\"i\":\"zrkI1dYucpTM8Qydtrtro9MgQPb.jpg\",\"c\":\"Lindy Littlejohn\",\"u\":\"t\"},{\"n\":\"Matthew Macfadyen\",\"i\":\"2IWtWZTpAGh8QFVBjry1IZMN7F3.jpg\",\"c\":\"Les Littlejohn\",\"u\":\"t\"},{\"n\":\"Zoe Lister-Jones\",\"i\":\"hiuMwG45QCg0eUzhO15jyAFzx1i.jpg\",\"c\":\"Vivienne\",\"u\":\"t\"},{\"n\":\"Sofia Rosinsky\",\"i\":\"iScV4kn0sGzg8E3iQmgIKuJn3Kp.jpg\",\"c\":\"Lulu Littlejohn\",\"u\":\"t\"},{\"n\":\"O-T Fagbenle\",\"i\":\"baIiZBDYpYXfG4SlonbcqyYg6l.jpg\",\"c\":\"Richie\",\"u\":\"t\"},{\"n\":\"Sian Clifford\",\"i\":\"rIqcwewXdkrDTMTwX56QPa7MNTC.jpg\",\"c\":\"Terry Leyland\",\"u\":\"t\"},{\"n\":\"Aasif Mandvi\",\"i\":\"hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg\",\"c\":\"Martin Mucklowe\",\"u\":\"t\"},{\"n\":\"Rong Fu\",\"i\":\"cm6lDVMrP0Hw2Vh6aYMhrdJO5dB.jpg\",\"c\":\"Janet\",\"u\":\"t\"},{\"n\":\"Durae McFarlane\",\"i\":\"\",\"c\":\"Marker Bob\",\"u\":\"t\"},{\"n\":\"Leo Choy\",\"i\":\"pLZJ9jkC48JIzyUu1n45U5qTBVY.jpg\",\"c\":\"Eraser Bob\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/gQTjztsHxB7swHm6Dy2h8blukEi.jpg\",\"inizio\":\"2026-06-23T19:15:00.000Z\",\"fine\":\"2026-06-23T20:05:00.000Z\",\"rating\":\"3,7605\",\"condividi\":\"$undefined\",\"year\":\"2026\",\"pr\":\"Stati Uniti\",\"tiEp\":\"Deliri\",\"trEp\":\"Mentre Les sprofonda in una spirale di ossessioni, Lindy conquista la ribalta, ma uno scandalo minaccia la sua carriera letteraria, indipendentemente dalla sua statura.\",\"primaSer\":true},{\"id\":\"ZT8n3lNiLATk\",\"title\":\"The Miniature Wife: Un piccolo problema\",\"prima\":true,\"description\":\"Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy  a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore.\",\"durata\":50,\"genre\":\"Dramma Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/99SkFAS3S3iOtnplwH0byFUMiHK.jpg\",\"episode_number\":6,\"series_number\":1,\"ac\":[{\"n\":\"Elizabeth Banks\",\"i\":\"zrkI1dYucpTM8Qydtrtro9MgQPb.jpg\",\"c\":\"Lindy Littlejohn\",\"u\":\"t\"},{\"n\":\"Matthew Macfadyen\",\"i\":\"2IWtWZTpAGh8QFVBjry1IZMN7F3.jpg\",\"c\":\"Les Littlejohn\",\"u\":\"t\"},{\"n\":\"Zoe Lister-Jones\",\"i\":\"hiuMwG45QCg0eUzhO15jyAFzx1i.jpg\",\"c\":\"Vivienne\",\"u\":\"t\"},{\"n\":\"Sofia Rosinsky\",\"i\":\"iScV4kn0sGzg8E3iQmgIKuJn3Kp.jpg\",\"c\":\"Lulu Littlejohn\",\"u\":\"t\"},{\"n\":\"O-T Fagbenle\",\"i\":\"baIiZBDYpYXfG4SlonbcqyYg6l.jpg\",\"c\":\"Richie\",\"u\":\"t\"},{\"n\":\"Sian Clifford\",\"i\":\"rIqcwewXdkrDTMTwX56QPa7MNTC.jpg\",\"c\":\"Terry Leyland\",\"u\":\"t\"},{\"n\":\"Aasif Mandvi\",\"i\":\"hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg\",\"c\":\"Martin Mucklowe\",\"u\":\"t\"},{\"n\":\"Rong Fu\",\"i\":\"cm6lDVMrP0Hw2Vh6aYMhrdJO5dB.jpg\",\"c\":\"Janet\",\"u\":\"t\"},{\"n\":\"Durae McFarlane\",\"i\":\"\",\"c\":\"Marker Bob\",\"u\":\"t\"},{\"n\":\"Leo Choy\",\"i\":\"pLZJ9jkC48JIzyUu1n45U5qTBVY.jpg\",\"c\":\"Eraser Bob\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/gQTjztsHxB7swHm6Dy2h8blukEi.jpg\",\"inizio\":\"2026-06-23T20:05:00.000Z\",\"fine\":\"2026-06-23T20:55:00.000Z\",\"rating\":\"3,7605\",\"condividi\":\"$undefined\",\"year\":\"2026\",\"pr\":\"Stati Uniti\",\"tiEp\":\"Buon Anno, Les\",\"trEp\":\"Dopo un importante successo in laboratorio, Les viene colto di sorpresa dalla scoperta di un ospite inatteso nella casa delle bambole che fa divampare le tensioni in famiglia.\",\"secSer\":true},{\"id\":\"Dn87DF4fp4me\",\"title\":\"The Miniature Wife: Un piccolo problema",
-                "descrizione": "Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "The Miniature Wife: Un piccolo problema",
-                "descrizione": "Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore."
-            },
             {
                 "ora": "00:35",
                 "titolo": "Friends",
@@ -3479,19 +3469,24 @@
                 "ora": "22:05",
                 "titolo": "The Miniature Wife: Un piccolo problema\",\"prima\":true,\"description\":\"Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy  a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore.\",\"durata\":50,\"genre\":\"Dramma Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/99SkFAS3S3iOtnplwH0byFUMiHK.jpg\",\"episode_number\":6,\"series_number\":1,\"ac\":[{\"n\":\"Elizabeth Banks\",\"i\":\"zrkI1dYucpTM8Qydtrtro9MgQPb.jpg\",\"c\":\"Lindy Littlejohn\",\"u\":\"t\"},{\"n\":\"Matthew Macfadyen\",\"i\":\"2IWtWZTpAGh8QFVBjry1IZMN7F3.jpg\",\"c\":\"Les Littlejohn\",\"u\":\"t\"},{\"n\":\"Zoe Lister-Jones\",\"i\":\"hiuMwG45QCg0eUzhO15jyAFzx1i.jpg\",\"c\":\"Vivienne\",\"u\":\"t\"},{\"n\":\"Sofia Rosinsky\",\"i\":\"iScV4kn0sGzg8E3iQmgIKuJn3Kp.jpg\",\"c\":\"Lulu Littlejohn\",\"u\":\"t\"},{\"n\":\"O-T Fagbenle\",\"i\":\"baIiZBDYpYXfG4SlonbcqyYg6l.jpg\",\"c\":\"Richie\",\"u\":\"t\"},{\"n\":\"Sian Clifford\",\"i\":\"rIqcwewXdkrDTMTwX56QPa7MNTC.jpg\",\"c\":\"Terry Leyland\",\"u\":\"t\"},{\"n\":\"Aasif Mandvi\",\"i\":\"hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg\",\"c\":\"Martin Mucklowe\",\"u\":\"t\"},{\"n\":\"Rong Fu\",\"i\":\"cm6lDVMrP0Hw2Vh6aYMhrdJO5dB.jpg\",\"c\":\"Janet\",\"u\":\"t\"},{\"n\":\"Durae McFarlane\",\"i\":\"\",\"c\":\"Marker Bob\",\"u\":\"t\"},{\"n\":\"Leo Choy\",\"i\":\"pLZJ9jkC48JIzyUu1n45U5qTBVY.jpg\",\"c\":\"Eraser Bob\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/gQTjztsHxB7swHm6Dy2h8blukEi.jpg\",\"inizio\":\"2026-06-23T20:05:00.000Z\",\"fine\":\"2026-06-23T20:55:00.000Z\",\"rating\":\"3,7605\",\"condividi\":\"$undefined\",\"year\":\"2026\",\"pr\":\"Stati Uniti\",\"tiEp\":\"Buon Anno, Les\",\"trEp\":\"Dopo un importante successo in laboratorio, Les viene colto di sorpresa dalla scoperta di un ospite inatteso nella casa delle bambole che fa divampare le tensioni in famiglia.\"}},{\"canale\":{\"logo\":\"11246.png\",\"name\":\"Sky investigation HD\",\"number\":\"113\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"PWPDfazAUdek\",\"title\":\"Delitti ai Tropici",
                 "descrizione": "Il comandante della Police Nationale Mélissa Sainte-Rose, originaria della Martinica, viene trasferita dalla Francia continentale a Fort-de-France, dove trova alle sue dipendenze il capitano Gaëlle Crivelli. I rapporti sono tesi tra le due poliziotte, perché totalmente diverse nel loro comportamento, ma complementari per la risoluzione degli omicidi."
+            },
+            {
+                "ora": "22:10",
+                "titolo": "Delitti ai Caraibi",
+                "descrizione": "Il comandante della Police Nationale Mélissa Sainte-Rose, originaria della Martinica, viene trasferita dalla Francia continentale a Fort-de-France, dove trova alle sue dipendenze il capitano Gaëlle Crivelli. I rapporti sono tesi tra le due poliziotte, perché totalmente diverse nel loro comportamento, ma complementari per la risoluzione degli omicidi."
+            },
+            {
+                "ora": "22:50",
+                "titolo": "Traccia criminale",
+                "descrizione": "S1 Ep8 di 10 Amore avvelenato - Un'improvvisa e fatale malattia sconvolge la famiglia di un'amatissima dottoressa."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Investigation",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Delitti in Paradiso",
-                "descrizione": "La serie si svolge nella splendida cornice di una piccola isola caraibica, Saint-Marie, dove il poliziotto Richard Poole, britannico doc, viene inviato per risolvere un misterioso omicidio.Poole si ritrova in una fatiscente stazione di polizia a lavorare con una nuova partner, la brillante Camille Bordey, in un ambiente totalmente diverso da tutto ciò a cui lui è abituato. Lui è un tipo da giacca, cravatta e mocassini... in spiaggia. Nonostante ciò, pur essendo assolutamente un pesce fuor d'acqua in questo paradiso terrestre, si dimostrerà all’altezza di risolvere ogni caso che si presenterà di episodio in episodio."
-            },
             {
                 "ora": "23:55",
                 "titolo": "Delitti in Paradiso",
@@ -3546,24 +3541,19 @@
                 "ora": "22:05",
                 "titolo": "The Miniature Wife: Un piccolo problema\",\"prima\":true,\"description\":\"Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy  a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore.\",\"durata\":50,\"genre\":\"Dramma Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/99SkFAS3S3iOtnplwH0byFUMiHK.jpg\",\"episode_number\":6,\"series_number\":1,\"ac\":[{\"n\":\"Elizabeth Banks\",\"i\":\"zrkI1dYucpTM8Qydtrtro9MgQPb.jpg\",\"c\":\"Lindy Littlejohn\",\"u\":\"t\"},{\"n\":\"Matthew Macfadyen\",\"i\":\"2IWtWZTpAGh8QFVBjry1IZMN7F3.jpg\",\"c\":\"Les Littlejohn\",\"u\":\"t\"},{\"n\":\"Zoe Lister-Jones\",\"i\":\"hiuMwG45QCg0eUzhO15jyAFzx1i.jpg\",\"c\":\"Vivienne\",\"u\":\"t\"},{\"n\":\"Sofia Rosinsky\",\"i\":\"iScV4kn0sGzg8E3iQmgIKuJn3Kp.jpg\",\"c\":\"Lulu Littlejohn\",\"u\":\"t\"},{\"n\":\"O-T Fagbenle\",\"i\":\"baIiZBDYpYXfG4SlonbcqyYg6l.jpg\",\"c\":\"Richie\",\"u\":\"t\"},{\"n\":\"Sian Clifford\",\"i\":\"rIqcwewXdkrDTMTwX56QPa7MNTC.jpg\",\"c\":\"Terry Leyland\",\"u\":\"t\"},{\"n\":\"Aasif Mandvi\",\"i\":\"hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg\",\"c\":\"Martin Mucklowe\",\"u\":\"t\"},{\"n\":\"Rong Fu\",\"i\":\"cm6lDVMrP0Hw2Vh6aYMhrdJO5dB.jpg\",\"c\":\"Janet\",\"u\":\"t\"},{\"n\":\"Durae McFarlane\",\"i\":\"\",\"c\":\"Marker Bob\",\"u\":\"t\"},{\"n\":\"Leo Choy\",\"i\":\"pLZJ9jkC48JIzyUu1n45U5qTBVY.jpg\",\"c\":\"Eraser Bob\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/gQTjztsHxB7swHm6Dy2h8blukEi.jpg\",\"inizio\":\"2026-06-23T20:05:00.000Z\",\"fine\":\"2026-06-23T20:55:00.000Z\",\"rating\":\"3,7605\",\"condividi\":\"$undefined\",\"year\":\"2026\",\"pr\":\"Stati Uniti\",\"tiEp\":\"Buon Anno, Les\",\"trEp\":\"Dopo un importante successo in laboratorio, Les viene colto di sorpresa dalla scoperta di un ospite inatteso nella casa delle bambole che fa divampare le tensioni in famiglia.\"}},{\"canale\":{\"logo\":\"11246.png\",\"name\":\"Sky investigation HD\",\"number\":\"113\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"PWPDfazAUdek\",\"title\":\"Delitti ai Tropici",
                 "descrizione": "Il comandante della Police Nationale Mélissa Sainte-Rose, originaria della Martinica, viene trasferita dalla Francia continentale a Fort-de-France, dove trova alle sue dipendenze il capitano Gaëlle Crivelli. I rapporti sono tesi tra le due poliziotte, perché totalmente diverse nel loro comportamento, ma complementari per la risoluzione degli omicidi."
+            },
+            {
+                "ora": "22:10",
+                "titolo": "Delitti ai Caraibi",
+                "descrizione": "Il comandante della Police Nationale Mélissa Sainte-Rose, originaria della Martinica, viene trasferita dalla Francia continentale a Fort-de-France, dove trova alle sue dipendenze il capitano Gaëlle Crivelli. I rapporti sono tesi tra le due poliziotte, perché totalmente diverse nel loro comportamento, ma complementari per la risoluzione degli omicidi."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Crime",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "22:50",
-                "titolo": "Traccia criminale",
-                "descrizione": "S1 Ep8 di 10 Amore avvelenato - Un'improvvisa e fatale malattia sconvolge la famiglia di un'amatissima dottoressa."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "EX - Non mi manchi per niente",
-                "descrizione": "S4 Ep11 di 13 Licenza d'amore - Un artista che realizza fumetti si ispira alla sua fidanzata, ma inizia a preoccuparsi quando non distingue piu' la fantasia dalla realta'."
-            },
             {
                 "ora": "00:35",
                 "titolo": "EX - Non mi manchi per niente",
@@ -3613,24 +3603,24 @@
                 "ora": "22:05",
                 "titolo": "The Miniature Wife: Un piccolo problema\",\"prima\":true,\"description\":\"Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy  a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore.\",\"durata\":50,\"genre\":\"Dramma Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/99SkFAS3S3iOtnplwH0byFUMiHK.jpg\",\"episode_number\":6,\"series_number\":1,\"ac\":[{\"n\":\"Elizabeth Banks\",\"i\":\"zrkI1dYucpTM8Qydtrtro9MgQPb.jpg\",\"c\":\"Lindy Littlejohn\",\"u\":\"t\"},{\"n\":\"Matthew Macfadyen\",\"i\":\"2IWtWZTpAGh8QFVBjry1IZMN7F3.jpg\",\"c\":\"Les Littlejohn\",\"u\":\"t\"},{\"n\":\"Zoe Lister-Jones\",\"i\":\"hiuMwG45QCg0eUzhO15jyAFzx1i.jpg\",\"c\":\"Vivienne\",\"u\":\"t\"},{\"n\":\"Sofia Rosinsky\",\"i\":\"iScV4kn0sGzg8E3iQmgIKuJn3Kp.jpg\",\"c\":\"Lulu Littlejohn\",\"u\":\"t\"},{\"n\":\"O-T Fagbenle\",\"i\":\"baIiZBDYpYXfG4SlonbcqyYg6l.jpg\",\"c\":\"Richie\",\"u\":\"t\"},{\"n\":\"Sian Clifford\",\"i\":\"rIqcwewXdkrDTMTwX56QPa7MNTC.jpg\",\"c\":\"Terry Leyland\",\"u\":\"t\"},{\"n\":\"Aasif Mandvi\",\"i\":\"hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg\",\"c\":\"Martin Mucklowe\",\"u\":\"t\"},{\"n\":\"Rong Fu\",\"i\":\"cm6lDVMrP0Hw2Vh6aYMhrdJO5dB.jpg\",\"c\":\"Janet\",\"u\":\"t\"},{\"n\":\"Durae McFarlane\",\"i\":\"\",\"c\":\"Marker Bob\",\"u\":\"t\"},{\"n\":\"Leo Choy\",\"i\":\"pLZJ9jkC48JIzyUu1n45U5qTBVY.jpg\",\"c\":\"Eraser Bob\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/gQTjztsHxB7swHm6Dy2h8blukEi.jpg\",\"inizio\":\"2026-06-23T20:05:00.000Z\",\"fine\":\"2026-06-23T20:55:00.000Z\",\"rating\":\"3,7605\",\"condividi\":\"$undefined\",\"year\":\"2026\",\"pr\":\"Stati Uniti\",\"tiEp\":\"Buon Anno, Les\",\"trEp\":\"Dopo un importante successo in laboratorio, Les viene colto di sorpresa dalla scoperta di un ospite inatteso nella casa delle bambole che fa divampare le tensioni in famiglia.\"}},{\"canale\":{\"logo\":\"11246.png\",\"name\":\"Sky investigation HD\",\"number\":\"113\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"PWPDfazAUdek\",\"title\":\"Delitti ai Tropici",
                 "descrizione": "Il comandante della Police Nationale Mélissa Sainte-Rose, originaria della Martinica, viene trasferita dalla Francia continentale a Fort-de-France, dove trova alle sue dipendenze il capitano Gaëlle Crivelli. I rapporti sono tesi tra le due poliziotte, perché totalmente diverse nel loro comportamento, ma complementari per la risoluzione degli omicidi."
+            },
+            {
+                "ora": "22:10",
+                "titolo": "Delitti ai Caraibi",
+                "descrizione": "Il comandante della Police Nationale Mélissa Sainte-Rose, originaria della Martinica, viene trasferita dalla Francia continentale a Fort-de-France, dove trova alle sue dipendenze il capitano Gaëlle Crivelli. I rapporti sono tesi tra le due poliziotte, perché totalmente diverse nel loro comportamento, ma complementari per la risoluzione degli omicidi."
+            },
+            {
+                "ora": "22:50",
+                "titolo": "Traccia criminale",
+                "descrizione": "S1 Ep8 di 10 Amore avvelenato - Un'improvvisa e fatale malattia sconvolge la famiglia di un'amatissima dottoressa."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Adventure",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Shark - Il primo squalo",
-                "descrizione": "Un sommergibile oceanico, parte di un programma internazionale di osservazione sottomarina, viene attaccato da un’imponente creatura che si riteneva estinta e che ora giace sul fondo della fossa più profonda del Pacifico… e il suo equipaggio è intrappolato all’interno. Il tempo stringe, l’esperto di salvataggi subacquei Jonas Taylor viene incaricato da un visionario oceanografo cinese, contro il volere della figlia Suyin, di salvare l’equipaggio. e l’oceano stesso. da questa inarrestabile minaccia: uno squalo preistorico di quasi 23 metri conosciuto come Megalodon. Quello che nessuno avrebbe potuto immaginare era che, anni prima, Taylor si era già trovato faccia a faccia con quella terrificante creatura. E ora, in squadra con Suyin, deve affrontare le sue paure e mettere a rischio la propria vita per salvare l’equipaggio intrappolato laggiù e ritrovarsi ancora una volta di fronte al più grande predatore di tutti i tempi."
-            },
-            {
-                "ora": "23:10",
-                "titolo": "Chasing Monsters: A caccia di mostri",
-                "descrizione": "Cyril si trova nel Pacifico meridionale per catturare un pesce enorme e leggendario, conosciuto dalla gente del posto come 'Uruati'. Come se non bastasse, cerca di riuscirci senza venire divorato dagli squali."
-            },
             {
                 "ora": "00:10",
                 "titolo": "Uomo Contro Squalo",
@@ -3680,29 +3670,24 @@
                 "ora": "22:05",
                 "titolo": "The Miniature Wife: Un piccolo problema\",\"prima\":true,\"description\":\"Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy  a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore.\",\"durata\":50,\"genre\":\"Dramma Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/99SkFAS3S3iOtnplwH0byFUMiHK.jpg\",\"episode_number\":6,\"series_number\":1,\"ac\":[{\"n\":\"Elizabeth Banks\",\"i\":\"zrkI1dYucpTM8Qydtrtro9MgQPb.jpg\",\"c\":\"Lindy Littlejohn\",\"u\":\"t\"},{\"n\":\"Matthew Macfadyen\",\"i\":\"2IWtWZTpAGh8QFVBjry1IZMN7F3.jpg\",\"c\":\"Les Littlejohn\",\"u\":\"t\"},{\"n\":\"Zoe Lister-Jones\",\"i\":\"hiuMwG45QCg0eUzhO15jyAFzx1i.jpg\",\"c\":\"Vivienne\",\"u\":\"t\"},{\"n\":\"Sofia Rosinsky\",\"i\":\"iScV4kn0sGzg8E3iQmgIKuJn3Kp.jpg\",\"c\":\"Lulu Littlejohn\",\"u\":\"t\"},{\"n\":\"O-T Fagbenle\",\"i\":\"baIiZBDYpYXfG4SlonbcqyYg6l.jpg\",\"c\":\"Richie\",\"u\":\"t\"},{\"n\":\"Sian Clifford\",\"i\":\"rIqcwewXdkrDTMTwX56QPa7MNTC.jpg\",\"c\":\"Terry Leyland\",\"u\":\"t\"},{\"n\":\"Aasif Mandvi\",\"i\":\"hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg\",\"c\":\"Martin Mucklowe\",\"u\":\"t\"},{\"n\":\"Rong Fu\",\"i\":\"cm6lDVMrP0Hw2Vh6aYMhrdJO5dB.jpg\",\"c\":\"Janet\",\"u\":\"t\"},{\"n\":\"Durae McFarlane\",\"i\":\"\",\"c\":\"Marker Bob\",\"u\":\"t\"},{\"n\":\"Leo Choy\",\"i\":\"pLZJ9jkC48JIzyUu1n45U5qTBVY.jpg\",\"c\":\"Eraser Bob\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/gQTjztsHxB7swHm6Dy2h8blukEi.jpg\",\"inizio\":\"2026-06-23T20:05:00.000Z\",\"fine\":\"2026-06-23T20:55:00.000Z\",\"rating\":\"3,7605\",\"condividi\":\"$undefined\",\"year\":\"2026\",\"pr\":\"Stati Uniti\",\"tiEp\":\"Buon Anno, Les\",\"trEp\":\"Dopo un importante successo in laboratorio, Les viene colto di sorpresa dalla scoperta di un ospite inatteso nella casa delle bambole che fa divampare le tensioni in famiglia.\"}},{\"canale\":{\"logo\":\"11246.png\",\"name\":\"Sky investigation HD\",\"number\":\"113\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"PWPDfazAUdek\",\"title\":\"Delitti ai Tropici",
                 "descrizione": "Il comandante della Police Nationale Mélissa Sainte-Rose, originaria della Martinica, viene trasferita dalla Francia continentale a Fort-de-France, dove trova alle sue dipendenze il capitano Gaëlle Crivelli. I rapporti sono tesi tra le due poliziotte, perché totalmente diverse nel loro comportamento, ma complementari per la risoluzione degli omicidi."
+            },
+            {
+                "ora": "22:10",
+                "titolo": "Delitti ai Caraibi",
+                "descrizione": "Il comandante della Police Nationale Mélissa Sainte-Rose, originaria della Martinica, viene trasferita dalla Francia continentale a Fort-de-France, dove trova alle sue dipendenze il capitano Gaëlle Crivelli. I rapporti sono tesi tra le due poliziotte, perché totalmente diverse nel loro comportamento, ma complementari per la risoluzione degli omicidi."
+            },
+            {
+                "ora": "22:50",
+                "titolo": "Traccia criminale",
+                "descrizione": "S1 Ep8 di 10 Amore avvelenato - Un'improvvisa e fatale malattia sconvolge la famiglia di un'amatissima dottoressa."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "MTV",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "22:55",
-                "titolo": "MTV Floribama Shore",
-                "descrizione": "Ep6 di 16 - Nilsa porta un nuovo ragazzo a casa e Gus diventa presto geloso."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Ridiculousness: Veri American Idiots",
-                "descrizione": "Ep16 di 42 - In questa puntata Rob e Steelo sono affiancati da Lolo Wood."
-            },
-            {
-                "ora": "00:05",
-                "titolo": "Ridiculousness: Veri American Idiots",
-                "descrizione": "Ep10 di 42 Sterling e Rocsi Diaz XIV - Rob, Steelo e Rocsi Diaz oscillano in INDOOR GOLF, diventano sdolcinati in MULTI PURPOSE PIZZA e si fanno seri in KILLER DRILLERS."
-            },
             {
                 "ora": "00:35",
                 "titolo": "Ridiculousness: Veri American Idiots",
@@ -3747,34 +3732,29 @@
                 "ora": "05:20",
                 "titolo": "Ridiculousness: Veri American Idiots",
                 "descrizione": "Ep6 di 42 - Ridiculousness è tornato con la trentaduesima stagione! Unitevi a Rob Dyrdek, Sterling Brim e ai loro ospiti speciali."
+            },
+            {
+                "ora": "05:40",
+                "titolo": "Ridiculousness: Veri American Idiots",
+                "descrizione": "Ep7 di 42 - Ridiculousness è tornato con la trentaduesima stagione! Unitevi a Rob Dyrdek, Sterling Brim e ai loro ospiti speciali."
+            },
+            {
+                "ora": "22:25",
+                "titolo": "Quattro matrimoni",
+                "descrizione": "Uno degli ingredienti che non può mancare in un matrimonio è l'attenzione ai dettagli. Lo sanno le spose di oggi, che del dettaglio hanno fatto il must have del loro sì."
+            },
+            {
+                "ora": "22:20",
+                "titolo": "American Crime Story",
+                "descrizione": "American Crime Story è una serie televisiva antologica nata come una \"costola\" di American Horror Story. Ne mantiene la struttura, ma si discosta dal genere horror per raccontare noti casi giudiziari e di cronaca che hanno avuto un forte impatto mediatico."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Comedy Central",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "22:45",
-                "titolo": "South Park",
-                "descrizione": "Stanley \"Stan\" Marsh, Eric Cartman e Kyle Broflosky e Kenneth \"Kenny\" McCormick, quattro ragazzi che frequentano la scuola elementare e vivono nella cittadina di South Park, in Colorado. Pestiferi, osceni e sfacciatamente intelligenti i ragazzacci affrontano temi di attualità con immediatezza e sana cattiveria sfatando tabù e demonizzando la società americana. Le loro \"armi\" sono la parodia, la commedia nera e il linguaggio scurrile."
-            },
-            {
-                "ora": "23:10",
-                "titolo": "South Park",
-                "descrizione": "Stanley \"Stan\" Marsh, Eric Cartman e Kyle Broflosky e Kenneth \"Kenny\" McCormick, quattro ragazzi che frequentano la scuola elementare e vivono nella cittadina di South Park, in Colorado. Pestiferi, osceni e sfacciatamente intelligenti i ragazzacci affrontano temi di attualità con immediatezza e sana cattiveria sfatando tabù e demonizzando la società americana. Le loro \"armi\" sono la parodia, la commedia nera e il linguaggio scurrile."
-            },
-            {
-                "ora": "23:35",
-                "titolo": "South Park",
-                "descrizione": "Stanley \"Stan\" Marsh, Eric Cartman e Kyle Broflosky e Kenneth \"Kenny\" McCormick, quattro ragazzi che frequentano la scuola elementare e vivono nella cittadina di South Park, in Colorado. Pestiferi, osceni e sfacciatamente intelligenti i ragazzacci affrontano temi di attualità con immediatezza e sana cattiveria sfatando tabù e demonizzando la società americana. Le loro \"armi\" sono la parodia, la commedia nera e il linguaggio scurrile."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Stand Up Comedy",
-                "descrizione": "Ep24 di 24 - Daniele Fabbri ha un consiglio per gli uomini in sala. Francesco Mileto ci parla di oroscopo e segni zodiacali."
-            },
             {
                 "ora": "00:25",
                 "titolo": "Stand Up Comedy",
@@ -3814,24 +3794,34 @@
                 "ora": "03:05",
                 "titolo": "Key & Peele",
                 "descrizione": "Ep6 di 13 - Keegan intervista un campione di football, Wendell vuole farsi cambiare un materasso, due posteggiatori parlano di cinema."
+            },
+            {
+                "ora": "03:30",
+                "titolo": "Awkwafina è Nora del Queens",
+                "descrizione": "Nora riflette sulla sua vita, Edmund insegue il suo sogno di diventare attore, la nonna prende posizione e Wally si avvicina a Brenda."
+            },
+            {
+                "ora": "03:50",
+                "titolo": "Mike Judge's Beavis and Butt-Head",
+                "descrizione": "Ep11 di 12 - Beavis vede la faccia di Gesù in un nacho, e parte in un viaggio epico per cercare la risposta alla domanda: 'Perché non vado mai in buca?'"
+            },
+            {
+                "ora": "04:10",
+                "titolo": "Mike Judge's Beavis and Butt-Head",
+                "descrizione": "Ep12 di 12 - I ragazzi restano svegli per diversi giorni. / Beavis e Butt-Head costruiscono lo scheletro di un dinosauro."
+            },
+            {
+                "ora": "04:30",
+                "titolo": "Mike Judge's Beavis and Butt-Head",
+                "descrizione": "Ep1 di 12 - Beavis e Butt-Head provano a meditare. I ragazzi scoprono che andare a votare non è come pensano."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Arte",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "22:45",
-                "titolo": "Marrone Custom Cooking. Incontri In Cucina",
-                "descrizione": "Marrone, eccellenza italiana: da azienda familiare a riferimento globale nelle cucine su misura."
-            },
-            {
-                "ora": "23:25",
-                "titolo": "Italy For Movies",
-                "descrizione": "Ep.9 di 10 - Giardini d'arte a cielo aperto. Murales, installazioni e sculture che non solo decorano, ma raccontano storie, riflettono culture e stimolano la riflessione."
-            },
             {
                 "ora": "00:15",
                 "titolo": "Italy For Movies",
@@ -3881,24 +3871,24 @@
                 "ora": "22:05",
                 "titolo": "The Miniature Wife: Un piccolo problema\",\"prima\":true,\"description\":\"Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy  a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore.\",\"durata\":50,\"genre\":\"Dramma Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/99SkFAS3S3iOtnplwH0byFUMiHK.jpg\",\"episode_number\":6,\"series_number\":1,\"ac\":[{\"n\":\"Elizabeth Banks\",\"i\":\"zrkI1dYucpTM8Qydtrtro9MgQPb.jpg\",\"c\":\"Lindy Littlejohn\",\"u\":\"t\"},{\"n\":\"Matthew Macfadyen\",\"i\":\"2IWtWZTpAGh8QFVBjry1IZMN7F3.jpg\",\"c\":\"Les Littlejohn\",\"u\":\"t\"},{\"n\":\"Zoe Lister-Jones\",\"i\":\"hiuMwG45QCg0eUzhO15jyAFzx1i.jpg\",\"c\":\"Vivienne\",\"u\":\"t\"},{\"n\":\"Sofia Rosinsky\",\"i\":\"iScV4kn0sGzg8E3iQmgIKuJn3Kp.jpg\",\"c\":\"Lulu Littlejohn\",\"u\":\"t\"},{\"n\":\"O-T Fagbenle\",\"i\":\"baIiZBDYpYXfG4SlonbcqyYg6l.jpg\",\"c\":\"Richie\",\"u\":\"t\"},{\"n\":\"Sian Clifford\",\"i\":\"rIqcwewXdkrDTMTwX56QPa7MNTC.jpg\",\"c\":\"Terry Leyland\",\"u\":\"t\"},{\"n\":\"Aasif Mandvi\",\"i\":\"hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg\",\"c\":\"Martin Mucklowe\",\"u\":\"t\"},{\"n\":\"Rong Fu\",\"i\":\"cm6lDVMrP0Hw2Vh6aYMhrdJO5dB.jpg\",\"c\":\"Janet\",\"u\":\"t\"},{\"n\":\"Durae McFarlane\",\"i\":\"\",\"c\":\"Marker Bob\",\"u\":\"t\"},{\"n\":\"Leo Choy\",\"i\":\"pLZJ9jkC48JIzyUu1n45U5qTBVY.jpg\",\"c\":\"Eraser Bob\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/gQTjztsHxB7swHm6Dy2h8blukEi.jpg\",\"inizio\":\"2026-06-23T20:05:00.000Z\",\"fine\":\"2026-06-23T20:55:00.000Z\",\"rating\":\"3,7605\",\"condividi\":\"$undefined\",\"year\":\"2026\",\"pr\":\"Stati Uniti\",\"tiEp\":\"Buon Anno, Les\",\"trEp\":\"Dopo un importante successo in laboratorio, Les viene colto di sorpresa dalla scoperta di un ospite inatteso nella casa delle bambole che fa divampare le tensioni in famiglia.\"}},{\"canale\":{\"logo\":\"11246.png\",\"name\":\"Sky investigation HD\",\"number\":\"113\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"PWPDfazAUdek\",\"title\":\"Delitti ai Tropici",
                 "descrizione": "Il comandante della Police Nationale Mélissa Sainte-Rose, originaria della Martinica, viene trasferita dalla Francia continentale a Fort-de-France, dove trova alle sue dipendenze il capitano Gaëlle Crivelli. I rapporti sono tesi tra le due poliziotte, perché totalmente diverse nel loro comportamento, ma complementari per la risoluzione degli omicidi."
+            },
+            {
+                "ora": "22:10",
+                "titolo": "Delitti ai Caraibi",
+                "descrizione": "Il comandante della Police Nationale Mélissa Sainte-Rose, originaria della Martinica, viene trasferita dalla Francia continentale a Fort-de-France, dove trova alle sue dipendenze il capitano Gaëlle Crivelli. I rapporti sono tesi tra le due poliziotte, perché totalmente diverse nel loro comportamento, ma complementari per la risoluzione degli omicidi."
+            },
+            {
+                "ora": "22:50",
+                "titolo": "Traccia criminale",
+                "descrizione": "S1 Ep8 di 10 Amore avvelenato - Un'improvvisa e fatale malattia sconvolge la famiglia di un'amatissima dottoressa."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky Documentaries",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "22:50",
-                "titolo": "Il tramonto dell'antico regno d'Egitto",
-                "descrizione": "Alcuni sovrani deboli minano la stabilità dell'antico Egitto. Centocinquant'anni di morte e distruzione portando ad un drammatico crollo della civiltà egizia."
-            },
-            {
-                "ora": "23:50",
-                "titolo": "A caccia di tombe egizie",
-                "descrizione": "Scopriamo in cosa consiste il processo di mummificazione praticato dagli antichi Egizi ed indaghiamo sulla figura del faraone Ramses II. Inoltr,e entriamo in alcune tombe che sono state sigillate per migliaia di anni."
-            },
             {
                 "ora": "00:40",
                 "titolo": "Nazzi racconta",
@@ -3948,24 +3938,24 @@
                 "ora": "22:00",
                 "titolo": "Il tramonto dell'antico regno d'Egitto",
                 "descrizione": "Circa 4200 anni fa, una della civiltà più importante al mondo, l'antico Egitto, crolla e scompare. I potenti faraoni perdono il controllo e il paese precipita nel caos e in guerre civili."
-            }
-        ],
-        "aggiornato": "21:08"
-    },
-    {
-        "canale": "Sky Nature",
-        "categoria": "Documentari",
-        "programmi": [
+            },
             {
                 "ora": "22:55",
                 "titolo": "Le coste selvagge dell'Africa",
                 "descrizione": "S1 Ep1 - La zona intercotidale africana ospita un universo unico di piante e creature."
             },
             {
-                "ora": "23:50",
-                "titolo": "Le coste selvagge dell'Africa",
-                "descrizione": "S1 Ep2 - Le due spettacolari costiere che si congiungono sulla punta sud dell'Africa."
-            },
+                "ora": "22:00",
+                "titolo": "World War II con Tom Hanks",
+                "descrizione": "S1 Ep9 di 20 Codice Enigma - Combattuta tra spie o usando codici segreti. Il piu' celebre e' Enigma, decifrato dal britannico Alan Turing."
+            }
+        ],
+        "aggiornato": "22:51"
+    },
+    {
+        "canale": "Sky Nature",
+        "categoria": "Documentari",
+        "programmi": [
             {
                 "ora": "00:40",
                 "titolo": "Panorami nascosti",
@@ -4012,27 +4002,27 @@
                 "descrizione": "Circa 4200 anni fa, una della civiltà più importante al mondo, l'antico Egitto, crolla e scompare. I potenti faraoni perdono il controllo e il paese precipita nel caos e in guerre civili."
             },
             {
+                "ora": "22:55",
+                "titolo": "Le coste selvagge dell'Africa",
+                "descrizione": "S1 Ep1 - La zona intercotidale africana ospita un universo unico di piante e creature."
+            },
+            {
                 "ora": "22:00",
                 "titolo": "World War II con Tom Hanks",
                 "descrizione": "S1 Ep9 di 20 Codice Enigma - Combattuta tra spie o usando codici segreti. Il piu' celebre e' Enigma, decifrato dal britannico Alan Turing."
+            },
+            {
+                "ora": "21:00",
+                "titolo": "L'altra Capri",
+                "descrizione": "Capri, non solo faraglioni ma storie di prodotti, di persone, di ville, di sentieri che fanno di Capri un'isola unica al mondo."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Discovery Channel",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "22:30",
-                "titolo": "La febbre dell'oro",
-                "descrizione": "Proseguono le avventure dei cacciatori d'oro."
-            },
-            {
-                "ora": "00:10",
-                "titolo": "Come e' fatto",
-                "descrizione": "Scopriamo come vengono realizzati alcuni oggetti di uso quotidiano come le gemme al plasma e la neve per gli effetti speciali."
-            },
             {
                 "ora": "00:40",
                 "titolo": "Come e' fatto",
@@ -4082,24 +4072,24 @@
                 "ora": "21:20",
                 "titolo": "Storie Al Bivio Di Sera",
                 "descrizione": "I protagonisti della politica, dell'attualità, della cultura o dello spettacolo raccontano senza filtri il loro momento di svolta e le loro scelte di vita, tra famiglia, carriera, figli e amori."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "TG3 Linea Notte",
+                "descrizione": "TG3 Linea Notte"
+            },
+            {
+                "ora": "21:34",
+                "titolo": "E' sempre cartabianca",
+                "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "History Channel",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "22:50",
-                "titolo": "World War II con Tom Hanks",
-                "descrizione": "S1 Ep10 di 20 Stalingrado - Nel 1942 Hitler lancia l'assalto a Stalingrado: sara' una delle battaglie piu' cruente della storia, con circa due milioni di morti."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "World War II con Tom Hanks",
-                "descrizione": "S1 Ep9 di 20 Codice Enigma - Combattuta tra spie o usando codici segreti. Il piu' celebre e' Enigma, decifrato dal britannico Alan Turing."
-            },
             {
                 "ora": "00:35",
                 "titolo": "World War II con Tom Hanks",
@@ -4149,34 +4139,24 @@
                 "ora": "22:55",
                 "titolo": "Le coste selvagge dell'Africa",
                 "descrizione": "S1 Ep1 - La zona intercotidale africana ospita un universo unico di piante e creature."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "World War II con Tom Hanks",
+                "descrizione": "S1 Ep9 di 20 Codice Enigma - Combattuta tra spie o usando codici segreti. Il piu' celebre e' Enigma, decifrato dal britannico Alan Turing."
+            },
+            {
+                "ora": "21:00",
+                "titolo": "L'altra Capri",
+                "descrizione": "Capri, non solo faraglioni ma storie di prodotti, di persone, di ville, di sentieri che fanno di Capri un'isola unica al mondo."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     },
     {
         "canale": "Sky TG 24",
         "categoria": "News",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Skyline",
-                "descrizione": "Con Skyline, dal lunedi' al venerdi', vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Skyline",
-                "descrizione": "Con Skyline, dal lunedi' al venerdi', vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie."
-            },
-            {
-                "ora": "23:50",
-                "titolo": "Sky Meteo24",
-                "descrizione": "Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Skyline",
-                "descrizione": "Con Skyline, dal lunedi' al venerdi', vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie."
-            },
             {
                 "ora": "00:30",
                 "titolo": "TG24 Edicola",
@@ -4216,8 +4196,28 @@
                 "ora": "04:00",
                 "titolo": "TG24 Edicola",
                 "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "04:30",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "05:00",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "05:30",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "21:30",
+                "titolo": "Inghilterra - Ghana",
+                "descrizione": "Inghilterra e Ghana si giocano a Boston il primato del gruppo L. La nazionale dei Tre Leoni di Kane e Bellingham parte ovviamente con tutti i favori del pronostico."
             }
         ],
-        "aggiornato": "21:08"
+        "aggiornato": "22:51"
     }
 ]
