@@ -4,16 +4,6 @@
         "categoria": "Digitale Terrestre",
         "programmi": [
             {
-                "ora": "21:25",
-                "titolo": "Ecuador - Germania",
-                "descrizione": "Collegamento pre e post partita con la supervisione di Marco Mazzocchi e Massimo Proietto. Conduce Paola Ferrari con Simona Rolandi, Paulo Roberto Falcao e Marco Tardelli. Regia di Marco Spoletini. Partita del Mondiale di Calcio Fifa 2026 in programma dall'11 giugno al 19 luglio 2026, in diverse città di Stati Uniti, Canada e Messico. Coppa del Mondo di Calcio FIFA 2026. Un programma a cura di Rai Sport con la Supervisione Marco Lollobrigida. In diretta dal MetLife Stadium di New Jersey (New York). Telecronaca di Giuseppe Galati. Commento tecnico di Daniele Adani."
-            },
-            {
-                "ora": "00:15",
-                "titolo": "TG1 Sera",
-                "descrizione": "TG1 Sera"
-            },
-            {
                 "ora": "00:20",
                 "titolo": "Notti Mondiali",
                 "descrizione": "Commenti e approfondimenti sulla partita dei Mondiali FIFA 2026 appena conclusa. Conduce Alessandro Antinelli. Ospiti Paulo Roberto Falcao, Marco Tardelli, Ciccio Graziani, Massimo De Luca, Manuela Giugliano, Alessio Dionisi. Regia di Annarita Cardinali."
@@ -44,6 +34,11 @@
                 "descrizione": "RaiNews24"
             },
             {
+                "ora": "21:25",
+                "titolo": "Ecuador - Germania",
+                "descrizione": "Collegamento pre e post partita con la supervisione di Marco Mazzocchi e Massimo Proietto. Conduce Paola Ferrari con Simona Rolandi, Paulo Roberto Falcao e Marco Tardelli. Regia di Marco Spoletini. Partita del Mondiale di Calcio Fifa 2026 in programma dall'11 giugno al 19 luglio 2026, in diverse città di Stati Uniti, Canada e Messico. Coppa del Mondo di Calcio FIFA 2026. Un programma a cura di Rai Sport con la Supervisione Marco Lollobrigida. In diretta dal MetLife Stadium di New Jersey (New York). Telecronaca di Giuseppe Galati. Commento tecnico di Daniele Adani."
+            },
+            {
                 "ora": "23:00",
                 "titolo": "In fuga dall'incubo",
                 "descrizione": "In fuga dal marito violento Peter, Jess prende il figlio Noah e trova rifugio a casa della sorella a Los Angeles. Eppure, Jess, paranoica, continua a credere di vedere Peter seguirla ovunque e di non riuscire a liberarsene. Quando Peter viene inaspettatamente dichiarato morto in un incidente, Jess pensa di essersi finalmente liberata di lui, eppure continua a vederlo."
@@ -62,24 +57,19 @@
                 "ora": "01:32",
                 "titolo": "L'isola di Pietro 2",
                 "descrizione": "Carloforte. Il dottor Pietro Sereni, Gianni Morandi, ha ritrovato la figlia Elena. Ma un brutto incidente sconvolge la pace ritrovata."
+            },
+            {
+                "ora": "21:30",
+                "titolo": "Sarabanda Celebrity",
+                "descrizione": "Condotto da Enrico Papi, 8 celebrita', divise in 2 squadre da 4, si affronteranno in una serie di giochi iconici. L'obiettivo: accumulare punti e jolly per affrontare al meglio il 7X30 finale."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Rai 2",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "In fuga dall'incubo",
-                "descrizione": "In fuga dal marito violento Peter, Jess prende il figlio Noah e trova rifugio a casa della sorella a Los Angeles. Eppure, Jess, paranoica, continua a credere di vedere Peter seguirla ovunque e di non riuscire a liberarsene. Quando Peter viene inaspettatamente dichiarato morto in un incidente, Jess pensa di essersi finalmente liberata di lui, eppure continua a vederlo."
-            },
-            {
-                "ora": "00:29",
-                "titolo": "Meteo 2",
-                "descrizione": "Meteo 2"
-            },
             {
                 "ora": "00:35",
                 "titolo": "Cemento armato",
@@ -126,32 +116,27 @@
                 "descrizione": "Collegamento pre e post partita con la supervisione di Marco Mazzocchi e Massimo Proietto. Conduce Paola Ferrari con Simona Rolandi, Paulo Roberto Falcao e Marco Tardelli. Regia di Marco Spoletini. Partita del Mondiale di Calcio Fifa 2026 in programma dall'11 giugno al 19 luglio 2026, in diverse città di Stati Uniti, Canada e Messico. Coppa del Mondo di Calcio FIFA 2026. Un programma a cura di Rai Sport con la Supervisione Marco Lollobrigida. In diretta dal MetLife Stadium di New Jersey (New York). Telecronaca di Giuseppe Galati. Commento tecnico di Daniele Adani."
             },
             {
+                "ora": "23:00",
+                "titolo": "In fuga dall'incubo",
+                "descrizione": "In fuga dal marito violento Peter, Jess prende il figlio Noah e trova rifugio a casa della sorella a Los Angeles. Eppure, Jess, paranoica, continua a credere di vedere Peter seguirla ovunque e di non riuscire a liberarsene. Quando Peter viene inaspettatamente dichiarato morto in un incidente, Jess pensa di essersi finalmente liberata di lui, eppure continua a vederlo."
+            },
+            {
                 "ora": "00:00",
                 "titolo": "TG3 Linea Notte",
                 "descrizione": "TG3 Linea Notte"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Quarto grado",
+                "descrizione": "Approfondimento giornalistico condotto da Gianluigi Nuzzi e Alessandra Viero su alcuni dei gialli irrisolti della cronaca."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Rai 3",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Il Mondo Con Gli Occhi Di Overland - Costa Rica: L'Oro Verde Del Centro America + Ritorno Alle Origini",
-                "descrizione": "$23"
-            },
-            {
-                "ora": "23:25",
-                "titolo": "Cronache Dall'Impero - Pt.1 - Le Donne Di Augusto: Il Fallimento Di Un Patriarca",
-                "descrizione": "La grandezza politica di Augusto è indiscutibile, ma la sua storia familiare, piena di scandali, intrighi e morti sospette, dipinge un ritratto diverso e più fosco del primo imperatore. Visitando l'Ara Pacis, la casa di Augusto e quella di sua moglie Livia, Cristoforo Gorno racconta il fallimento di un patriarca."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "TG3 Linea Notte",
-                "descrizione": "TG3 Linea Notte"
-            },
             {
                 "ora": "01:00",
                 "titolo": "Meteo 3",
@@ -183,6 +168,11 @@
                 "descrizione": "In fuga dal marito violento Peter, Jess prende il figlio Noah e trova rifugio a casa della sorella a Los Angeles. Eppure, Jess, paranoica, continua a credere di vedere Peter seguirla ovunque e di non riuscire a liberarsene. Quando Peter viene inaspettatamente dichiarato morto in un incidente, Jess pensa di essersi finalmente liberata di lui, eppure continua a vederlo."
             },
             {
+                "ora": "00:00",
+                "titolo": "TG3 Linea Notte",
+                "descrizione": "TG3 Linea Notte"
+            },
+            {
                 "ora": "21:33",
                 "titolo": "Quarto grado",
                 "descrizione": "Approfondimento giornalistico condotto da Gianluigi Nuzzi e Alessandra Viero su alcuni dei gialli irrisolti della cronaca."
@@ -196,19 +186,24 @@
                 "ora": "21:30",
                 "titolo": "Sarabanda Celebrity",
                 "descrizione": "Condotto da Enrico Papi, 8 celebrita', divise in 2 squadre da 4, si affronteranno in una serie di giochi iconici. L'obiettivo: accumulare punti e jolly per affrontare al meglio il 7X30 finale."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Scoprendo Forrester",
+                "descrizione": "William Forrester è un anziano scrittore che ha pubblicato un unico grande romanzo a 23 anni e si è poi ritirato dal mondo, rifugiandosi in un anonimo appartamento del Bronx. Jamal invece è un ragazzo afro-americano povero, piccolo genio del basket, studente in un college di Manhattan ma soprattutto romanziere in erba, che nel misterioso Forrester trova un maestro di letteratura e un secondo padre. Sullo sfondo, l'istituzione: il college di Manhattan dove Jamal studia, il professore carogna che lo perseguita, la ragazza ricchissima che gli fa intravedere mondi sconosciuti."
+            },
+            {
+                "ora": "22:55",
+                "titolo": "Quattro matrimoni",
+                "descrizione": "L'amore ha bussato alle porte delle quattro protagoniste, che superano i quarant'anni."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Rai 4",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "22:44",
-                "titolo": "S.W.A.T.",
-                "descrizione": "Un sergente S.W.A.T. della zona, l’ex Marine Daniel Harrelson, viene incaricato di dirigere un’unità tattica specializzata che rappresenta l’ultima tappa delle forze dell’ordine di Los Angeles, nella première di S.W.A.T. Diviso tra la lealtà per il luogo dove è cresciuto e la fedeltà ai suoi fratelli in blu, Hondo ha tutto ciò che serve per essere un leader eccellente e per fare da tramite tra i suoi due mondi."
-            },
             {
                 "ora": "23:25",
                 "titolo": "The Rhythm Section",
@@ -263,19 +258,19 @@
                 "ora": "00:00",
                 "titolo": "TG3 Linea Notte",
                 "descrizione": "TG3 Linea Notte"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Quarto grado",
+                "descrizione": "Approfondimento giornalistico condotto da Gianluigi Nuzzi e Alessandra Viero su alcuni dei gialli irrisolti della cronaca."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Rai 5",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:24",
-                "titolo": "Campioni Del Mondo, Italia Loves Unesco",
-                "descrizione": "Uno spettacolo senza precedenti in cui eccezionalmente l'Arena di Verona viene allestita con due set grandiosi dedicati all'Opera e alla Cucina italiana. Grandi ospiti musicali italiani ed internazionali per celebrare il patrimonio Unesco italiano e lanciare la candidatura della canzone napoletana classica. L'evento è realizzato da Fondazione Arena di Verona, con il contributo del Ministero della Cultura in collaborazione con: Ministero dell'Agricoltura, Ministero del Turismo, Ministero degli Affari Esteri e Ministero dello Sport. Conduce Milly Carlucci. Con la partecipazione di Paolo Belli."
-            },
             {
                 "ora": "23:54",
                 "titolo": "Supertramp: Breakfast In America Live In Paris",
@@ -330,19 +325,19 @@
                 "ora": "21:33",
                 "titolo": "Quarto grado",
                 "descrizione": "Approfondimento giornalistico condotto da Gianluigi Nuzzi e Alessandra Viero su alcuni dei gialli irrisolti della cronaca."
+            },
+            {
+                "ora": "01:32",
+                "titolo": "L'isola di Pietro 2",
+                "descrizione": "Carloforte. Il dottor Pietro Sereni, Gianni Morandi, ha ritrovato la figlia Elena. Ma un brutto incidente sconvolge la pace ritrovata."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Rete 4",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:33",
-                "titolo": "Quarto grado",
-                "descrizione": "Approfondimento giornalistico condotto da Gianluigi Nuzzi e Alessandra Viero su alcuni dei gialli irrisolti della cronaca."
-            },
             {
                 "ora": "00:56",
                 "titolo": "Ustica: una nuova verita'",
@@ -384,6 +379,11 @@
                 "descrizione": "TG3 Linea Notte"
             },
             {
+                "ora": "21:33",
+                "titolo": "Quarto grado",
+                "descrizione": "Approfondimento giornalistico condotto da Gianluigi Nuzzi e Alessandra Viero su alcuni dei gialli irrisolti della cronaca."
+            },
+            {
                 "ora": "01:32",
                 "titolo": "L'isola di Pietro 2",
                 "descrizione": "Carloforte. Il dottor Pietro Sereni, Gianni Morandi, ha ritrovato la figlia Elena. Ma un brutto incidente sconvolge la pace ritrovata."
@@ -399,12 +399,37 @@
                 "descrizione": "William Forrester è un anziano scrittore che ha pubblicato un unico grande romanzo a 23 anni e si è poi ritirato dal mondo, rifugiandosi in un anonimo appartamento del Bronx. Jamal invece è un ragazzo afro-americano povero, piccolo genio del basket, studente in un college di Manhattan ma soprattutto romanziere in erba, che nel misterioso Forrester trova un maestro di letteratura e un secondo padre. Sullo sfondo, l'istituzione: il college di Manhattan dove Jamal studia, il professore carogna che lo perseguita, la ragazza ricchissima che gli fa intravedere mondi sconosciuti."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Canale 5",
         "categoria": "Digitale Terrestre",
         "programmi": [
+            {
+                "ora": "00:50",
+                "titolo": "Tg5",
+                "descrizione": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5."
+            },
+            {
+                "ora": "01:32",
+                "titolo": "L'isola di Pietro 2",
+                "descrizione": "Carloforte. Il dottor Pietro Sereni, Gianni Morandi, ha ritrovato la figlia Elena. Ma un brutto incidente sconvolge la pace ritrovata."
+            },
+            {
+                "ora": "03:34",
+                "titolo": "I segreti di Borgo Larici",
+                "descrizione": "$23"
+            },
+            {
+                "ora": "04:55",
+                "titolo": "R.I.S. 5 Delitti imperfetti",
+                "descrizione": "La serie racconta le avventure del reparto investigazioni scientifiche di Parma, uno dei quattro reparti dell'Arma dei Carabinieri incaricati di svolgere indagini tecniche e scientifiche sul territorio italiano. È stata trasmessa in prima visione in Italia da Canale 5 dal 12 gennaio 2005."
+            },
+            {
+                "ora": "05:48",
+                "titolo": "R.I.S. 5 Delitti imperfetti",
+                "descrizione": "La serie racconta le avventure del reparto investigazioni scientifiche di Parma, uno dei quattro reparti dell'Arma dei Carabinieri incaricati di svolgere indagini tecniche e scientifiche sul territorio italiano. È stata trasmessa in prima visione in Italia da Canale 5 dal 12 gennaio 2005."
+            },
             {
                 "ora": "21:25",
                 "titolo": "Ecuador - Germania",
@@ -426,11 +451,6 @@
                 "descrizione": "Approfondimento giornalistico condotto da Gianluigi Nuzzi e Alessandra Viero su alcuni dei gialli irrisolti della cronaca."
             },
             {
-                "ora": "01:32",
-                "titolo": "L'isola di Pietro 2",
-                "descrizione": "Carloforte. Il dottor Pietro Sereni, Gianni Morandi, ha ritrovato la figlia Elena. Ma un brutto incidente sconvolge la pace ritrovata."
-            },
-            {
                 "ora": "21:30",
                 "titolo": "Sarabanda Celebrity",
                 "descrizione": "Condotto da Enrico Papi, 8 celebrita', divise in 2 squadre da 4, si affronteranno in una serie di giochi iconici. L'obiettivo: accumulare punti e jolly per affrontare al meglio il 7X30 finale."
@@ -444,39 +464,14 @@
                 "ora": "22:55",
                 "titolo": "Quattro matrimoni",
                 "descrizione": "L'amore ha bussato alle porte delle quattro protagoniste, che superano i quarant'anni."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Ex - Amici come prima",
-                "descrizione": "Accordi e disaccordi, crimini e misfatti, amori in corso di coppie allo sbaraglio che per incredibili scherzi del destino incroceranno le loro esistenze per un momento, o forse per sempre, in questa romantica commedia degli equivoci dove niente è come sembra. Un ironico ritratto della storia, o forse, della geografia sentimentale dei nostri giorni. Perché nel corso della nostra vita, prima o poi, ognuno di noi è destinato a diventare un \"ex\": ex alunno, ex commilitone, ex amico, ex migliore amico, ex fidanzato, ex marito. Questo film è dedicato a loro, allo sterminato esercito degli \"ex\". Per i quali c'è sempre una seconda occasione..."
-            },
-            {
-                "ora": "23:54",
-                "titolo": "Samson - La vera storia di Sansone",
-                "descrizione": "Sansone, un ebreo con un'insolita forza fisica, deve lentamente adeguarsi alla chiamata di Dio, che gli affida il compito di condurre il suo popolo fuori dalla schiavitù. Dopo che la sua ambizione giovanile lo ha portato a un tragico matrimonio, Sansone con il suo desiderio di vendetta è entrato in conflitto con l'esercito filisteo. Mentre suo fratello monta una rivolta, Sansone viene sedotto da una giovane filistea, aprendo il percorso verso la sua resa finale sia ai nemici sia a Dio."
-            },
-            {
-                "ora": "23:25",
-                "titolo": "The Rhythm Section",
-                "descrizione": "Stephanie Patrick è una donna come tante altre che ha intrapreso un percorso di autodistruzione dopo il tragico incidente aereo che le ha sterminato la famiglia. Quando scopre che l'incidente tale non è stato, Stephanie scivola in un universo oscuro e complesso alla ricerca di vendetta nei confronti dei responsabili e redenzione per se stessa."
-            },
-            {
-                "ora": "23:23",
-                "titolo": "Ancora",
-                "descrizione": "Negli ultimi quattro anni, l'agente Jack Cates è stato sulle tracce di un non meglio identificato trafficante di droga che si fa chiamare \"Ice Man\". Durante un conflitto a fuoco con un gruppo di scagnozzi di Ice Man, Jack finisce per ucciderne uno. Tuttavia le prove che la vittima era armata ed aveva sparato per prima non si trovano e Jack viene sospeso dal servizio. A questo punto se Jack non riesce a catturare entro 48 ore l'imprendibile Ice Man, finirà in carcere. Jack riesce a ottenere la scarcerazione di Reggie Hammond, che in precedenza l'aveva aiutato in un'altra indagine, e che si dimostra abbastanza a conoscenza dei segreti di Ice Man. Dopo una serie di rocambolesche vicende seguendo un'unica pista, i due uomini riescono a confrontarsi con Ice Man e ad avere la meglio. Reggie finalmente è in libertà, mentre Jack può continuare a lavorare come poliziotto temuto e rispettato."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Italia 1",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:30",
-                "titolo": "Sarabanda Celebrity",
-                "descrizione": "Condotto da Enrico Papi, 8 celebrita', divise in 2 squadre da 4, si affronteranno in una serie di giochi iconici. L'obiettivo: accumulare punti e jolly per affrontare al meglio il 7X30 finale."
-            },
             {
                 "ora": "00:35",
                 "titolo": "Io vi dichiaro marito e... marito",
@@ -531,19 +526,19 @@
                 "ora": "21:33",
                 "titolo": "Quarto grado",
                 "descrizione": "Approfondimento giornalistico condotto da Gianluigi Nuzzi e Alessandra Viero su alcuni dei gialli irrisolti della cronaca."
+            },
+            {
+                "ora": "01:32",
+                "titolo": "L'isola di Pietro 2",
+                "descrizione": "Carloforte. Il dottor Pietro Sereni, Gianni Morandi, ha ritrovato la figlia Elena. Ma un brutto incidente sconvolge la pace ritrovata."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "La7",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Scoprendo Forrester",
-                "descrizione": "William Forrester è un anziano scrittore che ha pubblicato un unico grande romanzo a 23 anni e si è poi ritirato dal mondo, rifugiandosi in un anonimo appartamento del Bronx. Jamal invece è un ragazzo afro-americano povero, piccolo genio del basket, studente in un college di Manhattan ma soprattutto romanziere in erba, che nel misterioso Forrester trova un maestro di letteratura e un secondo padre. Sullo sfondo, l'istituzione: il college di Manhattan dove Jamal studia, il professore carogna che lo perseguita, la ragazza ricchissima che gli fa intravedere mondi sconosciuti."
-            },
             {
                 "ora": "01:00",
                 "titolo": "TG LA7 Notte",
@@ -590,6 +585,11 @@
                 "descrizione": "Condotto da Enrico Papi, 8 celebrita', divise in 2 squadre da 4, si affronteranno in una serie di giochi iconici. L'obiettivo: accumulare punti e jolly per affrontare al meglio il 7X30 finale."
             },
             {
+                "ora": "23:00",
+                "titolo": "Scoprendo Forrester",
+                "descrizione": "William Forrester è un anziano scrittore che ha pubblicato un unico grande romanzo a 23 anni e si è poi ritirato dal mondo, rifugiandosi in un anonimo appartamento del Bronx. Jamal invece è un ragazzo afro-americano povero, piccolo genio del basket, studente in un college di Manhattan ma soprattutto romanziere in erba, che nel misterioso Forrester trova un maestro di letteratura e un secondo padre. Sullo sfondo, l'istituzione: il college di Manhattan dove Jamal studia, il professore carogna che lo perseguita, la ragazza ricchissima che gli fa intravedere mondi sconosciuti."
+            },
+            {
                 "ora": "22:55",
                 "titolo": "Quattro matrimoni",
                 "descrizione": "L'amore ha bussato alle porte delle quattro protagoniste, che superano i quarant'anni."
@@ -600,17 +600,12 @@
                 "descrizione": "Accordi e disaccordi, crimini e misfatti, amori in corso di coppie allo sbaraglio che per incredibili scherzi del destino incroceranno le loro esistenze per un momento, o forse per sempre, in questa romantica commedia degli equivoci dove niente è come sembra. Un ironico ritratto della storia, o forse, della geografia sentimentale dei nostri giorni. Perché nel corso della nostra vita, prima o poi, ognuno di noi è destinato a diventare un \"ex\": ex alunno, ex commilitone, ex amico, ex migliore amico, ex fidanzato, ex marito. Questo film è dedicato a loro, allo sterminato esercito degli \"ex\". Per i quali c'è sempre una seconda occasione..."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "TV8",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "22:55",
-                "titolo": "Quattro matrimoni\",\"prima\":true,\"description\":\"Uno degli ingredienti che non può mancare in un matrimonio è l'attenzione ai dettagli. Lo sanno le spose di oggi, che del dettaglio hanno fatto il must have del loro sì.\",\"durata\":75,\"genre\":\"Show\",\"category\":\"Intrattenimento\",\"image\":\"https://img-guidatv.org/45/quattro-matrimoni/7.jpg\",\"episode_number\":3,\"series_number\":8,\"director\":null,\"inizio\":\"2026-06-25T19:40:00.000Z\",\"fine\":\"2026-06-25T20:55:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2026\",\"primaSer\":true},{\"id\":\"jOCpfm2FTI6z\",\"title\":\"Quattro matrimoni",
-                "descrizione": "L'amore ha bussato alle porte delle quattro protagoniste, che superano i quarant'anni."
-            },
             {
                 "ora": "00:20",
                 "titolo": "Quattro matrimoni",
@@ -665,19 +660,19 @@
                 "ora": "01:32",
                 "titolo": "L'isola di Pietro 2",
                 "descrizione": "Carloforte. Il dottor Pietro Sereni, Gianni Morandi, ha ritrovato la figlia Elena. Ma un brutto incidente sconvolge la pace ritrovata."
+            },
+            {
+                "ora": "21:30",
+                "titolo": "Sarabanda Celebrity",
+                "descrizione": "Condotto da Enrico Papi, 8 celebrita', divise in 2 squadre da 4, si affronteranno in una serie di giochi iconici. L'obiettivo: accumulare punti e jolly per affrontare al meglio il 7X30 finale."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Nove",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:30",
-                "titolo": "Sinceramente Persia",
-                "descrizione": "Il divertente spettacolo di Valentina Persia."
-            },
             {
                 "ora": "23:45",
                 "titolo": "Ex - Amici come prima",
@@ -732,19 +727,19 @@
                 "ora": "23:00",
                 "titolo": "Scoprendo Forrester",
                 "descrizione": "William Forrester è un anziano scrittore che ha pubblicato un unico grande romanzo a 23 anni e si è poi ritirato dal mondo, rifugiandosi in un anonimo appartamento del Bronx. Jamal invece è un ragazzo afro-americano povero, piccolo genio del basket, studente in un college di Manhattan ma soprattutto romanziere in erba, che nel misterioso Forrester trova un maestro di letteratura e un secondo padre. Sullo sfondo, l'istituzione: il college di Manhattan dove Jamal studia, il professore carogna che lo perseguita, la ragazza ricchissima che gli fa intravedere mondi sconosciuti."
+            },
+            {
+                "ora": "22:55",
+                "titolo": "Quattro matrimoni",
+                "descrizione": "L'amore ha bussato alle porte delle quattro protagoniste, che superano i quarant'anni."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "20 Mediaset",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:11",
-                "titolo": "Matrix",
-                "descrizione": "Seguendo un tatuaggio sulla spalla di una ragazza, l'hacker Neo scopre che la cosiddetta \"realtà\" è solo un impulso elettrico fornito al cervello degli umani da un'intelligenza artificiale. Per sopravvivere alla catastrofe l'umanità ha infatti avuto bisogno delle macchine, ma queste hanno vinto e necessitano degli uomini come fonte di energia. L'illusione in cui li fanno vivere è quindi finalizzata a \"coltivarli\" meglio. Nessuno è a conoscenza del tempo che è passato da quando il neurosimulatore ha assegnato una data fittizia al tempo. Solo Neo, con l'aiuto del pirata informatico Morpheus e della bella Trinity, può tentare di scoprire la verità, ma non sarà un'impresa facile."
-            },
             {
                 "ora": "23:54",
                 "titolo": "Samson - La vera storia di Sansone",
@@ -799,14 +794,54 @@
                 "ora": "21:33",
                 "titolo": "Quarto grado",
                 "descrizione": "Approfondimento giornalistico condotto da Gianluigi Nuzzi e Alessandra Viero su alcuni dei gialli irrisolti della cronaca."
+            },
+            {
+                "ora": "01:32",
+                "titolo": "L'isola di Pietro 2",
+                "descrizione": "Carloforte. Il dottor Pietro Sereni, Gianni Morandi, ha ritrovato la figlia Elena. Ma un brutto incidente sconvolge la pace ritrovata."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Real Time",
         "categoria": "Digitale Terrestre",
         "programmi": [
+            {
+                "ora": "00:10",
+                "titolo": "La clinica della pelle",
+                "descrizione": "Karmah nasconde il suo viso con una maschera e un cappello a causa della pelle squamosa."
+            },
+            {
+                "ora": "01:05",
+                "titolo": "La clinica della pelle",
+                "descrizione": "La dottoressa Emma tenta di curare la pelle squamosa di Mel."
+            },
+            {
+                "ora": "02:00",
+                "titolo": "La clinica della pelle",
+                "descrizione": "Un modello ha interrotto la sua carriera a causa dei cheloidi che ha sulle orecchie."
+            },
+            {
+                "ora": "02:55",
+                "titolo": "La clinica della pelle",
+                "descrizione": "La dottoressa Emma si occupa di pazienti che hanno problemi alle parti intime."
+            },
+            {
+                "ora": "03:55",
+                "titolo": "La clinica della pelle",
+                "descrizione": "Dopo un incidente, a Jarred e' rimasta una cicatrice sul viso."
+            },
+            {
+                "ora": "04:50",
+                "titolo": "La clinica della pelle",
+                "descrizione": "Il corpo di Mohammed e' coperto da centinaia di tumori. La dott.ssa Emma cerca di aiutarlo."
+            },
+            {
+                "ora": "05:30",
+                "titolo": "Dr. Pimple Popper: la dottoressa schiacciabrufoli",
+                "descrizione": "La rinofima di Roger e' talmente estrema che ha difficolta' persino a respirare. Natalie ha dei piccoli bozzoli su tutto il corpo."
+            },
             {
                 "ora": "21:25",
                 "titolo": "Ecuador - Germania",
@@ -831,99 +866,14 @@
                 "ora": "01:32",
                 "titolo": "L'isola di Pietro 2",
                 "descrizione": "Carloforte. Il dottor Pietro Sereni, Gianni Morandi, ha ritrovato la figlia Elena. Ma un brutto incidente sconvolge la pace ritrovata."
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Sarabanda Celebrity",
-                "descrizione": "Condotto da Enrico Papi, 8 celebrita', divise in 2 squadre da 4, si affronteranno in una serie di giochi iconici. L'obiettivo: accumulare punti e jolly per affrontare al meglio il 7X30 finale."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Scoprendo Forrester",
-                "descrizione": "William Forrester è un anziano scrittore che ha pubblicato un unico grande romanzo a 23 anni e si è poi ritirato dal mondo, rifugiandosi in un anonimo appartamento del Bronx. Jamal invece è un ragazzo afro-americano povero, piccolo genio del basket, studente in un college di Manhattan ma soprattutto romanziere in erba, che nel misterioso Forrester trova un maestro di letteratura e un secondo padre. Sullo sfondo, l'istituzione: il college di Manhattan dove Jamal studia, il professore carogna che lo perseguita, la ragazza ricchissima che gli fa intravedere mondi sconosciuti."
-            },
-            {
-                "ora": "22:55",
-                "titolo": "Quattro matrimoni",
-                "descrizione": "L'amore ha bussato alle porte delle quattro protagoniste, che superano i quarant'anni."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Ex - Amici come prima",
-                "descrizione": "Accordi e disaccordi, crimini e misfatti, amori in corso di coppie allo sbaraglio che per incredibili scherzi del destino incroceranno le loro esistenze per un momento, o forse per sempre, in questa romantica commedia degli equivoci dove niente è come sembra. Un ironico ritratto della storia, o forse, della geografia sentimentale dei nostri giorni. Perché nel corso della nostra vita, prima o poi, ognuno di noi è destinato a diventare un \"ex\": ex alunno, ex commilitone, ex amico, ex migliore amico, ex fidanzato, ex marito. Questo film è dedicato a loro, allo sterminato esercito degli \"ex\". Per i quali c'è sempre una seconda occasione..."
-            },
-            {
-                "ora": "23:54",
-                "titolo": "Samson - La vera storia di Sansone",
-                "descrizione": "Sansone, un ebreo con un'insolita forza fisica, deve lentamente adeguarsi alla chiamata di Dio, che gli affida il compito di condurre il suo popolo fuori dalla schiavitù. Dopo che la sua ambizione giovanile lo ha portato a un tragico matrimonio, Sansone con il suo desiderio di vendetta è entrato in conflitto con l'esercito filisteo. Mentre suo fratello monta una rivolta, Sansone viene sedotto da una giovane filistea, aprendo il percorso verso la sua resa finale sia ai nemici sia a Dio."
-            },
-            {
-                "ora": "23:25",
-                "titolo": "The Rhythm Section",
-                "descrizione": "Stephanie Patrick è una donna come tante altre che ha intrapreso un percorso di autodistruzione dopo il tragico incidente aereo che le ha sterminato la famiglia. Quando scopre che l'incidente tale non è stato, Stephanie scivola in un universo oscuro e complesso alla ricerca di vendetta nei confronti dei responsabili e redenzione per se stessa."
-            },
-            {
-                "ora": "23:23",
-                "titolo": "Ancora",
-                "descrizione": "Negli ultimi quattro anni, l'agente Jack Cates è stato sulle tracce di un non meglio identificato trafficante di droga che si fa chiamare \"Ice Man\". Durante un conflitto a fuoco con un gruppo di scagnozzi di Ice Man, Jack finisce per ucciderne uno. Tuttavia le prove che la vittima era armata ed aveva sparato per prima non si trovano e Jack viene sospeso dal servizio. A questo punto se Jack non riesce a catturare entro 48 ore l'imprendibile Ice Man, finirà in carcere. Jack riesce a ottenere la scarcerazione di Reggie Hammond, che in precedenza l'aveva aiutato in un'altra indagine, e che si dimostra abbastanza a conoscenza dei segreti di Ice Man. Dopo una serie di rocambolesche vicende seguendo un'unica pista, i due uomini riescono a confrontarsi con Ice Man e ad avere la meglio. Reggie finalmente è in libertà, mentre Jack può continuare a lavorare come poliziotto temuto e rispettato."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Boing",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "22:45",
-                "titolo": "Beyblade X",
-                "descrizione": "La battaglia che determinera' i risultati della squadra per il match Persona-Yggdrasil e' iniziata."
-            },
-            {
-                "ora": "23:15",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball si lamenta di tutto e passa per povero agli occhi della gente che si commuove a tal punto da scatenare una gara di solidarieta'. Ben presto il gioco sfugge di mano a tutti."
-            },
-            {
-                "ora": "23:25",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Durante il viaggio per le vacanze i ragazzi si raccontano storie del terrore. E sfidata dai figli la mamma si esibisce in un racconto pauroso che all'improvviso pero' diventa realta'."
-            },
-            {
-                "ora": "23:40",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball, un gatto di 12 anni, e il suo amico Darwin, un pesce rosso, vivono avventure al limite della follia, in questa stravagante commedia animata."
-            },
-            {
-                "ora": "23:50",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball, un gatto di 12 anni, e il suo amico Darwin, un pesce rosso, vivono avventure al limite della follia, in questa stravagante commedia animata."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Per farlo riconciliare col padre Gumball convince Rocky a diventare uomo e a trovarsi un lavoro serio. L'ex bidello diventa presto schiavo del suo capo."
-            },
-            {
-                "ora": "00:15",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball e Darwin cercano di insegnare a Clayton a non dire piu' bugie ma quando la bugia serve a loro due si ritrovano incastrati perche' Clayton ha imparato la lezione."
-            },
-            {
-                "ora": "00:25",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball cerca di attraversare la strada col rosso ma arriva il poliziotto che vuole punirlo. A questo punto Gumball lo sfida ad essere fico e il poliziotto finisce per esagerare."
-            },
-            {
-                "ora": "00:35",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Dopo la lotta coi cuscini ingaggiata con Gumball Darwin comincia a starnutire arrecando danni a chi gli sta intorno. Si scoprira' alla fine che e' solo allergia alle piume."
-            },
-            {
-                "ora": "00:45",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball Darwin Banana Joe e Tobias organizzano una sfida fra le loro mamme per decidere quale delle quattro e' la mamma migliore del mondo."
-            },
             {
                 "ora": "00:55",
                 "titolo": "Lo straordinario mondo di Gumball",
@@ -933,29 +883,64 @@
                 "ora": "01:05",
                 "titolo": "Lo straordinario mondo di Gumball",
                 "descrizione": "La mamma accusa Gumball e Darwin di essere dei procrastinatori e affida loro un compito molto semplice: buttare la spazzatura. Ma i ragazzi finiranno per fare tutt'altro."
+            },
+            {
+                "ora": "01:15",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Per sbaglio Gumball da una testata a Nocciolina e le crepa il guscio. Cosi' la convince a uscirne fuori per essere veramente se stessa ma dovra' fare i conti con i suoi stati d'animo."
+            },
+            {
+                "ora": "01:30",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball riceve una catena via mail per cui se non la inviera' l'Uomo Nero gli portera' via tutto. Lui non ci crede e la cancella il risultato di questa sua scelta si rivelera' disastroso."
+            },
+            {
+                "ora": "01:40",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball e Darwin devono prendersi cura di Chris Morris il criceto della scuola per tutto il week end. Il criceto viene pero' scambiato con una matassa di peli."
+            },
+            {
+                "ora": "01:50",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Darwin e' geloso del rapporto fra Gumball e Nocciolina perche' si sente escluso dalla vita del fratello. La sua gelosia li fara' lasciare ma poi grazie al suo aiuto si riappacificheranno."
+            },
+            {
+                "ora": "02:00",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Nonna Jojo presenta alla famiglia il suo nuovo fidanzato Louie ma il figlio non riesce ad accettarlo. Per risolvere il conflitto Gumball propone una sfida di mascolinita'."
+            },
+            {
+                "ora": "02:10",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "I membri della famiglia Watterson hanno avuto una pessima giornata a causa di vicissitudini con Larry. Il ragazzo si licenzia da tutti i lavori causando un'apocalisse in citta'."
+            },
+            {
+                "ora": "02:20",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Siamo a gennaio e Gumball e' triste perche' il Natale e' finito. Cosi' per ritrovare il buonumore si inventa una festivita' che coinvolge tutta la citta' di Elmore."
+            },
+            {
+                "ora": "02:30",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "La signorina Scimmia non vuole liberare una farfalla chiusa in un barattolo perche' teme il cosiddetto effetto farfalla ma Gumball e Darwin non le prestano ascolto e si scatena di tutto."
+            },
+            {
+                "ora": "02:40",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball e Darwin si chiedono qual e' il senso della vita e interpellano tutti: da Larry ai genitori da Madre Natura fino ai pianeti ma la risposta piu' profonda l'avranno da Sussie."
+            },
+            {
+                "ora": "02:55",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Banana Barbara e' in grado di dipingere il futuro e un suo quadro rappresenta Gumball mentre si mette in imbarazzo sulla tv nazionale. Il ragazzino fara' di tutto per evitarlo."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "K2",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "22:55",
-                "titolo": "Lo zoo degli Irwin",
-                "descrizione": "La famiglia Irwin si occupa di più di 1200 animali dell'Australia Zoo di Beerwah e supervisiona l'ospedale faunistico più grande al mondo."
-            },
-            {
-                "ora": "23:50",
-                "titolo": "Toy Inventor, inventori in gioco",
-                "descrizione": "1' Stagione Ep.3 - Giocare è un lavoro duro - Nessuno li eguaglia quando parliamo di giochi! Quindi inventori, giochiamo?"
-            },
-            {
-                "ora": "00:40",
-                "titolo": "Desperate House Cats",
-                "descrizione": "1' Stagione Ep.8 - Il gatto fuori dal sacco - Vi siete mai chiesti cosa fanno i vostri amici felini quando non siete a casa? \"Desperate House Cats\" vi dà la possibilità di scoprire la vita segreta dei gatti."
-            },
             {
                 "ora": "01:00",
                 "titolo": "I Dalton",
@@ -1000,44 +985,29 @@
                 "ora": "03:50",
                 "titolo": "Zig & Sharko",
                 "descrizione": "2' Stagione Ep.1 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "04:10",
+                "titolo": "Zig & Sharko",
+                "descrizione": "2' Stagione Ep.2 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "04:30",
+                "titolo": "Zig & Sharko",
+                "descrizione": "2' Stagione Ep.3 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "04:55",
+                "titolo": "Zig & Sharko",
+                "descrizione": "2' Stagione Ep.4 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Rai Gulp",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "22:55",
-                "titolo": "La Compagnia dei Celestini",
-                "descrizione": "Un gruppo di ragazzini si allena lontano da occhi indiscreti, per giocare alla pallastrada, un gioco simile al calcio dove le poche regole sono strutturate sull'ambiente urbano. Lentamente i giovani protagonisti sapranno convincere gli adulti che li circondano della bontà del loro sport, pieno di valori come rispetto, solidarietà e amicizia e con il loro sostegno potranno disputare partite di pallastrada in trasferta per tutto il mondo."
-            },
-            {
-                "ora": "23:20",
-                "titolo": "La Compagnia dei Celestini",
-                "descrizione": "Un gruppo di ragazzini si allena lontano da occhi indiscreti, per giocare alla pallastrada, un gioco simile al calcio dove le poche regole sono strutturate sull'ambiente urbano. Lentamente i giovani protagonisti sapranno convincere gli adulti che li circondano della bontà del loro sport, pieno di valori come rispetto, solidarietà e amicizia e con il loro sostegno potranno disputare partite di pallastrada in trasferta per tutto il mondo."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Super Spike Ball",
-                "descrizione": "La Lucky Squad raggiunge un'antica miniera per affrontare gli Animals in una partita su un campo pieno di insidie: pozze d'acqua, tunnel che fanno rimbalzare le palle, carriole e carrucole. Viola cerca disperatamente di perfezionare la sua \"alzata trottola\" ma continua a fallire, mentre Nino tenta di usare il carrello di Mr. Dudù per schiacciate spettacolari senza successo. Lucky intanto scava ossessivamente in \"cottenerle\" e continuano a insistere finché Viola perfeziona il suo colpo e Nino domina il carrello, vincendo 25-23."
-            },
-            {
-                "ora": "23:55",
-                "titolo": "Super Spike Ball",
-                "descrizione": "Al museo la Lucky Squad affronta i Super Heroes (Freeze che controlla il tempo, Triple che si triplica e BrainMaster che legge nella mente) con una regola speciale: chi rompe un'opera d'arte perde un punto. Inizialmente entrambe le squadre annullano i propri punti rompendo tutto. La Lucky Squad impara a giocare con precisione e si porta in vantaggio 13-0, ma Crazy Doc modifica i Super Heroes rendendoli flemmatici e precisi. I Super Heroes recuperano e vincono 25-22, anche perché Nino rompe lo scheletro di dinosauro perdendo 3 punti. Come punizione, tutti devono pulire il museo."
-            },
-            {
-                "ora": "00:10",
-                "titolo": "Spike Team",
-                "descrizione": "Jo, Ann, Vicky, Sue, Patty e Beth, sei ragazze, sei diversi temperamenti. Il loro scopo? Vincere unite in campo senza venire meno ai valori e all'etica dello sport."
-            },
-            {
-                "ora": "00:35",
-                "titolo": "Spike Team",
-                "descrizione": "Jo, Ann, Vicky, Sue, Patty e Beth, sei ragazze, sei diversi temperamenti. Il loro scopo? Vincere unite in campo senza venire meno ai valori e all'etica dello sport."
-            },
             {
                 "ora": "01:00",
                 "titolo": "Gormiti",
@@ -1067,34 +1037,44 @@
                 "ora": "02:00",
                 "titolo": "Il mondo di Karma",
                 "descrizione": "Freestyle Knockout, la gara di freestyle in televisione preferita di Karma, sta arrivando nella sua città e Karma è stata scelta per partecipare! È entusiasta, finché si trova a dover scegliere un compagno di squadra, e la sua migliore scelta è... Crash! Quando vedono i concorrenti, capiscono che potrebbe essere il momento giusto per lavorare insieme, ma non sono d'accordo su quale sia la strategia migliore per vincere."
+            },
+            {
+                "ora": "02:15",
+                "titolo": "Super Spike Ball",
+                "descrizione": "La Lucky Squad raggiunge attraverso percorsi segreti un campo sottomarino in una cupola sul fondale per disputare la finale contro i Super Heroes. Crazy Doc potenzia i suoi giocatori con un raggio che amplifica i loro poteri: Triple può moltiplicarsi per sei, Freeze può teletrasportare la palla, Brainmaster controlla le menti degli avversari. I nostri subiscono pesantemente, arrivando a un disastroso 9-1. Mentre Lucky continua inspiegabilmente a meditare invece di aiutarli, i ragazzi tentano disperatamente di usare i gadget senza successo. Alla fine Viola ha un'illuminazione: possono utilizzare le strategie immaginate durante le sessioni di meditazione dell'episodio precedente per contrastare i super poteri avversari."
+            },
+            {
+                "ora": "02:25",
+                "titolo": "Super Spike Ball",
+                "descrizione": "La Lucky Squad mette in pratica le strategie visualizzate durante la meditazione. Viola usa movimenti imprevedibili come un polpo per confondere Brainmaster, Lj con colpi velocissimi impedisce a Freeze di usare i suoi poteri, Nino schiaccia palloni multipli per superare il muro delle sei Triple. La rimonta è clamorosa: da 15-1 raggiungono il 24-24. Sul punto decisivo, in un'azione spettacolare con tutte le Triple in aria, Viola lancia Lizzy che con una codata anticipa la schiacciata avversaria segnando il punto vittoria. La Lucky Squad conquista il trofeo di Malta 25-24, celebrando il trionfo con la foto ricordo che viene rovinata comicamente da un granchio innamorato di Lizzy."
+            },
+            {
+                "ora": "02:40",
+                "titolo": "Geronimo Stilton",
+                "descrizione": "Geronimo è davvero strano ultimamente! Tutti continuano a lamentarsi di lui per cose che sostiene di non aver mai fatto. Benjamin comincia a sospettare che lo zio abbia una doppia personalità… ma se invece si trattasse semplicemente di un sosia? Se ci fosse un altro Geronimo che se ne va in giro a combinare danni?"
+            },
+            {
+                "ora": "03:05",
+                "titolo": "I Puffi - La nuova serie",
+                "descrizione": "Mentre tiene un corso di Puff-fu, Puffetta crede di vedere in Baby Puffo il Baby Sensei."
+            },
+            {
+                "ora": "03:15",
+                "titolo": "I Puffi - La nuova serie",
+                "descrizione": "Arriva Halloween al villaggio dei Puffi. Puffetta pensa di convincere Malaticcio a partecipare."
+            },
+            {
+                "ora": "03:25",
+                "titolo": "I Puffi - La nuova serie",
+                "descrizione": "Stonato vorrebbe tanto che la sua musica venisse apprezzata, ma ogni volta che suona la sua tromba tutti scappano."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Frisbee",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "22:55",
-                "titolo": "Torte in corso con Renato",
-                "descrizione": "2' Stagione Ep.10 - Il dolce arrivo - Il pasticcere Renato Ardovino rivela le tecniche per creare dei dessert dal design sorprendente. Per la nascita di un bimbo realizzerà dei dolci a forma di vagoni con effetto fumo, ottenuto grazie al ghiaccio secco."
-            },
-            {
-                "ora": "23:25",
-                "titolo": "Torte in corso con Renato",
-                "descrizione": "2' Stagione Ep.11 - Follie di zucchero - Il pasticcere Renato Ardovino rivela i segreti e le tecniche per creare dei dessert dal design e dalle decorazioni sorprendenti. Oggi realizzerà diversi tipi di cupcake per un addio al nubilato."
-            },
-            {
-                "ora": "23:55",
-                "titolo": "Torte in corso con Renato",
-                "descrizione": "2' Stagione Ep.12 - Quattro ruote per due - Il pasticcere Renato Ardovino rivela le tecniche per creare dei dessert dal design sorprendente. Oggi realizzerà una torta a forma di macchina per una festa in onore di un neo-patentato."
-            },
-            {
-                "ora": "00:15",
-                "titolo": "Dolphin Days",
-                "descrizione": "1' Stagione Ep.7 - Questa serie segue le vite di due branchi di delfini: uno allo stato brado alle Bahamas e l'altro in semi-cattività in Florida."
-            },
             {
                 "ora": "00:40",
                 "titolo": "Dolphin Days",
@@ -1134,29 +1114,34 @@
                 "ora": "03:10",
                 "titolo": "Floopaloo",
                 "descrizione": "2' Stagione Ep.3 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
+            },
+            {
+                "ora": "03:30",
+                "titolo": "Floopaloo",
+                "descrizione": "2' Stagione Ep.4 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
+            },
+            {
+                "ora": "03:50",
+                "titolo": "Oggy Oggy",
+                "descrizione": "1' Stagione Ep.24 - Gioco, avventura e amici rendono la vita di Oggy Oggy divertente! Curioso e audace, questo adorabile gattino è sempre pronto ad aiutare un amico e a vivere nuove esperienze."
+            },
+            {
+                "ora": "04:15",
+                "titolo": "Oggy Oggy",
+                "descrizione": "1' Stagione Ep.25 - Gioco, avventura e amici rendono la vita di Oggy Oggy divertente! Curioso e audace, questo adorabile gattino è sempre pronto ad aiutare un amico e a vivere nuove esperienze."
+            },
+            {
+                "ora": "04:35",
+                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
+                "descrizione": "7' Stagione Ep.23 - Oggy si prende cura di Piya, figlia dei suoi amici indiani."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "DMAX",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "22:55",
-                "titolo": "Mr. Oro: tutto ha un prezzo",
-                "descrizione": "Mr. Oro guida rete di compro oro nel nord Italia. Ogni giorno nuove trattative e colpi di scena"
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Mr. Oro: tutto ha un prezzo",
-                "descrizione": "Mr. Oro guida rete di compro oro nel nord Italia. Ogni giorno nuove trattative e colpi di scena"
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Quei cattivi vicini",
-                "descrizione": "I rapporti tra i vicini di casa non sono mai stati cosi' animati: liti, risse ed episodi ai limiti della realta'!"
-            },
             {
                 "ora": "00:55",
                 "titolo": "Quei cattivi vicini",
@@ -1201,24 +1186,29 @@
                 "ora": "00:00",
                 "titolo": "TG3 Linea Notte",
                 "descrizione": "TG3 Linea Notte"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Quarto grado",
+                "descrizione": "Approfondimento giornalistico condotto da Gianluigi Nuzzi e Alessandra Viero su alcuni dei gialli irrisolti della cronaca."
+            },
+            {
+                "ora": "01:32",
+                "titolo": "L'isola di Pietro 2",
+                "descrizione": "Carloforte. Il dottor Pietro Sereni, Gianni Morandi, ha ritrovato la figlia Elena. Ma un brutto incidente sconvolge la pace ritrovata."
+            },
+            {
+                "ora": "21:30",
+                "titolo": "Sarabanda Celebrity",
+                "descrizione": "Condotto da Enrico Papi, 8 celebrita', divise in 2 squadre da 4, si affronteranno in una serie di giochi iconici. L'obiettivo: accumulare punti e jolly per affrontare al meglio il 7X30 finale."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Rai Sport",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "22:15",
-                "titolo": "Mondiale Motocross 2026 - GP D'Italia: MXGP (Gara 2)",
-                "descrizione": "Il Crossdromo Miravalle di Montevarchi ospita il GP d'Italia del Mondiale Motocross 2026"
-            },
-            {
-                "ora": "23:15",
-                "titolo": "Reparto Corse",
-                "descrizione": "Settimanale di motori di RaiSport: le pagelle della F1, la tecnica delle monoposto di F1 in 3D, interviste ai piloti, ultime notizie e commenti sulla MotoGP. E poi Motocross, Rally Mondiale ed Italiano, Campionato Italiano GT, inchieste, approfondimenti."
-            },
             {
                 "ora": "23:50",
                 "titolo": "Automobilismo: Campionato Italiano GT Endurance 2026 - Monza (Gara 4)",
@@ -1268,43 +1258,6 @@
                 "ora": "01:32",
                 "titolo": "L'isola di Pietro 2",
                 "descrizione": "Carloforte. Il dottor Pietro Sereni, Gianni Morandi, ha ritrovato la figlia Elena. Ma un brutto incidente sconvolge la pace ritrovata."
-            }
-        ],
-        "aggiornato": "21:02"
-    },
-    {
-        "canale": "Sportitalia",
-        "categoria": "Digitale Terrestre",
-        "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Sportitaliamercato",
-                "descrizione": "Il programma tratta le vicende del calciomercato sia nella sessione estiva che in quella invernale e va in onda alle ore 23.00 dal lunedì al venerdì"
-            },
-            {
-                "ora": "21:25",
-                "titolo": "Ecuador - Germania",
-                "descrizione": "Collegamento pre e post partita con la supervisione di Marco Mazzocchi e Massimo Proietto. Conduce Paola Ferrari con Simona Rolandi, Paulo Roberto Falcao e Marco Tardelli. Regia di Marco Spoletini. Partita del Mondiale di Calcio Fifa 2026 in programma dall'11 giugno al 19 luglio 2026, in diverse città di Stati Uniti, Canada e Messico. Coppa del Mondo di Calcio FIFA 2026. Un programma a cura di Rai Sport con la Supervisione Marco Lollobrigida. In diretta dal MetLife Stadium di New Jersey (New York). Telecronaca di Giuseppe Galati. Commento tecnico di Daniele Adani."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "In fuga dall'incubo",
-                "descrizione": "In fuga dal marito violento Peter, Jess prende il figlio Noah e trova rifugio a casa della sorella a Los Angeles. Eppure, Jess, paranoica, continua a credere di vedere Peter seguirla ovunque e di non riuscire a liberarsene. Quando Peter viene inaspettatamente dichiarato morto in un incidente, Jess pensa di essersi finalmente liberata di lui, eppure continua a vederlo."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "TG3 Linea Notte",
-                "descrizione": "TG3 Linea Notte"
-            },
-            {
-                "ora": "21:33",
-                "titolo": "Quarto grado",
-                "descrizione": "Approfondimento giornalistico condotto da Gianluigi Nuzzi e Alessandra Viero su alcuni dei gialli irrisolti della cronaca."
-            },
-            {
-                "ora": "01:32",
-                "titolo": "L'isola di Pietro 2",
-                "descrizione": "Carloforte. Il dottor Pietro Sereni, Gianni Morandi, ha ritrovato la figlia Elena. Ma un brutto incidente sconvolge la pace ritrovata."
             },
             {
                 "ora": "21:30",
@@ -1315,12 +1268,14 @@
                 "ora": "23:00",
                 "titolo": "Scoprendo Forrester",
                 "descrizione": "William Forrester è un anziano scrittore che ha pubblicato un unico grande romanzo a 23 anni e si è poi ritirato dal mondo, rifugiandosi in un anonimo appartamento del Bronx. Jamal invece è un ragazzo afro-americano povero, piccolo genio del basket, studente in un college di Manhattan ma soprattutto romanziere in erba, che nel misterioso Forrester trova un maestro di letteratura e un secondo padre. Sullo sfondo, l'istituzione: il college di Manhattan dove Jamal studia, il professore carogna che lo perseguita, la ragazza ricchissima che gli fa intravedere mondi sconosciuti."
-            },
-            {
-                "ora": "22:55",
-                "titolo": "Quattro matrimoni",
-                "descrizione": "L'amore ha bussato alle porte delle quattro protagoniste, che superano i quarant'anni."
-            },
+            }
+        ],
+        "aggiornato": "23:04"
+    },
+    {
+        "canale": "Sportitalia",
+        "categoria": "Digitale Terrestre",
+        "programmi": [
             {
                 "ora": "23:45",
                 "titolo": "Ex - Amici come prima",
@@ -1335,34 +1290,59 @@
                 "ora": "23:25",
                 "titolo": "The Rhythm Section",
                 "descrizione": "Stephanie Patrick è una donna come tante altre che ha intrapreso un percorso di autodistruzione dopo il tragico incidente aereo che le ha sterminato la famiglia. Quando scopre che l'incidente tale non è stato, Stephanie scivola in un universo oscuro e complesso alla ricerca di vendetta nei confronti dei responsabili e redenzione per se stessa."
+            },
+            {
+                "ora": "23:23",
+                "titolo": "Ancora",
+                "descrizione": "Negli ultimi quattro anni, l'agente Jack Cates è stato sulle tracce di un non meglio identificato trafficante di droga che si fa chiamare \"Ice Man\". Durante un conflitto a fuoco con un gruppo di scagnozzi di Ice Man, Jack finisce per ucciderne uno. Tuttavia le prove che la vittima era armata ed aveva sparato per prima non si trovano e Jack viene sospeso dal servizio. A questo punto se Jack non riesce a catturare entro 48 ore l'imprendibile Ice Man, finirà in carcere. Jack riesce a ottenere la scarcerazione di Reggie Hammond, che in precedenza l'aveva aiutato in un'altra indagine, e che si dimostra abbastanza a conoscenza dei segreti di Ice Man. Dopo una serie di rocambolesche vicende seguendo un'unica pista, i due uomini riescono a confrontarsi con Ice Man e ad avere la meglio. Reggie finalmente è in libertà, mentre Jack può continuare a lavorare come poliziotto temuto e rispettato."
+            },
+            {
+                "ora": "23:54",
+                "titolo": "Supertramp: Breakfast In America Live In Paris",
+                "descrizione": "1979: i Supertramp pubblicano Breakfast In America, ed è un successo mondiale. Segue una tournée internazionale a sostegno dell'album, e l'audio di questa \"tappa\" al Pavillon di Parigi verrà pubblicato l'anno successivo, il live album \"Paris\"."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "2 Hearts - Intreccio di destini",
+                "descrizione": "Le storie di due diverse coppie hanno luogo in decenni e posti differenti. Tuttavia, nessuno immagina come ci sia una connessione segreta in grado di riunirli in maniera inaspettata e miracolosa."
+            },
+            {
+                "ora": "23:45",
+                "titolo": "Le indagini di Lolita Lobosco",
+                "descrizione": "Dai romanzi di Gabriella Genisi\n\nLe indagini di Lolita Lobosco\n\n2021 Italia\n\nDopo un lungo periodo di lavoro al Nord, il vicequestore Lolita Lobosco torna nella sua Bari per dirigere una squadra di soli uomini. In un mondo ostinatamente governato dai maschi, Lolita sceglie di restare sé stessa senza reprimere il suo fascino e la sua bellezza, anzi usa queste sue doti per affermarsi e combattere i pregiudizi. Liberamente tratto dai romanzi di Gabriella Genisi. Regia: Luca Miniero Interpreti: Luisa Ranieri, Filippo Scicchitano, Giovanni Ludeno, Jacopo Cullin, Bianca Nappi, Giulia Fiume, Ninni Bruschetta, Paolo Briguglia, Lunetta Savino"
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Venom: La furia di Carnage",
+                "descrizione": "Dopo aver trovato un corpo ospite nel giornalista investigativo Eddie Brock, il simbionte alieno dovrà affrontare un nuovo nemico, Carnage, alter ego del serial killer Cletus Kasady. Nella scena post credits del primo film, infatti, Eddie Brock in sella alla sua moto raggiunge la prigione di San Quentin per intervistare l'omicida. Durante il loro breve dialogo, Kasady preannuncia che riuscirà a uscire dalla prigione e a compire una nuova carneficina. Il killer, infatti, riesce a evadere dal carcere, ospitando un simbionte alieno, il rosso Carnage, che seminerà il terrore in città. Solo Brock e il suo Venom possono fermarlo."
+            },
+            {
+                "ora": "23:21",
+                "titolo": "Last Vegas",
+                "descrizione": "I quattro amici Billy, Padd, Archie e Sam si conoscono da sempre. In occasione dell’addio al celibato di Billy, lo scapolo incallito del gruppo, decidono di partire per Las Vegas con il proposito di rivivere i loro giorni di gloria dimenticandosi della loro vera età. Billy finalmente si è deciso a sposare la sua compagna (ovviamente molto più giovane di lui). Ben presto però i quattro si renderanno conto che la Città del Peccato è molto cambiata da come la ricordavano… e la loro amicizia sarà messa a dura prova."
+            },
+            {
+                "ora": "22:50",
+                "titolo": "Valgo quanto amo",
+                "descrizione": "Valgo quanto amo - Regia di L. Bojola (2024). La vita di Danilo \"Don Cuba\" Cubattoli, sacerdote fiorentino impegnato nell'assistenza agli ultimi nell'Italia del Secondo Dopoguerra."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Sesso & potere - Wag the Dog",
+                "descrizione": "Per distogliere l'attenzione dei media e dell'opinione pubblica americana da uno scandalo sessuale che vede coinvolto il presidente degli Stati Uniti d'America, i suoi addetti alle pubbliche relazioni – con l'aiuto del produttore Stanley Motss – organizzano la messa in scena di una finta guerra contro l'Albania per favorirne la riconferma alla Casa Bianca. A undici giorni dalle elezioni, infatti, il consenso attorno al presidente rischia di precipitare a causa di una giovane ragazza scout che lo accusa di aver abusato di lei durante una gita alla Casa Bianca. Il piano per distogliere l'attenzione dell'opinione pubblica dallo scandalo sessuale consta di due fasi principali: durante la prima viene simulata un conflitto contro il piccolo stato balcanico, accusato di dare ospitalità ad alcune pericolose cellule terroristiche che minacciano la sicurezza degli Stati Uniti."
+            },
+            {
+                "ora": "23:32",
+                "titolo": "Un paradiso per due",
+                "descrizione": "La storia di due mondi diversi e lontanissimi che si incontrano e si scontrano. Da un lato Alice, una biologa marina che, con la figlia adolescente, vive in una bellissima baia davanti al mare per studiare e monitorare la vita di un delfino solitario. Dall'altro Carlo Bramati, un accanito costruttore senza scrupoli che ama solo il cemento e gli afffari e vorrebbe costruire miniappartamenti dovunque... in questo momento della sua vita in special modo nella baia protetta in cui vive Alice."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport 24",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "TG Ultima Parola",
-                "descrizione": "Approfondimenti in studio con ospiti e live. Il riassunto della giornata sportiva vista con gli occhi della nostra redazione."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "TG Ultima Parola",
-                "descrizione": "Approfondimenti in studio con ospiti e live. Il riassunto della giornata sportiva vista con gli occhi della nostra redazione."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "News Line",
-                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
-            },
-            {
-                "ora": "00:30",
-                "titolo": "News Line",
-                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
-            },
             {
                 "ora": "01:00",
                 "titolo": "News Line",
@@ -1402,18 +1382,16 @@
                 "ora": "04:30",
                 "titolo": "News Line",
                 "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
-            }
-        ],
-        "aggiornato": "21:02"
-    },
-    {
-        "canale": "Sky Sport Uno",
-        "categoria": "Sport",
-        "programmi": [
+            },
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
+                "ora": "05:00",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "05:30",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
             },
             {
                 "ora": "22:00",
@@ -1424,7 +1402,14 @@
                 "ora": "21:55",
                 "titolo": "Speciale Inter: Il Film Del Campionato",
                 "descrizione": "Campionato Inter Scudetto 2026. - Le emozioni, le partite piu' importanti, le migliori immagini e il filo conduttore di Chivu. Tutto concentrato in questo film del 21^ scudetto, quello dell'anima nerazzurra."
-            },
+            }
+        ],
+        "aggiornato": "23:04"
+    },
+    {
+        "canale": "Sky Sport Uno",
+        "categoria": "Sport",
+        "programmi": [
             {
                 "ora": "00:30",
                 "titolo": "Tennis: ATP & WTA",
@@ -1469,24 +1454,29 @@
                 "ora": "00:30",
                 "titolo": "Sonsio Grand Prix",
                 "descrizione": "si inizia a respirare il profumo dei motori schierati nel catino rovente di Indianapolis, anche se per il road course."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "GP Cina: Gara",
+                "descrizione": "Seconda gara della stagione: dopo la doppietta Mercedes a Melbourne chi trionfera' a Shanghai? Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport Calcio",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Calciomercato - L'originale",
-                "descrizione": "Curiosita', commenti, notizie e anticipazioni sui possibili movimenti del calciomercato. Condotto dal trio Alessandro Bonan, Gianluca Di Marzio e Fayna."
-            },
-            {
-                "ora": "23:55",
-                "titolo": "Verona campione 85",
-                "descrizione": "paradiso L'uomo della Domenica. - Giorgio Porra' racconta l'impresa del Verona 1985. Con le voci di Briegel, Volpati, Tricella, Galderisi, Fanna ed Elkjaer, autori del leggendario scudetto firmato Bagnoli."
-            },
             {
                 "ora": "01:00",
                 "titolo": "Soaring Seagulls",
@@ -1536,24 +1526,24 @@
                 "ora": "23:30",
                 "titolo": "Basket Amichevoli Nazionale - Ep. 1 - Basket Amichevoli Nazionale 2026 Maschile Italia/ Croazia 24/06/2026",
                 "descrizione": "Una copertura completa di alcune delle migliori partite e dei piu' importanti tornei di pallacanestro avuti luogo tutto il mondo."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Basket Amichevoli Nazionale - Ep. 1 - Basket Amichevoli Nazionale 2026 Maschile Italia/ Croazia 24/06/2026",
+                "descrizione": "Una copertura completa di alcune delle migliori partite e dei piu' importanti tornei di pallacanestro avuti luogo tutto il mondo."
+            },
+            {
+                "ora": "23:50",
+                "titolo": "Leinster - Bulls Finale",
+                "descrizione": "Championship. - Dalla RDS Arena di Dublino, Irlanda."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport Tennis",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:25",
-                "titolo": "Tennis: ATP & WTA",
-                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Sinner, Re di Roma 50 Anni Dopo",
-                "descrizione": "50 anni dopo Adriano Panatta, un italiano torna a trionfare al Foro Italico. Il cammino di Jannik Sinner a Roma, attraverso i backstage e le immagini inedite di Sky Sport."
-            },
             {
                 "ora": "00:30",
                 "titolo": "Tennis: ATP & WTA",
@@ -1603,29 +1593,24 @@
                 "ora": "23:00",
                 "titolo": "DS Automobiles Open d'Italia: Giorno 1",
                 "descrizione": "1 Golf: DP World Tour. - Tutti i tornei del tour europeo, il DP World Tour."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Conegliano - Scandicci",
+                "descrizione": "Conegliano - Savino Del Bene Scandicci Volley CEV Champions League. - Conegliano - Scandicci"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "Sonsio Grand Prix",
+                "descrizione": "si inizia a respirare il profumo dei motori schierati nel catino rovente di Indianapolis, anche se per il road course."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport F1",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "F1 Conf. Stampa Piloti",
-                "descrizione": "Comincia il weekend con le parole dei protagonisti: le aspettative dei piloti prima di infilarsi il casco e scendere in pista."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "F1 Paddock Live Pit Walk",
-                "descrizione": "Alla vigilia del weekend di gara la squadra di Sky Sport F1 presenta il Gran Premio analizzando punti forti e punti deboli delle varie squadre."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "GP Austria",
-                "descrizione": "Edizione n.72. 22 gran premi, 20 piloti e un solo obiettivo: diventare il nuovo campione del mondo! Verstappen in pole position. TC: Vanzini-Gene'-Chinchero."
-            },
             {
                 "ora": "01:00",
                 "titolo": "F1 Conf. Stampa Piloti",
@@ -1670,19 +1655,29 @@
                 "ora": "22:00",
                 "titolo": "Sport 24 Today",
                 "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
+            },
+            {
+                "ora": "21:55",
+                "titolo": "Speciale Inter: Il Film Del Campionato",
+                "descrizione": "Campionato Inter Scudetto 2026. - Le emozioni, le partite piu' importanti, le migliori immagini e il filo conduttore di Chivu. Tutto concentrato in questo film del 21^ scudetto, quello dell'anima nerazzurra."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "Tennis: ATP & WTA",
+                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
+            },
+            {
+                "ora": "23:30",
+                "titolo": "Basket Amichevoli Nazionale - Ep. 1 - Basket Amichevoli Nazionale 2026 Maschile Italia/ Croazia 24/06/2026",
+                "descrizione": "Una copertura completa di alcune delle migliori partite e dei piu' importanti tornei di pallacanestro avuti luogo tutto il mondo."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport Legend",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "22:45",
-                "titolo": "Marocchi",
-                "descrizione": "Giancarlo Marocchi e' un dirigente sportivo, commentatore televisivo ed ex calciatore italiano."
-            },
             {
                 "ora": "23:15",
                 "titolo": "Conegliano - Scandicci",
@@ -1737,39 +1732,19 @@
                 "ora": "23:30",
                 "titolo": "Basket Amichevoli Nazionale - Ep. 1 - Basket Amichevoli Nazionale 2026 Maschile Italia/ Croazia 24/06/2026",
                 "descrizione": "Una copertura completa di alcune delle migliori partite e dei piu' importanti tornei di pallacanestro avuti luogo tutto il mondo."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Basket Amichevoli Nazionale - Ep. 1 - Basket Amichevoli Nazionale 2026 Maschile Italia/ Croazia 24/06/2026",
+                "descrizione": "Una copertura completa di alcune delle migliori partite e dei piu' importanti tornei di pallacanestro avuti luogo tutto il mondo."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport MotoGP",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "22:55",
-                "titolo": "GP Olanda",
-                "descrizione": "MotoGP. - In esclusiva la conferenza stampa dei piloti MotoGP che introduce il weekend di gara del GP di Olanda"
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Racebook",
-                "descrizione": "Le parole dei piloti e le curiosità dal paddock prima che le moto scendano in pista per il weekend di gara."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Bagnaia controtempo",
-                "descrizione": "Bagnaia controtempo"
-            },
-            {
-                "ora": "00:00",
-                "titolo": "MotoGP Paddock Pass",
-                "descrizione": "Il magazine dedicato all'approfondimento del weekend di gara e di anticipazione del prossimo GP: tecnica, colore, statistiche, storia, curiosita'. Il mondo delle gare visto dai box."
-            },
-            {
-                "ora": "00:15",
-                "titolo": "Racebook",
-                "descrizione": "Le parole dei piloti e le curiosità dal paddock prima che le moto scendano in pista per il weekend di gara."
-            },
             {
                 "ora": "00:35",
                 "titolo": "GP Olanda",
@@ -1804,19 +1779,39 @@
                 "ora": "03:30",
                 "titolo": "[REPLICA] - MotoGP Gara: GP Olanda",
                 "descrizione": "Decimo appuntamento del mondiale 2025: al circuito di Assen, in Olanda, si accendono i motori per la gara della Moto3. Telecronaca Triolo - Pasini"
+            },
+            {
+                "ora": "04:30",
+                "titolo": "La Cena Delle Leggende",
+                "descrizione": "In questa cena organizzata dalla MotoGP, siedono intorno al tavolo molte leggende che hanno fatto la storia del Motomondiale. Da Stoner a Rossi, da Lorenzo a Pedrosa per arrivare a Spencer e Schwantz."
+            },
+            {
+                "ora": "05:00",
+                "titolo": "GP Olanda",
+                "descrizione": "MotoGP. - Segui in esclusiva la conferenza stampa dei piloti della MotoGp, con tutte le anticipazioni del weekend, alla vigilia del gran premio."
+            },
+            {
+                "ora": "05:30",
+                "titolo": "Racebook",
+                "descrizione": "Le parole dei piloti e le curiosità dal paddock prima che le moto scendano in pista per il weekend di gara."
+            },
+            {
+                "ora": "05:45",
+                "titolo": "Bagnaia controtempo",
+                "descrizione": "Bagnaia controtempo"
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Sport 24 Today",
+                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport Basket",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:40",
-                "titolo": "Round 2",
-                "descrizione": "Dal Barclays Center di New York, Stati Uniti."
-            },
             {
                 "ora": "23:35",
                 "titolo": "Basket Amichevoli Nazionale - Ep. 1 - Basket Amichevoli Nazionale 2026 Maschile Italia/ Croazia 24/06/2026",
@@ -1871,19 +1866,19 @@
                 "ora": "22:55",
                 "titolo": "GP Olanda",
                 "descrizione": "MotoGP. - In esclusiva la conferenza stampa dei piloti MotoGP che introduce il weekend di gara del GP di Olanda"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "DS Automobiles Open d'Italia: Giorno 1",
+                "descrizione": "1 Golf: DP World Tour. - Tutti i tornei del tour europeo, il DP World Tour."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport Arena",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "22:30",
-                "titolo": "Grecia Live Stage 1",
-                "descrizione": "Championship. - Segui le gare del World Rally Championship."
-            },
             {
                 "ora": "23:30",
                 "titolo": "Basket Amichevoli Nazionale - Ep. 1 - Basket Amichevoli Nazionale 2026 Maschile Italia/ Croazia 24/06/2026",
@@ -1938,19 +1933,19 @@
                 "ora": "22:55",
                 "titolo": "GP Olanda",
                 "descrizione": "MotoGP. - In esclusiva la conferenza stampa dei piloti MotoGP che introduce il weekend di gara del GP di Olanda"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "DS Automobiles Open d'Italia: Giorno 1",
+                "descrizione": "1 Golf: DP World Tour. - Tutti i tornei del tour europeo, il DP World Tour."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport Max",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Campionato Italiano Gold: Finale maschile",
-                "descrizione": "maschile Beach Volley. - Assistiamo insieme alla Finale maschile del campionato italiano Gold di beach volley a Termoli."
-            },
             {
                 "ora": "23:50",
                 "titolo": "Leinster - Bulls Finale",
@@ -2005,24 +2000,19 @@
                 "ora": "23:00",
                 "titolo": "DS Automobiles Open d'Italia: Giorno 1",
                 "descrizione": "1 Golf: DP World Tour. - Tutti i tornei del tour europeo, il DP World Tour."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Conegliano - Scandicci",
+                "descrizione": "Conegliano - Savino Del Bene Scandicci Volley CEV Champions League. - Conegliano - Scandicci"
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport Mix",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Boat Show - Stag. Boat Show 2026 - Boat Show 2026 Ep.20 25/06/2026",
-                "descrizione": "Boat Show. - Regate, grandi eventi, saloni nautici e tutto il nuovo che arriva dal mondo della cantieristica, a vela e a motore. In ogni occasione, un personaggio del mondo della nautica si racconta al pubblico."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Grecia Live Stage 1",
-                "descrizione": "Championship. - Segui le gare del World Rally Championship."
-            },
             {
                 "ora": "00:30",
                 "titolo": "Sonsio Grand Prix",
@@ -2072,9 +2062,19 @@
                 "ora": "22:00",
                 "titolo": "GP Austria: Gara",
                 "descrizione": "Undicesima prova del mondiale 2025: sul circuito di proprieta' della Red Bull tanti punti di sorpasso e gare sempre spettacolari. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
+            },
+            {
+                "ora": "22:55",
+                "titolo": "GP Olanda",
+                "descrizione": "MotoGP. - In esclusiva la conferenza stampa dei piloti MotoGP che introduce il weekend di gara del GP di Olanda"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "DS Automobiles Open d'Italia: Giorno 1",
+                "descrizione": "1 Golf: DP World Tour. - Tutti i tornei del tour europeo, il DP World Tour."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport Golf",
@@ -2141,28 +2141,13 @@
                 "descrizione": "MotoGP. - In esclusiva la conferenza stampa dei piloti MotoGP che introduce il weekend di gara del GP di Olanda"
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport 251",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "21:55",
-                "titolo": "Speciale Inter: Il Film Del Campionato",
-                "descrizione": "Campionato Inter Scudetto 2026. - Le emozioni, le partite piu' importanti, le migliori immagini e il filo conduttore di Chivu. Tutto concentrato in questo film del 21^ scudetto, quello dell'anima nerazzurra."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis: ATP & WTA",
                 "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
@@ -2206,30 +2191,30 @@
                 "ora": "00:30",
                 "titolo": "Sonsio Grand Prix",
                 "descrizione": "si inizia a respirare il profumo dei motori schierati nel catino rovente di Indianapolis, anche se per il road course."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "GP Cina: Gara",
+                "descrizione": "Seconda gara della stagione: dopo la doppietta Mercedes a Melbourne chi trionfera' a Shanghai? Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport 252",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "21:55",
-                "titolo": "Speciale Inter: Il Film Del Campionato",
-                "descrizione": "Campionato Inter Scudetto 2026. - Le emozioni, le partite piu' importanti, le migliori immagini e il filo conduttore di Chivu. Tutto concentrato in questo film del 21^ scudetto, quello dell'anima nerazzurra."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis: ATP & WTA",
                 "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
@@ -2273,30 +2258,30 @@
                 "ora": "00:30",
                 "titolo": "Sonsio Grand Prix",
                 "descrizione": "si inizia a respirare il profumo dei motori schierati nel catino rovente di Indianapolis, anche se per il road course."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "GP Cina: Gara",
+                "descrizione": "Seconda gara della stagione: dopo la doppietta Mercedes a Melbourne chi trionfera' a Shanghai? Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport 253",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "21:55",
-                "titolo": "Speciale Inter: Il Film Del Campionato",
-                "descrizione": "Campionato Inter Scudetto 2026. - Le emozioni, le partite piu' importanti, le migliori immagini e il filo conduttore di Chivu. Tutto concentrato in questo film del 21^ scudetto, quello dell'anima nerazzurra."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis: ATP & WTA",
                 "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
@@ -2340,30 +2325,30 @@
                 "ora": "00:30",
                 "titolo": "Sonsio Grand Prix",
                 "descrizione": "si inizia a respirare il profumo dei motori schierati nel catino rovente di Indianapolis, anche se per il road course."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "GP Cina: Gara",
+                "descrizione": "Seconda gara della stagione: dopo la doppietta Mercedes a Melbourne chi trionfera' a Shanghai? Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport 254",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "21:55",
-                "titolo": "Speciale Inter: Il Film Del Campionato",
-                "descrizione": "Campionato Inter Scudetto 2026. - Le emozioni, le partite piu' importanti, le migliori immagini e il filo conduttore di Chivu. Tutto concentrato in questo film del 21^ scudetto, quello dell'anima nerazzurra."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis: ATP & WTA",
                 "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
@@ -2407,30 +2392,30 @@
                 "ora": "00:30",
                 "titolo": "Sonsio Grand Prix",
                 "descrizione": "si inizia a respirare il profumo dei motori schierati nel catino rovente di Indianapolis, anche se per il road course."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "GP Cina: Gara",
+                "descrizione": "Seconda gara della stagione: dopo la doppietta Mercedes a Melbourne chi trionfera' a Shanghai? Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport 255",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "21:55",
-                "titolo": "Speciale Inter: Il Film Del Campionato",
-                "descrizione": "Campionato Inter Scudetto 2026. - Le emozioni, le partite piu' importanti, le migliori immagini e il filo conduttore di Chivu. Tutto concentrato in questo film del 21^ scudetto, quello dell'anima nerazzurra."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis: ATP & WTA",
                 "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
@@ -2474,30 +2459,30 @@
                 "ora": "00:30",
                 "titolo": "Sonsio Grand Prix",
                 "descrizione": "si inizia a respirare il profumo dei motori schierati nel catino rovente di Indianapolis, anche se per il road course."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "GP Cina: Gara",
+                "descrizione": "Seconda gara della stagione: dopo la doppietta Mercedes a Melbourne chi trionfera' a Shanghai? Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport 256",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "21:55",
-                "titolo": "Speciale Inter: Il Film Del Campionato",
-                "descrizione": "Campionato Inter Scudetto 2026. - Le emozioni, le partite piu' importanti, le migliori immagini e il filo conduttore di Chivu. Tutto concentrato in questo film del 21^ scudetto, quello dell'anima nerazzurra."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis: ATP & WTA",
                 "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
@@ -2541,30 +2526,30 @@
                 "ora": "00:30",
                 "titolo": "Sonsio Grand Prix",
                 "descrizione": "si inizia a respirare il profumo dei motori schierati nel catino rovente di Indianapolis, anche se per il road course."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "GP Cina: Gara",
+                "descrizione": "Seconda gara della stagione: dopo la doppietta Mercedes a Melbourne chi trionfera' a Shanghai? Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport 257",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "21:55",
-                "titolo": "Speciale Inter: Il Film Del Campionato",
-                "descrizione": "Campionato Inter Scudetto 2026. - Le emozioni, le partite piu' importanti, le migliori immagini e il filo conduttore di Chivu. Tutto concentrato in questo film del 21^ scudetto, quello dell'anima nerazzurra."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis: ATP & WTA",
                 "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
@@ -2608,30 +2593,30 @@
                 "ora": "00:30",
                 "titolo": "Sonsio Grand Prix",
                 "descrizione": "si inizia a respirare il profumo dei motori schierati nel catino rovente di Indianapolis, anche se per il road course."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "GP Cina: Gara",
+                "descrizione": "Seconda gara della stagione: dopo la doppietta Mercedes a Melbourne chi trionfera' a Shanghai? Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport 258",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "21:55",
-                "titolo": "Speciale Inter: Il Film Del Campionato",
-                "descrizione": "Campionato Inter Scudetto 2026. - Le emozioni, le partite piu' importanti, le migliori immagini e il filo conduttore di Chivu. Tutto concentrato in questo film del 21^ scudetto, quello dell'anima nerazzurra."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis: ATP & WTA",
                 "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
@@ -2675,30 +2660,30 @@
                 "ora": "00:30",
                 "titolo": "Sonsio Grand Prix",
                 "descrizione": "si inizia a respirare il profumo dei motori schierati nel catino rovente di Indianapolis, anche se per il road course."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "GP Cina: Gara",
+                "descrizione": "Seconda gara della stagione: dopo la doppietta Mercedes a Melbourne chi trionfera' a Shanghai? Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Sport 259",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "21:55",
-                "titolo": "Speciale Inter: Il Film Del Campionato",
-                "descrizione": "Campionato Inter Scudetto 2026. - Le emozioni, le partite piu' importanti, le migliori immagini e il filo conduttore di Chivu. Tutto concentrato in questo film del 21^ scudetto, quello dell'anima nerazzurra."
-            },
-            {
                 "ora": "00:30",
                 "titolo": "Tennis: ATP & WTA",
                 "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
@@ -2742,19 +2727,29 @@
                 "ora": "00:30",
                 "titolo": "Sonsio Grand Prix",
                 "descrizione": "si inizia a respirare il profumo dei motori schierati nel catino rovente di Indianapolis, anche se per il road course."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "GP Cina: Gara",
+                "descrizione": "Seconda gara della stagione: dopo la doppietta Mercedes a Melbourne chi trionfera' a Shanghai? Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Nessun evento in onda",
+                "descrizione": "DAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Cinema Uno",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Come può uno scoglio",
-                "descrizione": "Alla morte di suo padre, Pio eredita la gestione di svariate attività. Ora vive nell’agio di Treviso con la sua famiglia, ed è in corsa per diventare sindaco. Finché Amedeo, un ex carcerato fatto assumere dal parroco del paese come autista personale, non irrompe nella sua vita come un tornado. Ma i due hanno in comune molto più di quello che sembra. Grazie ad Amedeo, Pio riscoprirà le sue passioni e la verità sulla sua famiglia, in un viaggio di riconciliazione con sé stesso."
-            },
             {
                 "ora": "00:35",
                 "titolo": "The Gentlemen",
@@ -2769,6 +2764,11 @@
                 "ora": "04:25",
                 "titolo": "Maggie Moore(s) - Un omicidio di troppo",
                 "descrizione": "Due donne, due omicidi, un solo nome: Maggie Moore. Una strana coincidenza, o un piano architettato così male da risultare credibile? Jordan Sanders (Jon Hamm), il capo della polizia di una tranquilla cittadina dell’Arizona, dovrà scoprire cosa si nasconde dietro questo bizzarro duplice omicidio, tra depistaggi, testimoni chiave e un killer particolare."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Come può uno scoglio",
+                "descrizione": "Alla morte di suo padre, Pio eredita la gestione di svariate attività. Ora vive nell’agio di Treviso con la sua famiglia, ed è in corsa per diventare sindaco. Finché Amedeo, un ex carcerato fatto assumere dal parroco del paese come autista personale, non irrompe nella sua vita come un tornado. Ma i due hanno in comune molto più di quello che sembra. Grazie ad Amedeo, Pio riscoprirà le sue passioni e la verità sulla sua famiglia, in un viaggio di riconciliazione con sé stesso."
             },
             {
                 "ora": "23:35",
@@ -2811,17 +2811,12 @@
                 "descrizione": "Pietro è un uomo di mezza età con un grande dolore alle spalle: la morte di sua moglie che lo ha lasciato solo con la loro figlia. Non ha avuto tempo per il dolore perché ha dovuto occuparsi di lei crescendola con amore e dedizione in un rapporto esclusivo, totalizzante, in cui uno curava le ferite dell’altro attraverso le proprie. Quando, dopo qualche anno, proverà a rifarsi una vita con una nuova compagna, non tutto andrà come sognato: la reazione di sua figlia sarà esplosiva e Pietro sarà messo a dura prova. Si ritroverà a lottare tra rabbia e istinto paterno: quanto le può perdonare? Quanto è più forte l’amore della ragione?"
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Cinema Collection",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Star Trek Beyond",
-                "descrizione": "L'equipaggio della Enterprise esplora gli angoli più remoti dello spazio sconosciuto, dove lo attende un nuovo nemico misterioso, che metterà a rischio loro e tutto ciò che la Federazione rappresenta. La perdita dell'Enterprise costringerà tutti quanti a tentare di sopravvivere ai pericoli del pianeta alieno Altamid."
-            },
             {
                 "ora": "23:20",
                 "titolo": "Star Trek - Il futuro ha inizio",
@@ -2876,9 +2871,14 @@
                 "ora": "22:30",
                 "titolo": "Downton Abbey II - Una nuova era",
                 "descrizione": "Un nuovo capitolo nelle vite degli abitanti di Downton Abbey: la Contessa Madre di Grantham svela a tutta la famiglia che un uomo che conosceva in gioventù le ha lasciato in dono una villa nel sud della Francia."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Una figlia",
+                "descrizione": "Pietro è un uomo di mezza età con un grande dolore alle spalle: la morte di sua moglie che lo ha lasciato solo con la loro figlia. Non ha avuto tempo per il dolore perché ha dovuto occuparsi di lei crescendola con amore e dedizione in un rapporto esclusivo, totalizzante, in cui uno curava le ferite dell’altro attraverso le proprie. Quando, dopo qualche anno, proverà a rifarsi una vita con una nuova compagna, non tutto andrà come sognato: la reazione di sua figlia sarà esplosiva e Pietro sarà messo a dura prova. Si ritroverà a lottare tra rabbia e istinto paterno: quanto le può perdonare? Quanto è più forte l’amore della ragione?"
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Cinema Family",
@@ -2945,17 +2945,12 @@
                 "descrizione": "Un nuovo capitolo nelle vite degli abitanti di Downton Abbey: la Contessa Madre di Grantham svela a tutta la famiglia che un uomo che conosceva in gioventù le ha lasciato in dono una villa nel sud della Francia."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Cinema Action",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Robin Hood",
-                "descrizione": "La storia è quella di Robin di Locksley nobile ed abile arciere al servizio di Re Riccardo Cuor di Leone durante la guerra di Francia. Interessato solo alla gloria e a \"salvarsi la pelle"
-            },
             {
                 "ora": "23:20",
                 "titolo": "Safe House - Nessuno è al sicuro",
@@ -3010,19 +3005,19 @@
                 "ora": "22:30",
                 "titolo": "Downton Abbey II - Una nuova era",
                 "descrizione": "Un nuovo capitolo nelle vite degli abitanti di Downton Abbey: la Contessa Madre di Grantham svela a tutta la famiglia che un uomo che conosceva in gioventù le ha lasciato in dono una villa nel sud della Francia."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Una figlia",
+                "descrizione": "Pietro è un uomo di mezza età con un grande dolore alle spalle: la morte di sua moglie che lo ha lasciato solo con la loro figlia. Non ha avuto tempo per il dolore perché ha dovuto occuparsi di lei crescendola con amore e dedizione in un rapporto esclusivo, totalizzante, in cui uno curava le ferite dell’altro attraverso le proprie. Quando, dopo qualche anno, proverà a rifarsi una vita con una nuova compagna, non tutto andrà come sognato: la reazione di sua figlia sarà esplosiva e Pietro sarà messo a dura prova. Si ritroverà a lottare tra rabbia e istinto paterno: quanto le può perdonare? Quanto è più forte l’amore della ragione?"
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Cinema Suspense",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "22:30",
-                "titolo": "Cult Killer",
-                "descrizione": "Quando un rinomato investigatore privato viene ucciso, la sua allieva prende in carico il caso. Man mano che l’indagine porta a galla la verità, lei è costretta a un'alleanza pericolosa con l’assassino per scoprire i loschi segreti che la città nasconde e portare giustizia alle sue vittime."
-            },
             {
                 "ora": "00:15",
                 "titolo": "L'inferno di cristallo",
@@ -3077,19 +3072,19 @@
                 "ora": "23:10",
                 "titolo": "Una figlia",
                 "descrizione": "Pietro è un uomo di mezza età con un grande dolore alle spalle: la morte di sua moglie che lo ha lasciato solo con la loro figlia. Non ha avuto tempo per il dolore perché ha dovuto occuparsi di lei crescendola con amore e dedizione in un rapporto esclusivo, totalizzante, in cui uno curava le ferite dell’altro attraverso le proprie. Quando, dopo qualche anno, proverà a rifarsi una vita con una nuova compagna, non tutto andrà come sognato: la reazione di sua figlia sarà esplosiva e Pietro sarà messo a dura prova. Si ritroverà a lottare tra rabbia e istinto paterno: quanto le può perdonare? Quanto è più forte l’amore della ragione?"
+            },
+            {
+                "ora": "23:25",
+                "titolo": "Don't Let Go",
+                "descrizione": "Un detective che soffre per una perdita personale riceve una telefonata dalla nipote appena deceduta. Essendo in grado di comunicare attraverso il tempo, i due lavorano insieme per cercare di fermare il crimine prima che si verifichi."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Cinema Romance",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "22:30",
-                "titolo": "Downton Abbey II - Una nuova era",
-                "descrizione": "Un nuovo capitolo nelle vite degli abitanti di Downton Abbey: la Contessa Madre di Grantham svela a tutta la famiglia che un uomo che conosceva in gioventù le ha lasciato in dono una villa nel sud della Francia."
-            },
             {
                 "ora": "00:45",
                 "titolo": "Jane Austen ha stravolto la mia vita",
@@ -3144,24 +3139,19 @@
                 "ora": "22:40",
                 "titolo": "Finale a sorpresa - Official Competition",
                 "descrizione": "Alla ricerca di riconoscimento e prestigio sociale, un uomo d’affari miliardario decide di fare un film che lasci il segno. Per riuscirci, assume i migliori: un cast stellare formato dalla famosa regista Lola Cuevas e da due rinomati attori, entrambi di enorme talento, ma con un ego ancora più grande: Félix Rivero, attore hollywoodiano, e Iván Torres, illustre interprete del teatro radicale. Entrambi delle leggende, ma non proprio in buoni rapporti. Attraverso una serie di sfide sempre più eccentriche lanciate da Lola, Felix e Iván devono confrontarsi non solo l’un l’altro, ma anche con il loro lascito artistico."
+            },
+            {
+                "ora": "22:30",
+                "titolo": "Downton Abbey II - Una nuova era",
+                "descrizione": "Un nuovo capitolo nelle vite degli abitanti di Downton Abbey: la Contessa Madre di Grantham svela a tutta la famiglia che un uomo che conosceva in gioventù le ha lasciato in dono una villa nel sud della Francia."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Cinema Drama",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "L'ombra del giorno",
-                "descrizione": "Ad Ascoli Piceno, nel 1938 e quindi poco prima dello scoppio della Seconda guerra mondiale, Luciano è il proprietario di un ristorante e, come moltissimi italiani, un simpatizzante del regime fascista. Un giorno però arriva nella sua vita una ragazza, Anna, che riesce a farsi assumere nel ristorante e che porta con sé un segreto. Luciano, che fino ad allora ha creduto di poter disporre della sua vita, si trova all'improvviso di fronte a un elemento nuovo: l'amore."
-            },
-            {
-                "ora": "23:10",
-                "titolo": "Una figlia",
-                "descrizione": "Pietro è un uomo di mezza età con un grande dolore alle spalle: la morte di sua moglie che lo ha lasciato solo con la loro figlia. Non ha avuto tempo per il dolore perché ha dovuto occuparsi di lei crescendola con amore e dedizione in un rapporto esclusivo, totalizzante, in cui uno curava le ferite dell’altro attraverso le proprie. Quando, dopo qualche anno, proverà a rifarsi una vita con una nuova compagna, non tutto andrà come sognato: la reazione di sua figlia sarà esplosiva e Pietro sarà messo a dura prova. Si ritroverà a lottare tra rabbia e istinto paterno: quanto le può perdonare? Quanto è più forte l’amore della ragione?"
-            },
             {
                 "ora": "01:00",
                 "titolo": "Patagonia",
@@ -3211,19 +3201,24 @@
                 "ora": "22:40",
                 "titolo": "Finale a sorpresa - Official Competition",
                 "descrizione": "Alla ricerca di riconoscimento e prestigio sociale, un uomo d’affari miliardario decide di fare un film che lasci il segno. Per riuscirci, assume i migliori: un cast stellare formato dalla famosa regista Lola Cuevas e da due rinomati attori, entrambi di enorme talento, ma con un ego ancora più grande: Félix Rivero, attore hollywoodiano, e Iván Torres, illustre interprete del teatro radicale. Entrambi delle leggende, ma non proprio in buoni rapporti. Attraverso una serie di sfide sempre più eccentriche lanciate da Lola, Felix e Iván devono confrontarsi non solo l’un l’altro, ma anche con il loro lascito artistico."
+            },
+            {
+                "ora": "22:30",
+                "titolo": "Downton Abbey II - Una nuova era",
+                "descrizione": "Un nuovo capitolo nelle vite degli abitanti di Downton Abbey: la Contessa Madre di Grantham svela a tutta la famiglia che un uomo che conosceva in gioventù le ha lasciato in dono una villa nel sud della Francia."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Una figlia",
+                "descrizione": "Pietro è un uomo di mezza età con un grande dolore alle spalle: la morte di sua moglie che lo ha lasciato solo con la loro figlia. Non ha avuto tempo per il dolore perché ha dovuto occuparsi di lei crescendola con amore e dedizione in un rapporto esclusivo, totalizzante, in cui uno curava le ferite dell’altro attraverso le proprie. Quando, dopo qualche anno, proverà a rifarsi una vita con una nuova compagna, non tutto andrà come sognato: la reazione di sua figlia sarà esplosiva e Pietro sarà messo a dura prova. Si ritroverà a lottare tra rabbia e istinto paterno: quanto le può perdonare? Quanto è più forte l’amore della ragione?"
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Cinema Comedy",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "22:40",
-                "titolo": "Finale a sorpresa - Official Competition",
-                "descrizione": "Alla ricerca di riconoscimento e prestigio sociale, un uomo d’affari miliardario decide di fare un film che lasci il segno. Per riuscirci, assume i migliori: un cast stellare formato dalla famosa regista Lola Cuevas e da due rinomati attori, entrambi di enorme talento, ma con un ego ancora più grande: Félix Rivero, attore hollywoodiano, e Iván Torres, illustre interprete del teatro radicale. Entrambi delle leggende, ma non proprio in buoni rapporti. Attraverso una serie di sfide sempre più eccentriche lanciate da Lola, Felix e Iván devono confrontarsi non solo l’un l’altro, ma anche con il loro lascito artistico."
-            },
             {
                 "ora": "00:35",
                 "titolo": "Game Night - Indovina chi muore stasera?",
@@ -3275,17 +3270,57 @@
                 "descrizione": "Un incendio scoppia nel piú alto grattacielo del mondo e gli ospiti di una festa che si tiene all'ultimo piano restano intrappolati tra le fiamme."
             },
             {
+                "ora": "22:40",
+                "titolo": "Finale a sorpresa - Official Competition",
+                "descrizione": "Alla ricerca di riconoscimento e prestigio sociale, un uomo d’affari miliardario decide di fare un film che lasci il segno. Per riuscirci, assume i migliori: un cast stellare formato dalla famosa regista Lola Cuevas e da due rinomati attori, entrambi di enorme talento, ma con un ego ancora più grande: Félix Rivero, attore hollywoodiano, e Iván Torres, illustre interprete del teatro radicale. Entrambi delle leggende, ma non proprio in buoni rapporti. Attraverso una serie di sfide sempre più eccentriche lanciate da Lola, Felix e Iván devono confrontarsi non solo l’un l’altro, ma anche con il loro lascito artistico."
+            },
+            {
                 "ora": "22:30",
                 "titolo": "Downton Abbey II - Una nuova era",
                 "descrizione": "Un nuovo capitolo nelle vite degli abitanti di Downton Abbey: la Contessa Madre di Grantham svela a tutta la famiglia che un uomo che conosceva in gioventù le ha lasciato in dono una villa nel sud della Francia."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Uno",
         "categoria": "Intrattenimento",
         "programmi": [
+            {
+                "ora": "01:00",
+                "titolo": "Quattro matrimoni",
+                "descrizione": "Le quattro giovani spose protagoniste di questo episodio promettono quattro scatenatissime feste di matrimonio, tra amici a base di musica, balli, cocktail e tanta leggerezza e spensieratezza."
+            },
+            {
+                "ora": "02:10",
+                "titolo": "Bruno Barbieri - 4 Hotel",
+                "descrizione": "Ep8 di 8 Val D'Aosta -4 Hotel si prepara all'inverno e arriva in Valle D'Aosta. Questa volta la sfida sara' tra i migliori hotel di montagna con spa della valle, dove sport e relax convivono."
+            },
+            {
+                "ora": "03:15",
+                "titolo": "La seconda casa non si scorda mai",
+                "descrizione": "Ep4 di 15 Tra Polignano e Monopoli: le perle dell'Adriatico - Tommaso e Monica vogliono acquistare una seconda casa in Puglia. I nostri esperti, tra trulli e masserie, cercheranno la soluzione migliore."
+            },
+            {
+                "ora": "04:10",
+                "titolo": "'Na pizza",
+                "descrizione": "Ep6 di 6 - Renato Bosco ospita Francesco Gabriele, pizzaiolo altoatesino che ha ottenuto un posto in finale nel concorso 'Emergente chef pizza 2023'. La specialita'? Pizza napoletana contemporanea!"
+            },
+            {
+                "ora": "04:30",
+                "titolo": "Hell's Kitchen USA",
+                "descrizione": "Ep9 di 16 - Per la prima volta in assoluto, diciotto talentuosi Capi Chef professionisti, si sfideranno ad altissimi livelli per diventare il Capo Chef del ristorante Hell's Kitchen."
+            },
+            {
+                "ora": "05:15",
+                "titolo": "Hell's Kitchen USA",
+                "descrizione": "Ep10 di 16 - Per la prima volta in assoluto, diciotto talentuosi Capi Chef professionisti, si sfideranno ad altissimi livelli per diventare il Capo Chef del ristorante Hell's Kitchen."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Money Road - Ogni tentazione ha un...",
+                "descrizione": "L'esperimento sociale è giunto al termine: la giungla ha cambiato per sempre i 12 della Compagnia. Resta un solo gesto, un pulsante, a decidere il destino di tutti."
+            },
             {
                 "ora": "23:00",
                 "titolo": "House of the Dragon",
@@ -3310,54 +3345,14 @@
                 "ora": "23:50",
                 "titolo": "Murder Suspect",
                 "descrizione": "S1 Ep5 di 5 Omicidio tra le fiamme - Un uomo viene aggredito brutalmente nella sua abitazione e lasciato morire in un incendio."
-            },
-            {
-                "ora": "22:15",
-                "titolo": "Peggy Guggenheim e Edmondo Bacci: Colore e luce",
-                "descrizione": "La mostra \"Edmondo Bacci. L'energia della luce\" alla Collezione Peggy Guggenheim di Venezia. Le opere rivelano l'evoluzione del linguaggio artistico di Bacci, caratterizzato dalla forza generativa dei colori."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Squali: l'incubo dei surfisti",
-                "descrizione": "In tutto il mondo, cresce il numero di attacchi di squali. Le vittime più colpite sono i surfisti. Scopriamo le storie di chi si è ritrovato faccia a faccia con queste creature."
-            },
-            {
-                "ora": "23:05",
-                "titolo": "Schubert - Winterreise D.911",
-                "descrizione": "''Viaggio d'inverno'' - Ciclo di 24 lieder composti da Schubert nel 1827 su testi di Wilhelm Mueller, interpretati dal baritono Matthias Goerne con il pianista Markus Hinterhaeuser (Aix-en-Provence, 2014)"
-            },
-            {
-                "ora": "00:20",
-                "titolo": "Stand Up Comedy",
-                "descrizione": "Un'ottava stagione ricca di volti noti, ma anche di giovani talenti, pronti a esibirsi, sul palco di Stand up Comedy"
-            },
-            {
-                "ora": "22:50",
-                "titolo": "MTV Floribama Shore",
-                "descrizione": "Ep8 di 16 - Nilsa e' attratta da una ragazza che Jeremiah porta a casa. I ragazzi partecipano al St. Pete Pride Festival, dove incontrano Mus, vecchio amico di Gus."
-            },
-            {
-                "ora": "21:15",
-                "titolo": "Money Road - Ogni tentazione ha...\",\"prima\":true,\"description\":\"L'esperimento sociale è giunto al termine: la giungla ha cambiato per sempre i 12 della Compagnia. Resta un solo gesto, un pulsante, a decidere il destino di tutti.\",\"durata\":115,\"genre\":\"Show\",\"category\":\"Intrattenimento\",\"image\":\"https://ethaneurope.it.imageservice.sky.com/pd-image/9475eee6-8f78-40f2-aab7-846498a4d085/background/600\",\"episode_number\":6,\"series_number\":2,\"director\":null,\"inizio\":\"2026-06-25T19:15:00.000Z\",\"fine\":\"2026-06-25T21:10:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2026\"}},{\"canale\":{\"logo\":\"8456.png\",\"name\":\"Sky Atlantic HD\",\"number\":\"110\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"zSLr6J3XmVLY\",\"title\":\"Billy the Kid",
-                "descrizione": "Un'epica serie di avventure romantiche basata sulla vita del famoso fuorilegge americano Billy the Kid, dalle sue umili radici irlandesi, ai suoi primi giorni come cowboy e pistolero nella frontiera americana, al suo ruolo fondamentale nella guerra della contea di Lincoln e oltre."
-            },
-            {
-                "ora": "20:30",
-                "titolo": "Beverly Hills 90210",
-                "descrizione": "Beverly Hills 90210 è una serie televisiva trasmessa negli Stati Uniti d'America tra il 1990 ed il 2000. Il 90210 del titolo si riferisce allo Zip Code (termine con cui negli USA si indica il codice di avviamento postale) della città di Beverly Hills nella contea Los Angeles. Il soggetto, all'epoca, fu originale, per la prima volta infatti una serie televisiva si propose di raccontare gli adolescenti per quello che erano affrontando temi delicati come droga, AIDS, sessualità e alcolismo. La serie seguiva le vicissitudini di un gruppo di adolescenti dell'alta borghesia, abitanti nel quartiere VIP di Beverly Hills, a Los Angeles."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Atlantic",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "House of the Dragon",
-                "descrizione": "La serie prequel vede la dinastia Targaryen all'apice assoluto del suo potere, con più di 15 draghi sotto il loro giogo. La maggior parte degli imperi, che siano reali o immaginari, crollano quando raggiungono tali poteri e tali altezze. Nel caso dei Targaryen, la loro lenta caduta inizia quasi 193 anni prima degli eventi de Il Trono di Spade, quando re Viserys Targaryen rompe un secolo di tradizione nominando sua figlia Rhaenyra erede al Trono di Spade. La corte rimane scioccata quando Rhaenyra mantiene il suo status di erede nonostante Viserys in seguito avrà un figlio maschio, legittimo erede. Inizia così ad attecchire il seme della divisione e forti attriti in tutto il regno."
-            },
             {
                 "ora": "00:15",
                 "titolo": "Billy the Kid",
@@ -3405,6 +3400,11 @@
             },
             {
                 "ora": "23:00",
+                "titolo": "House of the Dragon",
+                "descrizione": "La serie prequel vede la dinastia Targaryen all'apice assoluto del suo potere, con più di 15 draghi sotto il loro giogo. La maggior parte degli imperi, che siano reali o immaginari, crollano quando raggiungono tali poteri e tali altezze. Nel caso dei Targaryen, la loro lenta caduta inizia quasi 193 anni prima degli eventi de Il Trono di Spade, quando re Viserys Targaryen rompe un secolo di tradizione nominando sua figlia Rhaenyra erede al Trono di Spade. La corte rimane scioccata quando Rhaenyra mantiene il suo status di erede nonostante Viserys in seguito avrà un figlio maschio, legittimo erede. Inizia così ad attecchire il seme della divisione e forti attriti in tutto il regno."
+            },
+            {
+                "ora": "23:00",
                 "titolo": "The Miniature Wife: Un piccolo problema",
                 "descrizione": "Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore."
             },
@@ -3414,22 +3414,12 @@
                 "descrizione": "Il dottor Raphaël Balthazar, è un medico legale affascinante, intelligente, brillante nel lavoro, ma con un carattere assolutamente esasperante. Forte di queste qualità sfida spesso il sistema delle regole imposte dalla società. Per Hélène Bach, capitano della polizia, non è facile lavorare con Raphaël. Tuttavia, deve trovare il modo di farlo perché solamente unendo le forze possono pensare di riuscire a risolvere il caso di omicidio complicato che si presenta alle autorità."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Serie",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "The Miniature Wife: Un piccolo problema",
-                "descrizione": "Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore."
-            },
-            {
-                "ora": "23:55",
-                "titolo": "The Miniature Wife: Un piccolo problema",
-                "descrizione": "Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore."
-            },
             {
                 "ora": "00:40",
                 "titolo": "Friends",
@@ -3479,24 +3469,24 @@
                 "ora": "23:10",
                 "titolo": "Money Road - Ogni tentazione ha un...",
                 "descrizione": "L'esperimento sociale è giunto al termine: la giungla ha cambiato per sempre i 12 della Compagnia. Resta un solo gesto, un pulsante, a decidere il destino di tutti."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "House of the Dragon",
+                "descrizione": "La serie prequel vede la dinastia Targaryen all'apice assoluto del suo potere, con più di 15 draghi sotto il loro giogo. La maggior parte degli imperi, che siano reali o immaginari, crollano quando raggiungono tali poteri e tali altezze. Nel caso dei Targaryen, la loro lenta caduta inizia quasi 193 anni prima degli eventi de Il Trono di Spade, quando re Viserys Targaryen rompe un secolo di tradizione nominando sua figlia Rhaenyra erede al Trono di Spade. La corte rimane scioccata quando Rhaenyra mantiene il suo status di erede nonostante Viserys in seguito avrà un figlio maschio, legittimo erede. Inizia così ad attecchire il seme della divisione e forti attriti in tutto il regno."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "The Miniature Wife: Un piccolo problema",
+                "descrizione": "Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Investigation",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "22:45",
-                "titolo": "Balthazar",
-                "descrizione": "Il dottor Raphaël Balthazar, è un medico legale affascinante, intelligente, brillante nel lavoro, ma con un carattere assolutamente esasperante. Forte di queste qualità sfida spesso il sistema delle regole imposte dalla società. Per Hélène Bach, capitano della polizia, non è facile lavorare con Raphaël. Tuttavia, deve trovare il modo di farlo perché solamente unendo le forze possono pensare di riuscire a risolvere il caso di omicidio complicato che si presenta alle autorità."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Balthazar",
-                "descrizione": "Il dottor Raphaël Balthazar, è un medico legale affascinante, intelligente, brillante nel lavoro, ma con un carattere assolutamente esasperante. Forte di queste qualità sfida spesso il sistema delle regole imposte dalla società. Per Hélène Bach, capitano della polizia, non è facile lavorare con Raphaël. Tuttavia, deve trovare il modo di farlo perché solamente unendo le forze possono pensare di riuscire a risolvere il caso di omicidio complicato che si presenta alle autorità."
-            },
             {
                 "ora": "00:40",
                 "titolo": "Law & Order: I due volti della giustizia",
@@ -3546,29 +3536,24 @@
                 "ora": "23:00",
                 "titolo": "The Miniature Wife: Un piccolo problema",
                 "descrizione": "Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore."
+            },
+            {
+                "ora": "22:45",
+                "titolo": "Balthazar",
+                "descrizione": "Il dottor Raphaël Balthazar, è un medico legale affascinante, intelligente, brillante nel lavoro, ma con un carattere assolutamente esasperante. Forte di queste qualità sfida spesso il sistema delle regole imposte dalla società. Per Hélène Bach, capitano della polizia, non è facile lavorare con Raphaël. Tuttavia, deve trovare il modo di farlo perché solamente unendo le forze possono pensare di riuscire a risolvere il caso di omicidio complicato che si presenta alle autorità."
+            },
+            {
+                "ora": "22:10",
+                "titolo": "Delitti ai Caraibi",
+                "descrizione": "Il comandante della Police Nationale Mélissa Sainte-Rose, originaria della Martinica, viene trasferita dalla Francia continentale a Fort-de-France, dove trova alle sue dipendenze il capitano Gaëlle Crivelli. I rapporti sono tesi tra le due poliziotte, perché totalmente diverse nel loro comportamento, ma complementari per la risoluzione degli omicidi."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Crime",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "22:55",
-                "titolo": "Real Cops",
-                "descrizione": "S2 Ep19 di 19 Episode 19 - Un uomo ricercato per aggressione punta una pistola contro un agente e gli ruba l'auto; un inseguimento ad alta velocita' termina quando l'auto del sospettato prende fuoco."
-            },
-            {
-                "ora": "23:20",
-                "titolo": "Real Cops",
-                "descrizione": "S2 Ep1 di 19 Episodio 21 - Un furgone scatena il caos in autostrada con una serie di collisioni prima di uno scontro a fuoco in aeroporto."
-            },
-            {
-                "ora": "23:50",
-                "titolo": "Murder Suspect",
-                "descrizione": "S1 Ep5 di 5 Omicidio tra le fiamme - Un uomo viene aggredito brutalmente nella sua abitazione e lasciato morire in un incendio."
-            },
             {
                 "ora": "00:45",
                 "titolo": "Murder Suspect",
@@ -3613,24 +3598,29 @@
                 "ora": "22:45",
                 "titolo": "Balthazar",
                 "descrizione": "Il dottor Raphaël Balthazar, è un medico legale affascinante, intelligente, brillante nel lavoro, ma con un carattere assolutamente esasperante. Forte di queste qualità sfida spesso il sistema delle regole imposte dalla società. Per Hélène Bach, capitano della polizia, non è facile lavorare con Raphaël. Tuttavia, deve trovare il modo di farlo perché solamente unendo le forze possono pensare di riuscire a risolvere il caso di omicidio complicato che si presenta alle autorità."
+            },
+            {
+                "ora": "22:10",
+                "titolo": "Delitti ai Caraibi",
+                "descrizione": "Il comandante della Police Nationale Mélissa Sainte-Rose, originaria della Martinica, viene trasferita dalla Francia continentale a Fort-de-France, dove trova alle sue dipendenze il capitano Gaëlle Crivelli. I rapporti sono tesi tra le due poliziotte, perché totalmente diverse nel loro comportamento, ma complementari per la risoluzione degli omicidi."
+            },
+            {
+                "ora": "23:50",
+                "titolo": "Murder Suspect",
+                "descrizione": "S1 Ep5 di 5 Omicidio tra le fiamme - Un uomo viene aggredito brutalmente nella sua abitazione e lasciato morire in un incendio."
+            },
+            {
+                "ora": "22:15",
+                "titolo": "Peggy Guggenheim e Edmondo Bacci: Colore e luce",
+                "descrizione": "La mostra \"Edmondo Bacci. L'energia della luce\" alla Collezione Peggy Guggenheim di Venezia. Le opere rivelano l'evoluzione del linguaggio artistico di Bacci, caratterizzato dalla forza generativa dei colori."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Adventure",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Squali: l'incubo dei surfisti",
-                "descrizione": "In tutto il mondo, cresce il numero di attacchi di squali. Le vittime più colpite sono i surfisti. Scopriamo le storie di chi si è ritrovato faccia a faccia con queste creature."
-            },
-            {
-                "ora": "23:55",
-                "titolo": "Chris Hemsworth: a caccia di squali",
-                "descrizione": "Chris Hemsworth ha una vera passione per gli squali. La star di Hollywood racconta come ha imparato ad apprezzare questi grandi predatori degli oceani."
-            },
             {
                 "ora": "00:45",
                 "titolo": "Shark with Steve Backshall",
@@ -3680,34 +3670,24 @@
                 "ora": "22:45",
                 "titolo": "Balthazar",
                 "descrizione": "Il dottor Raphaël Balthazar, è un medico legale affascinante, intelligente, brillante nel lavoro, ma con un carattere assolutamente esasperante. Forte di queste qualità sfida spesso il sistema delle regole imposte dalla società. Per Hélène Bach, capitano della polizia, non è facile lavorare con Raphaël. Tuttavia, deve trovare il modo di farlo perché solamente unendo le forze possono pensare di riuscire a risolvere il caso di omicidio complicato che si presenta alle autorità."
+            },
+            {
+                "ora": "22:10",
+                "titolo": "Delitti ai Caraibi",
+                "descrizione": "Il comandante della Police Nationale Mélissa Sainte-Rose, originaria della Martinica, viene trasferita dalla Francia continentale a Fort-de-France, dove trova alle sue dipendenze il capitano Gaëlle Crivelli. I rapporti sono tesi tra le due poliziotte, perché totalmente diverse nel loro comportamento, ma complementari per la risoluzione degli omicidi."
+            },
+            {
+                "ora": "23:50",
+                "titolo": "Murder Suspect",
+                "descrizione": "S1 Ep5 di 5 Omicidio tra le fiamme - Un uomo viene aggredito brutalmente nella sua abitazione e lasciato morire in un incendio."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "MTV",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "22:50",
-                "titolo": "MTV Floribama Shore",
-                "descrizione": "Ep8 di 16 - Nilsa e' attratta da una ragazza che Jeremiah porta a casa. I ragazzi partecipano al St. Pete Pride Festival, dove incontrano Mus, vecchio amico di Gus."
-            },
-            {
-                "ora": "23:40",
-                "titolo": "Ridiculousness: Veri American Idiots",
-                "descrizione": "Ep18 di 42 - In questa puntata Rob e Steelo sono affiancati da Lolo Wood."
-            },
-            {
-                "ora": "00:05",
-                "titolo": "Ridiculousness: Veri American Idiots",
-                "descrizione": "Ep15 di 42 Sterling e Camille Kostek XXII - Rob, Steelo e Camille Kostek preparano i sali per alcune persone che sono FULLY OUT."
-            },
-            {
-                "ora": "00:30",
-                "titolo": "Ridiculousness: Veri American Idiots",
-                "descrizione": "Ep16 di 42 Sterling e Camille Kostek XXIII - Rob, Steelo e Camille Kostek imparano a guidare senza manubrio in DISINTEGRATING CYCLES e provano il potere degli elastici in BAND BLASTED."
-            },
             {
                 "ora": "00:55",
                 "titolo": "Ink Master Redemption",
@@ -3747,39 +3727,34 @@
                 "ora": "05:00",
                 "titolo": "Ridiculousness: Veri American Idiots",
                 "descrizione": "Ep17 di 42 Sterling e B. Simone IV - Rob, Steelo e B. Simone ci mostrano GYM DUMB, DASHCAM DIARIES e RAIN BRAIN."
+            },
+            {
+                "ora": "05:20",
+                "titolo": "Ridiculousness: Veri American Idiots",
+                "descrizione": "Ep18 di 42 Sterling e Camille Kostek - Rob, Steelo e Camille Kostek entrano nello spirito delle feste in DECORATION FRUSTRATION e sono toccati dai fantasmi in GHOST FALLS."
+            },
+            {
+                "ora": "05:35",
+                "titolo": "Ridiculousness: Veri American Idiots",
+                "descrizione": "Ep19 di 42 Sterling e Camille Kostek II - Rob, Steelo e Camille Kostek presentano LAKE PAIN, VIBE SLAYERS e CUSTOMER COMES LAST."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Money Road - Ogni tentazione ha un...",
+                "descrizione": "L'esperimento sociale è giunto al termine: la giungla ha cambiato per sempre i 12 della Compagnia. Resta un solo gesto, un pulsante, a decidere il destino di tutti."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "House of the Dragon",
+                "descrizione": "La serie prequel vede la dinastia Targaryen all'apice assoluto del suo potere, con più di 15 draghi sotto il loro giogo. La maggior parte degli imperi, che siano reali o immaginari, crollano quando raggiungono tali poteri e tali altezze. Nel caso dei Targaryen, la loro lenta caduta inizia quasi 193 anni prima degli eventi de Il Trono di Spade, quando re Viserys Targaryen rompe un secolo di tradizione nominando sua figlia Rhaenyra erede al Trono di Spade. La corte rimane scioccata quando Rhaenyra mantiene il suo status di erede nonostante Viserys in seguito avrà un figlio maschio, legittimo erede. Inizia così ad attecchire il seme della divisione e forti attriti in tutto il regno."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Comedy Central",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "22:45",
-                "titolo": "South Park",
-                "descrizione": "Stanley \"Stan\" Marsh, Eric Cartman e Kyle Broflosky e Kenneth \"Kenny\" McCormick, quattro ragazzi che frequentano la scuola elementare e vivono nella cittadina di South Park, in Colorado. Pestiferi, osceni e sfacciatamente intelligenti i ragazzacci affrontano temi di attualità con immediatezza e sana cattiveria sfatando tabù e demonizzando la società americana. Le loro \"armi\" sono la parodia, la commedia nera e il linguaggio scurrile."
-            },
-            {
-                "ora": "23:10",
-                "titolo": "South Park",
-                "descrizione": "Stanley \"Stan\" Marsh, Eric Cartman e Kyle Broflosky e Kenneth \"Kenny\" McCormick, quattro ragazzi che frequentano la scuola elementare e vivono nella cittadina di South Park, in Colorado. Pestiferi, osceni e sfacciatamente intelligenti i ragazzacci affrontano temi di attualità con immediatezza e sana cattiveria sfatando tabù e demonizzando la società americana. Le loro \"armi\" sono la parodia, la commedia nera e il linguaggio scurrile."
-            },
-            {
-                "ora": "23:35",
-                "titolo": "South Park",
-                "descrizione": "Stanley \"Stan\" Marsh, Eric Cartman e Kyle Broflosky e Kenneth \"Kenny\" McCormick, quattro ragazzi che frequentano la scuola elementare e vivono nella cittadina di South Park, in Colorado. Pestiferi, osceni e sfacciatamente intelligenti i ragazzacci affrontano temi di attualità con immediatezza e sana cattiveria sfatando tabù e demonizzando la società americana. Le loro \"armi\" sono la parodia, la commedia nera e il linguaggio scurrile."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Stand Up Comedy",
-                "descrizione": "Monologhi sempre più graffianti per i talenti emergenti e i nomi più noti della stand up comedy italiana, nel programma alla sua ottava stagione"
-            },
-            {
-                "ora": "00:20",
-                "titolo": "Stand Up Comedy",
-                "descrizione": "Un'ottava stagione ricca di volti noti, ma anche di giovani talenti, pronti a esibirsi, sul palco di Stand up Comedy"
-            },
             {
                 "ora": "00:45",
                 "titolo": "Reno 911!",
@@ -3814,24 +3789,39 @@
                 "ora": "03:00",
                 "titolo": "Key & Peele",
                 "descrizione": "Ep10 di 13 - Samuel e Lashawn festeggiano i benefici del loro matrimonio legalizzato, un detective della polizia incontra il suo nuovo partner."
+            },
+            {
+                "ora": "03:20",
+                "titolo": "Awkwafina è Nora del Queens",
+                "descrizione": "Nora riflette sulla sua vita, Edmund insegue il suo sogno di diventare attore, la nonna prende posizione e Wally si avvicina a Brenda."
+            },
+            {
+                "ora": "03:45",
+                "titolo": "Mike Judge's Beavis and Butt-Head",
+                "descrizione": "Ep7 di 12 - Beavis paga un sicario per uccidere Butt-Head. Beavis e Butt-Head si spediscono per le vacanze."
+            },
+            {
+                "ora": "04:10",
+                "titolo": "Mike Judge's Beavis and Butt-Head",
+                "descrizione": "Ep8 di 12 - Butt-Head allena Beavis a combattere.Old Beavis e Butt-Head decidono di sottoporsi a una vasectomia."
+            },
+            {
+                "ora": "04:30",
+                "titolo": "Mike Judge's Beavis and Butt-Head",
+                "descrizione": "Ep9 di 12 - Old Beavis e Butt-Head fingono di essere veterani. Beavis e Butt-Head allevano cani."
+            },
+            {
+                "ora": "04:55",
+                "titolo": "Mike Judge's Beavis and Butt-Head",
+                "descrizione": "Ep10 di 12 - Beavis e Butt-Head diventano accumulatori seriali. I ragazzi provano l'agopuntura e Beavis la adora."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Arte",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "22:15",
-                "titolo": "Peggy Guggenheim e Edmondo Bacci: Colore e luce",
-                "descrizione": "La mostra \"Edmondo Bacci. L'energia della luce\" alla Collezione Peggy Guggenheim di Venezia. Le opere rivelano l'evoluzione del linguaggio artistico di Bacci, caratterizzato dalla forza generativa dei colori."
-            },
-            {
-                "ora": "23:15",
-                "titolo": "Piero Manzoni, Artista",
-                "descrizione": "La sua opera piu' controversa, irriverente e caustica e' \"Merda d'artista\". Damien Hirst, Massimiliano Gioni e altri nomi celebri dell'arte ci raccontano Piero Manzoni."
-            },
             {
                 "ora": "00:15",
                 "titolo": "Valorose",
@@ -3881,24 +3871,24 @@
                 "ora": "23:00",
                 "titolo": "The Miniature Wife: Un piccolo problema",
                 "descrizione": "Basata sul racconto breve di Manuel Gonzalez, la serie esamina gli squilibri di potere all'interno della coppia: quando un incidente di laboratorio riduce Lindy a soli 15 cm di altezza, il già fragile equilibrio nel suo matrimonio con Les esplode in una battaglia esilarante e graffiante tra orgoglio, rancore e amore."
+            },
+            {
+                "ora": "22:45",
+                "titolo": "Balthazar",
+                "descrizione": "Il dottor Raphaël Balthazar, è un medico legale affascinante, intelligente, brillante nel lavoro, ma con un carattere assolutamente esasperante. Forte di queste qualità sfida spesso il sistema delle regole imposte dalla società. Per Hélène Bach, capitano della polizia, non è facile lavorare con Raphaël. Tuttavia, deve trovare il modo di farlo perché solamente unendo le forze possono pensare di riuscire a risolvere il caso di omicidio complicato che si presenta alle autorità."
+            },
+            {
+                "ora": "22:10",
+                "titolo": "Delitti ai Caraibi",
+                "descrizione": "Il comandante della Police Nationale Mélissa Sainte-Rose, originaria della Martinica, viene trasferita dalla Francia continentale a Fort-de-France, dove trova alle sue dipendenze il capitano Gaëlle Crivelli. I rapporti sono tesi tra le due poliziotte, perché totalmente diverse nel loro comportamento, ma complementari per la risoluzione degli omicidi."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Documentaries",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "22:55",
-                "titolo": "The Michael Jackson Story",
-                "descrizione": "Dopo essere stato scagionato da ulteriori accuse di abusi, Jackson tenta un ambizioso tour di ritorno sulle scene. Quando muore improvvisamente, i gestori del suo patrimonio iniziano a monetizzare la sua eredità."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "The Michael Jackson Story",
-                "descrizione": "Michael Jackson tra solitudine e dipendenze pianifica un grande ritorno sulle scene. La morte improvvisa, nel giugno di quell'anno, lo impedirà."
-            },
             {
                 "ora": "00:40",
                 "titolo": "The 2000's",
@@ -3948,24 +3938,24 @@
                 "ora": "22:55",
                 "titolo": "Natural World - Giraffa, Il Gigante Gentile",
                 "descrizione": "In una missione audace, il dottor Julian Fennessy e una squadra di ugandesi radunano venti giraffe per condurle oltre il possente fiume Nilo e metterle al sicuro."
+            },
+            {
+                "ora": "22:45",
+                "titolo": "Sandro Pertini - Il Presidente degli italiani",
+                "descrizione": "Sandro Pertini - Il Presidente degli italiani - Un ritratto di Sandro Pertini, dalla Resistenza alla guida del Paese, fino a diventare il Presidente degli italiani."
+            },
+            {
+                "ora": "21:35",
+                "titolo": "Viaggi nel gusto",
+                "descrizione": "Ritornano le avventure di Giovanni Angelucci alla scoperta dei luoghi più belli del pianeta e delle abitudini alimentari dei popoli."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky Nature",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "22:55",
-                "titolo": "Natural World - Giraffa, Il Gigante Gentile",
-                "descrizione": "In una missione audace, il dottor Julian Fennessy e una squadra di ugandesi radunano venti giraffe per condurle oltre il possente fiume Nilo e metterle al sicuro."
-            },
-            {
-                "ora": "23:55",
-                "titolo": "Natural World: Gufi, gli eroi della notte",
-                "descrizione": "Scopriamo la magia che si cela dietro i superpoteri dei gufi. Sono tra gli uccelli più carismatici e amati al mondo, soprattutto grazie alla loro capacità di ruotare la testa di 360 gradi."
-            },
             {
                 "ora": "01:00",
                 "titolo": "Panorami nascosti",
@@ -4007,6 +3997,11 @@
                 "descrizione": "Michael Jackson firma il contratto con la Sony ed esplodono le accuse di abusi sessuali su minori. La squadra di Michael si è data da fare per preservare intatti sia il suo impero commerciale che la sua immagine."
             },
             {
+                "ora": "22:55",
+                "titolo": "Natural World - Giraffa, Il Gigante Gentile",
+                "descrizione": "In una missione audace, il dottor Julian Fennessy e una squadra di ugandesi radunano venti giraffe per condurle oltre il possente fiume Nilo e metterle al sicuro."
+            },
+            {
                 "ora": "22:45",
                 "titolo": "Sandro Pertini - Il Presidente degli italiani",
                 "descrizione": "Sandro Pertini - Il Presidente degli italiani - Un ritratto di Sandro Pertini, dalla Resistenza alla guida del Paese, fino a diventare il Presidente degli italiani."
@@ -4015,29 +4010,19 @@
                 "ora": "21:35",
                 "titolo": "Viaggi nel gusto",
                 "descrizione": "Ritornano le avventure di Giovanni Angelucci alla scoperta dei luoghi più belli del pianeta e delle abitudini alimentari dei popoli."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "The Michael Jackson Story",
+                "descrizione": "Grazie alle testimonianze di persone vicine a lui, tra cui sua sorella La Toya, si ripercorre l'ascesa di Jackson da bambino prodigio a icona mondiale. Tuttavia, alcuni comportamenti discutibili sollevano interrogativi inquietanti."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Discovery Channel",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "22:50",
-                "titolo": "I segreti delle strutture",
-                "descrizione": "Gli archeologi tentano di svelare i segreti di Olous, citta' sommersa nel Mediterraneo."
-            },
-            {
-                "ora": "23:50",
-                "titolo": "Come e' fatto",
-                "descrizione": "Palloni, amplificatori per chitarra, biglie ed eliche di aerei: da dove provengono e come sono fatti? Progettisti ed artigiani ce lo spiegano."
-            },
-            {
-                "ora": "00:20",
-                "titolo": "Come e' fatto",
-                "descrizione": "Monoblocco, frantoi a mascelle e tamburi: da dove provengono e come sono fatti? Progettisti ed artigiani ce lo spiegano."
-            },
             {
                 "ora": "00:50",
                 "titolo": "Come e' fatto",
@@ -4082,24 +4067,29 @@
                 "ora": "21:25",
                 "titolo": "Ecuador - Germania",
                 "descrizione": "Collegamento pre e post partita con la supervisione di Marco Mazzocchi e Massimo Proietto. Conduce Paola Ferrari con Simona Rolandi, Paulo Roberto Falcao e Marco Tardelli. Regia di Marco Spoletini. Partita del Mondiale di Calcio Fifa 2026 in programma dall'11 giugno al 19 luglio 2026, in diverse città di Stati Uniti, Canada e Messico. Coppa del Mondo di Calcio FIFA 2026. Un programma a cura di Rai Sport con la Supervisione Marco Lollobrigida. In diretta dal MetLife Stadium di New Jersey (New York). Telecronaca di Giuseppe Galati. Commento tecnico di Daniele Adani."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "In fuga dall'incubo",
+                "descrizione": "In fuga dal marito violento Peter, Jess prende il figlio Noah e trova rifugio a casa della sorella a Los Angeles. Eppure, Jess, paranoica, continua a credere di vedere Peter seguirla ovunque e di non riuscire a liberarsene. Quando Peter viene inaspettatamente dichiarato morto in un incidente, Jess pensa di essersi finalmente liberata di lui, eppure continua a vederlo."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "TG3 Linea Notte",
+                "descrizione": "TG3 Linea Notte"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Quarto grado",
+                "descrizione": "Approfondimento giornalistico condotto da Gianluigi Nuzzi e Alessandra Viero su alcuni dei gialli irrisolti della cronaca."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "History Channel",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "22:45",
-                "titolo": "Sandro Pertini - Il Presidente degli italiani",
-                "descrizione": "Sandro Pertini - Il Presidente degli italiani - Un ritratto di Sandro Pertini, dalla Resistenza alla guida del Paese, fino a diventare il Presidente degli italiani."
-            },
-            {
-                "ora": "23:50",
-                "titolo": "Il sequestro Moro: gli altri testimoni",
-                "descrizione": "La mattina del 16 marzo 1978 Aldo Moro, Presidente della Democrazia Cristiana, viene rapito dalle Brigate Rosse. A quarant'anni di distanza diamo voce a chi e' stato testimone oculare di quell'evento."
-            },
             {
                 "ora": "00:50",
                 "titolo": "Affari di famiglia",
@@ -4141,6 +4131,11 @@
                 "descrizione": "In una missione audace, il dottor Julian Fennessy e una squadra di ugandesi radunano venti giraffe per condurle oltre il possente fiume Nilo e metterle al sicuro."
             },
             {
+                "ora": "22:45",
+                "titolo": "Sandro Pertini - Il Presidente degli italiani",
+                "descrizione": "Sandro Pertini - Il Presidente degli italiani - Un ritratto di Sandro Pertini, dalla Resistenza alla guida del Paese, fino a diventare il Presidente degli italiani."
+            },
+            {
                 "ora": "21:35",
                 "titolo": "Viaggi nel gusto",
                 "descrizione": "Ritornano le avventure di Giovanni Angelucci alla scoperta dei luoghi più belli del pianeta e delle abitudini alimentari dei popoli."
@@ -4149,39 +4144,19 @@
                 "ora": "21:15",
                 "titolo": "The Michael Jackson Story",
                 "descrizione": "Grazie alle testimonianze di persone vicine a lui, tra cui sua sorella La Toya, si ripercorre l'ascesa di Jackson da bambino prodigio a icona mondiale. Tuttavia, alcuni comportamenti discutibili sollevano interrogativi inquietanti."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "I segreti dell'Australia selvaggia",
+                "descrizione": "Ep5 di 7 La vita segreta dei piccoli marsupiali - Molti marsupiali condividono le stesse caratteristiche. Tuttavia, alle specie piu' piccole piace distinguersi."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     },
     {
         "canale": "Sky TG 24",
         "categoria": "News",
         "programmi": [
-            {
-                "ora": "23:00",
-                "titolo": "Skyline",
-                "descrizione": "Con Skyline, dal lunedi' al venerdi', vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Skyline",
-                "descrizione": "Con Skyline, dal lunedi' al venerdi', vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie."
-            },
-            {
-                "ora": "23:50",
-                "titolo": "Sky Meteo24",
-                "descrizione": "Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Skyline",
-                "descrizione": "Con Skyline, dal lunedi' al venerdi', vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie."
-            },
-            {
-                "ora": "00:30",
-                "titolo": "TG24 Edicola",
-                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
-            },
             {
                 "ora": "01:00",
                 "titolo": "TG24 Edicola",
@@ -4216,8 +4191,33 @@
                 "ora": "04:00",
                 "titolo": "TG24 Edicola",
                 "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "04:30",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "05:00",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "05:30",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "21:25",
+                "titolo": "Ecuador - Germania",
+                "descrizione": "Collegamento pre e post partita con la supervisione di Marco Mazzocchi e Massimo Proietto. Conduce Paola Ferrari con Simona Rolandi, Paulo Roberto Falcao e Marco Tardelli. Regia di Marco Spoletini. Partita del Mondiale di Calcio Fifa 2026 in programma dall'11 giugno al 19 luglio 2026, in diverse città di Stati Uniti, Canada e Messico. Coppa del Mondo di Calcio FIFA 2026. Un programma a cura di Rai Sport con la Supervisione Marco Lollobrigida. In diretta dal MetLife Stadium di New Jersey (New York). Telecronaca di Giuseppe Galati. Commento tecnico di Daniele Adani."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "In fuga dall'incubo",
+                "descrizione": "In fuga dal marito violento Peter, Jess prende il figlio Noah e trova rifugio a casa della sorella a Los Angeles. Eppure, Jess, paranoica, continua a credere di vedere Peter seguirla ovunque e di non riuscire a liberarsene. Quando Peter viene inaspettatamente dichiarato morto in un incidente, Jess pensa di essersi finalmente liberata di lui, eppure continua a vederlo."
             }
         ],
-        "aggiornato": "21:02"
+        "aggiornato": "23:04"
     }
 ]
