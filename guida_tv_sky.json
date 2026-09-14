@@ -4,26 +4,6 @@
         "categoria": "Digitale Terrestre",
         "programmi": [
             {
-                "ora": "20:30",
-                "titolo": "Affari Tuoi",
-                "descrizione": "Stefano De Martino conduce \"Affari tuoi\": 20 concorrenti, uno per regione d'Italia, sfidano la fortuna e il \"Dottore\" per trovare il pacco contenente 300.000 euro."
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Il giovane Montalbano",
-                "descrizione": "Il giovane Montalbano è una serie televisiva italiana di Rai 1, in onda dal 23 febbraio 2012. È un prequel del Commissario Montalbano, in quanto vede protagonista un Salvo Montalbano in giovane età. La fiction è firmata da Andrea Camilleri e Francesco Bruni, ed è tratta dalla raccolta La prima indagine di Montalbano."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Cose Nostre - Schiavi Di Stagione - 26",
-                "descrizione": "\"Cose Nostre\" racconta la piaga dello sfruttamento nelle campagne italiane. Attraverso testimonianze e documenti il reportage dà voce alle vittime e alle loro famiglie per accendere i riflettori sulle drammatiche morti che, nonostante la legge 199 anti caporalato del 2015, hanno insanguinato anche questa estate e sullo sconvolgente persistere di un sistema criminale fatto di turni massacranti, caldo estremo e totale assenza di tutele. Dietro ogni numero c'è una persona, una storia e una domanda che non può essere ignorata: quante altre vite dovranno essere spezzate prima che caldo e fatica vengano riconosciuti pienamente come un'emergenza del lavoro agricolo?"
-            },
-            {
-                "ora": "23:55",
-                "titolo": "TG1 Sera",
-                "descrizione": "TG1 Sera"
-            },
-            {
                 "ora": "00:00",
                 "titolo": "Cose Nostre",
                 "descrizione": "Emilia Brandi racconta la storia e la vita di donne e uomini che si sono opposti alla violenza cieca delle mafie pagando un prezzo molto alto senza mai smettere di fare il proprio dovere. Storie di giornalisti, di manager pubblici e testimoni di giustizia."
@@ -62,29 +42,34 @@
                 "ora": "23:35",
                 "titolo": "Il Processo Del Lunedì",
                 "descrizione": "L'approfondimento sportivo del lunedì. Dopo le immagini del posticipo della sera, una riflessione su quanto avvenuto nei tre giorni della serie A: immagini, interviste e un occhio attento alle Coppe Europee."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Lo Stato Delle Cose",
+                "descrizione": "Ritornano le grandi inchieste de \"Lo stato delle cose"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Quarta Repubblica",
+                "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
+            },
+            {
+                "ora": "00:26",
+                "titolo": "Sacrificio d'amore",
+                "descrizione": "Natale 1915. Corrado torna a Carrara dopo aver ottenuto una breve licenza. E' devastato dalla guerra, e dalla vicinanza con Silvia, ora che lei non lo ama piu'."
+            },
+            {
+                "ora": "23:42",
+                "titolo": "Cold Case - Delitti irrisolti",
+                "descrizione": "L'unica detective donna della squadra omicidi di Philadelphia trova la sua vocazione quando le vengono assegnati casi che non sono mai stati risolti. La detective Lilly Rush combina i suoi istinti naturali con la tecnologia aggiornata disponibile oggi per garantire giustizia a tutte le vittime che può."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Rai 2",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:20",
-                "titolo": "Boston Blue",
-                "descrizione": "Il detective del NYPD Danny Reagan accetta un incarico presso il Dipartimento di Polizia di Boston e viene affiancato alla detective Lena Silver; quest'ultima appartiene a una famiglia legata alle forze dell'ordine e alla giustizia, composta dal Procuratore Distrettuale Mae Silver, dal Sovrintendente di Polizia Sarah Silver, dall'agente alle prime armi Jonah Silver e dal Reverendo Edwin Peters. Reagan spera di ricostruire il rapporto con suo figlio Sean proprio a Boston."
-            },
-            {
-                "ora": "22:07",
-                "titolo": "Boston Blue",
-                "descrizione": "Il detective del NYPD Danny Reagan accetta un incarico presso il Dipartimento di Polizia di Boston e viene affiancato alla detective Lena Silver; quest'ultima appartiene a una famiglia legata alle forze dell'ordine e alla giustizia, composta dal Procuratore Distrettuale Mae Silver, dal Sovrintendente di Polizia Sarah Silver, dall'agente alle prime armi Jonah Silver e dal Reverendo Edwin Peters. Reagan spera di ricostruire il rapporto con suo figlio Sean proprio a Boston."
-            },
-            {
-                "ora": "22:58",
-                "titolo": "Boston Blue",
-                "descrizione": "Il detective del NYPD Danny Reagan accetta un incarico presso il Dipartimento di Polizia di Boston e viene affiancato alla detective Lena Silver; quest'ultima appartiene a una famiglia legata alle forze dell'ordine e alla giustizia, composta dal Procuratore Distrettuale Mae Silver, dal Sovrintendente di Polizia Sarah Silver, dall'agente alle prime armi Jonah Silver e dal Reverendo Edwin Peters. Reagan spera di ricostruire il rapporto con suo figlio Sean proprio a Boston."
-            },
             {
                 "ora": "23:35",
                 "titolo": "Il Processo Del Lunedì",
@@ -129,19 +114,29 @@
                 "ora": "21:15",
                 "titolo": "Lo Stato Delle Cose",
                 "descrizione": "Ritornano le grandi inchieste de \"Lo stato delle cose"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Quarta Repubblica",
+                "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
+            },
+            {
+                "ora": "00:26",
+                "titolo": "Sacrificio d'amore",
+                "descrizione": "Natale 1915. Corrado torna a Carrara dopo aver ottenuto una breve licenza. E' devastato dalla guerra, e dalla vicinanza con Silvia, ora che lei non lo ama piu'."
+            },
+            {
+                "ora": "23:42",
+                "titolo": "Cold Case - Delitti irrisolti",
+                "descrizione": "L'unica detective donna della squadra omicidi di Philadelphia trova la sua vocazione quando le vengono assegnati casi che non sono mai stati risolti. La detective Lilly Rush combina i suoi istinti naturali con la tecnologia aggiornata disponibile oggi per garantire giustizia a tutte le vittime che può."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Rai 3",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Lo Stato Delle Cose",
-                "descrizione": "Ritornano le grandi inchieste de \"Lo stato delle cose"
-            },
             {
                 "ora": "00:00",
                 "titolo": "TG3 Linea Notte",
@@ -178,6 +173,11 @@
                 "descrizione": "L'approfondimento sportivo del lunedì. Dopo le immagini del posticipo della sera, una riflessione su quanto avvenuto nei tre giorni della serie A: immagini, interviste e un occhio attento alle Coppe Europee."
             },
             {
+                "ora": "21:15",
+                "titolo": "Lo Stato Delle Cose",
+                "descrizione": "Ritornano le grandi inchieste de \"Lo stato delle cose"
+            },
+            {
                 "ora": "21:33",
                 "titolo": "Quarta Repubblica",
                 "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
@@ -198,17 +198,12 @@
                 "descrizione": "La sintesi della settimana politica senza filtri. Un programma di Alexander Jakhnagiev, prodotto da Agenzia Vista"
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Rai 4",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:19",
-                "titolo": "Twilight of the Warriors: Walled In",
-                "descrizione": "Nella Hong Kong degli anni '80, il giovane problematico Chan Lok-kwun, rifugiato dalla Cina continentale, lotta per sopravvivere nella Città Murata di Kowloon unendosi a risse clandestine. Tradito dal boss criminale Mr. Big mentre cerca di acquistare un documento d'identità falso, gli ruba la droga e cerca rifugio nella Città Murata, dove incontra Cyclone, un boss del crimine compassionevole ma autorevole."
-            },
             {
                 "ora": "23:30",
                 "titolo": "Trappola sulle montagne rocciose",
@@ -263,24 +258,19 @@
                 "ora": "21:15",
                 "titolo": "Lo Stato Delle Cose",
                 "descrizione": "Ritornano le grandi inchieste de \"Lo stato delle cose"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Quarta Repubblica",
+                "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Rai 5",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:26",
-                "titolo": "Overland 22 - Pakistan: Ai Piedi Dei Giganti Della Terra",
-                "descrizione": "Il viaggio alla scoperta del Pakistan lungo la Karakorum Highway, la strada internazionale asfaltata più alta del mondo a quota 4700 metri, entra nel vivo. Il Gilgit-Baltistan è teatro di fenomeni naturali tra i più incredibili: percorriamo la zona di collisione tra due placche tettoniche, quella indiana e l'euroasiatica, e raggiungiamo il punto di congiunzione tra tre catene montuose tra le più importanti, Himalaya, Hindu Kush e Karakorum. - Una produzione Overland Network Realizzazione di Filippo e Beppe Tenti Delegato Rai Milvia Licari"
-            },
-            {
-                "ora": "21:21",
-                "titolo": "Il terzo omicidio",
-                "descrizione": "Mikuma, accusato di omicidio, rischia la pena di morte. Al processo è rappresentato da Shigemori che inizia a dubitare della sua colpevolezza."
-            },
             {
                 "ora": "23:25",
                 "titolo": "Still Life",
@@ -330,19 +320,24 @@
                 "ora": "00:00",
                 "titolo": "Cose Nostre",
                 "descrizione": "Emilia Brandi racconta la storia e la vita di donne e uomini che si sono opposti alla violenza cieca delle mafie pagando un prezzo molto alto senza mai smettere di fare il proprio dovere. Storie di giornalisti, di manager pubblici e testimoni di giustizia."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Il Processo Del Lunedì",
+                "descrizione": "L'approfondimento sportivo del lunedì. Dopo le immagini del posticipo della sera, una riflessione su quanto avvenuto nei tre giorni della serie A: immagini, interviste e un occhio attento alle Coppe Europee."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Lo Stato Delle Cose",
+                "descrizione": "Ritornano le grandi inchieste de \"Lo stato delle cose"
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Rete 4",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:29",
-                "titolo": "La promessa\",\"prima\":true,\"description\":\"Cordoba, 1913. Mentre la Spagna è devastata da alcuni conflitti, c'è un luogo in cui, almeno in apparenza, regna la pace: è il Palazzo La Promesa, nella valle di Los Pedroches, di proprietà dei Marchesi di Lujan. E' proprio qui che Jana si fa assumere come cameriera per scoprire la verità sull'omicidio di sua madre e di suo fratello. La situazione si complica quando Jana si innamora di uno dei figli dei ricchi marchesi, Manuel. Con Jordi Coll (Il Segreto).\",\"durata\":41,\"genre\":\"Dramma Mistero\",\"category\":\"Serie TV\",\"image\":\"https://img-guidatv.org/serie/64808f42e03d43e6abc2de4a_p_1_rs_300.jpg\",\"episode_number\":227,\"series_number\":4,\"ac\":[{\"n\":\"Manuel Regueiro\",\"i\":\"8qD6PmZ7y1yPe9lY23fWy3zSFj4.jpg\",\"c\":\"\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://img-guidatv.org/serie/64808f42e03d43e6abc2de4a_b_3_rs_600.jpg\",\"inizio\":\"2026-09-14T17:48:00.000Z\",\"fine\":\"2026-09-14T18:29:00.000Z\",\"rating\":\"3,5\",\"condividi\":\"$undefined\",\"year\":\"2023\",\"tiEp\":\"Episodio 718\",\"trEp\":null},{\"id\":\"RDxvteRgrL8P\",\"title\":\"4 di sera",
-                "descrizione": "Dibattito quotidiano sui fatti salienti della giornata. Politica, economia, i principali casi di cronaca ed attualita'."
-            },
             {
                 "ora": "21:33",
                 "titolo": "Quarta Repubblica",
@@ -397,19 +392,19 @@
                 "ora": "00:30",
                 "titolo": "Camera con Vista",
                 "descrizione": "La sintesi della settimana politica senza filtri. Un programma di Alexander Jakhnagiev, prodotto da Agenzia Vista"
+            },
+            {
+                "ora": "21:40",
+                "titolo": "Django Unchained",
+                "descrizione": "Stati Uniti del Sud, alla vigilia della guerra civile. Il cacciatore di taglie di origine tedesca dottor King Schultz, su un carretto da dentista, è alla ricerca dei fratelli Brittle, per consegnarli alle autorità piuttosto morti che vivi e incassare la ricompensa. Per scovarli, libera dalle catene lo schiavo Django, promettendogli la libertà a missione completata. Tra i due uomini nasce così un sodalizio umano e professionale che li conduce attraverso l'America delle piantagioni e degli orrori razzisti alla ricerca dei criminali in fuga e della moglie di Django, Broomhilda, venduta come schiava a qualche possidente negriero."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Canale 5",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:20",
-                "titolo": "Temptation Island e poi..e poi..",
-                "descrizione": "Le decisioni dei protagonisti saranno confermate o sara' cambiato tutto? Tra colpi di scena e confronti infuocati, conduce Filippo Bisciglia."
-            },
             {
                 "ora": "23:40",
                 "titolo": "Tg5",
@@ -464,24 +459,19 @@
                 "ora": "21:40",
                 "titolo": "Django Unchained",
                 "descrizione": "Stati Uniti del Sud, alla vigilia della guerra civile. Il cacciatore di taglie di origine tedesca dottor King Schultz, su un carretto da dentista, è alla ricerca dei fratelli Brittle, per consegnarli alle autorità piuttosto morti che vivi e incassare la ricompensa. Per scovarli, libera dalle catene lo schiavo Django, promettendogli la libertà a missione completata. Tra i due uomini nasce così un sodalizio umano e professionale che li conduce attraverso l'America delle piantagioni e degli orrori razzisti alla ricerca dei criminali in fuga e della moglie di Django, Broomhilda, venduta come schiava a qualche possidente negriero."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Little Big Italy",
+                "descrizione": "Francesco Panella scopre i migliori ristoranti italiani all'estero."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Italia 1",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:38",
-                "titolo": "NCIS - Unita' Anticrimine",
-                "descrizione": "La serie segue le vicende della principale squadra di agenti speciali dell'agenzia federale Naval Criminal Investigative Service (NCIS), denominata «Major Case Response Team» (MCRT)[5], con sede al Washington Navy Yard di Washington. L'NCIS si occupa dei reati più gravi che vedono coinvolti membri o persone legate alla marina degli Stati Uniti o al corpo dei Marines. Il Major Case Response Team, in particolare, si occupa dei casi più difficili e delicati, quali ad esempio l'omicidio di uomini vicini al Presidente, morti di celebrità all'interno di basi della marina, minacce terroristiche e rapimenti."
-            },
-            {
-                "ora": "21:28",
-                "titolo": "The Protege'",
-                "descrizione": "Anna è un'assassina allevata da Moody dopo che lui l'ha scoperta all'indomani di un massacro a Saigon . Per anni hanno attraversato il mondo e completato contratti di alto profilo. Ma quando viene assassinato, Anna deve tornare in Vietnam per rintracciare il suo assassino e, nel processo, si allea con una misteriosa figura del suo passato per consegnare l'assassino alla giustizia."
-            },
             {
                 "ora": "23:42",
                 "titolo": "Cold Case - Delitti irrisolti",
@@ -531,19 +521,24 @@
                 "ora": "05:10",
                 "titolo": "Secrets In The Jungle - Strane scoperte nel profondo della giungla",
                 "descrizione": "Nelle Filippine antiche ossa di rinoceronte. Vicino al confine tra Columbia e Panama, una vecchia macchina nella giungla."
+            },
+            {
+                "ora": "05:54",
+                "titolo": "Pompei: Le nuove verita'",
+                "descrizione": "A Pompei proseguono gli scavi. Emergono delle epigrafi latine che potrebbero suggerire quante persone riuscirono a mettersi in salvo durante l'eruzione del Vesuvio del 79 d.C."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Cose Nostre",
+                "descrizione": "Emilia Brandi racconta la storia e la vita di donne e uomini che si sono opposti alla violenza cieca delle mafie pagando un prezzo molto alto senza mai smettere di fare il proprio dovere. Storie di giornalisti, di manager pubblici e testimoni di giustizia."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "La7",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "La Torre di Babele - FINIMONDO Ci salverà il nostro passato?",
-                "descrizione": "Corrado Augias affronta ogni settimana un grande tema storico, culturale, politico, economico e i suoi risvolti sull'attualità. 5a Edizione."
-            },
             {
                 "ora": "22:55",
                 "titolo": "Jeffrey Epstein - Le Origini del Male",
@@ -598,14 +593,54 @@
                 "ora": "21:40",
                 "titolo": "Django Unchained",
                 "descrizione": "Stati Uniti del Sud, alla vigilia della guerra civile. Il cacciatore di taglie di origine tedesca dottor King Schultz, su un carretto da dentista, è alla ricerca dei fratelli Brittle, per consegnarli alle autorità piuttosto morti che vivi e incassare la ricompensa. Per scovarli, libera dalle catene lo schiavo Django, promettendogli la libertà a missione completata. Tra i due uomini nasce così un sodalizio umano e professionale che li conduce attraverso l'America delle piantagioni e degli orrori razzisti alla ricerca dei criminali in fuga e della moglie di Django, Broomhilda, venduta come schiava a qualche possidente negriero."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Little Big Italy",
+                "descrizione": "Francesco Panella scopre i migliori ristoranti italiani all'estero."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "TV8",
         "categoria": "Digitale Terrestre",
         "programmi": [
+            {
+                "ora": "21:40",
+                "titolo": "Foodish\",\"prima\":true,\"description\":\"Solo un piatto potrà essere incoronato Foodish: il più memorabile, quello capace di restare ben impresso nella memoria di Joe Bastianich e del suo ospite di puntata.\",\"durata\":10,\"genre\":\"Show\",\"category\":\"Intrattenimento\",\"image\":\"https://img-guidatv.org/45/foodish/6.jpg\",\"episode_number\":5,\"series_number\":2,\"director\":null,\"inizio\":\"2026-09-14T18:30:00.000Z\",\"fine\":\"2026-09-14T18:40:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2025\"},{\"id\":\"wPLVSCbO2Elr\",\"title\":\"Foodish\",\"prima\":true,\"description\":\"Joe Bastianich e Maddalena Corvaglia alla ricerca delle fave e cicorie più Foodish di Lecce.\",\"durata\":60,\"genre\":\"Show\",\"category\":\"Intrattenimento\",\"image\":\"https://img-guidatv.org/45/foodish/6.jpg\",\"episode_number\":20,\"series_number\":3,\"director\":null,\"inizio\":\"2026-09-14T18:40:00.000Z\",\"fine\":\"2026-09-14T19:40:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2026\"},{\"id\":\"OUcQnQSHsqsd\",\"title\":\"Django Unchained",
+                "descrizione": "Stati Uniti del Sud, alla vigilia della guerra civile. Il cacciatore di taglie di origine tedesca dottor King Schultz, su un carretto da dentista, è alla ricerca dei fratelli Brittle, per consegnarli alle autorità piuttosto morti che vivi e incassare la ricompensa. Per scovarli, libera dalle catene lo schiavo Django, promettendogli la libertà a missione completata. Tra i due uomini nasce così un sodalizio umano e professionale che li conduce attraverso l'America delle piantagioni e degli orrori razzisti alla ricerca dei criminali in fuga e della moglie di Django, Broomhilda, venduta come schiava a qualche possidente negriero."
+            },
+            {
+                "ora": "00:55",
+                "titolo": "Escape Plan 2 - Ritorno all'inferno",
+                "descrizione": "Anni dopo essere riuscito a trovare la via di fuga dal carcere di massima sicurezza soprannominato \"La Tomba"
+            },
+            {
+                "ora": "03:50",
+                "titolo": "Mostri Senza Nome - Genova\",\"prima\":true,\"description\":\"Il 5 settembre 1995, Luigia Borrelli, prostituta, vedova e madre, viene uccisa. Il primo sospettato è Ottavio Salis, ma è scagionato grazie al DNA. Scopriamo chi è il vero assassino.\",\"durata\":65,\"genre\":\"Documentari\",\"category\":\"Documentari\",\"image\":\"https://image.tmdb.org/t/p/w300/guZHW23QfFOBJ1N9iJFsb1Gshtf.jpg\",\"episode_number\":1,\"series_number\":3,\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/78EzSInNyktCdKY5kN3CRq2P6Hd.jpg\",\"inizio\":\"2026-09-15T00:45:00.000Z\",\"fine\":\"2026-09-15T01:50:00.000Z\",\"rating\":\"2,0\",\"condividi\":\"$undefined\",\"year\":\"2022\"},{\"id\":\"Lb8zRAcTRvMG\",\"title\":\"Lady Killer",
+                "descrizione": "Sono delicate, generose, vanitose ed innamorate, ma quando vengono ferite diventano vendicative e pericolose. In ogni episodio affrontiamo il caso di una donna diventata di colpo una feroce assassina."
+            },
+            {
+                "ora": "04:50",
+                "titolo": "Lady Killer",
+                "descrizione": "Lady Killer"
+            },
+            {
+                "ora": "05:30",
+                "titolo": "'Na pizza",
+                "descrizione": "In questa puntata Renato Bosco ospitera' Davide Sardina, allievo del celebre maestro pizzaiolo campano Salvatore Lionello."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Cose Nostre",
+                "descrizione": "Emilia Brandi racconta la storia e la vita di donne e uomini che si sono opposti alla violenza cieca delle mafie pagando un prezzo molto alto senza mai smettere di fare il proprio dovere. Storie di giornalisti, di manager pubblici e testimoni di giustizia."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Il Processo Del Lunedì",
+                "descrizione": "L'approfondimento sportivo del lunedì. Dopo le immagini del posticipo della sera, una riflessione su quanto avvenuto nei tre giorni della serie A: immagini, interviste e un occhio attento alle Coppe Europee."
+            },
             {
                 "ora": "21:15",
                 "titolo": "Lo Stato Delle Cose",
@@ -630,59 +665,14 @@
                 "ora": "00:30",
                 "titolo": "Camera con Vista",
                 "descrizione": "La sintesi della settimana politica senza filtri. Un programma di Alexander Jakhnagiev, prodotto da Agenzia Vista"
-            },
-            {
-                "ora": "21:40",
-                "titolo": "Django Unchained",
-                "descrizione": "Stati Uniti del Sud, alla vigilia della guerra civile. Il cacciatore di taglie di origine tedesca dottor King Schultz, su un carretto da dentista, è alla ricerca dei fratelli Brittle, per consegnarli alle autorità piuttosto morti che vivi e incassare la ricompensa. Per scovarli, libera dalle catene lo schiavo Django, promettendogli la libertà a missione completata. Tra i due uomini nasce così un sodalizio umano e professionale che li conduce attraverso l'America delle piantagioni e degli orrori razzisti alla ricerca dei criminali in fuga e della moglie di Django, Broomhilda, venduta come schiava a qualche possidente negriero."
-            },
-            {
-                "ora": "23:20",
-                "titolo": "Little Big Italy",
-                "descrizione": "Francesco Panella scopre i migliori ristoranti italiani all'estero."
-            },
-            {
-                "ora": "23:27",
-                "titolo": "Nemico pubblico",
-                "descrizione": "Robert Clayton Dean è un brillante avvocato di Washington D.C. che entra in possesso, a sua insaputa, di un video che incrimina un alto dirigente del National Security Agency in un omicidio politico. Da quel momento la vita tranquilla di Dean viene spiata e sorvegliata con i più sofisticati sistemi elettronici da parte di un gruppo della NSA che mette in moto un implacabile e spregiudicato piano per screditarlo e recuperare le prove incriminanti."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Trappola sulle montagne rocciose",
-                "descrizione": "Un ex impiegato del Pentagono, dirotta il treno più lussuoso d'America lanciandolo ad alta velocità attraverso le Montagne Rocciose e minacciano di radere al suolo Washington e dintorni usando il satellite progettato per il governo prima di essere rimosso dall'incarico."
-            },
-            {
-                "ora": "23:56",
-                "titolo": "By the Sea",
-                "descrizione": "A bordo di una splendida decapottabile, Roland e Vanessa raggiungono un angolo di paradiso, una baia nel sud della Francia, dove trascorreranno il tempo che serve a lui per rimettersi a scrivere. Nel caffè del vedovo Michel, il romanziere in crisi lascia che a scorrere siano fiumi di alcool, mentre l'inchiostro fatica ad uscire. Ma il blocco non è solo suo: la moglie Nessa, autoreclusasi nella stanza d'hotel con vista sul mare, sembra incapace di appassionarsi ad alcunché, marito compreso. La scoperta di un buco nel muro, che le fornisce l'accesso alla vista della giovane coppia della stanza accanto, in luna di miele, la smuove dal torpore, ma risveglia in lei pericolose pulsioni."
-            },
-            {
-                "ora": "23:25",
-                "titolo": "Still Life",
-                "descrizione": "John May è un solitario funzionario comunale, il cui lavoro consiste nel rintracciare i parenti più prossimi delle persone morte in totale solitudine. May svolge il suo lavoro con estrema meticolosità e conduce una vita tranquilla e ordinaria, fatta di ossessivi riti quotidiani. Un giorno gli viene affidato il caso di Billy Stoke, un uomo alcolizzato morto in solitudine a pochi passi da casa sua. Così inizia a raccogliere indizi sulla sua vita e a cercare le persone a cui è stato legato."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Botte di Natale",
-                "descrizione": "Il baro a poker Travis riceve una lettera della madre, desiderosa che lui e il fratello Moses passassero con lei il Natale. Travis cerca Moses, un cacciatore di taglie. Costui sta cercando di catturare un bandito per il denaro necessario alla sua famiglia di dieci figli."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Nove",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:40",
-                "titolo": "Cash or Trash - Chi offre di piu'?",
-                "descrizione": "Alcuni mercanti cercano di aggiudicarsi preziosi oggetti."
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Little Big Italy",
-                "descrizione": "Francesco Panella scopre i migliori ristoranti italiani all'estero."
-            },
             {
                 "ora": "23:20",
                 "titolo": "Little Big Italy",
@@ -732,19 +722,24 @@
                 "ora": "21:15",
                 "titolo": "Lo Stato Delle Cose",
                 "descrizione": "Ritornano le grandi inchieste de \"Lo stato delle cose"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Quarta Repubblica",
+                "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
+            },
+            {
+                "ora": "00:26",
+                "titolo": "Sacrificio d'amore",
+                "descrizione": "Natale 1915. Corrado torna a Carrara dopo aver ottenuto una breve licenza. E' devastato dalla guerra, e dalla vicinanza con Silvia, ora che lei non lo ama piu'."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "20 Mediaset",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:09",
-                "titolo": "Edge of Tomorrow - Senza domani",
-                "descrizione": "La storia di “Edge of Tomorrow” si svolge in un futuro prossimo in cui una razza aliena ha colpito la Terra con un implacabile assalto che nessuno esercito al mondo riesce a respingere. Il tenente William Cage è un ufficiale che non ha mai partecipato neppure a un giorno di combattimento quando viene inviato senza tanti complimenti a compiere una missione suicida. Ucciso in pochi minuti, incredibilmente Cage si risveglia ed è costretto a combattere e a morire ancora e ancora, in un continuo loop temporale. Ma a ogni scontro Cage diventa sempre più abile nell’affrontare il nemico, insieme alla combattente delle Forze Speciali Rita Vrataski. Mentre Cage e Rita continuano la lotta contro gli alieni, la ripetizione di ogni battaglia li fa avvicinare sempre più alla soluzione per annientare il nemico."
-            },
             {
                 "ora": "23:27",
                 "titolo": "Nemico pubblico",
@@ -799,24 +794,19 @@
                 "ora": "21:15",
                 "titolo": "Lo Stato Delle Cose",
                 "descrizione": "Ritornano le grandi inchieste de \"Lo stato delle cose"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Quarta Repubblica",
+                "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Real Time",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:30",
-                "titolo": "Casa a prima vista",
-                "descrizione": "Nadia, Blasco e Matteo sono alla ricerca di un trilocale con un budget di 400.000 euro."
-            },
-            {
-                "ora": "21:40",
-                "titolo": "Vite al limite - Storie di rinascita",
-                "descrizione": "Due gemelle identiche condividono tutto, anche il loro rapporto con il cibo."
-            },
             {
                 "ora": "22:30",
                 "titolo": "Vite al limite",
@@ -866,59 +856,24 @@
                 "ora": "21:33",
                 "titolo": "Quarta Repubblica",
                 "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
+            },
+            {
+                "ora": "00:26",
+                "titolo": "Sacrificio d'amore",
+                "descrizione": "Natale 1915. Corrado torna a Carrara dopo aver ottenuto una breve licenza. E' devastato dalla guerra, e dalla vicinanza con Silvia, ora che lei non lo ama piu'."
+            },
+            {
+                "ora": "23:42",
+                "titolo": "Cold Case - Delitti irrisolti",
+                "descrizione": "L'unica detective donna della squadra omicidi di Philadelphia trova la sua vocazione quando le vengono assegnati casi che non sono mai stati risolti. La detective Lilly Rush combina i suoi istinti naturali con la tecnologia aggiornata disponibile oggi per garantire giustizia a tutte le vittime che può."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Boing",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:20",
-                "titolo": "Adventure Time",
-                "descrizione": "La serie segue le avventure di un ragazzo di nome Finn, descritto da Ward come un \"energico ragazzo dalla forte moralità"
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Adventure Time",
-                "descrizione": "La serie segue le avventure di un ragazzo di nome Finn, descritto da Ward come un \"energico ragazzo dalla forte moralità"
-            },
-            {
-                "ora": "21:45",
-                "titolo": "Captain Tsubasa",
-                "descrizione": "Si avvicina l’inizio del torneo della prefettura di Shizuoka, che la scuola media Nankatsu deve vincere per accedere al Campionato Nazionale."
-            },
-            {
-                "ora": "22:15",
-                "titolo": "Captain Tsubasa",
-                "descrizione": "Inizia la finale del torneo della prefettura di Shizuoka tra la Scuola Media Nankatsu e la Scuola Media Otomo."
-            },
-            {
-                "ora": "22:40",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "In questo episodio, vari personaggi raccontano le loro vicissitudini quotidiane cantando."
-            },
-            {
-                "ora": "22:55",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "I vecchi pupazzi Frank, Howdy e Grady si vendicano con Gumball e Darwin per essere stati abbandonati in soffitta. Prenderanno vita e ne combineranno di tutti i colori."
-            },
-            {
-                "ora": "23:10",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Intristito perche' non riesce a trovare delle amicizie maschili, Richard si traveste da donna."
-            },
-            {
-                "ora": "23:20",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Julius cerca di manipolare Darwin, ma la cosa gli si ritorcera' contro."
-            },
-            {
-                "ora": "23:40",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Corneille sfida un energumeno per amore dell'infermiera anche a costo di rimetterci la salute."
-            },
             {
                 "ora": "23:50",
                 "titolo": "Lo straordinario mondo di Gumball",
@@ -933,59 +888,59 @@
                 "ora": "00:25",
                 "titolo": "Lo straordinario mondo di Gumball",
                 "descrizione": "Tobias vuole assolutamente diventare il miglior amico di Gumball e arriva al punto di progettare l'eliminazione fisica dei suoi amici piu' cari per riuscire nell'intento."
+            },
+            {
+                "ora": "00:35",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Arriva il giorno in cui limitarsi letteralmente a vegetare e Gumball e' deciso a rispettarlo, anche quando l'universo intero si coalizza contro di lui."
+            },
+            {
+                "ora": "00:45",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Dai Watterson arriva in visita Frankie, il padre di Richard, e l'accoglienza non certo e' tra le migliori, al punto da convincerlo a togliere il disturbo."
+            },
+            {
+                "ora": "00:55",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball deve andare in bagno, ma continua ad incontrare un compagno e l'imbarazzo che ne risulta impedisce ad entrambi di liberarsi.La situazione diventera' insostenibile."
+            },
+            {
+                "ora": "01:05",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball e Darwin non sanno piu' come evitare un loro vecchio vicino del quale non conoscono il nome e decidono di scorprirlo per uscire dall'imbarazzo."
+            },
+            {
+                "ora": "01:20",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball e il preside fanno il patto di parlare dei loro problemi con le rispettive ragazze."
+            },
+            {
+                "ora": "01:30",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Palloncino ha perso la fede nell'umanita' e vede il mondo in bianco e nero. Gumball riportera' i colori cantando."
+            },
+            {
+                "ora": "01:40",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Un gruppo di ragazzi resta bloccato nella scuola dopo una festa di beneficenza per i loro genitori. Gumball viene eletto come leader, ma succede il caos."
+            },
+            {
+                "ora": "01:50",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Per aiutarlo ad avere una vita emozionante, Gumball convince Clayton a trasformarsi nelle altre persone, ma la situazione sfugge di mano."
+            },
+            {
+                "ora": "02:00",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Sarah trova un quaderno magico e le storie d'amore che scrive sui cittadini di Elmore diventano vere. Gumball e Darwin provano a dipanare la matassa."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "K2",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:20",
-                "titolo": "Le avventure di Bernie",
-                "descrizione": "1' Stagione Ep.1 - Dopo non essere riuscito ad aiutare Zig a mangiare Marina, Bernie si è perso in fondo alloceano! Il geniale inventore cerca di tornare in ogni modo sulla sua isola."
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Mermicorno Starfall",
-                "descrizione": "2' Stagione Ep.11 - Le avventure di piccole creature metà unicorno e metà sirena."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Japanizi: Going, Going, Gong!",
-                "descrizione": "1' Stagione Ep.28 - Un game show comico in stile giapponese per tutta la famiglia."
-            },
-            {
-                "ora": "22:20",
-                "titolo": "Japanizi: Going, Going, Gong!",
-                "descrizione": "1' Stagione Ep.29 - Un game show comico in stile giapponese per tutta la famiglia."
-            },
-            {
-                "ora": "22:45",
-                "titolo": "Maca&Roni",
-                "descrizione": "2' Stagione Ep.9 - Maca il gatto e Roni il pinguino creano tanti problemi!"
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Maca&Roni",
-                "descrizione": "2' Stagione Ep.10 - Maca il gatto e Roni il pinguino creano tanti problemi!"
-            },
-            {
-                "ora": "23:15",
-                "titolo": "Maca&Roni",
-                "descrizione": "2' Stagione Ep.11 - Maca il gatto e Roni il pinguino creano tanti problemi!"
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Maca&Roni",
-                "descrizione": "2' Stagione Ep.12 - Maca il gatto e Roni il pinguino creano tanti problemi!"
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Maca&Roni",
-                "descrizione": "2' Stagione Ep.13 - Maca il gatto e Roni il pinguino creano tanti problemi!"
-            },
             {
                 "ora": "00:00",
                 "titolo": "Maca&Roni",
@@ -1000,44 +955,59 @@
                 "ora": "00:30",
                 "titolo": "Maca&Roni",
                 "descrizione": "2' Stagione Ep.16 - Maca il gatto e Roni il pinguino creano tanti problemi!"
+            },
+            {
+                "ora": "00:45",
+                "titolo": "Maca&Roni",
+                "descrizione": "2' Stagione Ep.17 - Maca il gatto e Roni il pinguino creano tanti problemi!"
+            },
+            {
+                "ora": "01:00",
+                "titolo": "Maca&Roni",
+                "descrizione": "2' Stagione Ep.18 - Maca il gatto e Roni il pinguino creano tanti problemi!"
+            },
+            {
+                "ora": "01:20",
+                "titolo": "Karate Sheep",
+                "descrizione": "1' Stagione Ep.2 - Wanda la pecora deve tenere al sicuro le altre pecore dal pericoloso Wolf."
+            },
+            {
+                "ora": "01:40",
+                "titolo": "Zig & Sharko",
+                "descrizione": "2' Stagione Ep.9 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "02:00",
+                "titolo": "Zig & Sharko",
+                "descrizione": "2' Stagione Ep.10 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "02:25",
+                "titolo": "Zig & Sharko",
+                "descrizione": "2' Stagione Ep.11 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "02:45",
+                "titolo": "Zig & Sharko",
+                "descrizione": "2' Stagione Ep.12 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "03:10",
+                "titolo": "Karate Sheep",
+                "descrizione": "1' Stagione Ep.3 - Wanda la pecora deve tenere al sicuro le altre pecore dal pericoloso Wolf."
+            },
+            {
+                "ora": "03:30",
+                "titolo": "Karate Sheep",
+                "descrizione": "1' Stagione Ep.4 - Wanda la pecora deve tenere al sicuro le altre pecore dal pericoloso Wolf."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Rai Gulp",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:00",
-                "titolo": "Il Collegio 4 - Sesta E Ultima Puntata: Una Festa Memorabile",
-                "descrizione": "I temuti esami sono arrivati: tra lezioni di ripasso e qualche rivincita dei professori - con la Petolicchio che non molla mai - è il momento di dimostrare cosa si è imparato. Non tutti i genitori, però, potranno dirsi ugualmente orgogliosi dei propri figli. Ma c'è tempo per un ultimo appello ai ragazzi da parte del prof. Maggi con una lezione su Sandro Pertini. La classe 1982 è licenziata: si torna a casa con un po' di maturità in più"
-            },
-            {
-                "ora": "22:15",
-                "titolo": "Goldrake",
-                "descrizione": "Tutto inizia quando Fleed, pacifica stella della nebulosa di Vega, dalle avanzate conoscenze scientifiche, viene invasa dall'esercito del malvagio Re Vega, intenzionato ad estendere il proprio dominio su tutta l'intera galassia. Ben presto Fleed cade sotto il dominio delle truppe di Vega, che seminando morte e distruzione, la conquistano. Duke Fleed, principe ereditario della stella che porta il suo nome, viene catturato ed imprigionato mentre la famiglia trova una morte orrenda. Il perfido Re Vega costringe gli scienziati di Fleed ad usare tutte le loro sofisticate tecnologie per creare una terribile macchina da guerra che gli permetta di conquistare l'intero universo: l'astronave-robot \"Goldrake\". Il principe non può permettere che un arma tanto potente finisca nelle mani di Vega e fuggendo dalla prigione in cui è rinchiuso riesce a rubare \"Goldrake\"."
-            },
-            {
-                "ora": "22:40",
-                "titolo": "Super Spike Ball",
-                "descrizione": "Viola la sera tira sempre tardi. Per leggere, che è una cosa bella, ma è importante riposare bene! Gli Invincibili, sentito della stanchezza di Viola, sfidano la Lucky Squad in un campo soporifero: un mega-letto con le sponde… fatto a puntino per Viola…"
-            },
-            {
-                "ora": "22:55",
-                "titolo": "Super Spike Ball",
-                "descrizione": "Nino corre come un matto in bicicletta e fa acrobazie: si sente il re della velocità! Ma non ha ancora incontrato… i Motorbots! Tre giocatori motirizzati! Il campo della sfida è circondato da rampe spettacolari che gli avversari usano al meglio. Nino fa l'errore di provare a giocare come loro aumentando la velocità e la spettacolarità, ma non è la strada giusta…"
-            },
-            {
-                "ora": "23:10",
-                "titolo": "La Compagnia dei Celestini",
-                "descrizione": "Un gruppo di ragazzini si allena lontano da occhi indiscreti, per giocare alla pallastrada, un gioco simile al calcio dove le poche regole sono strutturate sull'ambiente urbano. Lentamente i giovani protagonisti sapranno convincere gli adulti che li circondano della bontà del loro sport, pieno di valori come rispetto, solidarietà e amicizia e con il loro sostegno potranno disputare partite di pallastrada in trasferta per tutto il mondo."
-            },
-            {
-                "ora": "23:20",
-                "titolo": "La Compagnia dei Celestini",
-                "descrizione": "Un gruppo di ragazzini si allena lontano da occhi indiscreti, per giocare alla pallastrada, un gioco simile al calcio dove le poche regole sono strutturate sull'ambiente urbano. Lentamente i giovani protagonisti sapranno convincere gli adulti che li circondano della bontà del loro sport, pieno di valori come rispetto, solidarietà e amicizia e con il loro sostegno potranno disputare partite di pallastrada in trasferta per tutto il mondo."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Spike Team",
@@ -1067,59 +1037,44 @@
                 "ora": "01:20",
                 "titolo": "Gormiti",
                 "descrizione": "I Guardiani sono alla ricerca dei frammenti del Cuore del Titano. Dopo aver trovato il frammento di magma in cima alla piramide, vengono sorpresi dall'arrivo dei Dronok che, ammassandosi l'uno sull'altro per creare un totem, riescono a raggiungere per primi il frammento. La situazione si risolverà grazie al lavoro di squadra di Eron e Riff e ai nuovi poteri di Ikor e Hydros."
+            },
+            {
+                "ora": "01:35",
+                "titolo": "La famiglia Skrokkiazeppi",
+                "descrizione": "Una famiglia di Lupi Mannari si trasferisce nel condominio e si riaccende un'antica inimicizia tra lupi mannari e troll, in particolare tra Prekullio e Lupio. Mentre tra Ortika e Lupino, Mankrovia e Lupelia i rapporti sono buoni."
+            },
+            {
+                "ora": "01:40",
+                "titolo": "La famiglia Skrokkiazeppi",
+                "descrizione": "Il mattatoio è in sciopero e Mankrovia inizia a preoccuparsi per l'affitto. Prekullio la rassicura e dice che si cercherà un lavoro. Inizia a collezionare diversi licenziamenti e Ortika deve evitare che il padre si faccia scoprire. Prekullio è pronto ad arrendersi, ma Ortika lo iscrive a un torneo di cruciverba."
+            },
+            {
+                "ora": "02:00",
+                "titolo": "Coop Troop",
+                "descrizione": "Dopo un periodo di inattività, la Coop Troop riceve finalmente una richiesta d'aiuto da parte di Prince che lamenta di avere un enorme problema. Flo decide di filmare la missione per realizzare uno spot pubblicitario che convinca più animali a rivolgersi alla sua squadra. Ma il problema di Prince, si rivela ben poca cosa: il cuscino della sua cuccia è sgualcito. Se si vuole girare uno spot d'effetto, bisogna aggiungere un po' di pepe alla situazione..."
+            },
+            {
+                "ora": "02:10",
+                "titolo": "Coop Troop",
+                "descrizione": "La Coop Troop deve salvare Crystal che sta per essere tosata dal Fattore. Se ne occuperanno Flop, Billy e Jo, mentre Maggie e Clive tenteranno di guarire Albert dalla sua \"sindrome da accumulo\". Non sarà facile convincere il piccolo roditore a rinunciare a tutte le cianfrusaglie che ha messo da parte..."
+            },
+            {
+                "ora": "02:20",
+                "titolo": "Super Happy Magic Forest",
+                "descrizione": "La Commissione Ispettori Forestali visita la Foresta per verificare il grado di felicità degli abitanti. Per paura di perdere il titolo di Super Happy, Mr. Simpaticone assegna agli eroi delle missioni per impressionare la Commissione, ma ottiene l'effetto contrario. Dopotutto, la Foresta è già perfetta così!"
+            },
+            {
+                "ora": "02:25",
+                "titolo": "Super Happy Magic Forest",
+                "descrizione": "Gli eroi non vedono l'ora che arrivi il Nevedì, soprattutto Blossom, che ama andare sullo slittino e costruire unicorni di neve. Ma quando la Foresta si sveglia la mattina del Nevedì, non c'è neppure un fiocco in vista! Gli eroi dovranno liberare Nevéria, il drago della neve, se vogliono salvare il Nevedì."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Frisbee",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:10",
-                "titolo": "Curioso come George",
-                "descrizione": "10' Stagione Ep.5 - Una serie basata sui libri di Margret e H. A. Rey. George, simpatica scimmietta, scopre ogni giorno cose sorprendenti sul funzionamento di tutto ciò che la circonda."
-            },
-            {
-                "ora": "21:35",
-                "titolo": "Curioso come George",
-                "descrizione": "10' Stagione Ep.6 - Una serie basata sui libri di Margret e H. A. Rey. George, simpatica scimmietta, scopre ogni giorno cose sorprendenti sul funzionamento di tutto ciò che la circonda."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Oggy e i maledetti scarafaggi",
-                "descrizione": "5' Stagione Ep.2 - I buffi dispetti di un gruppo di scatenati scarafaggi ai danni del gatto Oggy, costretto ogni giorno a subirne di tutti i colori."
-            },
-            {
-                "ora": "22:25",
-                "titolo": "Oggy e i maledetti scarafaggi",
-                "descrizione": "5' Stagione Ep.3 - I buffi dispetti di un gruppo di scatenati scarafaggi ai danni del gatto Oggy, costretto ogni giorno a subirne di tutti i colori."
-            },
-            {
-                "ora": "22:45",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "2' Stagione Ep.33 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "2' Stagione Ep.34 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
-            },
-            {
-                "ora": "23:15",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "2' Stagione Ep.35 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "2' Stagione Ep.36 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "2' Stagione Ep.37 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Alvinnn!!! And the Chipmunks",
@@ -1134,24 +1089,59 @@
                 "ora": "00:30",
                 "titolo": "Alvinnn!!! And the Chipmunks",
                 "descrizione": "2' Stagione Ep.40 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
+            },
+            {
+                "ora": "00:45",
+                "titolo": "Alvinnn!!! And the Chipmunks",
+                "descrizione": "2' Stagione Ep.41 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
+            },
+            {
+                "ora": "01:05",
+                "titolo": "Floopaloo",
+                "descrizione": "2' Stagione Ep.13 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
+            },
+            {
+                "ora": "01:25",
+                "titolo": "Floopaloo",
+                "descrizione": "2' Stagione Ep.14 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
+            },
+            {
+                "ora": "01:45",
+                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
+                "descrizione": "3' Stagione Ep.2 - Oggy si prende cura di Piya, figlia dei suoi amici indiani"
+            },
+            {
+                "ora": "02:05",
+                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
+                "descrizione": "3' Stagione Ep.3 - Oggy si prende cura di Piya, figlia dei suoi amici indiani"
+            },
+            {
+                "ora": "02:30",
+                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
+                "descrizione": "3' Stagione Ep.4 - Oggy si prende cura di Piya, figlia dei suoi amici indiani"
+            },
+            {
+                "ora": "02:50",
+                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
+                "descrizione": "3' Stagione Ep.5 - Oggy si prende cura di Piya, figlia dei suoi amici indiani"
+            },
+            {
+                "ora": "03:10",
+                "titolo": "Floopaloo",
+                "descrizione": "2' Stagione Ep.15 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
+            },
+            {
+                "ora": "03:30",
+                "titolo": "Floopaloo",
+                "descrizione": "2' Stagione Ep.16 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "DMAX",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "19:50",
-                "titolo": "Border Control Italia",
-                "descrizione": "Seguiamo il lavoro degli uomini e delle donne della Guardia di Finanza e dell'agenzia delle Dogane e dei Monopoli sul territorio italiano."
-            },
-            {
-                "ora": "21:45",
-                "titolo": "Vado a vivere nel bosco",
-                "descrizione": "I Raney devono salvare la fattoria di alcuni proprietari particolarmente testardi."
-            },
             {
                 "ora": "23:30",
                 "titolo": "Vado a vivere nel bosco",
@@ -1201,19 +1191,24 @@
                 "ora": "21:33",
                 "titolo": "Quarta Repubblica",
                 "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
+            },
+            {
+                "ora": "00:26",
+                "titolo": "Sacrificio d'amore",
+                "descrizione": "Natale 1915. Corrado torna a Carrara dopo aver ottenuto una breve licenza. E' devastato dalla guerra, e dalla vicinanza con Silvia, ora che lei non lo ama piu'."
+            },
+            {
+                "ora": "23:42",
+                "titolo": "Cold Case - Delitti irrisolti",
+                "descrizione": "L'unica detective donna della squadra omicidi di Philadelphia trova la sua vocazione quando le vengono assegnati casi che non sono mai stati risolti. La detective Lilly Rush combina i suoi istinti naturali con la tecnologia aggiornata disponibile oggi per garantire giustizia a tutte le vittime che può."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Rai Sport",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:35",
-                "titolo": "Camp. Italiano Serie C: Ravenna - Perugia",
-                "descrizione": "Le partite della Lega Pro, con i tre gironi del campionato italiano di calcio e della Coppa Italia di Serie C."
-            },
             {
                 "ora": "22:45",
                 "titolo": "Europei Maschili Di Pallavolo 2026 - Gruppo A: Italia - Slovacchia",
@@ -1268,24 +1263,19 @@
                 "ora": "21:40",
                 "titolo": "Django Unchained",
                 "descrizione": "Stati Uniti del Sud, alla vigilia della guerra civile. Il cacciatore di taglie di origine tedesca dottor King Schultz, su un carretto da dentista, è alla ricerca dei fratelli Brittle, per consegnarli alle autorità piuttosto morti che vivi e incassare la ricompensa. Per scovarli, libera dalle catene lo schiavo Django, promettendogli la libertà a missione completata. Tra i due uomini nasce così un sodalizio umano e professionale che li conduce attraverso l'America delle piantagioni e degli orrori razzisti alla ricerca dei criminali in fuga e della moglie di Django, Broomhilda, venduta come schiava a qualche possidente negriero."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Little Big Italy",
+                "descrizione": "Francesco Panella scopre i migliori ristoranti italiani all'estero."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sportitalia",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:30",
-                "titolo": "Live match Serie A",
-                "descrizione": "Live match Serie A"
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Sportitaliamercato",
-                "descrizione": "Il programma tratta le vicende del calciomercato sia nella sessione estiva che in quella invernale e va in onda alle ore 23.00 dal lunedì al venerdì"
-            },
             {
                 "ora": "00:00",
                 "titolo": "Cose Nostre",
@@ -1335,39 +1325,24 @@
                 "ora": "23:27",
                 "titolo": "Nemico pubblico",
                 "descrizione": "Robert Clayton Dean è un brillante avvocato di Washington D.C. che entra in possesso, a sua insaputa, di un video che incrimina un alto dirigente del National Security Agency in un omicidio politico. Da quel momento la vita tranquilla di Dean viene spiata e sorvegliata con i più sofisticati sistemi elettronici da parte di un gruppo della NSA che mette in moto un implacabile e spregiudicato piano per screditarlo e recuperare le prove incriminanti."
+            },
+            {
+                "ora": "23:30",
+                "titolo": "Trappola sulle montagne rocciose",
+                "descrizione": "Un ex impiegato del Pentagono, dirotta il treno più lussuoso d'America lanciandolo ad alta velocità attraverso le Montagne Rocciose e minacciano di radere al suolo Washington e dintorni usando il satellite progettato per il governo prima di essere rimosso dall'incarico."
+            },
+            {
+                "ora": "23:56",
+                "titolo": "By the Sea",
+                "descrizione": "A bordo di una splendida decapottabile, Roland e Vanessa raggiungono un angolo di paradiso, una baia nel sud della Francia, dove trascorreranno il tempo che serve a lui per rimettersi a scrivere. Nel caffè del vedovo Michel, il romanziere in crisi lascia che a scorrere siano fiumi di alcool, mentre l'inchiostro fatica ad uscire. Ma il blocco non è solo suo: la moglie Nessa, autoreclusasi nella stanza d'hotel con vista sul mare, sembra incapace di appassionarsi ad alcunché, marito compreso. La scoperta di un buco nel muro, che le fornisce l'accesso alla vista della giovane coppia della stanza accanto, in luna di miele, la smuove dal torpore, ma risveglia in lei pericolose pulsioni."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport 24",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "22:45",
-                "titolo": "Anteprima Sky Calcio L'...... (Diretta)",
-                "descrizione": "Il commento del weekend, i gol e le voci di Serie A. In studio Alessandro Bonan, Fayna, Gianluca Di Marzio, Veronica Baldaccini, Gianfranco Teotino e Luca Gotti."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Sky Calcio - L'originale",
-                "descrizione": "Il commento del weekend, i gol e le voci di Serie A. In studio Alessandro Bonan, Fayna, Gianluca Di Marzio, Veronica Baldaccini, Gianfranco Teotino e Luca Gotti."
-            },
             {
                 "ora": "00:00",
                 "titolo": "News Line",
@@ -1402,29 +1377,39 @@
                 "ora": "03:30",
                 "titolo": "News Line",
                 "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "04:00",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "04:30",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "05:00",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "05:30",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Sky Calcio - L'originale",
+                "descrizione": "Il commento del weekend, i gol e le voci di Serie A. In studio Alessandro Bonan, Fayna, Gianluca Di Marzio, Veronica Baldaccini, Gianfranco Teotino e Luca Gotti."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport Uno",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "20:40",
-                "titolo": "Inter - Udinese",
-                "descrizione": "Nerazzurri a punteggio pieno con 9 punti. Udinese reduce dal primo ko, 1-2 contro la Lazio.Un solo successo (2025) nelle ultime 9 sfide a San Siro, 8 sconfitte. TC: Zancan-Gobbi"
-            },
-            {
-                "ora": "22:45",
-                "titolo": "Milito",
-                "descrizione": "Calcio."
-            },
-            {
-                "ora": "23:15",
-                "titolo": "Uefa Champions League Magazine 2026/2027 Ep.3 14/09/2026",
-                "descrizione": "2026/2027 Ep.3 14/09/2026 UEFA Champions League Magazine. - Approfondimento sportivo calcistico dedicato alla UEFA Champions League."
-            },
             {
                 "ora": "23:45",
                 "titolo": "Goleador: L'ora dei gol",
@@ -1469,29 +1454,29 @@
                 "ora": "23:00",
                 "titolo": "Inter - Udinese",
                 "descrizione": "Nerazzurri a punteggio pieno con 9 punti. Udinese reduce dal primo ko, 1-2 contro la Lazio.Un solo successo (2025) nelle ultime 9 sfide a San Siro, 8 sconfitte. TC: Zancan-Gobbi"
+            },
+            {
+                "ora": "23:05",
+                "titolo": "Madrid",
+                "descrizione": "L'analisi del Gran Premio disputato per commentare la gara insieme agli ospiti in studio. Riviviamo i brividi della corsa attraverso le immagini piu' spettacolari e ascoltiamo i commenti a caldo dei protagonisti."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "San Marino",
+                "descrizione": "Collegamenti dal paddock, i commenti dei nostri ospiti in studio, le emozioni delle feste nei box. Questi gli ingredienti della puntata di Race Anatomy condotta da Cristiana Buonamano"
+            },
+            {
+                "ora": "21:00",
+                "titolo": "Amgen Irish Open: Giorno 4",
+                "descrizione": "World Tour. - From Trump International Golf Links & Hotel in Doonbeg, Ireland."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport Calcio",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "20:40",
-                "titolo": "Inter - Udinese",
-                "descrizione": "Nerazzurri a punteggio pieno con 9 punti. Udinese reduce dal primo ko, 1-2 contro la Lazio.Un solo successo (2025) nelle ultime 9 sfide a San Siro, 8 sconfitte. TC: Zancan-Gobbi"
-            },
-            {
-                "ora": "22:45",
-                "titolo": "Anteprima Sky Calcio L'...... (Diretta)",
-                "descrizione": "Originale. - Il commento del weekend, i gol e le voci di Serie A. In studio Alessandro Bonan, Fayna, Gianluca Di Marzio, Veronica Baldaccini, Gianfranco Teotino e Luca Gotti."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Sky Calcio - L'originale",
-                "descrizione": "Il commento del weekend, i gol e le voci di Serie A. In studio Alessandro Bonan, Fayna, Gianluca Di Marzio, Veronica Baldaccini, Gianfranco Teotino e Luca Gotti."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Milito",
@@ -1533,12 +1518,27 @@
                 "descrizione": "Champions League. - Negli unici 2 precedenti europei, agli ottavi di Coppa dei Campioni nel 1974-75, pareggio in Olanda (0-0) e vittoria blaugrana al Camp Nou (3-0). TC: Antonio Nucera"
             },
             {
+                "ora": "23:00",
+                "titolo": "Sky Calcio - L'originale",
+                "descrizione": "Il commento del weekend, i gol e le voci di Serie A. In studio Alessandro Bonan, Fayna, Gianluca Di Marzio, Veronica Baldaccini, Gianfranco Teotino e Luca Gotti."
+            },
+            {
                 "ora": "23:45",
                 "titolo": "Goleador: L'ora dei gol",
                 "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
+            },
+            {
+                "ora": "22:40",
+                "titolo": "Serbia - Olanda",
+                "descrizione": "di pallavolo maschile. - Sfida gia' da dentro o fuori nel gruppo C tra Serbia e Olanda. Tc Rudy Palermo"
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Finale: Stati Uniti - Francia",
+                "descrizione": "Campionati Mondiali femminili FIBA 2026. - Stati Uniti-Francia: e' la finale annunciata di un torneo in cui pero' Team USA non e' stato cosi' dominante come in passato. In campo 20 giocatrici WNBA. Telecronaca di Geri De Rosa e Chicca Macchi."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport Tennis",
@@ -1605,27 +1605,12 @@
                 "descrizione": "di pallavolo maschile. - EurVolley 2026, seconda uscita per gli azzurri di De Giorgi che affrontano la Grecia. Tc Locatelli-Zorzi"
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport F1",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:05",
-                "titolo": "GP Madrid: Gara",
-                "descrizione": "Prima storica gara sul nuovo circuito di Madrid. Antonelli comanda la classifica con 66 punti su Russell, Ferrari in cerca di riscatto. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
-            },
-            {
-                "ora": "22:05",
-                "titolo": "Inside The Team - Un Gp con Kimi",
-                "descrizione": "Inside The Team - Un Gp con Kimi"
-            },
-            {
-                "ora": "22:50",
-                "titolo": "Crazy Race",
-                "descrizione": "Crazy Race"
-            },
             {
                 "ora": "23:05",
                 "titolo": "Madrid",
@@ -1670,24 +1655,29 @@
                 "ora": "04:50",
                 "titolo": "Crazy Race",
                 "descrizione": "Crazy Race"
+            },
+            {
+                "ora": "05:00",
+                "titolo": "Madrid",
+                "descrizione": "L'analisi del Gran Premio disputato per commentare la gara insieme agli ospiti in studio. Riviviamo i brividi della corsa attraverso le immagini piu' spettacolari e ascoltiamo i commenti a caldo dei protagonisti."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Sky Calcio - L'originale",
+                "descrizione": "Il commento del weekend, i gol e le voci di Serie A. In studio Alessandro Bonan, Fayna, Gianluca Di Marzio, Veronica Baldaccini, Gianfranco Teotino e Luca Gotti."
+            },
+            {
+                "ora": "23:45",
+                "titolo": "Goleador: L'ora dei gol",
+                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport Legend",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Federico Buffa racconta Jesse Owens",
-                "descrizione": "racconta Jesse Owens. - From Oakville to Olympia. J.C. Owens, vincitore di 4 ori olimpici nel '36. Mentre Berlino si prepara ad ospitare i Giochi, in Ohio, un ragazzino afroamericano si allena per diventarne la stella."
-            },
-            {
-                "ora": "22:05",
-                "titolo": "Scugnizzi per sempre",
-                "descrizione": "Caserta, primi anni 80. In una provincia del Sud Italia lontana dai circuiti che contano, un gruppo di scugnizzi della città gioca in strada e sogna di realizzarsi nella pallacanestro."
-            },
             {
                 "ora": "23:00",
                 "titolo": "Finale",
@@ -1737,34 +1727,24 @@
                 "ora": "23:35",
                 "titolo": "Finale: Stati Uniti - Francia",
                 "descrizione": "Campionati Mondiali femminili FIBA 2026. - Stati Uniti-Francia: e' la finale annunciata di un torneo in cui pero' Team USA non e' stato cosi' dominante come in passato. In campo 20 giocatrici WNBA. Telecronaca di Geri De Rosa e Chicca Macchi."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Inter - Udinese",
+                "descrizione": "Nerazzurri a punteggio pieno con 9 punti. Udinese reduce dal primo ko, 1-2 contro la Lazio.Un solo successo (2025) nelle ultime 9 sfide a San Siro, 8 sconfitte. TC: Zancan-Gobbi"
+            },
+            {
+                "ora": "23:05",
+                "titolo": "Madrid",
+                "descrizione": "L'analisi del Gran Premio disputato per commentare la gara insieme agli ospiti in studio. Riviviamo i brividi della corsa attraverso le immagini piu' spettacolari e ascoltiamo i commenti a caldo dei protagonisti."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport MotoGP",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "GP San Marino e Riviera di Rimini: Sprint Race",
-                "descrizione": "Sprint Race MotoGP. - Quattordicesimo appuntamento del mondiale 2026: al Misano World Circuit si accendono i motori per la Sprint della MotoGP. Telecronaca Meda- Sanchini"
-            },
-            {
-                "ora": "21:45",
-                "titolo": "GP San Marino e Riviera di Rimini: Gara",
-                "descrizione": "Gara MotoGP. - Quattordicesimo appuntamento del mondiale 2026: al Misano World Circuit si accendono i motori per la gara della MotoGP. Telecronaca Meda- Sanchini"
-            },
-            {
-                "ora": "22:45",
-                "titolo": "Fernandez: Il mio riscatto",
-                "descrizione": "Raul Fernandez, pilota spagnolo del team Trackhouse, si sta dimostrando uno dei piu' competitivi in questa stagione dove la Aprilia sta raccogliendo ottimi risultati in MotoGP."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "San Marino",
-                "descrizione": "Collegamenti dal paddock, i commenti dei nostri ospiti in studio, le emozioni delle feste nei box. Questi gli ingredienti della puntata di Race Anatomy condotta da Cristiana Buonamano"
-            },
             {
                 "ora": "00:00",
                 "titolo": "GP San Marino e Riviera di Rimini: Gara",
@@ -1804,29 +1784,34 @@
                 "ora": "05:00",
                 "titolo": "San Marino",
                 "descrizione": "Collegamenti dal paddock, i commenti dei nostri ospiti in studio, le emozioni delle feste nei box. Questi gli ingredienti della puntata di Race Anatomy condotta da Cristiana Buonamano"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Sky Calcio - L'originale",
+                "descrizione": "Il commento del weekend, i gol e le voci di Serie A. In studio Alessandro Bonan, Fayna, Gianluca Di Marzio, Veronica Baldaccini, Gianfranco Teotino e Luca Gotti."
+            },
+            {
+                "ora": "23:45",
+                "titolo": "Goleador: L'ora dei gol",
+                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
+            },
+            {
+                "ora": "22:40",
+                "titolo": "Serbia - Olanda",
+                "descrizione": "di pallavolo maschile. - Sfida gia' da dentro o fuori nel gruppo C tra Serbia e Olanda. Tc Rudy Palermo"
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Finale: Stati Uniti - Francia",
+                "descrizione": "Campionati Mondiali femminili FIBA 2026. - Stati Uniti-Francia: e' la finale annunciata di un torneo in cui pero' Team USA non e' stato cosi' dominante come in passato. In campo 20 giocatrici WNBA. Telecronaca di Geri De Rosa e Chicca Macchi."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport Basket",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Finale terzo posto: Spagna - Germania",
-                "descrizione": "Germania Campionati Mondiali femminili FIBA 2026. - La Spagna si gioca la medaglia di bronzo contro le padrone di casa della Germania in una partita gia' vista nella fase preliminare e vinta largamente da Torrens e compagne. TC: Fumagalli-Tava."
-            },
-            {
-                "ora": "22:55",
-                "titolo": "2016 Is The New 2026: Intervista A Costanza Verona",
-                "descrizione": "Costanza Verona. - 2016 Is The New 2026 - Intervista A Costanza Verona"
-            },
-            {
-                "ora": "23:15",
-                "titolo": "Intervista Matilde Villa",
-                "descrizione": "Speciale Intervista Matilde Villa"
-            },
             {
                 "ora": "23:35",
                 "titolo": "Finale: Stati Uniti - Francia",
@@ -1871,34 +1856,29 @@
                 "ora": "23:00",
                 "titolo": "Inter - Udinese",
                 "descrizione": "Nerazzurri a punteggio pieno con 9 punti. Udinese reduce dal primo ko, 1-2 contro la Lazio.Un solo successo (2025) nelle ultime 9 sfide a San Siro, 8 sconfitte. TC: Zancan-Gobbi"
+            },
+            {
+                "ora": "23:05",
+                "titolo": "Madrid",
+                "descrizione": "L'analisi del Gran Premio disputato per commentare la gara insieme agli ospiti in studio. Riviviamo i brividi della corsa attraverso le immagini piu' spettacolari e ascoltiamo i commenti a caldo dei protagonisti."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "San Marino",
+                "descrizione": "Collegamenti dal paddock, i commenti dei nostri ospiti in studio, le emozioni delle feste nei box. Questi gli ingredienti della puntata di Race Anatomy condotta da Cristiana Buonamano"
+            },
+            {
+                "ora": "21:00",
+                "titolo": "Amgen Irish Open: Giorno 4",
+                "descrizione": "World Tour. - From Trump International Golf Links & Hotel in Doonbeg, Ireland."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport Arena",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Laureus Spirit Of Sport Ep.19 04/09/2026",
-                "descrizione": "04/09/2026 Laureus Spirit of Sport. - Interviste esclusive con i piu' grandi nomi dello sport, approfondimenti, analisi."
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Sky Sport Watch 2026 Ep.2 11/09/2026",
-                "descrizione": "Scopriamo il mondo dell'orologeria e il suo rapporto con lo sport e lo stile di vita relativo."
-            },
-            {
-                "ora": "21:45",
-                "titolo": "Motonautica On Board 2026 Ep.4 29/08/2026",
-                "descrizione": "29/08/2026 Motonautica On Board. - Uno sguardo sul mondo della Motonautica per svelare cio' che si cela dietro ogni scia, dalle imbarcazioni piu' veloci alle moto d'acqua. Un'opportunita' unica di conoscere da vicino i veri protagonisti: i piloti, con le loro storie e la loro passione."
-            },
-            {
-                "ora": "22:10",
-                "titolo": "Icarus Ultra 2025 Ep.46 14/09/2026",
-                "descrizione": "Icarus Ultra. - A Reggio Calabria, i Tesori del Mediterraneo porta in scena un grande evento che unisce sport, cultura e spettacolo. Protagonista e' la Regata del Mediterraneo, competizione che celebra il rapporto tra la citta' e il mare."
-            },
             {
                 "ora": "22:40",
                 "titolo": "Serbia - Olanda",
@@ -1938,19 +1918,34 @@
                 "ora": "23:00",
                 "titolo": "Sky Calcio - L'originale",
                 "descrizione": "Il commento del weekend, i gol e le voci di Serie A. In studio Alessandro Bonan, Fayna, Gianluca Di Marzio, Veronica Baldaccini, Gianfranco Teotino e Luca Gotti."
+            },
+            {
+                "ora": "23:45",
+                "titolo": "Goleador: L'ora dei gol",
+                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Finale: Stati Uniti - Francia",
+                "descrizione": "Campionati Mondiali femminili FIBA 2026. - Stati Uniti-Francia: e' la finale annunciata di un torneo in cui pero' Team USA non e' stato cosi' dominante come in passato. In campo 20 giocatrici WNBA. Telecronaca di Geri De Rosa e Chicca Macchi."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Inter - Udinese",
+                "descrizione": "Nerazzurri a punteggio pieno con 9 punti. Udinese reduce dal primo ko, 1-2 contro la Lazio.Un solo successo (2025) nelle ultime 9 sfide a San Siro, 8 sconfitte. TC: Zancan-Gobbi"
+            },
+            {
+                "ora": "23:05",
+                "titolo": "Madrid",
+                "descrizione": "L'analisi del Gran Premio disputato per commentare la gara insieme agli ospiti in studio. Riviviamo i brividi della corsa attraverso le immagini piu' spettacolari e ascoltiamo i commenti a caldo dei protagonisti."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport Max",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "20:55",
-                "titolo": "Leeds United - Newcastle",
-                "descrizione": "Premier League. - Dall'Elland Road di Leeds, Inghilterra."
-            },
             {
                 "ora": "23:00",
                 "titolo": "Inter - Udinese",
@@ -2005,19 +2000,19 @@
                 "ora": "23:35",
                 "titolo": "Finale: Stati Uniti - Francia",
                 "descrizione": "Campionati Mondiali femminili FIBA 2026. - Stati Uniti-Francia: e' la finale annunciata di un torneo in cui pero' Team USA non e' stato cosi' dominante come in passato. In campo 20 giocatrici WNBA. Telecronaca di Geri De Rosa e Chicca Macchi."
+            },
+            {
+                "ora": "23:05",
+                "titolo": "Madrid",
+                "descrizione": "L'analisi del Gran Premio disputato per commentare la gara insieme agli ospiti in studio. Riviviamo i brividi della corsa attraverso le immagini piu' spettacolari e ascoltiamo i commenti a caldo dei protagonisti."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport Mix",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Valencia Day 2",
-                "descrizione": "Le gare del SailGP."
-            },
             {
                 "ora": "22:30",
                 "titolo": "Italia - Grecia",
@@ -2072,19 +2067,19 @@
                 "ora": "22:40",
                 "titolo": "Serbia - Olanda",
                 "descrizione": "di pallavolo maschile. - Sfida gia' da dentro o fuori nel gruppo C tra Serbia e Olanda. Tc Rudy Palermo"
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Finale: Stati Uniti - Francia",
+                "descrizione": "Campionati Mondiali femminili FIBA 2026. - Stati Uniti-Francia: e' la finale annunciata di un torneo in cui pero' Team USA non e' stato cosi' dominante come in passato. In campo 20 giocatrici WNBA. Telecronaca di Geri De Rosa e Chicca Macchi."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport Golf",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Amgen Irish Open: Giorno 4",
-                "descrizione": "World Tour. - From Trump International Golf Links & Hotel in Doonbeg, Ireland."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Nexo Championship: Giorno 4",
@@ -2131,6 +2126,11 @@
                 "descrizione": "Collegamenti dal paddock, i commenti dei nostri ospiti in studio, le emozioni delle feste nei box. Questi gli ingredienti della puntata di Race Anatomy condotta da Cristiana Buonamano"
             },
             {
+                "ora": "21:00",
+                "titolo": "Amgen Irish Open: Giorno 4",
+                "descrizione": "World Tour. - From Trump International Golf Links & Hotel in Doonbeg, Ireland."
+            },
+            {
                 "ora": "23:00",
                 "titolo": "Finale",
                 "descrizione": "Commento: Pero-Bertolucci."
@@ -2141,7 +2141,7 @@
                 "descrizione": "di pallavolo maschile. - EurVolley 2026, seconda uscita per gli azzurri di De Giorgi che affrontano la Grecia. Tc Locatelli-Zorzi"
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport 251",
@@ -2208,26 +2208,21 @@
                 "descrizione": "Nerazzurri a punteggio pieno con 9 punti. Udinese reduce dal primo ko, 1-2 contro la Lazio.Un solo successo (2025) nelle ultime 9 sfide a San Siro, 8 sconfitte. TC: Zancan-Gobbi"
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport 252",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
+                "ora": "23:45",
+                "titolo": "Goleador: L'ora dei gol",
+                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
             },
             {
                 "ora": "23:00",
                 "titolo": "Sky Calcio - L'originale",
                 "descrizione": "Il commento del weekend, i gol e le voci di Serie A. In studio Alessandro Bonan, Fayna, Gianluca Di Marzio, Veronica Baldaccini, Gianfranco Teotino e Luca Gotti."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Goleador: L'ora dei gol",
-                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
             },
             {
                 "ora": "22:40",
@@ -2273,28 +2268,28 @@
                 "ora": "00:00",
                 "titolo": "Inter - Udinese",
                 "descrizione": "Nerazzurri a punteggio pieno con 9 punti. Udinese reduce dal primo ko, 1-2 contro la Lazio.Un solo successo (2025) nelle ultime 9 sfide a San Siro, 8 sconfitte. TC: Zancan-Gobbi"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport 253",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
+                "ora": "23:45",
+                "titolo": "Goleador: L'ora dei gol",
+                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
             },
             {
                 "ora": "23:00",
                 "titolo": "Sky Calcio - L'originale",
                 "descrizione": "Il commento del weekend, i gol e le voci di Serie A. In studio Alessandro Bonan, Fayna, Gianluca Di Marzio, Veronica Baldaccini, Gianfranco Teotino e Luca Gotti."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Goleador: L'ora dei gol",
-                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
             },
             {
                 "ora": "22:40",
@@ -2340,28 +2335,28 @@
                 "ora": "00:00",
                 "titolo": "Inter - Udinese",
                 "descrizione": "Nerazzurri a punteggio pieno con 9 punti. Udinese reduce dal primo ko, 1-2 contro la Lazio.Un solo successo (2025) nelle ultime 9 sfide a San Siro, 8 sconfitte. TC: Zancan-Gobbi"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport 254",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
+                "ora": "23:45",
+                "titolo": "Goleador: L'ora dei gol",
+                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
             },
             {
                 "ora": "23:00",
                 "titolo": "Sky Calcio - L'originale",
                 "descrizione": "Il commento del weekend, i gol e le voci di Serie A. In studio Alessandro Bonan, Fayna, Gianluca Di Marzio, Veronica Baldaccini, Gianfranco Teotino e Luca Gotti."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Goleador: L'ora dei gol",
-                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
             },
             {
                 "ora": "22:40",
@@ -2407,28 +2402,28 @@
                 "ora": "00:00",
                 "titolo": "Inter - Udinese",
                 "descrizione": "Nerazzurri a punteggio pieno con 9 punti. Udinese reduce dal primo ko, 1-2 contro la Lazio.Un solo successo (2025) nelle ultime 9 sfide a San Siro, 8 sconfitte. TC: Zancan-Gobbi"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport 255",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
+                "ora": "23:45",
+                "titolo": "Goleador: L'ora dei gol",
+                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
             },
             {
                 "ora": "23:00",
                 "titolo": "Sky Calcio - L'originale",
                 "descrizione": "Il commento del weekend, i gol e le voci di Serie A. In studio Alessandro Bonan, Fayna, Gianluca Di Marzio, Veronica Baldaccini, Gianfranco Teotino e Luca Gotti."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Goleador: L'ora dei gol",
-                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
             },
             {
                 "ora": "22:40",
@@ -2474,28 +2469,28 @@
                 "ora": "00:00",
                 "titolo": "Inter - Udinese",
                 "descrizione": "Nerazzurri a punteggio pieno con 9 punti. Udinese reduce dal primo ko, 1-2 contro la Lazio.Un solo successo (2025) nelle ultime 9 sfide a San Siro, 8 sconfitte. TC: Zancan-Gobbi"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport 256",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
+                "ora": "23:45",
+                "titolo": "Goleador: L'ora dei gol",
+                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
             },
             {
                 "ora": "23:00",
                 "titolo": "Sky Calcio - L'originale",
                 "descrizione": "Il commento del weekend, i gol e le voci di Serie A. In studio Alessandro Bonan, Fayna, Gianluca Di Marzio, Veronica Baldaccini, Gianfranco Teotino e Luca Gotti."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Goleador: L'ora dei gol",
-                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
             },
             {
                 "ora": "22:40",
@@ -2541,28 +2536,28 @@
                 "ora": "00:00",
                 "titolo": "Inter - Udinese",
                 "descrizione": "Nerazzurri a punteggio pieno con 9 punti. Udinese reduce dal primo ko, 1-2 contro la Lazio.Un solo successo (2025) nelle ultime 9 sfide a San Siro, 8 sconfitte. TC: Zancan-Gobbi"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport 257",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
+                "ora": "23:45",
+                "titolo": "Goleador: L'ora dei gol",
+                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
             },
             {
                 "ora": "23:00",
                 "titolo": "Sky Calcio - L'originale",
                 "descrizione": "Il commento del weekend, i gol e le voci di Serie A. In studio Alessandro Bonan, Fayna, Gianluca Di Marzio, Veronica Baldaccini, Gianfranco Teotino e Luca Gotti."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Goleador: L'ora dei gol",
-                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
             },
             {
                 "ora": "22:40",
@@ -2608,28 +2603,28 @@
                 "ora": "00:00",
                 "titolo": "Inter - Udinese",
                 "descrizione": "Nerazzurri a punteggio pieno con 9 punti. Udinese reduce dal primo ko, 1-2 contro la Lazio.Un solo successo (2025) nelle ultime 9 sfide a San Siro, 8 sconfitte. TC: Zancan-Gobbi"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport 258",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
+                "ora": "23:45",
+                "titolo": "Goleador: L'ora dei gol",
+                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
             },
             {
                 "ora": "23:00",
                 "titolo": "Sky Calcio - L'originale",
                 "descrizione": "Il commento del weekend, i gol e le voci di Serie A. In studio Alessandro Bonan, Fayna, Gianluca Di Marzio, Veronica Baldaccini, Gianfranco Teotino e Luca Gotti."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Goleador: L'ora dei gol",
-                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
             },
             {
                 "ora": "22:40",
@@ -2675,28 +2670,28 @@
                 "ora": "00:00",
                 "titolo": "Inter - Udinese",
                 "descrizione": "Nerazzurri a punteggio pieno con 9 punti. Udinese reduce dal primo ko, 1-2 contro la Lazio.Un solo successo (2025) nelle ultime 9 sfide a San Siro, 8 sconfitte. TC: Zancan-Gobbi"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Sport 259",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
+                "ora": "23:45",
+                "titolo": "Goleador: L'ora dei gol",
+                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
             },
             {
                 "ora": "23:00",
                 "titolo": "Sky Calcio - L'originale",
                 "descrizione": "Il commento del weekend, i gol e le voci di Serie A. In studio Alessandro Bonan, Fayna, Gianluca Di Marzio, Veronica Baldaccini, Gianfranco Teotino e Luca Gotti."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Goleador: L'ora dei gol",
-                "descrizione": "La trasmissione dedicata ai gol della Serie A, con la \"Gol Collection\" e gli \"SkyLights\" delle partite giocate. Inoltre, interviste e collegamenti con gli inviati."
             },
             {
                 "ora": "22:40",
@@ -2742,19 +2737,19 @@
                 "ora": "00:00",
                 "titolo": "Inter - Udinese",
                 "descrizione": "Nerazzurri a punteggio pieno con 9 punti. Udinese reduce dal primo ko, 1-2 contro la Lazio.Un solo successo (2025) nelle ultime 9 sfide a San Siro, 8 sconfitte. TC: Zancan-Gobbi"
+            },
+            {
+                "ora": "00:30",
+                "titolo": "DAZN 1",
+                "descrizione": "DAZN 1"
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Cinema Uno",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Idoli - Fino all’ultima corsa",
-                "descrizione": "Edu è un giovane pilota motociclistico particolarmente aggressivo di cui nessuna squadra si fida. Eli, team leader dell’ Aspar Team in Moto2, gli offre un’opportunità a condizione che sia suo padre, Antonio Belardi, ad allenarlo. Edu non vede il padre da molti anni, un ex pilota che si è ritirato dalle piste dopo aver causato la morte di un altro pilota durante una gara. Sebbene Edu odi il padre per averlo abbandonato, sa che solo con lui potrà aiutarlo a realizzare il suo sogno. Edu decide quindi di sottoporsi alla rigida disciplina che Antonio gli impone, che prevede tra l’altro di mettere da parte l’amore… Fino a quando non incontra Luna, una giovane artista che ha appena aperto uno studio di tatuaggi proprio sotto casa sua."
-            },
             {
                 "ora": "23:25",
                 "titolo": "L'ultimo turno",
@@ -2809,19 +2804,19 @@
                 "ora": "23:00",
                 "titolo": "Jane Austen ha stravolto la mia vita",
                 "descrizione": "Agathe, una ragazza goffa ma allo stesso tempo affascinante e piena di contraddizioni, si ritrova ad affrontare la sua solitudine. Sogna un amore simile ai personaggi di un romanzo di Jane Austen e la sua massima aspirazione è diventare una scrittrice. Invece, trascorre le sue giornate vendendo libri nella leggendaria libreria britannica Shakespeare & Co, a Parigi. Invitata in Inghilterra alla residenza per scrittori di Jane Austen, deve combattere con le sue insicurezze... fino a quando non accade qualcosa di inaspettato e la sua vita cambia magicamente."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Napoli velata",
+                "descrizione": "In una Napoli sospesa tra magia e superstizione, follia e razionalità, un mistero avvolge l'esistenza di Adriana (Giovanna Mezzogiorno) travolta da un amore improvviso e un delitto violento."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Cinema Collection",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Batman",
-                "descrizione": "Nella città di Gotham City, l'eccentrico milionario Bruce Wayne conduce una doppia esistenza: di giorno è un filantropo impegnato in cause benefiche, mentre di notte diventa Batman, un giustiziere mascherato da pipistrello che si batte contro il crimine. Fino a quando, nel corso di una sparatoria con la polizia, il malvagio Jack Napier, braccio destro di un boss della malavita, precipita in una vasca d'acido e si tramuta nel terribile Joker."
-            },
             {
                 "ora": "23:25",
                 "titolo": "Batman - Il ritorno",
@@ -2876,19 +2871,19 @@
                 "ora": "23:00",
                 "titolo": "Jane Austen ha stravolto la mia vita",
                 "descrizione": "Agathe, una ragazza goffa ma allo stesso tempo affascinante e piena di contraddizioni, si ritrova ad affrontare la sua solitudine. Sogna un amore simile ai personaggi di un romanzo di Jane Austen e la sua massima aspirazione è diventare una scrittrice. Invece, trascorre le sue giornate vendendo libri nella leggendaria libreria britannica Shakespeare & Co, a Parigi. Invitata in Inghilterra alla residenza per scrittori di Jane Austen, deve combattere con le sue insicurezze... fino a quando non accade qualcosa di inaspettato e la sua vita cambia magicamente."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Napoli velata",
+                "descrizione": "In una Napoli sospesa tra magia e superstizione, follia e razionalità, un mistero avvolge l'esistenza di Adriana (Giovanna Mezzogiorno) travolta da un amore improvviso e un delitto violento."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Cinema Family",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Stardust",
-                "descrizione": "Da qualche parte nell'Inghilterra vittoriana c'è un muro di mattoni che separa il villaggio reale di Wall da Stormhold, una città fantastica governata da un re malvagio e abitata da streghe e creature magiche. Al di qua del muro vive Tristan, un giovane garzone che sogna l'avventura e il grande amore. Figlio di una principessa del regno di Stormhold e di un inglese, il ragazzo decide di attraversare il muro per donare una stella alla ritrosa Victoria. La stella, Yvaine, è una fanciulla luminosa precipitata dal cielo alla morte del sovrano. Il suo cuore immacolato è bramato da Lamia, una strega crudele che vorrebbe strapparlo e divorarlo per riconquistare la giovinezza. Sul petto di Yvaine batte il rubino che permetterebbe ai sette principi, rivali e litigiosi, di regnare su Stormhold. Braccata dai desideri dei malvagi, spetterà a Tristan proteggere lo splendore di Yvaine."
-            },
             {
                 "ora": "23:10",
                 "titolo": "Cattivissimo me",
@@ -2943,19 +2938,19 @@
                 "ora": "22:40",
                 "titolo": "Il ciclone",
                 "descrizione": "La vita della famiglia di Levante e del paesino toscano in cui vive viene improvvisamente stravolta dall'arrivo di una compagnia di splendide ballerine di flamenco, che hanno scambiato il casolare per un'azienda di agriturismo."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Jane Austen ha stravolto la mia vita",
+                "descrizione": "Agathe, una ragazza goffa ma allo stesso tempo affascinante e piena di contraddizioni, si ritrova ad affrontare la sua solitudine. Sogna un amore simile ai personaggi di un romanzo di Jane Austen e la sua massima aspirazione è diventare una scrittrice. Invece, trascorre le sue giornate vendendo libri nella leggendaria libreria britannica Shakespeare & Co, a Parigi. Invitata in Inghilterra alla residenza per scrittori di Jane Austen, deve combattere con le sue insicurezze... fino a quando non accade qualcosa di inaspettato e la sua vita cambia magicamente."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Cinema Action",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "The Accountant",
-                "descrizione": "Christian Wolff è un matematico autistico che ha più affinità con i numeri che con le persone. Lavora sotto copertura in uno studio di una piccola città di provincia, come contabile freelance per alcune delle organizzazioni criminali più pericolose del mondo. Messo sotto pressione da Ray King, capo della divisione anti-crimine del Dipartimento del Tesoro, Christian assume l’incarico di un nuovo cliente: una società di robotica d'avanguardia in cui un'addetta alla contabilità ha scoperto un ammanco nei conti di milioni di dollari. Non appena Christian individua le falsificazioni dei documenti avvicinandosi alla verità, il numero delle vittime inizia ad aumentare."
-            },
             {
                 "ora": "23:10",
                 "titolo": "Tenet",
@@ -3010,19 +3005,19 @@
                 "ora": "23:10",
                 "titolo": "Napoli velata",
                 "descrizione": "In una Napoli sospesa tra magia e superstizione, follia e razionalità, un mistero avvolge l'esistenza di Adriana (Giovanna Mezzogiorno) travolta da un amore improvviso e un delitto violento."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Sai tenere un segreto?",
+                "descrizione": "Emma è una trentenne qualsiasi che, come tanti suoi coetanei del XXI secolo, lavora in una società senz'anima, è impegnata in una relazione che non va da nessuna parte e si chiede quando e se mai crescerà. Quando, durante uno dei suoi viaggi di lavoro, il suo aereo finisce in mezzo a una forte turbolenza, Emma pensa che sia arrivata la sua ultima ora e, nel panico, inizia a raccontare i suoi segreti più intimi a Jack, lo sconosciuto che le siede di fianco. Ignora di avere accanto il fondatore dell'azienda per cui lavora. Sarà l'inizio di una delle più anomale storie d'amore."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Cinema Suspense",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Blink Twice",
-                "descrizione": "Quando il magnate della tecnologica Slater King (Channing Tatum) incontra la cameriera Frida (Naomi Ackie) al suo gala di raccolta fondi, scatta subito la scintilla. King invita Frida a unirsi a lui e ai suoi amici per una vacanza da sogno sulla sua isola privata: un vero e proprio paradiso dove le notti selvagge si fondono con lunghe giornate di sole e tutti si divertono da matti. Nessuno vuole che questo viaggio finisca ma, quando iniziano ad accadere fatti insoliti, Frida comincia a mettere in discussione la sua realtà. C'è qualcosa di sbagliato in questo posto e, se vuole uscire viva da questa festa, Frida dovrà scoprire la verità."
-            },
             {
                 "ora": "22:50",
                 "titolo": "Dead Of Winter - Sfida Nel Gelo",
@@ -3077,19 +3072,19 @@
                 "ora": "23:00",
                 "titolo": "Jane Austen ha stravolto la mia vita",
                 "descrizione": "Agathe, una ragazza goffa ma allo stesso tempo affascinante e piena di contraddizioni, si ritrova ad affrontare la sua solitudine. Sogna un amore simile ai personaggi di un romanzo di Jane Austen e la sua massima aspirazione è diventare una scrittrice. Invece, trascorre le sue giornate vendendo libri nella leggendaria libreria britannica Shakespeare & Co, a Parigi. Invitata in Inghilterra alla residenza per scrittori di Jane Austen, deve combattere con le sue insicurezze... fino a quando non accade qualcosa di inaspettato e la sua vita cambia magicamente."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Napoli velata",
+                "descrizione": "In una Napoli sospesa tra magia e superstizione, follia e razionalità, un mistero avvolge l'esistenza di Adriana (Giovanna Mezzogiorno) travolta da un amore improvviso e un delitto violento."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Cinema Romance",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Vicino all’orizzonte",
-                "descrizione": "Cosa succede quando incontri l’amore della vita sapendo che non potrà durare? Jessica ha 18 anni e un futuro promettente quando un giorno incontra Danny. Bello, affascinante e sicuro di sé, dietro una facciata apparentemente perfetta il ragazzo nasconde in realtà un doloroso segreto. Jessica capisce presto che il futuro che sogna con lui forse non arriverà mai, ma vuole credere fermamente in Danny e nella loro storia. Perché alla fine l’unica cosa che conta davvero non è quanto dura un amore ma quanto è profondo."
-            },
             {
                 "ora": "23:00",
                 "titolo": "Jane Austen ha stravolto la mia vita",
@@ -3144,19 +3139,19 @@
                 "ora": "22:40",
                 "titolo": "Il ciclone",
                 "descrizione": "La vita della famiglia di Levante e del paesino toscano in cui vive viene improvvisamente stravolta dall'arrivo di una compagnia di splendide ballerine di flamenco, che hanno scambiato il casolare per un'azienda di agriturismo."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Napoli velata",
+                "descrizione": "In una Napoli sospesa tra magia e superstizione, follia e razionalità, un mistero avvolge l'esistenza di Adriana (Giovanna Mezzogiorno) travolta da un amore improvviso e un delitto violento."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Cinema Drama",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Anemone",
-                "descrizione": "I legami familiari tra padri, figli e fratelli vengono esplorati mentre relazioni complesse si sviluppano attraverso viaggi personali e conflitti generazionali."
-            },
             {
                 "ora": "23:10",
                 "titolo": "Napoli velata",
@@ -3211,19 +3206,19 @@
                 "ora": "22:50",
                 "titolo": "Dead Of Winter - Sfida Nel Gelo",
                 "descrizione": "Una pescatrice vedova, che viaggia da sola attraverso il Minnesota settentrionale innevato, interrompe il rapimento di un'adolescente. A ore di distanza dalla città più vicina e senza linea telefonica, si rende conto di essere l'unica speranza per la ragazza."
+            },
+            {
+                "ora": "22:40",
+                "titolo": "Il ciclone",
+                "descrizione": "La vita della famiglia di Levante e del paesino toscano in cui vive viene improvvisamente stravolta dall'arrivo di una compagnia di splendide ballerine di flamenco, che hanno scambiato il casolare per un'azienda di agriturismo."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Cinema Comedy",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Banana Joe",
-                "descrizione": "In una non precisata repubblica sudamericana, un bravo commerciante di banane svolge il suo lavoro e aiuta gli indigeni del villaggio. Guai in vista."
-            },
             {
                 "ora": "22:40",
                 "titolo": "Il ciclone",
@@ -3278,24 +3273,19 @@
                 "ora": "23:10",
                 "titolo": "Tenet",
                 "descrizione": "Il tempo per il nostro mondo sta per scadere, ed alcuni agenti entrano in azione per evitare un evento più catastrofico di una terza Guerra Mondiale o di un Olocausto nucleare. Tenet aprirà le porte giuste – e anche alcune sbagliate – per guardare il mondo con occhi nuovi, sentendolo anziché tentare di comprenderlo…"
+            },
+            {
+                "ora": "22:50",
+                "titolo": "Dead Of Winter - Sfida Nel Gelo",
+                "descrizione": "Una pescatrice vedova, che viaggia da sola attraverso il Minnesota settentrionale innevato, interrompe il rapimento di un'adolescente. A ore di distanza dalla città più vicina e senza linea telefonica, si rende conto di essere l'unica speranza per la ragazza."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Uno",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Foodish\",\"prima\":true,\"description\":\"Joe Bastianich e Maddalena Corvaglia alla ricerca delle fave e cicorie più Foodish di Lecce.\",\"durata\":60,\"genre\":\"Show\",\"category\":\"Intrattenimento\",\"image\":\"https://ethaneurope.it.imageservice.sky.com/pd-image/a5655ead-4571-413b-bab9-9489b4734ab6/background/600\",\"episode_number\":20,\"series_number\":3,\"director\":null,\"inizio\":\"2026-09-14T18:15:00.000Z\",\"fine\":\"2026-09-14T19:15:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2026\"},{\"id\":\"IJu1DVqpdPvJ\",\"title\":\"Cucine da incubo",
-                "descrizione": "Antonino dovrà aprire gli occhi alle due titolari del ristorante “La tavola di Simona"
-            },
-            {
-                "ora": "22:25",
-                "titolo": "Cucine da incubo",
-                "descrizione": "Antonino Cannavacciuolo dovrà aiutare Mimmo, titolare di un ristorante a Ciampino, vicino Roma, che ha perso la voglia di fare il proprio lavoro."
-            },
             {
                 "ora": "23:40",
                 "titolo": "X Factor",
@@ -3345,86 +3335,91 @@
                 "ora": "21:55",
                 "titolo": "Ogni",
                 "descrizione": "S1 Ep3 di 4 Sara Di Pietrantonio - Prima strangolata, poi data alle fiamme: Sara Di Pietrantonio muore a 22 anni per mano del suo ex."
+            },
+            {
+                "ora": "22:15",
+                "titolo": "Uomini e Dei. Le meraviglie del museo egizio",
+                "descrizione": "Un viaggio alla scoperta della storia e dei tesori di uno dei più prestigiosi musei di archeologia egizia al mondo: il Museo Egizio di Torino."
+            },
+            {
+                "ora": "22:10",
+                "titolo": "Amazzonia: Oltre il limite",
+                "descrizione": "Lucy Shepherd e la sua squadra si addentrano nella giungla e sentono i sibili dei serpenti."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Atlantic",
         "categoria": "Intrattenimento",
         "programmi": [
             {
-                "ora": "21:15",
-                "titolo": "Cucine da incubo",
-                "descrizione": "Antonino dovrà aprire gli occhi alle due titolari del ristorante “La tavola di Simona"
+                "ora": "23:35",
+                "titolo": "Twisted Metal",
+                "descrizione": "Twisted Metal è una action comedy basata su un'idea originale di Rhett Reese e Paul Wernick (Deadpool, Zombieland) e scritta da Michael Jonathan Smith (Cobra Kai), che racconta di un outsider chiacchierone a cui viene offerta la possibilità di una vita migliore, ma solo se riesce a consegnare con successo un pacchetto misterioso attraverso un deserto post-apocalittico."
             },
             {
-                "ora": "20:25",
-                "titolo": "S.W.A.T.",
-                "descrizione": "Un sergente S.W.A.T. della zona, l’ex Marine Daniel Harrelson, viene incaricato di dirigere un’unità tattica specializzata che rappresenta l’ultima tappa delle forze dell’ordine di Los Angeles, nella première di S.W.A.T. Diviso tra la lealtà per il luogo dove è cresciuto e la fedeltà ai suoi fratelli in blu, Hondo ha tutto ciò che serve per essere un leader eccellente e per fare da tramite tra i suoi due mondi."
+                "ora": "00:15",
+                "titolo": "Accused: Sotto processo",
+                "descrizione": "In questa serie di antologie criminali, gli spettatori scoprono come una persona comune è rimasta coinvolta in una situazione straordinaria, rivelando alla fine come una svolta sbagliata porti a un'altra, finché non è troppo tardi per tornare indietro. Raccontato dal punto di vista dell'imputato, ogni episodio si apre in un'aula di tribunale con gli accusati senza conoscere il loro crimine o come sono finiti sotto processo."
             },
             {
-                "ora": "21:15",
-                "titolo": "Avvocati di famiglia",
-                "descrizione": "L'avvocato e alcolizzata in via di guarigione Abigail Bianchi sta lottando per rimettere insieme la sua carriera e la sua famiglia dopo aver toccato il fondo. Come condizione per la sua libertà vigilata, Abby è costretta a lavorare presso lo studio del padre separato, Svensson and Associates, e ad esercitarsi nel diritto di famiglia per la prima volta stringendo nuove relazioni con il fratellastro e la sorellastra che non ha mai incontrato. Il risultato è uno studio legale di famiglia disfunzionale che opera per aiutare altre famiglie con le proprie disfunzioni."
+                "ora": "01:00",
+                "titolo": "78th Emmy Awards 2026: Pre-Show",
+                "descrizione": "78th Emmy Awards 2026: Pre-Show"
             },
             {
-                "ora": "21:15",
+                "ora": "02:00",
+                "titolo": "Emmy Awards 2026 - Cerimonia",
+                "descrizione": "Cerimonia - Direttamente da Los Angeles, la 78esima edizione degli Emmy Awards, la prestigiosa cerimonia che celebra l’eccellenza creativa e professionale della televisione."
+            },
+            {
+                "ora": "04:55",
+                "titolo": "Speciale: Avvocato Ligas",
+                "descrizione": "Luca Argentero e il cast presentano l'Avvocato Ligas, penalista anticonvenzionale sempre pronto a rischiare pur di vincere una causa."
+            },
+            {
+                "ora": "05:15",
+                "titolo": "Accused: Sotto processo",
+                "descrizione": "In questa serie di antologie criminali, gli spettatori scoprono come una persona comune è rimasta coinvolta in una situazione straordinaria, rivelando alla fine come una svolta sbagliata porti a un'altra, finché non è troppo tardi per tornare indietro. Raccontato dal punto di vista dell'imputato, ogni episodio si apre in un'aula di tribunale con gli accusati senza conoscere il loro crimine o come sono finiti sotto processo."
+            },
+            {
+                "ora": "23:40",
+                "titolo": "X Factor",
+                "descrizione": "Cominciano le Audition di X Factor 2026: i concorrenti si giocano il sogno davanti a Francesco Gabbani, Irama, Jake La Furia e Paola Iezzi. Conduce Giorgia."
+            },
+            {
+                "ora": "23:50",
+                "titolo": "Hanno ucciso l'uomo ragno",
+                "descrizione": "Ep1 di 8 - Quando Max viene bocciato sa che lo aspetta un’estate noiosa, ma tutto cambia quando Silvia lo invita ad uscire e lui le fa una promessa."
+            },
+            {
+                "ora": "22:15",
                 "titolo": "Delitti in Paradiso",
                 "descrizione": "La serie si svolge nella splendida cornice di una piccola isola caraibica, Saint-Marie, dove il poliziotto Richard Poole, britannico doc, viene inviato per risolvere un misterioso omicidio.Poole si ritrova in una fatiscente stazione di polizia a lavorare con una nuova partner, la brillante Camille Bordey, in un ambiente totalmente diverso da tutto ciò a cui lui è abituato. Lui è un tipo da giacca, cravatta e mocassini... in spiaggia. Nonostante ciò, pur essendo assolutamente un pesce fuor d'acqua in questo paradiso terrestre, si dimostrerà all’altezza di risolvere ogni caso che si presenterà di episodio in episodio."
             },
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
+                "ora": "21:55",
+                "titolo": "Ogni",
+                "descrizione": "S1 Ep3 di 4 Sara Di Pietrantonio - Prima strangolata, poi data alle fiamme: Sara Di Pietrantonio muore a 22 anni per mano del suo ex."
             },
             {
-                "ora": "20:55",
-                "titolo": "Delitti",
-                "descrizione": "S6 Ep2 di 4 La strage di Erba - 4 persone vengono massacrate e uccise a colpi di coltello senza alcune pieta', tra le vittime un bambino di appena due anni."
+                "ora": "22:15",
+                "titolo": "Uomini e Dei. Le meraviglie del museo egizio",
+                "descrizione": "Un viaggio alla scoperta della storia e dei tesori di uno dei più prestigiosi musei di archeologia egizia al mondo: il Museo Egizio di Torino."
             },
             {
-                "ora": "21:15",
-                "titolo": "I tesori dell'Antico Egitto",
-                "descrizione": "L'ultimo millennio della civiltà dell'Antico Egitto prima della caduta a causa delle invasioni e dell'emergere di altre potenze del Mediterraneo. Tesori d'arte, divinità, mummie e animali fino all'epoca di Cleopatra."
-            },
-            {
-                "ora": "21:45",
-                "titolo": "Amazzonia: Oltre il limite\",\"prima\":true,\"description\":\"Lucy Shepherd e la sua squadra devono prendere decisioni in cui in gioco c'è la vita o la morte.\",\"durata\":55,\"genre\":\"Avventura\",\"category\":\"Mondo E Tendenze\",\"image\":\"https://ethaneurope.it.imageservice.sky.com/pd-image/27b6ab96-7e5f-40b2-903c-ecd6f60b978e/background/600\",\"episode_number\":2,\"series_number\":1,\"director\":\"Marty Stalker, \",\"inizio\":\"2026-09-14T19:15:00.000Z\",\"fine\":\"2026-09-14T20:10:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2024\"}},{\"canale\":{\"logo\":\"8007.png\",\"name\":\"Sky Classica\",\"number\":\"124\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"a8r1rSopXwQT\",\"title\":\"Bollywood Legend - parte 2",
-                "descrizione": "Dal palco dei BBC Proms, un tributo alla cantante indiana Lata Mangeshkar - con Saloni Saraf, Gubzy Sing Lackhanpal, Palak Muchhal, Palash Muchhal - City of Birmingham Symphony Orchestra - M.Seal, dir. (Londra, 2023)"
-            },
-            {
-                "ora": "20:05",
-                "titolo": "Maurizio Battista: Qualcosa non mi quadra",
-                "descrizione": "Maurizio Battista si muove come in uno slalom pronto a smascherare gli inganni della contemporaneità. (ITA 2023)"
-            },
-            {
-                "ora": "21:00",
-                "titolo": "Caught In The Act",
-                "descrizione": "Ep5 di 6 Ha un altro appartamento? - Gierra desidera creare una famiglia con Shay, ma sospetta che i suoi impegni con le ragazze dei locali possano aver fatto sfumare la sua idea."
+                "ora": "22:10",
+                "titolo": "Amazzonia: Oltre il limite",
+                "descrizione": "Lucy Shepherd e la sua squadra si addentrano nella giungla e sentono i sibili dei serpenti."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Serie",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Avvocati di famiglia",
-                "descrizione": "L'avvocato e alcolizzata in via di guarigione Abigail Bianchi sta lottando per rimettere insieme la sua carriera e la sua famiglia dopo aver toccato il fondo. Come condizione per la sua libertà vigilata, Abby è costretta a lavorare presso lo studio del padre separato, Svensson and Associates, e ad esercitarsi nel diritto di famiglia per la prima volta stringendo nuove relazioni con il fratellastro e la sorellastra che non ha mai incontrato. Il risultato è uno studio legale di famiglia disfunzionale che opera per aiutare altre famiglie con le proprie disfunzioni."
-            },
-            {
-                "ora": "22:05",
-                "titolo": "Avvocati di famiglia",
-                "descrizione": "L'avvocato e alcolizzata in via di guarigione Abigail Bianchi sta lottando per rimettere insieme la sua carriera e la sua famiglia dopo aver toccato il fondo. Come condizione per la sua libertà vigilata, Abby è costretta a lavorare presso lo studio del padre separato, Svensson and Associates, e ad esercitarsi nel diritto di famiglia per la prima volta stringendo nuove relazioni con il fratellastro e la sorellastra che non ha mai incontrato. Il risultato è uno studio legale di famiglia disfunzionale che opera per aiutare altre famiglie con le proprie disfunzioni."
-            },
-            {
-                "ora": "22:55",
-                "titolo": "Avvocati di famiglia",
-                "descrizione": "L'avvocato e alcolizzata in via di guarigione Abigail Bianchi sta lottando per rimettere insieme la sua carriera e la sua famiglia dopo aver toccato il fondo. Come condizione per la sua libertà vigilata, Abby è costretta a lavorare presso lo studio del padre separato, Svensson and Associates, e ad esercitarsi nel diritto di famiglia per la prima volta stringendo nuove relazioni con il fratellastro e la sorellastra che non ha mai incontrato. Il risultato è uno studio legale di famiglia disfunzionale che opera per aiutare altre famiglie con le proprie disfunzioni."
-            },
             {
                 "ora": "23:50",
                 "titolo": "Hanno ucciso l'uomo ragno",
@@ -3469,24 +3464,29 @@
                 "ora": "23:40",
                 "titolo": "X Factor",
                 "descrizione": "Cominciano le Audition di X Factor 2026: i concorrenti si giocano il sogno davanti a Francesco Gabbani, Irama, Jake La Furia e Paola Iezzi. Conduce Giorgia."
-            }
-        ],
-        "aggiornato": "19:20"
-    },
-    {
-        "canale": "Sky Investigation",
-        "categoria": "Intrattenimento",
-        "programmi": [
+            },
             {
-                "ora": "21:15",
-                "titolo": "Delitti in Paradiso",
-                "descrizione": "La serie si svolge nella splendida cornice di una piccola isola caraibica, Saint-Marie, dove il poliziotto Richard Poole, britannico doc, viene inviato per risolvere un misterioso omicidio.Poole si ritrova in una fatiscente stazione di polizia a lavorare con una nuova partner, la brillante Camille Bordey, in un ambiente totalmente diverso da tutto ciò a cui lui è abituato. Lui è un tipo da giacca, cravatta e mocassini... in spiaggia. Nonostante ciò, pur essendo assolutamente un pesce fuor d'acqua in questo paradiso terrestre, si dimostrerà all’altezza di risolvere ogni caso che si presenterà di episodio in episodio."
+                "ora": "00:15",
+                "titolo": "Accused: Sotto processo",
+                "descrizione": "In questa serie di antologie criminali, gli spettatori scoprono come una persona comune è rimasta coinvolta in una situazione straordinaria, rivelando alla fine come una svolta sbagliata porti a un'altra, finché non è troppo tardi per tornare indietro. Raccontato dal punto di vista dell'imputato, ogni episodio si apre in un'aula di tribunale con gli accusati senza conoscere il loro crimine o come sono finiti sotto processo."
             },
             {
                 "ora": "22:15",
                 "titolo": "Delitti in Paradiso",
                 "descrizione": "La serie si svolge nella splendida cornice di una piccola isola caraibica, Saint-Marie, dove il poliziotto Richard Poole, britannico doc, viene inviato per risolvere un misterioso omicidio.Poole si ritrova in una fatiscente stazione di polizia a lavorare con una nuova partner, la brillante Camille Bordey, in un ambiente totalmente diverso da tutto ciò a cui lui è abituato. Lui è un tipo da giacca, cravatta e mocassini... in spiaggia. Nonostante ciò, pur essendo assolutamente un pesce fuor d'acqua in questo paradiso terrestre, si dimostrerà all’altezza di risolvere ogni caso che si presenterà di episodio in episodio."
             },
+            {
+                "ora": "21:55",
+                "titolo": "Ogni",
+                "descrizione": "S1 Ep3 di 4 Sara Di Pietrantonio - Prima strangolata, poi data alle fiamme: Sara Di Pietrantonio muore a 22 anni per mano del suo ex."
+            }
+        ],
+        "aggiornato": "22:01"
+    },
+    {
+        "canale": "Sky Investigation",
+        "categoria": "Intrattenimento",
+        "programmi": [
             {
                 "ora": "23:15",
                 "titolo": "Delitti in Paradiso",
@@ -3536,34 +3536,24 @@
                 "ora": "00:15",
                 "titolo": "Accused: Sotto processo",
                 "descrizione": "In questa serie di antologie criminali, gli spettatori scoprono come una persona comune è rimasta coinvolta in una situazione straordinaria, rivelando alla fine come una svolta sbagliata porti a un'altra, finché non è troppo tardi per tornare indietro. Raccontato dal punto di vista dell'imputato, ogni episodio si apre in un'aula di tribunale con gli accusati senza conoscere il loro crimine o come sono finiti sotto processo."
+            },
+            {
+                "ora": "23:50",
+                "titolo": "Hanno ucciso l'uomo ragno",
+                "descrizione": "Ep1 di 8 - Quando Max viene bocciato sa che lo aspetta un’estate noiosa, ma tutto cambia quando Silvia lo invita ad uscire e lui le fa una promessa."
+            },
+            {
+                "ora": "22:15",
+                "titolo": "Delitti in Paradiso",
+                "descrizione": "La serie si svolge nella splendida cornice di una piccola isola caraibica, Saint-Marie, dove il poliziotto Richard Poole, britannico doc, viene inviato per risolvere un misterioso omicidio.Poole si ritrova in una fatiscente stazione di polizia a lavorare con una nuova partner, la brillante Camille Bordey, in un ambiente totalmente diverso da tutto ciò a cui lui è abituato. Lui è un tipo da giacca, cravatta e mocassini... in spiaggia. Nonostante ciò, pur essendo assolutamente un pesce fuor d'acqua in questo paradiso terrestre, si dimostrerà all’altezza di risolvere ogni caso che si presenterà di episodio in episodio."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Crime",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "20:55",
-                "titolo": "Delitti",
-                "descrizione": "S6 Ep2 di 4 La strage di Erba - 4 persone vengono massacrate e uccise a colpi di coltello senza alcune pieta', tra le vittime un bambino di appena due anni."
-            },
-            {
-                "ora": "21:55",
-                "titolo": "Ogni",
-                "descrizione": "S1 Ep3 di 4 Sara Di Pietrantonio - Prima strangolata, poi data alle fiamme: Sara Di Pietrantonio muore a 22 anni per mano del suo ex."
-            },
-            {
-                "ora": "22:55",
-                "titolo": "Il crimine tra noi",
-                "descrizione": "S1 Ep17 di 28 La scomparsa dei fattorini - La misteriosa scomparsa di due giovani fattorini in Iowa diventa uno dei casi irrisolti piu' inquietanti dello Stato."
-            },
-            {
-                "ora": "23:25",
-                "titolo": "Il crimine tra noi",
-                "descrizione": "S1 Ep18 di 28 La Storia di Miya Marcano - Le autorita' cercano la studentessa scomparsa Miya Marcano prima di una tragica scoperta che sconvolge la sua famiglia e la comunita'."
-            },
             {
                 "ora": "23:55",
                 "titolo": "Real Time Crime",
@@ -3603,86 +3593,101 @@
                 "ora": "23:40",
                 "titolo": "X Factor",
                 "descrizione": "Cominciano le Audition di X Factor 2026: i concorrenti si giocano il sogno davanti a Francesco Gabbani, Irama, Jake La Furia e Paola Iezzi. Conduce Giorgia."
+            },
+            {
+                "ora": "00:15",
+                "titolo": "Accused: Sotto processo",
+                "descrizione": "In questa serie di antologie criminali, gli spettatori scoprono come una persona comune è rimasta coinvolta in una situazione straordinaria, rivelando alla fine come una svolta sbagliata porti a un'altra, finché non è troppo tardi per tornare indietro. Raccontato dal punto di vista dell'imputato, ogni episodio si apre in un'aula di tribunale con gli accusati senza conoscere il loro crimine o come sono finiti sotto processo."
+            },
+            {
+                "ora": "23:50",
+                "titolo": "Hanno ucciso l'uomo ragno",
+                "descrizione": "Ep1 di 8 - Quando Max viene bocciato sa che lo aspetta un’estate noiosa, ma tutto cambia quando Silvia lo invita ad uscire e lui le fa una promessa."
+            },
+            {
+                "ora": "22:15",
+                "titolo": "Delitti in Paradiso",
+                "descrizione": "La serie si svolge nella splendida cornice di una piccola isola caraibica, Saint-Marie, dove il poliziotto Richard Poole, britannico doc, viene inviato per risolvere un misterioso omicidio.Poole si ritrova in una fatiscente stazione di polizia a lavorare con una nuova partner, la brillante Camille Bordey, in un ambiente totalmente diverso da tutto ciò a cui lui è abituato. Lui è un tipo da giacca, cravatta e mocassini... in spiaggia. Nonostante ciò, pur essendo assolutamente un pesce fuor d'acqua in questo paradiso terrestre, si dimostrerà all’altezza di risolvere ogni caso che si presenterà di episodio in episodio."
+            },
+            {
+                "ora": "21:55",
+                "titolo": "Ogni",
+                "descrizione": "S1 Ep3 di 4 Sara Di Pietrantonio - Prima strangolata, poi data alle fiamme: Sara Di Pietrantonio muore a 22 anni per mano del suo ex."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Adventure",
         "categoria": "Intrattenimento",
         "programmi": [
             {
-                "ora": "21:15",
-                "titolo": "Cucine da incubo",
-                "descrizione": "Antonino dovrà aprire gli occhi alle due titolari del ristorante “La tavola di Simona"
+                "ora": "23:10",
+                "titolo": "Amazzonia: Oltre il limite",
+                "descrizione": "Lucy Shepherd e la sua squadra devono prendere decisioni in cui in gioco c'è la vita o la morte."
             },
             {
-                "ora": "20:25",
-                "titolo": "S.W.A.T.",
-                "descrizione": "Un sergente S.W.A.T. della zona, l’ex Marine Daniel Harrelson, viene incaricato di dirigere un’unità tattica specializzata che rappresenta l’ultima tappa delle forze dell’ordine di Los Angeles, nella première di S.W.A.T. Diviso tra la lealtà per il luogo dove è cresciuto e la fedeltà ai suoi fratelli in blu, Hondo ha tutto ciò che serve per essere un leader eccellente e per fare da tramite tra i suoi due mondi."
+                "ora": "00:05",
+                "titolo": "Bear Grylls: la legge del piu' forte",
+                "descrizione": "Ep4 di 6 Vita nella giungla - Acqua, clima mite e luce fanno delle foreste uno degli ambienti ideali per le creature. Eppure oggi, alcuni animali che abitano li' sono in grave pericolo."
             },
             {
-                "ora": "21:15",
-                "titolo": "Avvocati di famiglia",
-                "descrizione": "L'avvocato e alcolizzata in via di guarigione Abigail Bianchi sta lottando per rimettere insieme la sua carriera e la sua famiglia dopo aver toccato il fondo. Come condizione per la sua libertà vigilata, Abby è costretta a lavorare presso lo studio del padre separato, Svensson and Associates, e ad esercitarsi nel diritto di famiglia per la prima volta stringendo nuove relazioni con il fratellastro e la sorellastra che non ha mai incontrato. Il risultato è uno studio legale di famiglia disfunzionale che opera per aiutare altre famiglie con le proprie disfunzioni."
+                "ora": "01:00",
+                "titolo": "Earth",
+                "descrizione": "Scopriamo come i drammatici cambiamenti nella storia della Terra hanno permesso alla specie umana di passare dall'essere parte della natura al controllarla."
             },
             {
-                "ora": "21:15",
-                "titolo": "Delitti in Paradiso",
-                "descrizione": "La serie si svolge nella splendida cornice di una piccola isola caraibica, Saint-Marie, dove il poliziotto Richard Poole, britannico doc, viene inviato per risolvere un misterioso omicidio.Poole si ritrova in una fatiscente stazione di polizia a lavorare con una nuova partner, la brillante Camille Bordey, in un ambiente totalmente diverso da tutto ciò a cui lui è abituato. Lui è un tipo da giacca, cravatta e mocassini... in spiaggia. Nonostante ciò, pur essendo assolutamente un pesce fuor d'acqua in questo paradiso terrestre, si dimostrerà all’altezza di risolvere ogni caso che si presenterà di episodio in episodio."
+                "ora": "02:00",
+                "titolo": "Stupidi al quadrato",
+                "descrizione": "Ep13 di 20 - Il conduttore Dallas Campbell mostra video provenienti da tutto il mondo, spiegando cosa puo' accadere mentre si va in motocicletta o si cade rovinosamente dalle scale."
             },
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
+                "ora": "02:25",
+                "titolo": "Stupidi al quadrato",
+                "descrizione": "Scopriamo quanti modi ci sono per rendersi ridicoli, ferirsi e umiliarsi mentre si cerca di trainare camion e trattori, si è in sella a una motoslitta o ad un monociclo."
             },
             {
-                "ora": "20:55",
-                "titolo": "Delitti",
-                "descrizione": "S6 Ep2 di 4 La strage di Erba - 4 persone vengono massacrate e uccise a colpi di coltello senza alcune pieta', tra le vittime un bambino di appena due anni."
+                "ora": "02:50",
+                "titolo": "Trekking estremi",
+                "descrizione": "Conosciuto formalmente come Regno di Lo, il Regno di Mustang faceva parte del Tibet ed è entrato a far parte del Nepal negli anni 50. È rimasto una parte indipendente del Nepal fino al 2008."
             },
             {
-                "ora": "21:15",
-                "titolo": "I tesori dell'Antico Egitto",
-                "descrizione": "L'ultimo millennio della civiltà dell'Antico Egitto prima della caduta a causa delle invasioni e dell'emergere di altre potenze del Mediterraneo. Tesori d'arte, divinità, mummie e animali fino all'epoca di Cleopatra."
+                "ora": "03:40",
+                "titolo": "Ice Road Rescue",
+                "descrizione": "Questa volta Thord Paulsen deve lavorare con la concorrenza: un camion è finito contro una parete rocciosa. Risolvere questo problema da solo è molto complicato, la collaborazione potrebbe essere fondamentale."
             },
             {
-                "ora": "21:45",
-                "titolo": "Amazzonia: Oltre il limite\",\"prima\":true,\"description\":\"Lucy Shepherd e la sua squadra devono prendere decisioni in cui in gioco c'è la vita o la morte.\",\"durata\":55,\"genre\":\"Avventura\",\"category\":\"Mondo E Tendenze\",\"image\":\"https://ethaneurope.it.imageservice.sky.com/pd-image/27b6ab96-7e5f-40b2-903c-ecd6f60b978e/background/600\",\"episode_number\":2,\"series_number\":1,\"director\":\"Marty Stalker, \",\"inizio\":\"2026-09-14T19:15:00.000Z\",\"fine\":\"2026-09-14T20:10:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2024\"}},{\"canale\":{\"logo\":\"8007.png\",\"name\":\"Sky Classica\",\"number\":\"124\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"a8r1rSopXwQT\",\"title\":\"Bollywood Legend - parte 2",
-                "descrizione": "Dal palco dei BBC Proms, un tributo alla cantante indiana Lata Mangeshkar - con Saloni Saraf, Gubzy Sing Lackhanpal, Palak Muchhal, Palash Muchhal - City of Birmingham Symphony Orchestra - M.Seal, dir. (Londra, 2023)"
+                "ora": "04:25",
+                "titolo": "Giant Lobster Hunters",
+                "descrizione": "La tensione sale tra due imbarcazioni mentre la stagione sta per terminare e i prezzi delle aragoste aumentano. Inoltre, lo skipper Glenn vuole catturare 100 aragoste in un giorno."
             },
             {
-                "ora": "20:05",
-                "titolo": "Maurizio Battista: Qualcosa non mi quadra",
-                "descrizione": "Maurizio Battista si muove come in uno slalom pronto a smascherare gli inganni della contemporaneità. (ITA 2023)"
+                "ora": "05:10",
+                "titolo": "I segreti dell'Artide",
+                "descrizione": "Ep1 di 5 Terra di estremi - Dopo sette mesi di totale oscurita', la primavera artica ritorna alla vita."
             },
             {
-                "ora": "21:00",
-                "titolo": "Caught In The Act",
-                "descrizione": "Ep5 di 6 Ha un altro appartamento? - Gierra desidera creare una famiglia con Shay, ma sospetta che i suoi impegni con le ragazze dei locali possano aver fatto sfumare la sua idea."
+                "ora": "23:40",
+                "titolo": "X Factor",
+                "descrizione": "Cominciano le Audition di X Factor 2026: i concorrenti si giocano il sogno davanti a Francesco Gabbani, Irama, Jake La Furia e Paola Iezzi. Conduce Giorgia."
+            },
+            {
+                "ora": "00:15",
+                "titolo": "Accused: Sotto processo",
+                "descrizione": "In questa serie di antologie criminali, gli spettatori scoprono come una persona comune è rimasta coinvolta in una situazione straordinaria, rivelando alla fine come una svolta sbagliata porti a un'altra, finché non è troppo tardi per tornare indietro. Raccontato dal punto di vista dell'imputato, ogni episodio si apre in un'aula di tribunale con gli accusati senza conoscere il loro crimine o come sono finiti sotto processo."
+            },
+            {
+                "ora": "23:50",
+                "titolo": "Hanno ucciso l'uomo ragno",
+                "descrizione": "Ep1 di 8 - Quando Max viene bocciato sa che lo aspetta un’estate noiosa, ma tutto cambia quando Silvia lo invita ad uscire e lui le fa una promessa."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "MTV",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Caught In The Act",
-                "descrizione": "Ep5 di 6 Ha un altro appartamento? - Gierra desidera creare una famiglia con Shay, ma sospetta che i suoi impegni con le ragazze dei locali possano aver fatto sfumare la sua idea."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Back to School",
-                "descrizione": "Ep33 di 36 - Le ragazze coccolano Sammi, Nikki si confida e Vinny prende in giro la famiglia."
-            },
-            {
-                "ora": "22:50",
-                "titolo": "Ink Master: Revenge",
-                "descrizione": "Ep12 di 13 - La situazione si ribalta per i veterani quando i nuovi artisti prendono il comando nell'Elimination Tattoo e ottengono la loro vendetta. La battaglia per la finale dal vivo è più..."
-            },
             {
                 "ora": "23:45",
                 "titolo": "Ridiculousness: Veri American Idiots",
@@ -3727,44 +3732,29 @@
                 "ora": "04:35",
                 "titolo": "Ridiculousness: Veri American Idiots",
                 "descrizione": "Ep30 di 42 Sterling e Karrueche Tran LXII - In questo episodio BIG CHEESIN', TOO YOUNG FOR A PHONE e CONCERT PROPS."
+            },
+            {
+                "ora": "05:00",
+                "titolo": "Ridiculousness: Veri American Idiots",
+                "descrizione": "Ep31 di 42 Sterling e Karrueche Tran LXII - In questo episodio DELIVERY LEGENDS, OTTER CHAOS e DRUNK NAPS."
+            },
+            {
+                "ora": "05:20",
+                "titolo": "Ridiculousness: Veri American Idiots",
+                "descrizione": "Ep32 di 42 Sterling e Karrueche Tran LXIV - Rob, Steelo e Karrueche Tran guardano degli amici farsi le diagnosi in DUDE DOCTORS."
+            },
+            {
+                "ora": "05:40",
+                "titolo": "Ridiculousness: Veri American Idiots",
+                "descrizione": "Ep39 di 42 Sterling e Carly Aquilino LIX - In questo episodio Rob e Steelo danno il benvenuto a Carly Aquilino."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Comedy Central",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "20:05",
-                "titolo": "Maurizio Battista: Qualcosa non mi quadra",
-                "descrizione": "Maurizio Battista si muove come in uno slalom pronto a smascherare gli inganni della contemporaneità. (ITA 2023)"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Drunk History: Black Stories",
-                "descrizione": "Ep5 di 15 - Le suffragette lottano per i loro diritti con il jujitsu, la Birmingham Children's March, gli attivisti per i diritti dei disabili organizzano il sit-in più lungo d'America. Con Kirby..."
-            },
-            {
-                "ora": "22:25",
-                "titolo": "Altra epoca, stesso ciclo",
-                "descrizione": "Ambientato all'inizio del secolo, 'Another Period' segue le disavventure dei Bellacourt, Newport, la prima famiglia del RI, che non hanno assolutamente nulla da offrire al mondo, ma che hanno così tanti soldi che non importa. La serie si concentra sulle sorelle 'Lillian' e 'Beatrice', a cui importa solo il loro aspetto, a quali feste partecipano e diventare famose, cosa molto più difficile nel 1902."
-            },
-            {
-                "ora": "22:50",
-                "titolo": "South Park",
-                "descrizione": "Stanley \"Stan\" Marsh, Eric Cartman e Kyle Broflosky e Kenneth \"Kenny\" McCormick, quattro ragazzi che frequentano la scuola elementare e vivono nella cittadina di South Park, in Colorado. Pestiferi, osceni e sfacciatamente intelligenti i ragazzacci affrontano temi di attualità con immediatezza e sana cattiveria sfatando tabù e demonizzando la società americana. Le loro \"armi\" sono la parodia, la commedia nera e il linguaggio scurrile."
-            },
-            {
-                "ora": "23:10",
-                "titolo": "South Park",
-                "descrizione": "Stanley \"Stan\" Marsh, Eric Cartman e Kyle Broflosky e Kenneth \"Kenny\" McCormick, quattro ragazzi che frequentano la scuola elementare e vivono nella cittadina di South Park, in Colorado. Pestiferi, osceni e sfacciatamente intelligenti i ragazzacci affrontano temi di attualità con immediatezza e sana cattiveria sfatando tabù e demonizzando la società americana. Le loro \"armi\" sono la parodia, la commedia nera e il linguaggio scurrile."
-            },
-            {
-                "ora": "23:35",
-                "titolo": "South Park",
-                "descrizione": "Stanley \"Stan\" Marsh, Eric Cartman e Kyle Broflosky e Kenneth \"Kenny\" McCormick, quattro ragazzi che frequentano la scuola elementare e vivono nella cittadina di South Park, in Colorado. Pestiferi, osceni e sfacciatamente intelligenti i ragazzacci affrontano temi di attualità con immediatezza e sana cattiveria sfatando tabù e demonizzando la società americana. Le loro \"armi\" sono la parodia, la commedia nera e il linguaggio scurrile."
-            },
             {
                 "ora": "23:55",
                 "titolo": "Stand Up Comedy",
@@ -3794,24 +3784,44 @@
                 "ora": "02:10",
                 "titolo": "Frasier",
                 "descrizione": "Dopo molti anni trascorsi al bar \"Cheers"
+            },
+            {
+                "ora": "02:30",
+                "titolo": "Frasier",
+                "descrizione": "Dopo molti anni trascorsi al bar \"Cheers"
+            },
+            {
+                "ora": "02:55",
+                "titolo": "Key & Peele",
+                "descrizione": "Ep4 di 22 - Un giocatore di baseball affronta la sua dipendenza dalle sculacciate, un mafioso si vendica di chi lo ha tradito e Steve Urkel fa impazzire un uomo."
+            },
+            {
+                "ora": "03:15",
+                "titolo": "Key & Peele",
+                "descrizione": "Ep5 di 22 - Un giocatore di football con una commozione cerebrale cerca di ispirare la sua squadra e un uomo accusa la moglie di averlo tradito con un cane."
+            },
+            {
+                "ora": "03:35",
+                "titolo": "Broad City",
+                "descrizione": "Broad City segue due donne nella loro vita quotidiana a New York, rendendo isterici e inquietanti anche gli eventi più piccoli e banali."
+            },
+            {
+                "ora": "03:55",
+                "titolo": "Broad City",
+                "descrizione": "Broad City segue due donne nella loro vita quotidiana a New York, rendendo isterici e inquietanti anche gli eventi più piccoli e banali."
+            },
+            {
+                "ora": "04:15",
+                "titolo": "Most Ridiculous",
+                "descrizione": "Ep6 di 20 Episodio 6 - In questo episodio: coreografie finite male, cerimonie nuziali dagli esiti imprevisti e scivoloni..."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Arte",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "I tesori dell'Antico Egitto",
-                "descrizione": "L'ultimo millennio della civiltà dell'Antico Egitto prima della caduta a causa delle invasioni e dell'emergere di altre potenze del Mediterraneo. Tesori d'arte, divinità, mummie e animali fino all'epoca di Cleopatra."
-            },
-            {
-                "ora": "22:15",
-                "titolo": "Uomini e Dei. Le meraviglie del museo egizio",
-                "descrizione": "Un viaggio alla scoperta della storia e dei tesori di uno dei più prestigiosi musei di archeologia egizia al mondo: il Museo Egizio di Torino."
-            },
             {
                 "ora": "23:45",
                 "titolo": "I tesori dell'Antico Egitto",
@@ -3861,29 +3871,24 @@
                 "ora": "23:40",
                 "titolo": "X Factor",
                 "descrizione": "Cominciano le Audition di X Factor 2026: i concorrenti si giocano il sogno davanti a Francesco Gabbani, Irama, Jake La Furia e Paola Iezzi. Conduce Giorgia."
+            },
+            {
+                "ora": "00:15",
+                "titolo": "Accused: Sotto processo",
+                "descrizione": "In questa serie di antologie criminali, gli spettatori scoprono come una persona comune è rimasta coinvolta in una situazione straordinaria, rivelando alla fine come una svolta sbagliata porti a un'altra, finché non è troppo tardi per tornare indietro. Raccontato dal punto di vista dell'imputato, ogni episodio si apre in un'aula di tribunale con gli accusati senza conoscere il loro crimine o come sono finiti sotto processo."
+            },
+            {
+                "ora": "23:50",
+                "titolo": "Hanno ucciso l'uomo ragno",
+                "descrizione": "Ep1 di 8 - Quando Max viene bocciato sa che lo aspetta un’estate noiosa, ma tutto cambia quando Silvia lo invita ad uscire e lui le fa una promessa."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Documentaries",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Amy Winehouse: Anima ribelle",
-                "descrizione": "A oltre quindici anni dalla morte dell'icona britannica Amy Winehouse, Il volto più autentico e tormentato dell'artista viene svelato dai parenti e dagli amici più stretti."
-            },
-            {
-                "ora": "22:15",
-                "titolo": "The Michael Jackson Story",
-                "descrizione": "Dopo essere stato scagionato da ulteriori accuse di abusi, Jackson tenta un ambizioso tour di ritorno sulle scene. Quando muore improvvisamente, i gestori del suo patrimonio iniziano a monetizzare la sua eredità."
-            },
-            {
-                "ora": "23:05",
-                "titolo": "The Michael Jackson Story",
-                "descrizione": "Michael Jackson tra solitudine e dipendenze pianifica un grande ritorno sulle scene. La morte improvvisa, nel giugno di quell'anno, lo impedirà."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Marilyn: C'era una volta Hollywood",
@@ -3928,24 +3933,29 @@
                 "ora": "21:50",
                 "titolo": "Gli ultimi giorni di Hitler",
                 "descrizione": "Berlino è sotto assedio e la sconfitta tedesca è ormai vicina. Hitler, assieme a un gruppo di fedelissimi nazisti, si rintana nel bunker sotto la città fino alla sua morte, avvenuta il 30 aprile 1945."
+            },
+            {
+                "ora": "20:35",
+                "titolo": "Questa terra e' la mia terra:...",
+                "descrizione": "Ep7 di 10 Pomodori pelati - Peppe Guida riesce a mettere in barattolo qualsiasi cosa, dalle marmellate ai pomodori, ai sughi pronti, al ragu'. Un mondo che accompagna da sempre la sua cucina."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Amy Winehouse: Anima ribelle",
+                "descrizione": "A oltre quindici anni dalla morte dell'icona britannica Amy Winehouse, Il volto più autentico e tormentato dell'artista viene svelato dai parenti e dagli amici più stretti."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Madagascar selvaggio",
+                "descrizione": "Esploriamo la costa orientale, dalle alte montagne alle foreste tropicali, alla scoperta di un vero e proprio mosaico di paesaggi."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky Nature",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Madagascar selvaggio",
-                "descrizione": "Esploriamo la costa orientale, dalle alte montagne alle foreste tropicali, alla scoperta di un vero e proprio mosaico di paesaggi."
-            },
-            {
-                "ora": "22:15",
-                "titolo": "Madagascar selvaggio",
-                "descrizione": "Esploriamo il sud dell'isola, dove i paesaggi aridi richiedono ingegnosi metodi di sopravvivenza."
-            },
             {
                 "ora": "23:15",
                 "titolo": "Madagascar selvaggio",
@@ -3995,29 +4005,24 @@
                 "ora": "00:00",
                 "titolo": "Marilyn: C'era una volta Hollywood",
                 "descrizione": "Prima di diventare Marilyn Monroe, era Norma Jeane: una ragazza timida, desiderosa dell'amore della madre single, che lavorava a Hollywood. Ripercorriamo l'infanzia di Norma Jeane prima che diventasse una stella."
+            },
+            {
+                "ora": "22:15",
+                "titolo": "Madagascar selvaggio",
+                "descrizione": "Esploriamo il sud dell'isola, dove i paesaggi aridi richiedono ingegnosi metodi di sopravvivenza."
+            },
+            {
+                "ora": "21:50",
+                "titolo": "Gli ultimi giorni di Hitler",
+                "descrizione": "Berlino è sotto assedio e la sconfitta tedesca è ormai vicina. Hitler, assieme a un gruppo di fedelissimi nazisti, si rintana nel bunker sotto la città fino alla sua morte, avvenuta il 30 aprile 1945."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Discovery Channel",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "21:10",
-                "titolo": "La fattoria Clarkson",
-                "descrizione": "Jeremy Clarkson cerca di gestire una fattoria in campagna."
-            },
-            {
-                "ora": "22:10",
-                "titolo": "La fattoria Clarkson",
-                "descrizione": "Jeremy Clarkson cerca di gestire una fattoria in campagna."
-            },
-            {
-                "ora": "22:55",
-                "titolo": "Giustizia selvaggia",
-                "descrizione": "L'unita' KBD deve occuparsi di tre cuccioli di orso in liberta'. Alcune operazioni sotto copertura portano alla luce le attivita' di alcuni bracconieri e un tossico viene scoperto con della droga nascosta."
-            },
             {
                 "ora": "23:50",
                 "titolo": "Come e' fatto",
@@ -4062,29 +4067,29 @@
                 "ora": "04:45",
                 "titolo": "Come e' fatto",
                 "descrizione": "In questo episodio scopriamo come sono fatti gli utensili da cucina professionali, le scatole intarsiate, le caldaie ad alta prestazione e i motori delle Ferrari."
+            },
+            {
+                "ora": "05:10",
+                "titolo": "Come e' fatto",
+                "descrizione": "Passiamo al vaglio altri oggetti di uso quotidiano e scopriamo come sono fatte le mini moto da GP, i biscotti al fico, le cassette per gli attrezzi e le tubature ricurve."
+            },
+            {
+                "ora": "05:30",
+                "titolo": "Come e' fatto",
+                "descrizione": "Passiamo al vaglio altri oggetti di uso quotidiano e scopriamo come sono fatti i forni per l'olio usato, le imitazioni dei revolver, gli arc trainer, i pelaverdura e i tagliapizza."
+            },
+            {
+                "ora": "06:00",
+                "titolo": "Come fanno gli animali",
+                "descrizione": "Gli scienziati sono sbalorditi dalla capacita' cerebrale di un pesce. E perche' i cani ci inteneriscono cosi' tanto? Gli scimpanze' ridono alle nostre stesse battute?"
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "History Channel",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "20:55",
-                "titolo": "Operazione Barbarossa",
-                "descrizione": "S1 Ep2 di 3 Mosca e Leningrado - Tra il 1941 e il 1942, le battaglie di Leningrado e Mosca arrestano l'avanzata nazista e segnano una svolta sul fronte orientale."
-            },
-            {
-                "ora": "21:50",
-                "titolo": "Gli ultimi giorni di Hitler",
-                "descrizione": "Berlino è sotto assedio e la sconfitta tedesca è ormai vicina. Hitler, assieme a un gruppo di fedelissimi nazisti, si rintana nel bunker sotto la città fino alla sua morte, avvenuta il 30 aprile 1945."
-            },
-            {
-                "ora": "22:50",
-                "titolo": "Sesso e potere - La vita...",
-                "descrizione": "S1 Ep3 di 6 Gheddafi - Dietro la dittatura di Gheddafi si nascondeva un mondo privato fatto di violenza, abusi e terrore."
-            },
             {
                 "ora": "23:45",
                 "titolo": "Piloti - Storia dell'aeronautica italiana",
@@ -4129,59 +4134,29 @@
                 "ora": "00:00",
                 "titolo": "Marilyn: C'era una volta Hollywood",
                 "descrizione": "Prima di diventare Marilyn Monroe, era Norma Jeane: una ragazza timida, desiderosa dell'amore della madre single, che lavorava a Hollywood. Ripercorriamo l'infanzia di Norma Jeane prima che diventasse una stella."
+            },
+            {
+                "ora": "22:15",
+                "titolo": "Madagascar selvaggio",
+                "descrizione": "Esploriamo il sud dell'isola, dove i paesaggi aridi richiedono ingegnosi metodi di sopravvivenza."
+            },
+            {
+                "ora": "21:50",
+                "titolo": "Gli ultimi giorni di Hitler",
+                "descrizione": "Berlino è sotto assedio e la sconfitta tedesca è ormai vicina. Hitler, assieme a un gruppo di fedelissimi nazisti, si rintana nel bunker sotto la città fino alla sua morte, avvenuta il 30 aprile 1945."
+            },
+            {
+                "ora": "20:35",
+                "titolo": "Questa terra e' la mia terra:...",
+                "descrizione": "Ep7 di 10 Pomodori pelati - Peppe Guida riesce a mettere in barattolo qualsiasi cosa, dalle marmellate ai pomodori, ai sughi pronti, al ragu'. Un mondo che accompagna da sempre la sua cucina."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     },
     {
         "canale": "Sky TG 24",
         "categoria": "News",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "TG24 mezz'ora",
-                "descrizione": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
-            },
-            {
-                "ora": "21:35",
-                "titolo": "Wow",
-                "descrizione": "L'appuntamento quotidiano con le principali notizie di cultura, cinema, musica, arte e intrattenimento."
-            },
-            {
-                "ora": "21:50",
-                "titolo": "Sky Meteo24",
-                "descrizione": "Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "TG24 mezz'ora",
-                "descrizione": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
-            },
-            {
-                "ora": "22:15",
-                "titolo": "TG24 Preview",
-                "descrizione": "TG24 Preview"
-            },
-            {
-                "ora": "22:20",
-                "titolo": "TG24 Economia",
-                "descrizione": "L'appuntamento quotidiano con l'approfondimento delle principali notizie economiche della giornata. Conduce Andrea Bignami."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Skyline",
-                "descrizione": "Con Skyline, dal lunedi' al venerdi', vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Skyline",
-                "descrizione": "Con Skyline, dal lunedi' al venerdi', vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie."
-            },
-            {
-                "ora": "23:50",
-                "titolo": "Sky Meteo24",
-                "descrizione": "Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Skyline",
@@ -4196,8 +4171,53 @@
                 "ora": "01:00",
                 "titolo": "TG24 Edicola",
                 "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "01:30",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "02:00",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "02:30",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "03:00",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "03:30",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "04:00",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "04:35",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "05:00",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "05:35",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
             }
         ],
-        "aggiornato": "19:20"
+        "aggiornato": "22:01"
     }
 ]
