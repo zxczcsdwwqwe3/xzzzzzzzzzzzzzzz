@@ -4,26 +4,6 @@
         "categoria": "Digitale Terrestre",
         "programmi": [
             {
-                "ora": "20:35",
-                "titolo": "Affari Tuoi",
-                "descrizione": "Stefano De Martino conduce \"Affari tuoi\": 20 concorrenti, uno per regione d'Italia, sfidano la fortuna e il \"Dottore\" per trovare il pacco contenente 300.000 euro"
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Il giovane Montalbano",
-                "descrizione": "Il giovane Montalbano è una serie televisiva italiana di Rai 1, in onda dal 23 febbraio 2012. È un prequel del Commissario Montalbano, in quanto vede protagonista un Salvo Montalbano in giovane età. La fiction è firmata da Andrea Camilleri e Francesco Bruni, ed è tratta dalla raccolta La prima indagine di Montalbano."
-            },
-            {
-                "ora": "23:40",
-                "titolo": "Cose Nostre - I Quattro Picciriddi",
-                "descrizione": "A Catania, nell'estate del 1976, sotto gli occhi di un intero quartiere, scompaiono quattro ragazzini fra 14 e 15 anni. Nessuno vede, nessuno parla, finché il mafioso Antonino Calderone, dieci anni più tardi, rivela la storia al giudice Giovanni Falcone. I quattro picciriddi sono i protagonisti della prossima puntata di Cose Nostre. Si chiamavano Riccardo Cristaldi, Benedetto Zuccaro, Giovanni La Greca e Lorenzo Pace. Per la prima volta dopo cinquant'anni, con interviste al Procuratore aggiunto di Catania Sebastiano Ardita e ai giornalisti Graziella Proto e Salvatore Scalia, Cose Nostre affronta il muro di omertà che ancora circonda la sorte di quei ragazzini, cresciuti nel quartiere popolare di San Cristoforo e abituati a vivere di espedienti, puniti dal boss Nitto Santapaola perché avevano scippato la persona sbagliata."
-            },
-            {
-                "ora": "23:55",
-                "titolo": "TG1 Sera",
-                "descrizione": "TG1 Sera"
-            },
-            {
                 "ora": "00:00",
                 "titolo": "Cose Nostre",
                 "descrizione": "Emilia Brandi racconta la storia e la vita di donne e uomini che si sono opposti alla violenza cieca delle mafie pagando un prezzo molto alto senza mai smettere di fare il proprio dovere. Storie di giornalisti, di manager pubblici e testimoni di giustizia."
@@ -59,22 +39,37 @@
                 "descrizione": "Notizie e attualità in tempo reale dall'Italia e dal mondo. Approfondimenti, ospiti in studio, inviati del Tg1 e interviste ai protagonisti della cronaca, dello sport, della cultura e dello spettacolo. Conducono Tiberio Timperi e Maria Soave."
             },
             {
+                "ora": "23:40",
+                "titolo": "Cose Nostre - I Quattro Picciriddi",
+                "descrizione": "A Catania, nell'estate del 1976, sotto gli occhi di un intero quartiere, scompaiono quattro ragazzini fra 14 e 15 anni. Nessuno vede, nessuno parla, finché il mafioso Antonino Calderone, dieci anni più tardi, rivela la storia al giudice Giovanni Falcone. I quattro picciriddi sono i protagonisti della prossima puntata di Cose Nostre. Si chiamavano Riccardo Cristaldi, Benedetto Zuccaro, Giovanni La Greca e Lorenzo Pace. Per la prima volta dopo cinquant'anni, con interviste al Procuratore aggiunto di Catania Sebastiano Ardita e ai giornalisti Graziella Proto e Salvatore Scalia, Cose Nostre affronta il muro di omertà che ancora circonda la sorte di quei ragazzini, cresciuti nel quartiere popolare di San Cristoforo e abituati a vivere di espedienti, puniti dal boss Nitto Santapaola perché avevano scippato la persona sbagliata."
+            },
+            {
                 "ora": "23:15",
                 "titolo": "Il Processo Del Lunedì",
                 "descrizione": "L'approfondimento sportivo del lunedì. Dopo le immagini del posticipo della sera, una riflessione su quanto avvenuto nei tre giorni della serie A: immagini, interviste e un occhio attento alle Coppe Europee."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Lo Stato Delle Cose",
+                "descrizione": "$2a"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Quarta Repubblica",
+                "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
+            },
+            {
+                "ora": "21:20",
+                "titolo": "Grande Fratello Vip",
+                "descrizione": "I concorrenti continuano la loro avventura nella Casa. Tra strategie, emozioni e primi attriti, scopriamo cosa e' successo."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Rai 2",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:20",
-                "titolo": "L'uomo dei ghiacci - The Ice Road",
-                "descrizione": "Dopo il crollo avvenuto in un'isolata miniera di diamanti nelle regioni settentrionali del Canada, un autista guida una missione di salvataggio quasi impossibile su un oceano ghiacciato per salvare la vita dei minatori rimasti intrappolati. Si ritroverà così al centro di una corsa contro il tempo per evitare il peggio."
-            },
             {
                 "ora": "23:15",
                 "titolo": "Il Processo Del Lunedì",
@@ -129,19 +124,19 @@
                 "ora": "21:15",
                 "titolo": "Lo Stato Delle Cose",
                 "descrizione": "$2a"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Quarta Repubblica",
+                "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Rai 3",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Lo Stato Delle Cose",
-                "descrizione": "$24"
-            },
             {
                 "ora": "00:00",
                 "titolo": "TG3 Linea Notte",
@@ -178,6 +173,11 @@
                 "descrizione": "L'approfondimento sportivo del lunedì. Dopo le immagini del posticipo della sera, una riflessione su quanto avvenuto nei tre giorni della serie A: immagini, interviste e un occhio attento alle Coppe Europee."
             },
             {
+                "ora": "21:15",
+                "titolo": "Lo Stato Delle Cose",
+                "descrizione": "$2c"
+            },
+            {
                 "ora": "21:33",
                 "titolo": "Quarta Repubblica",
                 "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
@@ -198,17 +198,12 @@
                 "descrizione": "Pompeii's Secret Underground (Ep.01 e 02) - Documentario, Regia di Oscar Chan UK 2024. Un vivido quadro di una società complessa profondamente divisa da ricchezza, potere e opportunità, che rivela una civiltà molto lontana..."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Rai 4",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:19",
-                "titolo": "Kung Fu Jungle",
-                "descrizione": "Un istruttore di arti marziali (Donnie Yen), rinchiuso in carcere per aver ucciso una persona, chiede alla polizia di aiutarlo a catturare un killer che sta seminando vittime in città. Non si tratta però di un semplice killer: infatti sembra che egli uccida solo a colpi di arti marziali e che le sue vittime siano tutti ex campioni di lotta."
-            },
             {
                 "ora": "23:02",
                 "titolo": "The weapon",
@@ -263,19 +258,19 @@
                 "ora": "23:15",
                 "titolo": "Il Processo Del Lunedì",
                 "descrizione": "L'approfondimento sportivo del lunedì. Dopo le immagini del posticipo della sera, una riflessione su quanto avvenuto nei tre giorni della serie A: immagini, interviste e un occhio attento alle Coppe Europee."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Lo Stato Delle Cose",
+                "descrizione": "$2a"
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Rai 5",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:23",
-                "titolo": "La sala professori",
-                "descrizione": "Quando uno dei suoi studenti viene sospettato di furto, l'insegnante Carla Nowak decide di andare a fondo della questione. Stretta tra i suoi ideali e il sistema scolastico, le conseguenze delle sue azioni minacciano di distruggerla."
-            },
             {
                 "ora": "23:03",
                 "titolo": "Klimt",
@@ -330,19 +325,19 @@
                 "ora": "23:15",
                 "titolo": "Il Processo Del Lunedì",
                 "descrizione": "L'approfondimento sportivo del lunedì. Dopo le immagini del posticipo della sera, una riflessione su quanto avvenuto nei tre giorni della serie A: immagini, interviste e un occhio attento alle Coppe Europee."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Lo Stato Delle Cose",
+                "descrizione": "$2a"
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Rete 4",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:29",
-                "titolo": "La promessa\",\"prima\":true,\"description\":\"Cordoba, 1913. Mentre la Spagna è devastata da alcuni conflitti, c'è un luogo in cui, almeno in apparenza, regna la pace: è il Palazzo La Promesa, nella valle di Los Pedroches, di proprietà dei Marchesi di Lujan. E' proprio qui che Jana si fa assumere come cameriera per scoprire la verità sull'omicidio di sua madre e di suo fratello. La situazione si complica quando Jana si innamora di uno dei figli dei ricchi marchesi, Manuel. Con Jordi Coll (Il Segreto).\",\"durata\":40,\"genre\":\"Dramma Mistero\",\"category\":\"Serie TV\",\"image\":\"https://img-guidatv.org/serie/64808f42e03d43e6abc2de4a_p_1_rs_300.jpg\",\"episode_number\":232,\"series_number\":4,\"ac\":[{\"n\":\"Manuel Regueiro\",\"i\":\"8qD6PmZ7y1yPe9lY23fWy3zSFj4.jpg\",\"c\":\"\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://img-guidatv.org/serie/64808f42e03d43e6abc2de4a_b_3_rs_600.jpg\",\"inizio\":\"2026-09-21T17:49:00.000Z\",\"fine\":\"2026-09-21T18:29:00.000Z\",\"rating\":\"3,5\",\"condividi\":\"$undefined\",\"year\":\"2023\",\"tiEp\":\"Episodio 723\",\"trEp\":null},{\"id\":\"pFZLBucH0uwz\",\"title\":\"4 di sera",
-                "descrizione": "Dibattito quotidiano sui fatti salienti della giornata. Politica, economia, i principali casi di cronaca ed attualita'."
-            },
             {
                 "ora": "21:33",
                 "titolo": "Quarta Repubblica",
@@ -397,9 +392,14 @@
                 "ora": "21:20",
                 "titolo": "Grande Fratello Vip",
                 "descrizione": "I concorrenti continuano la loro avventura nella Casa. Tra strategie, emozioni e primi attriti, scopriamo cosa e' successo."
+            },
+            {
+                "ora": "23:40",
+                "titolo": "Cold Case - Delitti irrisolti",
+                "descrizione": "L'unica detective donna della squadra omicidi di Philadelphia trova la sua vocazione quando le vengono assegnati casi che non sono mai stati risolti. La detective Lilly Rush combina i suoi istinti naturali con la tecnologia aggiornata disponibile oggi per garantire giustizia a tutte le vittime che può."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Canale 5",
@@ -466,22 +466,12 @@
                 "descrizione": "Pompeii's Secret Underground (Ep.01 e 02) - Documentario, Regia di Oscar Chan UK 2024. Un vivido quadro di una società complessa profondamente divisa da ricchezza, potere e opportunità, che rivela una civiltà molto lontana..."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Italia 1",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:38",
-                "titolo": "NCIS - Unita' Anticrimine",
-                "descrizione": "La serie segue le vicende della principale squadra di agenti speciali dell'agenzia federale Naval Criminal Investigative Service (NCIS), denominata «Major Case Response Team» (MCRT)[5], con sede al Washington Navy Yard di Washington. L'NCIS si occupa dei reati più gravi che vedono coinvolti membri o persone legate alla marina degli Stati Uniti o al corpo dei Marines. Il Major Case Response Team, in particolare, si occupa dei casi più difficili e delicati, quali ad esempio l'omicidio di uomini vicini al Presidente, morti di celebrità all'interno di basi della marina, minacce terroristiche e rapimenti."
-            },
-            {
-                "ora": "21:29",
-                "titolo": "Peppermint - L'angelo della vendetta",
-                "descrizione": "Una storia di vendetta su una giovane madre che non ha più nulla da perdere e che decide di partire per un viaggio alla scoperta di una nuova vita che non guardi più al passato."
-            },
             {
                 "ora": "23:40",
                 "titolo": "Cold Case - Delitti irrisolti",
@@ -531,19 +521,24 @@
                 "ora": "03:31",
                 "titolo": "Inside pyramids - Come vennero costruite le piramidi",
                 "descrizione": "Una piramide bicolore, incompiuta, con una camera interamente realizzata in granito: la sua storia e il suo destino sono incredibili."
+            },
+            {
+                "ora": "04:23",
+                "titolo": "Inside pyramids - Come vennero costruite le piramidi",
+                "descrizione": "Nel deserto di Saqqara, si trova la piramide del re Pepi II, ricoperta di testi eccezionali."
+            },
+            {
+                "ora": "05:14",
+                "titolo": "Inside pyramids - Come vennero costruite le piramidi",
+                "descrizione": "La Piramide Nera e' l'ultima grande piramide costruita sul suolo egiziano, circa 7 secoli dopo il regno del faraone Khufu."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "La7",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "La Torre di Babele - FINIMONDO Il meteo è politica!",
-                "descrizione": "Corrado Augias affronta ogni settimana un grande tema storico, culturale, politico, economico e i suoi risvolti sull'attualità. 5a Edizione."
-            },
             {
                 "ora": "23:00",
                 "titolo": "LA7 DOC - Il volto segreto di Pompei",
@@ -598,14 +593,49 @@
                 "ora": "23:55",
                 "titolo": "(S)ex List",
                 "descrizione": "Con quanti uomini bisogna andare a letto prima di incontrare quello giusto? Secondo una popolare rivista femminile la media per le donne americane è di 10.5. Perciò, se a ventinove anni sei già a quota 19 come Ally Darling e sei pure single, la crisi di identità (e di coscienza) è dietro l'angolo. Soprattutto se tua sorella minore è alle prese con i preparativi del suo matrimonio, una madre ipercritica fa pressing psicologico per sapere chi ti accompagnerà alla cerimonia e la mattina dopo l'addio al nubilato scopri che il tuo capo che ti ha appena licenziata in tronco è inutilmente diventato il numero venti. È così che Ally, animata dai migliori propositi, decide di rintracciare tutti i suoi ex, per capire se tra di loro si nasconda l'uomo giusto in modo da non sforare l'imbarazzante primato raggiunto tra le amiche."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Little Big Italy",
+                "descrizione": "Francesco Panella scopre i migliori ristoranti italiani all'estero."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "TV8",
         "categoria": "Digitale Terrestre",
         "programmi": [
+            {
+                "ora": "23:55",
+                "titolo": "(S)ex List",
+                "descrizione": "Con quanti uomini bisogna andare a letto prima di incontrare quello giusto? Secondo una popolare rivista femminile la media per le donne americane è di 10.5. Perciò, se a ventinove anni sei già a quota 19 come Ally Darling e sei pure single, la crisi di identità (e di coscienza) è dietro l'angolo. Soprattutto se tua sorella minore è alle prese con i preparativi del suo matrimonio, una madre ipercritica fa pressing psicologico per sapere chi ti accompagnerà alla cerimonia e la mattina dopo l'addio al nubilato scopri che il tuo capo che ti ha appena licenziata in tronco è inutilmente diventato il numero venti. È così che Ally, animata dai migliori propositi, decide di rintracciare tutti i suoi ex, per capire se tra di loro si nasconda l'uomo giusto in modo da non sforare l'imbarazzante primato raggiunto tra le amiche."
+            },
+            {
+                "ora": "01:55",
+                "titolo": "Sex: una commedia sentimentalmente scorretta",
+                "descrizione": "Celeste sta per sposarsi con Juanjo, un ordinario e noioso giovane professore universitario. Un giorno, però, Celeste incontra Jazz, regina del gossip amoroso e autrice di un romanzo di successo che spiega tutti i trucchi e i segreti per conquistare, tradire e vivere alla grande. Ovviamente Celeste è la cavia perfetta per Jazz. Fidanzamento e promessa di nozze archiviati, inizia un doppio scontro che vede Celeste e Juanjo sballottati come burattini, tra improbabili avventure anche omosessuali, intrighi, assurdi pretendenti, ritorni di fiamma, bugie… Un gioco un po’ perverso, o romantico, o entrambe le cose, ma sicuramente provocatorio e divertentissimo."
+            },
+            {
+                "ora": "04:35",
+                "titolo": "Mostri senza nome: Torino\",\"prima\":true,\"description\":\"Nel 1958, viene ritrovato il corpo segnato da 18 coltellate di Mario Giliberti, operaio della FIAT. L'omicidio viene comunicato attraverso una lettera inviata alla polizia e alla stampa dall'assassino.\",\"durata\":55,\"genre\":\"Documentari\",\"category\":\"Documentari\",\"image\":\"https://image.tmdb.org/t/p/w300/x9LhiMeGY6dtpVCJklCB3H66ylW.jpg\",\"episode_number\":1,\"series_number\":4,\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/reZkfUR7KUgKBWcz0PCAAlYr0yy.jpg\",\"inizio\":\"2026-09-22T01:40:00.000Z\",\"fine\":\"2026-09-22T02:35:00.000Z\",\"rating\":\"2,0\",\"condividi\":\"$undefined\",\"year\":\"2023\"},{\"id\":\"GQxJJwuX5BlT\",\"title\":\"Lady Killer",
+                "descrizione": "Sono delicate, generose, vanitose ed innamorate, ma quando vengono ferite diventano vendicative e pericolose. In ogni episodio affrontiamo il caso di una donna diventata di colpo una feroce assassina."
+            },
+            {
+                "ora": "05:25",
+                "titolo": "Alessandro Borghese Kitchen Sound",
+                "descrizione": "Alessandro Borghese torna a vestire i panni dello chef rock che mescola i suoi sound musicali preferiti agli ingredienti di ricette tradizionali e sperimentazioni innovative."
+            },
+            {
+                "ora": "23:40",
+                "titolo": "Cose Nostre - I Quattro Picciriddi",
+                "descrizione": "A Catania, nell'estate del 1976, sotto gli occhi di un intero quartiere, scompaiono quattro ragazzini fra 14 e 15 anni. Nessuno vede, nessuno parla, finché il mafioso Antonino Calderone, dieci anni più tardi, rivela la storia al giudice Giovanni Falcone. I quattro picciriddi sono i protagonisti della prossima puntata di Cose Nostre. Si chiamavano Riccardo Cristaldi, Benedetto Zuccaro, Giovanni La Greca e Lorenzo Pace. Per la prima volta dopo cinquant'anni, con interviste al Procuratore aggiunto di Catania Sebastiano Ardita e ai giornalisti Graziella Proto e Salvatore Scalia, Cose Nostre affronta il muro di omertà che ancora circonda la sorte di quei ragazzini, cresciuti nel quartiere popolare di San Cristoforo e abituati a vivere di espedienti, puniti dal boss Nitto Santapaola perché avevano scippato la persona sbagliata."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Il Processo Del Lunedì",
+                "descrizione": "L'approfondimento sportivo del lunedì. Dopo le immagini del posticipo della sera, una riflessione su quanto avvenuto nei tre giorni della serie A: immagini, interviste e un occhio attento alle Coppe Europee."
+            },
             {
                 "ora": "21:15",
                 "titolo": "Lo Stato Delle Cose",
@@ -632,57 +662,17 @@
                 "descrizione": "Pompeii's Secret Underground (Ep.01 e 02) - Documentario, Regia di Oscar Chan UK 2024. Un vivido quadro di una società complessa profondamente divisa da ricchezza, potere e opportunità, che rivela una civiltà molto lontana..."
             },
             {
-                "ora": "23:55",
-                "titolo": "(S)ex List",
-                "descrizione": "Con quanti uomini bisogna andare a letto prima di incontrare quello giusto? Secondo una popolare rivista femminile la media per le donne americane è di 10.5. Perciò, se a ventinove anni sei già a quota 19 come Ally Darling e sei pure single, la crisi di identità (e di coscienza) è dietro l'angolo. Soprattutto se tua sorella minore è alle prese con i preparativi del suo matrimonio, una madre ipercritica fa pressing psicologico per sapere chi ti accompagnerà alla cerimonia e la mattina dopo l'addio al nubilato scopri che il tuo capo che ti ha appena licenziata in tronco è inutilmente diventato il numero venti. È così che Ally, animata dai migliori propositi, decide di rintracciare tutti i suoi ex, per capire se tra di loro si nasconda l'uomo giusto in modo da non sforare l'imbarazzante primato raggiunto tra le amiche."
-            },
-            {
                 "ora": "23:20",
                 "titolo": "Little Big Italy",
                 "descrizione": "Francesco Panella scopre i migliori ristoranti italiani all'estero."
-            },
-            {
-                "ora": "23:19",
-                "titolo": "Final Score",
-                "descrizione": "Uno stadio viene preso d'assalto da un gruppo di criminali armati che chiedono un riscatto. Un ex militare userà le sue capacità per mettere in salvo i 35.000 spettatori, tra cui anche la figlia di un suo commilitone morto al fronte."
-            },
-            {
-                "ora": "23:02",
-                "titolo": "The weapon",
-                "descrizione": "Dallas è una macchina per uccidere guidata da un solo uomo, in preda a una misteriosa furia. I suoi attacchi alle bande di motociclisti e ai laboratori di metanfetamine fanno infuriare il boss della mafia di Las Vegas che tiene in ostaggio la fidanzata di Dallas. Ma per chi lavora Dallas? Nemmeno la tortura lo farà parlare, e non si fermerà finché non verrà fatta giustizia."
-            },
-            {
-                "ora": "21:15",
-                "titolo": "Pearl Harbor",
-                "descrizione": "In una tranquilla domenica mattina di dicembre, mentre i bambini sono intenti nei loro giochi e le famiglie raccolte in preghiera, squadroni di aerei da guerra giapponesi sfrecciano roboanti nei cieli del paradiso hawaiano un attacco a sorpresa contro le forze armate statunitensi di base a Pearl Harbor. Pearl Harbor è la storia di un intenso amore nato sullo sfondo degli eventi del 7 dicembre 1941. Descrive le vicende di due giovani e audaci piloti e della bella e sensibile infermiera di cui sono entrambi innamorati. E' un imponente film sulla forza dell'amore e sul coraggio del singolo messi a dura prova da un drammatico momento storico."
-            },
-            {
-                "ora": "23:03",
-                "titolo": "Klimt",
-                "descrizione": "La vita del pittore austriaco Gustav Klimt, artista rivoluzionario e figura simbolo dell'Art Nouveau. Tra opere che suscitano scandalo, sfide alle convenzioni e la nascita della Secessione Viennese, Klimt lascia un segno profondo sull'arte del suo tempo e sostiene giovani talenti emergenti."
-            },
-            {
-                "ora": "23:25",
-                "titolo": "Solo sotto le stelle",
-                "descrizione": "Disavventure di un cow-boy che non accetta i cambiamenti sociali in atto, col conseguente declino del mito della frontiera e degli ideali della Vecchia America. Anacronistico e disadattato, l'uomo vaga senza una meta, finché non finisce in prigione. Riuscito a fuggire, si rifugia in Messico. Parabola triste sulla fine di un mondo e riflessione amara sulla decadenza della figura del cow-boy. Si può leggere in filigrana la storia dello sceneggiatore Dalton Trumbo, finito sulla lista nera per le sue idee politiche. Tratto dal romanzo di Edward Abbey, The Brave Cowboy."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Nove",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:40",
-                "titolo": "Cash or Trash - Chi offre di piu'?",
-                "descrizione": "Alcuni mercanti cercano di aggiudicarsi preziosi oggetti."
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Little Big Italy",
-                "descrizione": "Francesco Panella scopre i migliori ristoranti italiani all'estero."
-            },
             {
                 "ora": "23:20",
                 "titolo": "Little Big Italy",
@@ -732,19 +722,24 @@
                 "ora": "21:15",
                 "titolo": "Lo Stato Delle Cose",
                 "descrizione": "$2a"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Quarta Repubblica",
+                "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
+            },
+            {
+                "ora": "21:20",
+                "titolo": "Grande Fratello Vip",
+                "descrizione": "I concorrenti continuano la loro avventura nella Casa. Tra strategie, emozioni e primi attriti, scopriamo cosa e' successo."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "20 Mediaset",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:09",
-                "titolo": "Geostorm",
-                "descrizione": "Un sistema sperimentale per il controllo delle condizioni meteo viene trasformato in un’arma per distruggere intere nazioni creando delle catastrofiche tempeste. Due fratelli formano un’alleanza per salvare il mondo dalla catastrofe."
-            },
             {
                 "ora": "23:19",
                 "titolo": "Final Score",
@@ -799,24 +794,19 @@
                 "ora": "21:15",
                 "titolo": "Lo Stato Delle Cose",
                 "descrizione": "$2c"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "Quarta Repubblica",
+                "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Real Time",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:35",
-                "titolo": "Casa a prima vista",
-                "descrizione": "Blasco, Nadia e Corrado riusciranno a trovare un trilocale per un direttore d'orchestra?"
-            },
-            {
-                "ora": "21:40",
-                "titolo": "Vite al limite - Storie di rinascita",
-                "descrizione": "Con un peso complessivo di oltre 550kg, Destinee e Dynastiee sono determinate a rimettersi in forma."
-            },
             {
                 "ora": "22:35",
                 "titolo": "Vite al limite",
@@ -866,64 +856,24 @@
                 "ora": "21:33",
                 "titolo": "Quarta Repubblica",
                 "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
+            },
+            {
+                "ora": "21:20",
+                "titolo": "Grande Fratello Vip",
+                "descrizione": "I concorrenti continuano la loro avventura nella Casa. Tra strategie, emozioni e primi attriti, scopriamo cosa e' successo."
+            },
+            {
+                "ora": "23:40",
+                "titolo": "Cold Case - Delitti irrisolti",
+                "descrizione": "L'unica detective donna della squadra omicidi di Philadelphia trova la sua vocazione quando le vengono assegnati casi che non sono mai stati risolti. La detective Lilly Rush combina i suoi istinti naturali con la tecnologia aggiornata disponibile oggi per garantire giustizia a tutte le vittime che può."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Boing",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:20",
-                "titolo": "Adventure Time",
-                "descrizione": "A Dolcelandia arriva Ricardio. Finn ne e'incredibilmente geloso ed e' convinto che le sue intenzioni nei confronti della principessa Gommarosa non siano onorevoli."
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Adventure Time",
-                "descrizione": "Un blocco di uomini d'affari viene trascinato a riva e Jake convince Finn a prenderli sotto la loro ala. Alla fine Jake e Finn si faranno sostituire da loro anche nelle imprese eroiche."
-            },
-            {
-                "ora": "21:45",
-                "titolo": "Captain Tsubasa",
-                "descrizione": "È tempo di semifinali. L’Accademia Toho, ancora priva di Kojiro Hyuga, affronta in trasferta il Meiwa Higashi. La prima frazione di gioco si conclude sullo 0 a 0."
-            },
-            {
-                "ora": "22:15",
-                "titolo": "Captain Tsubasa",
-                "descrizione": "Inizia la seconda semifinale del campionato tra il Furano e la Scuola Media Nankatsu. Matsuyama e Tsubasa, spinti da una forte rivalità, diventano, fin da subito, i veri protagonisti della partita."
-            },
-            {
-                "ora": "22:45",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Darwin prende le difese degli oggetti ma questi prendono coscienza del loro stato e si ribellano agli uomini."
-            },
-            {
-                "ora": "22:55",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Penny lascia per un paio d'ore la sorellina da Gumball e succede di tutto..."
-            },
-            {
-                "ora": "23:15",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Nicole vuole liberarsi del vecchio frigorifero di casa ma quando c'e' Richard di mezzo nulla e' cosi' semplice...."
-            },
-            {
-                "ora": "23:25",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Si rompe la strana amicizia tra Gumball Darwin e il signor Robinson e solo un drastico intervento sul cuore di quest'ultimo risolvera' la crisi."
-            },
-            {
-                "ora": "23:40",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Siamo a Halloween ma i veri fantasmi non fanno piu'' paura... finche' Darwin e Gumball non decidono di intervenire."
-            },
-            {
-                "ora": "23:50",
-                "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "A Elmore torna il vecchio amico del cuore di Gumball ma Darwin e' geloso e sospetta di lui."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Dragon Ball Super",
@@ -933,59 +883,64 @@
                 "ora": "00:25",
                 "titolo": "Lo straordinario mondo di Gumball",
                 "descrizione": "Gumball viene incaricato come agente segreto dal preside Brown per fare luce su alcuni furti avvenuti a scuola. Per fortuna ci saranno Darwin e Robot ad aiutarlo."
+            },
+            {
+                "ora": "00:35",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball e Darwin aiutano la mamma a sistemare il computer ma si rendono conto che gli adulti sono tutti incapaci a usarlo correttamente."
+            },
+            {
+                "ora": "00:45",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Nella scuola arriva un nuovo sovrintendente che mette tutti in riga e trasforma gli studenti in persone vere. Gumball e Darwin cercano di resistere."
+            },
+            {
+                "ora": "00:55",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball e Darwin ammettono di essersi un po' annoiati l'uno dell'altro e concordano di mettersi alla ricerca di un terzo 'amico del cuore'."
+            },
+            {
+                "ora": "01:10",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Parcheggiando la macchinail signor Robinson evita di investire Gumball che si convince pero' di essere miracolato.Per ripagare il debitocerca in tutti i modi di proteggere il suo salvatore"
+            },
+            {
+                "ora": "01:20",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Le ragazze si vantano di avere un fidanzatino mentre il motto dei ragazzi e' gli amici prima delle ragazze. Al che Nuvola sprovvista di cavaliere cerca di baciare Darwin senza successo."
+            },
+            {
+                "ora": "01:30",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Un disegno di Anais allarma il preside che pensa a un disagio familiare. Consiglia cosi' ai genitori di cambiare vita e mandare anche Gumball e Darwin da uno psicologo creativo."
+            },
+            {
+                "ora": "01:40",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "I gentiori di Gumball non riescono a trovare una babysitter per Anais. La affidano quindi a Gumball e Darwin con risultati disastrosi. La colpa di tutto ricade come sempre sul povero papa'."
+            },
+            {
+                "ora": "01:55",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "I vestiti di Gumball si sono rovinati durante il bucatoe' cosi' costretto a indossare il vestito da sposa della madre. A scuola tutti lo scambiano per una femmina e si innamorano perdutamente."
+            },
+            {
+                "ora": "02:05",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Il padre di Gumball sfida i ragazzi a trovare uno piu' pigro di lui. Gumball decide alllora di sfidarlo direttamente. Vincera' ma a caro prezzo."
+            },
+            {
+                "ora": "02:15",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Carrie ha molta fame e chiede a Gumball il permesso di entrare nel suo corpo per ingozzarsi. Gumball che non sa dire di no acconsente ed entra cosi' in un tunnel che lo portera' all'obesita'."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "K2",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:20",
-                "titolo": "Le avventure di Bernie",
-                "descrizione": "1' Stagione Ep.6 - Dopo non essere riuscito ad aiutare Zig a mangiare Marina, Bernie si è perso in fondo alloceano! Il geniale inventore cerca di tornare in ogni modo sulla sua isola."
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Mermicorno Starfall",
-                "descrizione": "2' Stagione Ep.16 - Le avventure di piccole creature metà unicorno e metà sirena."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Japanizi: Going, Going, Gong!",
-                "descrizione": "1' Stagione Ep.12 - Un game show comico in stile giapponese per tutta la famiglia."
-            },
-            {
-                "ora": "22:20",
-                "titolo": "Japanizi: Going, Going, Gong!",
-                "descrizione": "1' Stagione Ep.13 - Un game show comico in stile giapponese per tutta la famiglia."
-            },
-            {
-                "ora": "22:45",
-                "titolo": "Maca&Roni",
-                "descrizione": "1' Stagione Ep.8 - Maca il gatto e Roni il pinguino creano tanti problemi!"
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Maca&Roni",
-                "descrizione": "1' Stagione Ep.9 - Maca il gatto e Roni il pinguino creano tanti problemi!"
-            },
-            {
-                "ora": "23:15",
-                "titolo": "Maca&Roni",
-                "descrizione": "1' Stagione Ep.10 - Maca il gatto e Roni il pinguino creano tanti problemi!"
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Maca&Roni",
-                "descrizione": "1' Stagione Ep.11 - Maca il gatto e Roni il pinguino creano tanti problemi!"
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Maca&Roni",
-                "descrizione": "1' Stagione Ep.12 - Maca il gatto e Roni il pinguino creano tanti problemi!"
-            },
             {
                 "ora": "00:00",
                 "titolo": "Maca&Roni",
@@ -1000,49 +955,59 @@
                 "ora": "00:30",
                 "titolo": "Maca&Roni",
                 "descrizione": "1' Stagione Ep.15 - Maca il gatto e Roni il pinguino creano tanti problemi!"
+            },
+            {
+                "ora": "00:45",
+                "titolo": "Maca&Roni",
+                "descrizione": "1' Stagione Ep.16 - Maca il gatto e Roni il pinguino creano tanti problemi!"
+            },
+            {
+                "ora": "01:00",
+                "titolo": "Maca&Roni",
+                "descrizione": "1' Stagione Ep.17 - Maca il gatto e Roni il pinguino creano tanti problemi!"
+            },
+            {
+                "ora": "01:20",
+                "titolo": "Karate Sheep",
+                "descrizione": "1' Stagione Ep.16 - Wanda la pecora deve tenere al sicuro le altre pecore dal pericoloso Wolf."
+            },
+            {
+                "ora": "01:40",
+                "titolo": "Zig & Sharko",
+                "descrizione": "3' Stagione Ep.11 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "02:00",
+                "titolo": "Zig & Sharko",
+                "descrizione": "3' Stagione Ep.12 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "02:25",
+                "titolo": "Zig & Sharko",
+                "descrizione": "3' Stagione Ep.13 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "02:45",
+                "titolo": "Zig & Sharko",
+                "descrizione": "3' Stagione Ep.14 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Shark."
+            },
+            {
+                "ora": "03:10",
+                "titolo": "Karate Sheep",
+                "descrizione": "1' Stagione Ep.17 - Wanda la pecora deve tenere al sicuro le altre pecore dal pericoloso Wolf."
+            },
+            {
+                "ora": "03:30",
+                "titolo": "Karate Sheep",
+                "descrizione": "1' Stagione Ep.18 - Wanda la pecora deve tenere al sicuro le altre pecore dal pericoloso Wolf."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Rai Gulp",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:00",
-                "titolo": "Il Collegio 5 - Sesta Puntata: Scuse, Balli E Colpi Di Scena",
-                "descrizione": "$23"
-            },
-            {
-                "ora": "22:25",
-                "titolo": "Il Campeggio",
-                "descrizione": "Oscar e Scricciola sono migliori amici e partecipano insieme al loro primo campeggio estivo…ma non sarà un’estate come le altre! L’isola è, infatti, abitata da creature magiche, cibi parlanti, una luna chiacchierona e streghe sorveglianti. Segui tutte le avventure di Oscar e Scricciola alle prese con Yeti, viaggi nel tempo e tanti misteri da scoprire! Nel mondo del Campeggio Fantastico tutto è possibile!"
-            },
-            {
-                "ora": "22:35",
-                "titolo": "Super Spike Ball",
-                "descrizione": "La Lucky Squad raggiunge un'antica miniera per affrontare gli Animals in una partita su un campo pieno di insidie: pozze d'acqua, tunnel che fanno rimbalzare le palle, carriole e carrucole. Viola cerca disperatamente di perfezionare la sua \"alzata trottola\" ma continua a fallire, mentre Nino tenta di usare il carrello di Mr. Dudù per schiacciate spettacolari senza successo. Lucky intanto scava ossessivamente in \"cottenerle\" e continuano a insistere finché Viola perfeziona il suo colpo e Nino domina il carrello, vincendo 25-23."
-            },
-            {
-                "ora": "22:40",
-                "titolo": "Super Spike Ball",
-                "descrizione": "Al museo la Lucky Squad affronta i Super Heroes (Freeze che controlla il tempo, Triple che si triplica e BrainMaster che legge nella mente) con una regola speciale: chi rompe un'opera d'arte perde un punto. Inizialmente entrambe le squadre annullano i propri punti rompendo tutto. La Lucky Squad impara a giocare con precisione e si porta in vantaggio 13-0, ma Crazy Doc modifica i Super Heroes rendendoli flemmatici e precisi. I Super Heroes recuperano e vincono 25-22, anche perché Nino rompe lo scheletro di dinosauro perdendo 3 punti. Come punizione, tutti devono pulire il museo."
-            },
-            {
-                "ora": "23:05",
-                "titolo": "La Compagnia dei Celestini",
-                "descrizione": "Un gruppo di ragazzini si allena lontano da occhi indiscreti, per giocare alla pallastrada, un gioco simile al calcio dove le poche regole sono strutturate sull'ambiente urbano. Lentamente i giovani protagonisti sapranno convincere gli adulti che li circondano della bontà del loro sport, pieno di valori come rispetto, solidarietà e amicizia e con il loro sostegno potranno disputare partite di pallastrada in trasferta per tutto il mondo."
-            },
-            {
-                "ora": "23:20",
-                "titolo": "La Compagnia dei Celestini",
-                "descrizione": "Un gruppo di ragazzini si allena lontano da occhi indiscreti, per giocare alla pallastrada, un gioco simile al calcio dove le poche regole sono strutturate sull'ambiente urbano. Lentamente i giovani protagonisti sapranno convincere gli adulti che li circondano della bontà del loro sport, pieno di valori come rispetto, solidarietà e amicizia e con il loro sostegno potranno disputare partite di pallastrada in trasferta per tutto il mondo."
-            },
-            {
-                "ora": "23:55",
-                "titolo": "Spike Team",
-                "descrizione": "La fatica, il successo, ma anche i fallimenti di un gruppo di studentesse universitarie che vogliono diventare una grande squadra di pallavolo. Le Spike Team questa volta si preparano ad affrontare le Olimpiadi, dove saranno in concorrenza con le migliori squadre femminili del mondo."
-            },
             {
                 "ora": "00:10",
                 "titolo": "Spike Team",
@@ -1067,59 +1032,49 @@
                 "ora": "01:15",
                 "titolo": "Gormiti",
                 "descrizione": "I Guardiani iniziano la ricerca dell'ultimo frammento del Cosmo. Per farlo si dividono in due gruppi e mentre Ao-Ki, Riff e Ikor resteranno sulla nave per controllare i danni subiti, Eron e Trek si incamminano per trovare il frammento. Nella loro ricerca si imbattono in Seskel, il temibile e inquietante Eklypsion mandato da Eklos. Eron scaglierà il potere di Hurricane contro Seskel e con un aiuto inaspettato riuscirà a sconfiggerlo e a+E20 conquistare anche l'ultimo frammento."
+            },
+            {
+                "ora": "01:35",
+                "titolo": "La famiglia Skrokkiazeppi",
+                "descrizione": "Nonna Cikuta fa amicizia con due pensionati. Insieme seminano il caos nel quartiere di Tor Sardine."
+            },
+            {
+                "ora": "01:40",
+                "titolo": "La famiglia Skrokkiazeppi",
+                "descrizione": "Gli Skrokkiazeppi decidono di avviare una piccola impresa familiare di consegna a domicilio."
+            },
+            {
+                "ora": "01:55",
+                "titolo": "Coop Troop",
+                "descrizione": "La Coop Troop parte in missione per aiutare Bertha a riappropriarsi del suo divano, dopo essere stata \"sfrattata\" dal gatto Prince, che non ne vuole sapere di restituire ciò che non è suo..."
+            },
+            {
+                "ora": "02:00",
+                "titolo": "Coop Troop",
+                "descrizione": "La Coop Troop parte in missione per aiutare il porcellino d'india Albert, che è convinto di stare per morire di fame. In realtà Albert è solo molto pigro e non vuole muoversi per raggiungere il suo cibo. Cercando di trovare una soluzione che lo faciliti, Billy e Jo creano per Albert una nuova ruota per cavie, ma questa invenzione poterà solo guai..."
+            },
+            {
+                "ora": "02:20",
+                "titolo": "Super Happy Magic Forest",
+                "descrizione": "Herbert attende con ansia un'intervista per una rivista di giardinaggio. Ma quando un drago distrugge le sue piante, ricorre a misure disperate e sparge del fertilizzante puzzolente di Puzzofurbone! Ora la foresta rischia di essere sommersa dalla puzza e gli eroi devono trovare un modo per liberarsene."
+            },
+            {
+                "ora": "02:25",
+                "titolo": "Super Happy Magic Forest",
+                "descrizione": "Gli eroi non dovrebbero partire in missione senza il permesso di Mr. Simpaticone. Ma quando incontrano una dolce regina scoiattolo che implora il loro aiuto, non riescono a dirle di no. Peccato che lo scoiattolo non sia chi dice di essere, e gli eroi debbano sistemare le cose prima che sia troppo tardi."
+            },
+            {
+                "ora": "02:35",
+                "titolo": "Super Happy Magic Forest",
+                "descrizione": "I fiori di ciliegio sono scomparsi e gli eroi partono per una missione nel cuore della foresta, dove la leggenda narra che si nasconda una magica creatura. Twinkle ride: non crede alle leggende! Ma quando un aiuto inaspettato arriva mentre cercano di fermare il ladro di fiori, sarà costretta a ricredersi."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Frisbee",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:05",
-                "titolo": "Curioso come George",
-                "descrizione": "2' Stagione Ep.3 - Una serie basata sui libri di Margret e H. A. Rey. George, simpatica scimmietta, scopre ogni giorno cose sorprendenti sul funzionamento di tutto ciò che la circonda."
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Curioso come George",
-                "descrizione": "2' Stagione Ep.4 - Una serie basata sui libri di Margret e H. A. Rey. George, simpatica scimmietta, scopre ogni giorno cose sorprendenti sul funzionamento di tutto ciò che la circonda."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
-                "descrizione": "1' Stagione Ep.16 - Oggy si prende cura di Piya, figlia dei suoi amici indiani. Ma gli scarafaggi cercano di usare l'elefantino rosa a proprio vantaggio per rovinare la vita di Oggy!"
-            },
-            {
-                "ora": "22:25",
-                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
-                "descrizione": "1' Stagione Ep.17 - Oggy si prende cura di Piya, figlia dei suoi amici indiani. Ma gli scarafaggi cercano di usare l'elefantino rosa a proprio vantaggio per rovinare la vita di Oggy!"
-            },
-            {
-                "ora": "22:45",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "3' Stagione Ep.34 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "3' Stagione Ep.35 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
-            },
-            {
-                "ora": "23:15",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "3' Stagione Ep.36 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "3' Stagione Ep.37 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "3' Stagione Ep.38 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Alvinnn!!! And the Chipmunks",
@@ -1134,24 +1089,59 @@
                 "ora": "00:30",
                 "titolo": "Alvinnn!!! And the Chipmunks",
                 "descrizione": "3' Stagione Ep.41 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
+            },
+            {
+                "ora": "00:45",
+                "titolo": "Alvinnn!!! And the Chipmunks",
+                "descrizione": "3' Stagione Ep.42 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
+            },
+            {
+                "ora": "01:05",
+                "titolo": "Floopaloo",
+                "descrizione": "1' Stagione Ep.1 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
+            },
+            {
+                "ora": "01:25",
+                "titolo": "Floopaloo",
+                "descrizione": "1' Stagione Ep.2 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
+            },
+            {
+                "ora": "01:45",
+                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
+                "descrizione": "7' Stagione Ep.17 - Oggy si prende cura di Piya, figlia dei suoi amici indiani."
+            },
+            {
+                "ora": "02:05",
+                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
+                "descrizione": "7' Stagione Ep.18 - Oggy si prende cura di Piya, figlia dei suoi amici indiani."
+            },
+            {
+                "ora": "02:30",
+                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
+                "descrizione": "7' Stagione Ep.19 - Oggy si prende cura di Piya, figlia dei suoi amici indiani."
+            },
+            {
+                "ora": "02:50",
+                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
+                "descrizione": "7' Stagione Ep.20 - Oggy si prende cura di Piya, figlia dei suoi amici indiani."
+            },
+            {
+                "ora": "03:10",
+                "titolo": "Floopaloo",
+                "descrizione": "1' Stagione Ep.3 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
+            },
+            {
+                "ora": "03:30",
+                "titolo": "Floopaloo",
+                "descrizione": "1' Stagione Ep.4 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "DMAX",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "19:45",
-                "titolo": "Airport Security: Europa",
-                "descrizione": "Gli agenti che lavorano ai confini dei paesi europei tentano di fermare l'arrivo di droga, armi e terroristi sospetti. Il loro lavoro e' individuare il pericolo."
-            },
-            {
-                "ora": "21:40",
-                "titolo": "Vado a vivere nel bosco",
-                "descrizione": "Marty arriva in Missouri per salvare un rifugio che sta crollando."
-            },
             {
                 "ora": "23:25",
                 "titolo": "Vado a vivere nel bosco",
@@ -1201,24 +1191,24 @@
                 "ora": "21:33",
                 "titolo": "Quarta Repubblica",
                 "descrizione": "Nicola Porro affronta temi d'attualita', di politica e di economia in compagnia dei suoi ospiti."
+            },
+            {
+                "ora": "21:20",
+                "titolo": "Grande Fratello Vip",
+                "descrizione": "I concorrenti continuano la loro avventura nella Casa. Tra strategie, emozioni e primi attriti, scopriamo cosa e' successo."
+            },
+            {
+                "ora": "23:40",
+                "titolo": "Cold Case - Delitti irrisolti",
+                "descrizione": "L'unica detective donna della squadra omicidi di Philadelphia trova la sua vocazione quando le vengono assegnati casi che non sono mai stati risolti. La detective Lilly Rush combina i suoi istinti naturali con la tecnologia aggiornata disponibile oggi per garantire giustizia a tutte le vittime che può."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Rai Sport",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:45",
-                "titolo": "BordoCampo",
-                "descrizione": "Settimanale dedicato interamente alla cadetteria: sintesi, gol, interviste e analisi approfondite sui protagonisti del torneo di Serie B."
-            },
-            {
-                "ora": "21:50",
-                "titolo": "Calcio: Serie C 2026-2027 - 6a Giornata: Inter U23 - Foggia (REPLICA)",
-                "descrizione": "Le partite della Lega Pro, con i tre gironi del campionato italiano di calcio e della Coppa Italia di Serie C."
-            },
             {
                 "ora": "23:45",
                 "titolo": "Europei Di Maschili Pallavolo 2026 - Ottavi: Italia - Danimarca",
@@ -1268,29 +1258,24 @@
                 "ora": "23:40",
                 "titolo": "Cold Case - Delitti irrisolti",
                 "descrizione": "L'unica detective donna della squadra omicidi di Philadelphia trova la sua vocazione quando le vengono assegnati casi che non sono mai stati risolti. La detective Lilly Rush combina i suoi istinti naturali con la tecnologia aggiornata disponibile oggi per garantire giustizia a tutte le vittime che può."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "LA7 DOC - Il volto segreto di Pompei",
+                "descrizione": "Pompeii's Secret Underground (Ep.01 e 02) - Documentario, Regia di Oscar Chan UK 2024. Un vivido quadro di una società complessa profondamente divisa da ricchezza, potere e opportunità, che rivela una civiltà molto lontana..."
+            },
+            {
+                "ora": "23:55",
+                "titolo": "(S)ex List",
+                "descrizione": "Con quanti uomini bisogna andare a letto prima di incontrare quello giusto? Secondo una popolare rivista femminile la media per le donne americane è di 10.5. Perciò, se a ventinove anni sei già a quota 19 come Ally Darling e sei pure single, la crisi di identità (e di coscienza) è dietro l'angolo. Soprattutto se tua sorella minore è alle prese con i preparativi del suo matrimonio, una madre ipercritica fa pressing psicologico per sapere chi ti accompagnerà alla cerimonia e la mattina dopo l'addio al nubilato scopri che il tuo capo che ti ha appena licenziata in tronco è inutilmente diventato il numero venti. È così che Ally, animata dai migliori propositi, decide di rintracciare tutti i suoi ex, per capire se tra di loro si nasconda l'uomo giusto in modo da non sforare l'imbarazzante primato raggiunto tra le amiche."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sportitalia",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Calcio Tonight",
-                "descrizione": "Calcio Tonight"
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Sportitaliamercato",
-                "descrizione": "Il programma tratta le vicende del calciomercato sia nella sessione estiva che in quella invernale e va in onda alle ore 23.00 dal lunedì al venerdì"
-            },
-            {
-                "ora": "23:40",
-                "titolo": "Cose Nostre - I Quattro Picciriddi",
-                "descrizione": "A Catania, nell'estate del 1976, sotto gli occhi di un intero quartiere, scompaiono quattro ragazzini fra 14 e 15 anni. Nessuno vede, nessuno parla, finché il mafioso Antonino Calderone, dieci anni più tardi, rivela la storia al giudice Giovanni Falcone. I quattro picciriddi sono i protagonisti della prossima puntata di Cose Nostre. Si chiamavano Riccardo Cristaldi, Benedetto Zuccaro, Giovanni La Greca e Lorenzo Pace. Per la prima volta dopo cinquant'anni, con interviste al Procuratore aggiunto di Catania Sebastiano Ardita e ai giornalisti Graziella Proto e Salvatore Scalia, Cose Nostre affronta il muro di omertà che ancora circonda la sorte di quei ragazzini, cresciuti nel quartiere popolare di San Cristoforo e abituati a vivere di espedienti, puniti dal boss Nitto Santapaola perché avevano scippato la persona sbagliata."
-            },
             {
                 "ora": "23:15",
                 "titolo": "Il Processo Del Lunedì",
@@ -1335,44 +1320,29 @@
                 "ora": "23:19",
                 "titolo": "Final Score",
                 "descrizione": "Uno stadio viene preso d'assalto da un gruppo di criminali armati che chiedono un riscatto. Un ex militare userà le sue capacità per mettere in salvo i 35.000 spettatori, tra cui anche la figlia di un suo commilitone morto al fronte."
+            },
+            {
+                "ora": "23:02",
+                "titolo": "The weapon",
+                "descrizione": "Dallas è una macchina per uccidere guidata da un solo uomo, in preda a una misteriosa furia. I suoi attacchi alle bande di motociclisti e ai laboratori di metanfetamine fanno infuriare il boss della mafia di Las Vegas che tiene in ostaggio la fidanzata di Dallas. Ma per chi lavora Dallas? Nemmeno la tortura lo farà parlare, e non si fermerà finché non verrà fatta giustizia."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Pearl Harbor",
+                "descrizione": "In una tranquilla domenica mattina di dicembre, mentre i bambini sono intenti nei loro giochi e le famiglie raccolte in preghiera, squadroni di aerei da guerra giapponesi sfrecciano roboanti nei cieli del paradiso hawaiano un attacco a sorpresa contro le forze armate statunitensi di base a Pearl Harbor. Pearl Harbor è la storia di un intenso amore nato sullo sfondo degli eventi del 7 dicembre 1941. Descrive le vicende di due giovani e audaci piloti e della bella e sensibile infermiera di cui sono entrambi innamorati. E' un imponente film sulla forza dell'amore e sul coraggio del singolo messi a dura prova da un drammatico momento storico."
+            },
+            {
+                "ora": "23:03",
+                "titolo": "Klimt",
+                "descrizione": "La vita del pittore austriaco Gustav Klimt, artista rivoluzionario e figura simbolo dell'Art Nouveau. Tra opere che suscitano scandalo, sfide alle convenzioni e la nascita della Secessione Viennese, Klimt lascia un segno profondo sull'arte del suo tempo e sostiene giovani talenti emergenti."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport 24",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "22:30",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "TG Ultima Parola",
-                "descrizione": "Approfondimenti in studio con ospiti e live. Il riassunto della giornata sportiva vista con gli occhi della nostra redazione."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "TG Ultima Parola",
-                "descrizione": "Approfondimenti in studio con ospiti e live. Il riassunto della giornata sportiva vista con gli occhi della nostra redazione."
-            },
             {
                 "ora": "00:00",
                 "titolo": "News Line",
@@ -1402,24 +1372,44 @@
                 "ora": "02:30",
                 "titolo": "News Line",
                 "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "03:00",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "03:30",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "04:00",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "04:30",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "05:00",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "05:30",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport Uno",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "20:50",
-                "titolo": "Ottavi di finale: Slovenia - Serbia",
-                "descrizione": "- Serbia Campionati Europei di pallavolo maschile. - Dall'Italia, la Bulgaria e la Finlandia."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Goleador: L'ora dei gol",
-                "descrizione": "Tutti i gol e le immagini piu' belle della Serie A, della Premier League, della Bundesliga e della Ligue 1. Senza dimenticare le spettacolari coppe europee. In studio Sara Benci."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Juventus - Atalanta",
@@ -1469,34 +1459,24 @@
                 "ora": "22:05",
                 "titolo": "Azerbaijan 2019 - F1",
                 "descrizione": "Su i motori per il Gran Premio d'Azerbaijan! I piloti in griglia aspettano il via dai semafori per lottare fino all'ultimo giro e conquistare la bandiera a scacchi. Bottas in pole position."
+            },
+            {
+                "ora": "22:30",
+                "titolo": "Austria",
+                "descrizione": "Collegamenti dal paddock, i commenti dei nostri ospiti in studio, le emozioni delle feste nei box. Questi gli ingredienti della nuova puntata di Race Anatomy"
+            },
+            {
+                "ora": "21:00",
+                "titolo": "BMW PGA Championship: Giorno 4",
+                "descrizione": "DP World Tour. - Dal Wentworth Club di Virginia Water, Inghilterra."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport Calcio",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "20:20",
-                "titolo": "Guidonia Montecelio - Livorno",
-                "descrizione": "Livorno Serie C. - Tutte le partite del campionato di Serie C italiano."
-            },
-            {
-                "ora": "22:25",
-                "titolo": "Da San Siro Al Meazza: 100 Anni Di Passione",
-                "descrizione": "Passione. - 100 anni dello Stadio Meazza: storie e aneddoti attraverso i ricordi di tanti campioni di Milan e Inter protagonisti nella \"Scala del calcio"
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Juventus - Atalanta",
-                "descrizione": "Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo"
-            },
-            {
-                "ora": "23:25",
-                "titolo": "UEFA Nations League Magazine",
-                "descrizione": "UEFA Nations League Magazine"
-            },
             {
                 "ora": "00:10",
                 "titolo": "Goleador: L'ora dei gol",
@@ -1536,19 +1516,34 @@
                 "ora": "22:45",
                 "titolo": "Finale",
                 "descrizione": "WTA 250 San Paolo"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Ottavi di finale: Italia - Danimarca",
+                "descrizione": "Campionati Europei di pallavolo maschile. - Dall'Italia, la Bulgaria e la Finlandia."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Finale Reyer Venezia - Olimpia Milano",
+                "descrizione": "Milano Supercoppa Italiana. - Ancora loro, come nell'ultima finale scudetto: Olimpia Milano e' Reyer Venezia si giocano il primo titolo della stagione, l'edizione numero 32 della Supercoppa. TC: Geri De Rosa e Andrea Meneghin."
+            },
+            {
+                "ora": "23:30",
+                "titolo": "Juventus - Atalanta",
+                "descrizione": "Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo"
+            },
+            {
+                "ora": "22:05",
+                "titolo": "Azerbaijan 2019 - F1",
+                "descrizione": "Su i motori per il Gran Premio d'Azerbaijan! I piloti in griglia aspettano il via dai semafori per lottare fino all'ultimo giro e conquistare la bandiera a scacchi. Bottas in pole position."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport Tennis",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Tennis: ATP & WTA",
-                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
-            },
             {
                 "ora": "22:45",
                 "titolo": "Finale",
@@ -1603,34 +1598,19 @@
                 "ora": "23:30",
                 "titolo": "Juventus - Atalanta",
                 "descrizione": "Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo"
-            }
-        ],
-        "aggiornato": "19:25"
-    },
-    {
-        "canale": "Sky Sport F1",
-        "categoria": "Sport",
-        "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Azerbaijan 2018 - F1",
-                "descrizione": "Su i motori per il GP d'Azerbaijan! Venti piloti in griglia che aspettano il via dai semafori per lottare fino all'ultimo giro e conquistare la bandiera a scacchi. Vettel in pole position."
             },
             {
                 "ora": "22:05",
                 "titolo": "Azerbaijan 2019 - F1",
                 "descrizione": "Su i motori per il Gran Premio d'Azerbaijan! I piloti in griglia aspettano il via dai semafori per lottare fino all'ultimo giro e conquistare la bandiera a scacchi. Bottas in pole position."
-            },
-            {
-                "ora": "23:05",
-                "titolo": "Azerbaigian",
-                "descrizione": "Riviviamo insieme tutte le forti emozioni che ci sono state trasmesse durante gli scorsi Gran Premi in attesa della gara di Formula 1."
-            },
-            {
-                "ora": "23:20",
-                "titolo": "Inside The Team - Un Gp con Kimi",
-                "descrizione": "Inside The Team - Un Gp con Kimi"
-            },
+            }
+        ],
+        "aggiornato": "22:11"
+    },
+    {
+        "canale": "Sky Sport F1",
+        "categoria": "Sport",
+        "programmi": [
             {
                 "ora": "00:05",
                 "titolo": "Europa 2016: Baku - F1",
@@ -1670,34 +1650,34 @@
                 "ora": "05:00",
                 "titolo": "Azerbaigian",
                 "descrizione": "Riviviamo insieme tutte le forti emozioni che ci sono state trasmesse durante gli scorsi Gran Premi in attesa della gara di Formula 1."
+            },
+            {
+                "ora": "05:15",
+                "titolo": "Inside The Team - Un Gp con Kimi",
+                "descrizione": "Inside The Team - Un Gp con Kimi"
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Sport 24 Today",
+                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Juventus - Atalanta",
+                "descrizione": "Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo"
+            },
+            {
+                "ora": "00:10",
+                "titolo": "Goleador: L'ora dei gol",
+                "descrizione": "Tutti i gol e le immagini piu' belle della Serie A, della Premier League, della Bundesliga e della Ligue 1. Senza dimenticare le spettacolari coppe europee. In studio Sara Benci."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport Legend",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Dream team",
-                "descrizione": "S1 Ep1 - Sullo sfondo degli anni 80, una generazione di talenti trasforma l'NBA in una potenza economica."
-            },
-            {
-                "ora": "21:45",
-                "titolo": "Dream team",
-                "descrizione": "S1 Ep2 Questo è il '92 - La rosa definitiva della squadra olimpica di pallacanestro maschile del 1992 viene presentata."
-            },
-            {
-                "ora": "22:30",
-                "titolo": "Milito",
-                "descrizione": "Calcio."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Stories",
-                "descrizione": "Tra i protagonisti di “Physical Italia”, Federica Pellegrini si racconta: l’infanzia, l’adolescenza, la prima Olimpiade, il primo passo con il marito, la maternità e tanto altro"
-            },
             {
                 "ora": "23:45",
                 "titolo": "The Lost Dreamteam",
@@ -1737,29 +1717,34 @@
                 "ora": "00:10",
                 "titolo": "Goleador: L'ora dei gol",
                 "descrizione": "Tutti i gol e le immagini piu' belle della Serie A, della Premier League, della Bundesliga e della Ligue 1. Senza dimenticare le spettacolari coppe europee. In studio Sara Benci."
+            },
+            {
+                "ora": "22:45",
+                "titolo": "Finale",
+                "descrizione": "WTA 250 San Paolo"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Ottavi di finale: Italia - Danimarca",
+                "descrizione": "Campionati Europei di pallavolo maschile. - Dall'Italia, la Bulgaria e la Finlandia."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Finale Reyer Venezia - Olimpia Milano",
+                "descrizione": "Milano Supercoppa Italiana. - Ancora loro, come nell'ultima finale scudetto: Olimpia Milano e' Reyer Venezia si giocano il primo titolo della stagione, l'edizione numero 32 della Supercoppa. TC: Geri De Rosa e Andrea Meneghin."
+            },
+            {
+                "ora": "23:30",
+                "titolo": "Juventus - Atalanta",
+                "descrizione": "Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo"
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport MotoGP",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:20",
-                "titolo": "GP Austria: Gara",
-                "descrizione": "Quindicesimo appuntamento del mondiale 2026: al Red Bull Ring, in Austria, si accendono i motori per la gara della MotoGP. Telecronaca Meda- Sanchini"
-            },
-            {
-                "ora": "22:15",
-                "titolo": "Reparto Corse Moto GP",
-                "descrizione": "Appuntamento settimanale con l'approfondimento dedicato al motomondiale, condotto da Marta Abiye con Paolo Beltramo."
-            },
-            {
-                "ora": "22:30",
-                "titolo": "Austria",
-                "descrizione": "Collegamenti dal paddock, i commenti dei nostri ospiti in studio, le emozioni delle feste nei box. Questi gli ingredienti della nuova puntata di Race Anatomy"
-            },
             {
                 "ora": "23:30",
                 "titolo": "GP Austria: Gara",
@@ -1804,19 +1789,29 @@
                 "ora": "04:20",
                 "titolo": "Austria",
                 "descrizione": "Collegamenti dal paddock, i commenti dei nostri ospiti in studio, le emozioni delle feste nei box. Questi gli ingredienti della nuova puntata di Race Anatomy"
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Sport 24 Today",
+                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Juventus - Atalanta",
+                "descrizione": "Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo"
+            },
+            {
+                "ora": "00:10",
+                "titolo": "Goleador: L'ora dei gol",
+                "descrizione": "Tutti i gol e le immagini piu' belle della Serie A, della Premier League, della Bundesliga e della Ligue 1. Senza dimenticare le spettacolari coppe europee. In studio Sara Benci."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport Basket",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "20:55",
-                "titolo": "Semifinale 2 Olimpia Milano - Virtus Bologna",
-                "descrizione": "Bologna Supercoppa Italiana. - La seconda semifinale e' di grande prestigio: Milano, campione d'Italia in carica, contro la Virtus Bologna, miglior semifinalista degli ultimi playoff. Telecronaca di Davide Fumagalli e Chicca Macchi."
-            },
             {
                 "ora": "23:15",
                 "titolo": "Finale Reyer Venezia - Olimpia Milano",
@@ -1871,19 +1866,19 @@
                 "ora": "22:05",
                 "titolo": "Azerbaijan 2019 - F1",
                 "descrizione": "Su i motori per il Gran Premio d'Azerbaijan! I piloti in griglia aspettano il via dai semafori per lottare fino all'ultimo giro e conquistare la bandiera a scacchi. Bottas in pole position."
+            },
+            {
+                "ora": "22:30",
+                "titolo": "Austria",
+                "descrizione": "Collegamenti dal paddock, i commenti dei nostri ospiti in studio, le emozioni delle feste nei box. Questi gli ingredienti della nuova puntata di Race Anatomy"
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport Arena",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "20:50",
-                "titolo": "Ottavi di finale: Slovenia - Serbia",
-                "descrizione": "- Serbia Campionati Europei di pallavolo maschile. - Dall'Italia, la Bulgaria e la Finlandia."
-            },
             {
                 "ora": "23:00",
                 "titolo": "Ottavi di finale: Italia - Danimarca",
@@ -1938,29 +1933,19 @@
                 "ora": "22:45",
                 "titolo": "Finale",
                 "descrizione": "WTA 250 San Paolo"
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Finale Reyer Venezia - Olimpia Milano",
+                "descrizione": "Milano Supercoppa Italiana. - Ancora loro, come nell'ultima finale scudetto: Olimpia Milano e' Reyer Venezia si giocano il primo titolo della stagione, l'edizione numero 32 della Supercoppa. TC: Geri De Rosa e Andrea Meneghin."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport Max",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "20:20",
-                "titolo": "Spezia - Vis Pesaro",
-                "descrizione": "Dallo Stadio Alberto Picco di La Spezia, Italia."
-            },
-            {
-                "ora": "22:30",
-                "titolo": "Europa League Remix Ep.1 18/09/2026",
-                "descrizione": "Europa & Conference League Remix. - Europa & Conference League Remix"
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Milito",
-                "descrizione": "Calcio."
-            },
             {
                 "ora": "23:30",
                 "titolo": "Juventus - Atalanta",
@@ -2005,24 +1990,29 @@
                 "ora": "00:10",
                 "titolo": "Goleador: L'ora dei gol",
                 "descrizione": "Tutti i gol e le immagini piu' belle della Serie A, della Premier League, della Bundesliga e della Ligue 1. Senza dimenticare le spettacolari coppe europee. In studio Sara Benci."
+            },
+            {
+                "ora": "22:45",
+                "titolo": "Finale",
+                "descrizione": "WTA 250 San Paolo"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Ottavi di finale: Italia - Danimarca",
+                "descrizione": "Campionati Europei di pallavolo maschile. - Dall'Italia, la Bulgaria e la Finlandia."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Finale Reyer Venezia - Olimpia Milano",
+                "descrizione": "Milano Supercoppa Italiana. - Ancora loro, come nell'ultima finale scudetto: Olimpia Milano e' Reyer Venezia si giocano il primo titolo della stagione, l'edizione numero 32 della Supercoppa. TC: Geri De Rosa e Andrea Meneghin."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport Mix",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "20:20",
-                "titolo": "Pianese - Sambenedettese",
-                "descrizione": "Serie C. - Tutte le partite del campionato di Serie C italiano."
-            },
-            {
-                "ora": "22:30",
-                "titolo": "Campionato Italiano Beach Volley Gold Caorle: Finale Femminile",
-                "descrizione": "Gold Caorle: Finale Femminile Beach Volley. - La finale femminile decreta la vittoria di Valentina Gottardi e Reka Orsi Toth."
-            },
             {
                 "ora": "23:20",
                 "titolo": "Campionato Italiano Beach Volley Gold Caorle: Finale Maschile",
@@ -2072,19 +2062,24 @@
                 "ora": "22:45",
                 "titolo": "Finale",
                 "descrizione": "WTA 250 San Paolo"
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Ottavi di finale: Italia - Danimarca",
+                "descrizione": "Campionati Europei di pallavolo maschile. - Dall'Italia, la Bulgaria e la Finlandia."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Finale Reyer Venezia - Olimpia Milano",
+                "descrizione": "Milano Supercoppa Italiana. - Ancora loro, come nell'ultima finale scudetto: Olimpia Milano e' Reyer Venezia si giocano il primo titolo della stagione, l'edizione numero 32 della Supercoppa. TC: Geri De Rosa e Andrea Meneghin."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport Golf",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "BMW PGA Championship: Giorno 4",
-                "descrizione": "DP World Tour. - Dal Wentworth Club di Virginia Water, Inghilterra."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Husqvarna British Masters: Giorno 4",
@@ -2139,25 +2134,20 @@
                 "ora": "22:30",
                 "titolo": "Austria",
                 "descrizione": "Collegamenti dal paddock, i commenti dei nostri ospiti in studio, le emozioni delle feste nei box. Questi gli ingredienti della nuova puntata di Race Anatomy"
+            },
+            {
+                "ora": "21:00",
+                "titolo": "BMW PGA Championship: Giorno 4",
+                "descrizione": "DP World Tour. - Dal Wentworth Club di Virginia Water, Inghilterra."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport 251",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "20:00",
-                "titolo": "Guidonia Montecelio - Livorno",
-                "descrizione": "Cod. 417456 - Serie C - 6a giornata. Calcio d'inizio ore 20:30."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "00:00",
                 "titolo": "Juventus - Atalanta",
                 "descrizione": "Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo"
@@ -2206,25 +2196,25 @@
                 "ora": "23:45",
                 "titolo": "The Lost Dreamteam",
                 "descrizione": "Tra fine anni '80 e inizio '90 la Jugoslavia del basket domina il mondo, ma la guerra spezza squadra e Paese. Il regista Jure Pavlovic racconta quel sogno interrotto."
+            },
+            {
+                "ora": "22:30",
+                "titolo": "Campionato Italiano Beach Volley Gold Caorle: Finale Femminile",
+                "descrizione": "Gold Caorle: Finale Femminile Beach Volley. - La finale femminile decreta la vittoria di Valentina Gottardi e Reka Orsi Toth."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "GP Olanda Gara",
+                "descrizione": "Dopo la sosta estiva il mondiale riparte nella tana di Max Verstappen e con Kimi Antonelli leader della classifica. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport 252",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "20:00",
-                "titolo": "Spezia - Vis Pesaro",
-                "descrizione": "Cod. 417489 - Serie C - 6a giornata. Calcio d'inizio ore 20:30."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "00:00",
                 "titolo": "Juventus - Atalanta",
                 "descrizione": "Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo"
@@ -2273,25 +2263,25 @@
                 "ora": "23:45",
                 "titolo": "The Lost Dreamteam",
                 "descrizione": "Tra fine anni '80 e inizio '90 la Jugoslavia del basket domina il mondo, ma la guerra spezza squadra e Paese. Il regista Jure Pavlovic racconta quel sogno interrotto."
+            },
+            {
+                "ora": "22:30",
+                "titolo": "Campionato Italiano Beach Volley Gold Caorle: Finale Femminile",
+                "descrizione": "Gold Caorle: Finale Femminile Beach Volley. - La finale femminile decreta la vittoria di Valentina Gottardi e Reka Orsi Toth."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "GP Olanda Gara",
+                "descrizione": "Dopo la sosta estiva il mondiale riparte nella tana di Max Verstappen e con Kimi Antonelli leader della classifica. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport 253",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "20:00",
-                "titolo": "Pianese - Sambenedettese",
-                "descrizione": "Cod. 417467 - Serie C - 6a giornata. Calcio d'inizio ore 20:30."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "00:00",
                 "titolo": "Juventus - Atalanta",
                 "descrizione": "Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo"
@@ -2340,25 +2330,25 @@
                 "ora": "23:45",
                 "titolo": "The Lost Dreamteam",
                 "descrizione": "Tra fine anni '80 e inizio '90 la Jugoslavia del basket domina il mondo, ma la guerra spezza squadra e Paese. Il regista Jure Pavlovic racconta quel sogno interrotto."
+            },
+            {
+                "ora": "22:30",
+                "titolo": "Campionato Italiano Beach Volley Gold Caorle: Finale Femminile",
+                "descrizione": "Gold Caorle: Finale Femminile Beach Volley. - La finale femminile decreta la vittoria di Valentina Gottardi e Reka Orsi Toth."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "GP Olanda Gara",
+                "descrizione": "Dopo la sosta estiva il mondiale riparte nella tana di Max Verstappen e con Kimi Antonelli leader della classifica. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport 254",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "20:00",
-                "titolo": "Treviso - Desenzano",
-                "descrizione": "Cod. 417310 - Serie C - 6a giornata. Calcio d'inizio ore 20:30."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "00:00",
                 "titolo": "Juventus - Atalanta",
                 "descrizione": "Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo"
@@ -2407,25 +2397,25 @@
                 "ora": "23:45",
                 "titolo": "The Lost Dreamteam",
                 "descrizione": "Tra fine anni '80 e inizio '90 la Jugoslavia del basket domina il mondo, ma la guerra spezza squadra e Paese. Il regista Jure Pavlovic racconta quel sogno interrotto."
+            },
+            {
+                "ora": "22:30",
+                "titolo": "Campionato Italiano Beach Volley Gold Caorle: Finale Femminile",
+                "descrizione": "Gold Caorle: Finale Femminile Beach Volley. - La finale femminile decreta la vittoria di Valentina Gottardi e Reka Orsi Toth."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "GP Olanda Gara",
+                "descrizione": "Dopo la sosta estiva il mondiale riparte nella tana di Max Verstappen e con Kimi Antonelli leader della classifica. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport 255",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "20:00",
-                "titolo": "Trento - Pro Vercelli",
-                "descrizione": "Cod. 417309 - Serie C - 6a giornata. Calcio d'inizio ore 20:30."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "00:00",
                 "titolo": "Juventus - Atalanta",
                 "descrizione": "Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo"
@@ -2474,25 +2464,25 @@
                 "ora": "23:45",
                 "titolo": "The Lost Dreamteam",
                 "descrizione": "Tra fine anni '80 e inizio '90 la Jugoslavia del basket domina il mondo, ma la guerra spezza squadra e Paese. Il regista Jure Pavlovic racconta quel sogno interrotto."
+            },
+            {
+                "ora": "22:30",
+                "titolo": "Campionato Italiano Beach Volley Gold Caorle: Finale Femminile",
+                "descrizione": "Gold Caorle: Finale Femminile Beach Volley. - La finale femminile decreta la vittoria di Valentina Gottardi e Reka Orsi Toth."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "GP Olanda Gara",
+                "descrizione": "Dopo la sosta estiva il mondiale riparte nella tana di Max Verstappen e con Kimi Antonelli leader della classifica. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport 256",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "20:00",
-                "titolo": "Dolomiti Bellunesi - Lumezzane",
-                "descrizione": "Cod. 417241 - Serie C - 6a giornata. Calcio d'inizio ore 20:30."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "00:00",
                 "titolo": "Juventus - Atalanta",
                 "descrizione": "Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo"
@@ -2541,25 +2531,25 @@
                 "ora": "23:45",
                 "titolo": "The Lost Dreamteam",
                 "descrizione": "Tra fine anni '80 e inizio '90 la Jugoslavia del basket domina il mondo, ma la guerra spezza squadra e Paese. Il regista Jure Pavlovic racconta quel sogno interrotto."
+            },
+            {
+                "ora": "22:30",
+                "titolo": "Campionato Italiano Beach Volley Gold Caorle: Finale Femminile",
+                "descrizione": "Gold Caorle: Finale Femminile Beach Volley. - La finale femminile decreta la vittoria di Valentina Gottardi e Reka Orsi Toth."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "GP Olanda Gara",
+                "descrizione": "Dopo la sosta estiva il mondiale riparte nella tana di Max Verstappen e con Kimi Antonelli leader della classifica. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport 257",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "00:00",
                 "titolo": "Juventus - Atalanta",
                 "descrizione": "Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo"
@@ -2608,25 +2598,25 @@
                 "ora": "23:45",
                 "titolo": "The Lost Dreamteam",
                 "descrizione": "Tra fine anni '80 e inizio '90 la Jugoslavia del basket domina il mondo, ma la guerra spezza squadra e Paese. Il regista Jure Pavlovic racconta quel sogno interrotto."
+            },
+            {
+                "ora": "22:30",
+                "titolo": "Campionato Italiano Beach Volley Gold Caorle: Finale Femminile",
+                "descrizione": "Gold Caorle: Finale Femminile Beach Volley. - La finale femminile decreta la vittoria di Valentina Gottardi e Reka Orsi Toth."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "GP Olanda Gara",
+                "descrizione": "Dopo la sosta estiva il mondiale riparte nella tana di Max Verstappen e con Kimi Antonelli leader della classifica. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport 258",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "00:00",
                 "titolo": "Juventus - Atalanta",
                 "descrizione": "Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo"
@@ -2675,25 +2665,25 @@
                 "ora": "23:45",
                 "titolo": "The Lost Dreamteam",
                 "descrizione": "Tra fine anni '80 e inizio '90 la Jugoslavia del basket domina il mondo, ma la guerra spezza squadra e Paese. Il regista Jure Pavlovic racconta quel sogno interrotto."
+            },
+            {
+                "ora": "22:30",
+                "titolo": "Campionato Italiano Beach Volley Gold Caorle: Finale Femminile",
+                "descrizione": "Gold Caorle: Finale Femminile Beach Volley. - La finale femminile decreta la vittoria di Valentina Gottardi e Reka Orsi Toth."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "GP Olanda Gara",
+                "descrizione": "Dopo la sosta estiva il mondiale riparte nella tana di Max Verstappen e con Kimi Antonelli leader della classifica. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Sport 259",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "00:00",
                 "titolo": "Juventus - Atalanta",
                 "descrizione": "Entrambe reduci da un ko rispettivamente contro Sassuolo (3-2) e Cagliari (1-2). Atalanta imbattuta nelle ultime 8 sfide a Torino, 2 vittorie e 6 pari. TC: Compagnoni-Montolivo"
@@ -2742,19 +2732,24 @@
                 "ora": "23:45",
                 "titolo": "The Lost Dreamteam",
                 "descrizione": "Tra fine anni '80 e inizio '90 la Jugoslavia del basket domina il mondo, ma la guerra spezza squadra e Paese. Il regista Jure Pavlovic racconta quel sogno interrotto."
+            },
+            {
+                "ora": "22:30",
+                "titolo": "Campionato Italiano Beach Volley Gold Caorle: Finale Femminile",
+                "descrizione": "Gold Caorle: Finale Femminile Beach Volley. - La finale femminile decreta la vittoria di Valentina Gottardi e Reka Orsi Toth."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "GP Olanda Gara",
+                "descrizione": "Dopo la sosta estiva il mondiale riparte nella tana di Max Verstappen e con Kimi Antonelli leader della classifica. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Cinema Uno",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Hamnet - Nel nome del figlio",
-                "descrizione": "In un bosco, una giovane donna dorme rannicchiata nella culla formata dalla radice emersa di un albero secolare: è vestita di rosso cupo, accompagnata da un falco che risponde ai suoi richiami, conosce erbe e pozioni, si dice non sia nata da sua madre ma da una donna venuta da lontano. Si chiama Agnes e quando Will la vede se ne innamora subito. Will è il giovane William Shakespeare, che riesce a sposarla nonostante l’ostilità delle famiglie e ad avere con lei tre figli, Susannah e i gemelli Judith e Hamnet. Ma un lutto li colpisce, quando il drammaturgo lavora già a Londra, e Hamnet diventa Hamlet. Tratta dal romanzo del 2020 di Maggie O’Farrell, la storia di Agnes (più che di William), intessuta di magia e femminilità."
-            },
             {
                 "ora": "23:25",
                 "titolo": "Le tigri di Mompracem",
@@ -2809,19 +2804,19 @@
                 "ora": "22:35",
                 "titolo": "Se son rose",
                 "descrizione": "Cosa succederebbe se qualcuno mandasse di nascosto alle tue ex dal tuo cellulare: \"Sono cambiato. Riproviamoci!\"? È quello che accade a Leonardo Giustini (Pieraccioni) giornalista che si occupa di tecnologia e innovazione per il web. Sua figlia, stanca di vedere il padre campione di un'inarrestabile rincorsa al disimpegno, decide di mandare il fatale messaggino. E come zombie usciti dalle tombe dell'amore, alcune delle ex incredibilmente rispondono all'accorato appello e quella che era nata come l'innocua provocazione di un'adolescente si trasforma in una macchina del tempo. Per Leonardo, barricato nel fortino delle sue pigre certezze tra divano, involtini primavera e computer, sarà un emozionante e divertente viaggio nel passato e nel presente."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Amore a seconda vista",
+                "descrizione": "Durante la notte, Raphael si ritrova immerso in un mondo in cui non ha mai incontrato Olivia, la donna della sua vita. Come farà a riconquistare sua moglie, che è diventata una completa sconosciuta?"
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Cinema Collection",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Fast and Furious",
-                "descrizione": "Per la strade di Los Angeles, gli amanti di motori e velocità competono in gare clandestine, sfrecciando su automobili dalle carene fiammanti e dai carburanti pompati a protossido di azoto. Incaricato di indagare su un clan di rapinatori che trafugano camion in corsa, il giovane agente Brian O'Conner si addentra sotto copertura nel mondo delle corse illegali entrando in contatto con il nerboruto Dominic Toretto, un esperto meccanico ed eccezionale pilota. Dopo aver perso una corsa contro di lui, Brian riesce a metterlo in salvo dalla polizia e da quel momento si aprono per lui le porte del garage e della famiglia di Toretto, dove non proprio tutti sono bendisposti ad accoglierlo."
-            },
             {
                 "ora": "23:05",
                 "titolo": "2 Fast 2 Furious",
@@ -2876,19 +2871,19 @@
                 "ora": "00:20",
                 "titolo": "Old Boy",
                 "descrizione": "È la storia di Dae-su, imprigionato per 15 anni senza sapere perché, e della sua implacabile vendetta una volta libero. Non dovrà cercare lontano, perché il suo persecutore non ha ancora chiuso la partita. L'appena conosciuta e subito amata Mi-do lo accompagnerà alla ricerca della rivincita e, più ancora, del motivo della sua prigionia."
+            },
+            {
+                "ora": "22:35",
+                "titolo": "Se son rose",
+                "descrizione": "Cosa succederebbe se qualcuno mandasse di nascosto alle tue ex dal tuo cellulare: \"Sono cambiato. Riproviamoci!\"? È quello che accade a Leonardo Giustini (Pieraccioni) giornalista che si occupa di tecnologia e innovazione per il web. Sua figlia, stanca di vedere il padre campione di un'inarrestabile rincorsa al disimpegno, decide di mandare il fatale messaggino. E come zombie usciti dalle tombe dell'amore, alcune delle ex incredibilmente rispondono all'accorato appello e quella che era nata come l'innocua provocazione di un'adolescente si trasforma in una macchina del tempo. Per Leonardo, barricato nel fortino delle sue pigre certezze tra divano, involtini primavera e computer, sarà un emozionante e divertente viaggio nel passato e nel presente."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Cinema Family",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Il gatto con gli stivali",
-                "descrizione": "In un antico borgo spagnolo, Gatto e Humpty Dumpty sono cresciuti come fratelli in un orfanotrofio, col sogno di trovare un giorno i fagioli magici e arrivare all'oca dalle uova d'oro. Nel frattempo, geloso del suo compare più atletico ed amato, Humpty non ha però disdegnato la strada del crimine ed è proprio in occasione di una rapina che qualcosa è andato storto e la loro amicizia si è frantumata. Gatto si aggira da allora come un fuorilegge, in cerca di un modo per ripulire il suo nome, mentre Humpty fa squadra con Kitty Zampe di Velluto, una gattina bella e scaltra. Il destino li rimette un giorno insieme, finalmente sulle tracce dei fagioli magici."
-            },
             {
                 "ora": "22:35",
                 "titolo": "Il gatto con gli stivali 2 - L'ultimo desiderio",
@@ -2943,19 +2938,19 @@
                 "ora": "22:35",
                 "titolo": "Se son rose",
                 "descrizione": "Cosa succederebbe se qualcuno mandasse di nascosto alle tue ex dal tuo cellulare: \"Sono cambiato. Riproviamoci!\"? È quello che accade a Leonardo Giustini (Pieraccioni) giornalista che si occupa di tecnologia e innovazione per il web. Sua figlia, stanca di vedere il padre campione di un'inarrestabile rincorsa al disimpegno, decide di mandare il fatale messaggino. E come zombie usciti dalle tombe dell'amore, alcune delle ex incredibilmente rispondono all'accorato appello e quella che era nata come l'innocua provocazione di un'adolescente si trasforma in una macchina del tempo. Per Leonardo, barricato nel fortino delle sue pigre certezze tra divano, involtini primavera e computer, sarà un emozionante e divertente viaggio nel passato e nel presente."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Amore a seconda vista",
+                "descrizione": "Durante la notte, Raphael si ritrova immerso in un mondo in cui non ha mai incontrato Olivia, la donna della sua vita. Come farà a riconquistare sua moglie, che è diventata una completa sconosciuta?"
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Cinema Action",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Pacific Rim",
-                "descrizione": "Legioni di mostruose creature, note come Kaiju, sono emerse dal mare danno il via una guerra che costa milioni di vite e consuma la risorse del pianeta a ritmi vertiginosi. Per combattere i giganteschi Kaiji, sono state ideate delle armi speciali: enormi robot chiamati Jaegers comandati mentalmente da due piloti attraverso delle reti neurali. Ma perfino i Jaegers sembrano impotenti contro i mostri venuti dalle profondità marine. Vicini alla sconfitta, agli abitanti della Terra non resta che affidarsi a due improbabili eroi: uno scapestrato ex pilota e un'inesperta allieva cui viene affidato un vecchio ma glorioso Jaeger. Saranno loro le ultime speranze del genere umano giunto ormai sull’orlo dell’Apolcalisse."
-            },
             {
                 "ora": "23:15",
                 "titolo": "Pacific Rim - La rivolta",
@@ -3010,19 +3005,19 @@
                 "ora": "23:10",
                 "titolo": "Amore a seconda vista",
                 "descrizione": "Durante la notte, Raphael si ritrova immerso in un mondo in cui non ha mai incontrato Olivia, la donna della sua vita. Come farà a riconquistare sua moglie, che è diventata una completa sconosciuta?"
+            },
+            {
+                "ora": "22:50",
+                "titolo": "Vita segreta di Maria Capasso",
+                "descrizione": "Maria (Luisa Ranieri) ha sposato giovanissima un onesto lavoratore, fa l’estetista part time e ha tre figli. La sua è una vita come tante di quelle della periferia popolare di Napoli, che nella fatica quotidiana di arrivare a fine mese ti fa abituare a tutto. Quando al marito viene diagnosticata una malattia in fase terminale, Maria accetta l’aiuto di Gennaro (Daniele Russo), ricco proprietario di un autosalone. Da lui si lascia corteggiare fino a diventarne l’amante. Un giorno lui le propone di diventare partner in affari: trasporterà un carico di cocaina fino in Svizzera. Una volta divenuta vedova, il legame con Gennaro la farà precipitare in un vortice criminale, che le permetterà finalmente di vivere nuove possibilità e coronare vecchi sogni. Ma la strada scelta da Maria per la sua personale rivincita lascerà dietro di sé le sue inevitabili vittime, proprio come in una guerra che non guarda in faccia nessuno."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Cinema Suspense",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Chase",
-                "descrizione": "Gerard Butler in un thriller sospeso tra giustizia e criminalità. Quando sua moglie scompare misteriosamente, Will inizia una disperata ricerca che lo porta su un sentiero oscuro."
-            },
             {
                 "ora": "22:40",
                 "titolo": "High Ground",
@@ -3077,19 +3072,19 @@
                 "ora": "22:35",
                 "titolo": "Se son rose",
                 "descrizione": "Cosa succederebbe se qualcuno mandasse di nascosto alle tue ex dal tuo cellulare: \"Sono cambiato. Riproviamoci!\"? È quello che accade a Leonardo Giustini (Pieraccioni) giornalista che si occupa di tecnologia e innovazione per il web. Sua figlia, stanca di vedere il padre campione di un'inarrestabile rincorsa al disimpegno, decide di mandare il fatale messaggino. E come zombie usciti dalle tombe dell'amore, alcune delle ex incredibilmente rispondono all'accorato appello e quella che era nata come l'innocua provocazione di un'adolescente si trasforma in una macchina del tempo. Per Leonardo, barricato nel fortino delle sue pigre certezze tra divano, involtini primavera e computer, sarà un emozionante e divertente viaggio nel passato e nel presente."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Amore a seconda vista",
+                "descrizione": "Durante la notte, Raphael si ritrova immerso in un mondo in cui non ha mai incontrato Olivia, la donna della sua vita. Come farà a riconquistare sua moglie, che è diventata una completa sconosciuta?"
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Cinema Romance",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Appuntamento con l'amore",
-                "descrizione": "Nella giornata di S. Valentino si incrociano diverse storie, tutte flebilmente unite tra loro. C’è l’italoamericano colmo di gioia per aver chiesto di sposarlo alla sua ragazza che di lavoro consegna fiori, c’è la press agent stressata e sempre sola, il reporter sportivo d’assalto relegato a fare costume, la donna soldato in licenza dal fronte, la maestra elementare che sembra aver finalmente trovato l’uomo giusto, il bambino di lei innamorato e il donnaiolo incallito."
-            },
             {
                 "ora": "23:10",
                 "titolo": "Amore a seconda vista",
@@ -3144,19 +3139,19 @@
                 "ora": "22:35",
                 "titolo": "Se son rose",
                 "descrizione": "Cosa succederebbe se qualcuno mandasse di nascosto alle tue ex dal tuo cellulare: \"Sono cambiato. Riproviamoci!\"? È quello che accade a Leonardo Giustini (Pieraccioni) giornalista che si occupa di tecnologia e innovazione per il web. Sua figlia, stanca di vedere il padre campione di un'inarrestabile rincorsa al disimpegno, decide di mandare il fatale messaggino. E come zombie usciti dalle tombe dell'amore, alcune delle ex incredibilmente rispondono all'accorato appello e quella che era nata come l'innocua provocazione di un'adolescente si trasforma in una macchina del tempo. Per Leonardo, barricato nel fortino delle sue pigre certezze tra divano, involtini primavera e computer, sarà un emozionante e divertente viaggio nel passato e nel presente."
+            },
+            {
+                "ora": "22:50",
+                "titolo": "Vita segreta di Maria Capasso",
+                "descrizione": "Maria (Luisa Ranieri) ha sposato giovanissima un onesto lavoratore, fa l’estetista part time e ha tre figli. La sua è una vita come tante di quelle della periferia popolare di Napoli, che nella fatica quotidiana di arrivare a fine mese ti fa abituare a tutto. Quando al marito viene diagnosticata una malattia in fase terminale, Maria accetta l’aiuto di Gennaro (Daniele Russo), ricco proprietario di un autosalone. Da lui si lascia corteggiare fino a diventarne l’amante. Un giorno lui le propone di diventare partner in affari: trasporterà un carico di cocaina fino in Svizzera. Una volta divenuta vedova, il legame con Gennaro la farà precipitare in un vortice criminale, che le permetterà finalmente di vivere nuove possibilità e coronare vecchi sogni. Ma la strada scelta da Maria per la sua personale rivincita lascerà dietro di sé le sue inevitabili vittime, proprio come in una guerra che non guarda in faccia nessuno."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Cinema Drama",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "I racconti della domenica",
-                "descrizione": "Con il marito partito per l'America per mantenere la famiglia, una madre siciliana manda Francesco Giuffrida e suo fratello Antonio in seminario, affinché abbiano un futuro migliore. Francesco, poi, decide di candidarsi a sindaco."
-            },
             {
                 "ora": "22:50",
                 "titolo": "Vita segreta di Maria Capasso",
@@ -3211,24 +3206,19 @@
                 "ora": "00:20",
                 "titolo": "Old Boy",
                 "descrizione": "È la storia di Dae-su, imprigionato per 15 anni senza sapere perché, e della sua implacabile vendetta una volta libero. Non dovrà cercare lontano, perché il suo persecutore non ha ancora chiuso la partita. L'appena conosciuta e subito amata Mi-do lo accompagnerà alla ricerca della rivincita e, più ancora, del motivo della sua prigionia."
-            }
-        ],
-        "aggiornato": "19:25"
-    },
-    {
-        "canale": "Sky Cinema Comedy",
-        "categoria": "Cinema",
-        "programmi": [
-            {
-                "ora": "20:55",
-                "titolo": "Quasi orfano",
-                "descrizione": "La storia ruota intorno a Valentino e Costanza che hanno fondato una famosissima griffe nel mondo del design. Lei è la donna che ha fatto sbocciare e conoscere nel jet set milanese il talento del ragazzo dal passato strappalacrime, rimasto solo al mondo fin dalla più tenera età. Valentino Tarocco, di origine pugliese, ha progressivamente tagliato i ponti con la sua famiglia, al punto di dichiararsi orfano e cambiare cognome. La famiglia Tarocco, colorita e numerosa, gestisce una masseria agriturismo con il voto più basso su TripAdvisor a causa delle intemperanze del patriarca. In occasione del compleanno della madre, Nicola, il fratello maggiore tenta di riallacciare i contatti sperando in un aiuto economico di Valentino alla disastrata attività economica di famiglia."
             },
             {
                 "ora": "22:35",
                 "titolo": "Se son rose",
                 "descrizione": "Cosa succederebbe se qualcuno mandasse di nascosto alle tue ex dal tuo cellulare: \"Sono cambiato. Riproviamoci!\"? È quello che accade a Leonardo Giustini (Pieraccioni) giornalista che si occupa di tecnologia e innovazione per il web. Sua figlia, stanca di vedere il padre campione di un'inarrestabile rincorsa al disimpegno, decide di mandare il fatale messaggino. E come zombie usciti dalle tombe dell'amore, alcune delle ex incredibilmente rispondono all'accorato appello e quella che era nata come l'innocua provocazione di un'adolescente si trasforma in una macchina del tempo. Per Leonardo, barricato nel fortino delle sue pigre certezze tra divano, involtini primavera e computer, sarà un emozionante e divertente viaggio nel passato e nel presente."
-            },
+            }
+        ],
+        "aggiornato": "22:11"
+    },
+    {
+        "canale": "Sky Cinema Comedy",
+        "categoria": "Cinema",
+        "programmi": [
             {
                 "ora": "00:10",
                 "titolo": "E poi si vede",
@@ -3278,24 +3268,24 @@
                 "ora": "23:15",
                 "titolo": "Pacific Rim - La rivolta",
                 "descrizione": "Il ribelle Jake Pentecost, un tempo promettente pilota Jaeger il cui leggendario padre diede la vita per assicurare la vittoria dell'uomo sui mostruosi \"Kaiju"
+            },
+            {
+                "ora": "00:20",
+                "titolo": "Old Boy",
+                "descrizione": "È la storia di Dae-su, imprigionato per 15 anni senza sapere perché, e della sua implacabile vendetta una volta libero. Non dovrà cercare lontano, perché il suo persecutore non ha ancora chiuso la partita. L'appena conosciuta e subito amata Mi-do lo accompagnerà alla ricerca della rivincita e, più ancora, del motivo della sua prigionia."
+            },
+            {
+                "ora": "22:35",
+                "titolo": "Se son rose",
+                "descrizione": "Cosa succederebbe se qualcuno mandasse di nascosto alle tue ex dal tuo cellulare: \"Sono cambiato. Riproviamoci!\"? È quello che accade a Leonardo Giustini (Pieraccioni) giornalista che si occupa di tecnologia e innovazione per il web. Sua figlia, stanca di vedere il padre campione di un'inarrestabile rincorsa al disimpegno, decide di mandare il fatale messaggino. E come zombie usciti dalle tombe dell'amore, alcune delle ex incredibilmente rispondono all'accorato appello e quella che era nata come l'innocua provocazione di un'adolescente si trasforma in una macchina del tempo. Per Leonardo, barricato nel fortino delle sue pigre certezze tra divano, involtini primavera e computer, sarà un emozionante e divertente viaggio nel passato e nel presente."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Uno",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Foodish\",\"prima\":true,\"description\":\"Joe Bastianich, Vittorio e Antonio Orefice alla ricerca della pizza più Foodish di Napoli.\",\"durata\":65,\"genre\":\"Show\",\"category\":\"Intrattenimento\",\"image\":\"https://ethaneurope.it.imageservice.sky.com/pd-image/ec271fe7-9f5a-43c8-89db-dc48d833e2c3/background/600\",\"episode_number\":24,\"series_number\":3,\"director\":null,\"inizio\":\"2026-09-21T18:10:00.000Z\",\"fine\":\"2026-09-21T19:15:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2025\"},{\"id\":\"xq4SmcQp7EOp\",\"title\":\"Cucine da incubo",
-                "descrizione": "Al ristorante La Tasca, gestito da Giovanni e dalla sua famiglia, gli affari vanno male: Antonino dovrà dare un’identità alla cucina del locale e vestire i panni del mental coach."
-            },
-            {
-                "ora": "22:25",
-                "titolo": "Cucine da incubo",
-                "descrizione": "Antonino Cannavacciuolo dovrà risollevare le sorti del ristorante La Brasserie, in provincia di Avellino, in difficoltà per le scelte sbagliate del proprietario Ivano."
-            },
             {
                 "ora": "23:35",
                 "titolo": "X Factor",
@@ -3345,81 +3335,91 @@
                 "ora": "22:10",
                 "titolo": "Art Raiders - Caccia ai tombaroli",
                 "descrizione": "Ep1 di 4 Il Cratere di Eufronio - Crimine, arte e indagini impossibili si intrecciano in un racconto di storie incredibili. Protagonista dell'episodio il Cratere di Eufronio."
+            },
+            {
+                "ora": "23:40",
+                "titolo": "Race to Survive Alaska: Sfida...\",\"prima\":true,\"description\":\"Nel corso di una durissima prova iniziale al Survivor Camp, i concorrenti devono vivere di ciò che offre la natura per poter continuare la gara.\",\"durata\":45,\"genre\":\"Avventura\",\"category\":\"Mondo E Tendenze\",\"image\":\"https://ethaneurope.it.imageservice.sky.com/pd-image/3c526937-fbf0-47e0-9180-b0f00aa000e0/background/600\",\"episode_number\":2,\"series_number\":1,\"director\":null,\"inizio\":\"2026-09-21T20:10:00.000Z\",\"fine\":\"2026-09-21T20:55:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2023\"}},{\"canale\":{\"logo\":\"8007.png\",\"name\":\"Sky Classica\",\"number\":\"124\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"19clChWWkeYE\",\"title\":\"J.Strauss - Una notte a Venezia",
+                "descrizione": "Operetta su libretto di Friedrich Zell e Richard Genee (1883) - con Anton de Ridder, Sylvia Geszty, Trudeliese Schmidt, Julia Migenes, Erich Kunz - Orchestra Radio di Monaco - Kurt Eichhorn, dir. - Vaclav Kaslik, reg. (1973)"
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Stand Up Comedy (Italy)",
+                "descrizione": "Ep1 di 14 - In questo episodio: Giorgia Fumo, Carmine Del Grosso, Alessandro Ciacci, Daniele Tinti."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Atlantic",
         "categoria": "Intrattenimento",
         "programmi": [
             {
-                "ora": "21:15",
-                "titolo": "Cucine da incubo",
-                "descrizione": "Al ristorante La Tasca, gestito da Giovanni e dalla sua famiglia, gli affari vanno male: Antonino dovrà dare un’identità alla cucina del locale e vestire i panni del mental coach."
+                "ora": "23:40",
+                "titolo": "Twisted Metal",
+                "descrizione": "Twisted Metal è una action comedy basata su un'idea originale di Rhett Reese e Paul Wernick (Deadpool, Zombieland) e scritta da Michael Jonathan Smith (Cobra Kai), che racconta di un outsider chiacchierone a cui viene offerta la possibilità di una vita migliore, ma solo se riesce a consegnare con successo un pacchetto misterioso attraverso un deserto post-apocalittico."
             },
             {
-                "ora": "21:15",
-                "titolo": "Twisted Metal\",\"prima\":true,\"description\":\"Twisted Metal è una action comedy basata su un'idea originale di Rhett Reese e Paul Wernick (Deadpool, Zombieland) e scritta da Michael Jonathan Smith (Cobra Kai), che racconta di un outsider chiacchierone a cui viene offerta la possibilità di una vita migliore, ma solo se riesce a consegnare con successo un pacchetto misterioso attraverso un deserto post-apocalittico.\",\"durata\":40,\"genre\":\"Action Adventure Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg\",\"episode_number\":1,\"series_number\":2,\"ac\":[{\"n\":\"Anthony Mackie\",\"i\":\"vecvTm7SimizluJkyIwBxeLbvRm.jpg\",\"c\":\"John Doe\",\"u\":\"t\"},{\"n\":\"Stephanie Beatriz\",\"i\":\"7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg\",\"c\":\"Quiet\",\"u\":\"t\"},{\"n\":\"Nuufolau Joel Seanoa\",\"i\":\"4Bc1T8VET7KqgyKvjmOxtz2XBLa.jpg\",\"c\":\"Sweet Tooth\",\"u\":\"t\"},{\"n\":\"Will Arnett\",\"i\":\"cXupYqk2ERP13XBkw816skYdVDO.jpg\",\"c\":\"Sweet Tooth (voice)\",\"u\":\"t\"},{\"n\":\"Anthony Carrigan\",\"i\":\"emyCDFrdEygDB5ySZLwUqk2wkLa.jpg\",\"c\":\"Calypso\",\"u\":\"t\"},{\"n\":\"Mike Mitchell\",\"i\":\"fwn7cNiVmfGAOvbH2auqgSFVixn.jpg\",\"c\":\"Stu\",\"u\":\"t\"},{\"n\":\"Tahj Vaughans\",\"i\":\"hhEAf5krHKKYiSagnwexloYDPJD.jpg\",\"c\":\"Mike\",\"u\":\"t\"},{\"n\":\"Saylor Curda\",\"i\":\"k1eaDucnuu9MtDMCE2pn9rzeQzS.jpg\",\"c\":\"Mayhem\",\"u\":\"t\"},{\"n\":\"Thomas Haden Church\",\"i\":\"74NK9HCYvNafMggSp1PAK5Nwkpe.jpg\",\"c\":\"Agent Stone\",\"u\":\"t\"},{\"n\":\"Richard de Klerk\",\"i\":\"lmep3NOTwDPW9B3mSRol1kstLLr.jpg\",\"c\":\"Mr. Grimm\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/6wLJiFwmuZNvTiE9aqFqx4dDcWh.jpg\",\"inizio\":\"2026-09-21T19:15:00.000Z\",\"fine\":\"2026-09-21T19:55:00.000Z\",\"rating\":\"3,842\",\"condividi\":\"$undefined\",\"year\":\"2025\",\"pr\":\"Stati Uniti\",\"tiEp\":\"PRSRPNT\",\"trEp\":null,\"primaSer\":true}},{\"canale\":{\"logo\":\"11244.png\",\"name\":\"Sky Serie HD\",\"number\":\"112\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"OuiLbT0gS7oK\",\"title\":\"Avvocati di famiglia",
-                "descrizione": "L'avvocato e alcolizzata in via di guarigione Abigail Bianchi sta lottando per rimettere insieme la sua carriera e la sua famiglia dopo aver toccato il fondo. Come condizione per la sua libertà vigilata, Abby è costretta a lavorare presso lo studio del padre separato, Svensson and Associates, e ad esercitarsi nel diritto di famiglia per la prima volta stringendo nuove relazioni con il fratellastro e la sorellastra che non ha mai incontrato. Il risultato è uno studio legale di famiglia disfunzionale che opera per aiutare altre famiglie con le proprie disfunzioni."
+                "ora": "00:15",
+                "titolo": "Twisted Metal",
+                "descrizione": "Twisted Metal è una action comedy basata su un'idea originale di Rhett Reese e Paul Wernick (Deadpool, Zombieland) e scritta da Michael Jonathan Smith (Cobra Kai), che racconta di un outsider chiacchierone a cui viene offerta la possibilità di una vita migliore, ma solo se riesce a consegnare con successo un pacchetto misterioso attraverso un deserto post-apocalittico."
             },
             {
-                "ora": "21:15",
+                "ora": "00:50",
+                "titolo": "Nightsleeper",
+                "descrizione": "Joe Roag è un agente di polizia che si trova a bordo del treno come passeggero, e Abby Aysgarth, direttrice tecnica ad interim del National Cyber Security Centre (NCSC). Quando il treno viene hackerato e dirottato, i due sono costretti a collaborare in una corsa contro il tempo per salvare i passeggeri e scongiurare una catastrofe. Ma contro chi stanno combattendo? Di chi possono fidarsi? C'è qualcuno a bordo che sa più di quanto lasci intendere? E come possono avere la meglio sul misterioso \"Driver"
+            },
+            {
+                "ora": "01:50",
+                "titolo": "Nightsleeper",
+                "descrizione": "Joe Roag è un agente di polizia che si trova a bordo del treno come passeggero, e Abby Aysgarth, direttrice tecnica ad interim del National Cyber Security Centre (NCSC). Quando il treno viene hackerato e dirottato, i due sono costretti a collaborare in una corsa contro il tempo per salvare i passeggeri e scongiurare una catastrofe. Ma contro chi stanno combattendo? Di chi possono fidarsi? C'è qualcuno a bordo che sa più di quanto lasci intendere? E come possono avere la meglio sul misterioso \"Driver"
+            },
+            {
+                "ora": "02:40",
+                "titolo": "Speciale: Nord Sud Ovest Est, Extended",
+                "descrizione": "Un racconto corale dietro le quinte della serie. Attori, registi e capi reparto svelano il set, le scelte creative e il successo del progetto (Versione Extended)."
+            },
+            {
+                "ora": "03:05",
+                "titolo": "Chicago P.D.",
+                "descrizione": "La serie racconta le vicende del Distretto 21 del Dipartimento di Polizia di Chicago, composto da due gruppi differenti: l'Unità di pattuglia, che vigila le pericolose strade della città, e l'Unità di Intelligence, che combatte il crimine organizzato, il traffico di droga e si occupa dei casi di omicidio più complessi."
+            },
+            {
+                "ora": "03:50",
+                "titolo": "Chicago P.D.",
+                "descrizione": "La serie racconta le vicende del Distretto 21 del Dipartimento di Polizia di Chicago, composto da due gruppi differenti: l'Unità di pattuglia, che vigila le pericolose strade della città, e l'Unità di Intelligence, che combatte il crimine organizzato, il traffico di droga e si occupa dei casi di omicidio più complessi."
+            },
+            {
+                "ora": "04:30",
+                "titolo": "Accused: Sotto processo",
+                "descrizione": "In questa serie di antologie criminali, gli spettatori scoprono come una persona comune è rimasta coinvolta in una situazione straordinaria, rivelando alla fine come una svolta sbagliata porti a un'altra, finché non è troppo tardi per tornare indietro. Raccontato dal punto di vista dell'imputato, ogni episodio si apre in un'aula di tribunale con gli accusati senza conoscere il loro crimine o come sono finiti sotto processo."
+            },
+            {
+                "ora": "05:15",
+                "titolo": "Accused: Sotto processo",
+                "descrizione": "In questa serie di antologie criminali, gli spettatori scoprono come una persona comune è rimasta coinvolta in una situazione straordinaria, rivelando alla fine come una svolta sbagliata porti a un'altra, finché non è troppo tardi per tornare indietro. Raccontato dal punto di vista dell'imputato, ogni episodio si apre in un'aula di tribunale con gli accusati senza conoscere il loro crimine o come sono finiti sotto processo."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "X Factor",
+                "descrizione": "Si continua a cercare il prossimo grande talento: le Audition di X Factor 2026 proseguono con Paola, Jake, Francesco e Irama al tavolo."
+            },
+            {
+                "ora": "23:45",
+                "titolo": "Twisted Metal\",\"prima\":true,\"description\":\"Twisted Metal è una action comedy basata su un'idea originale di Rhett Reese e Paul Wernick (Deadpool, Zombieland) e scritta da Michael Jonathan Smith (Cobra Kai), che racconta di un outsider chiacchierone a cui viene offerta la possibilità di una vita migliore, ma solo se riesce a consegnare con successo un pacchetto misterioso attraverso un deserto post-apocalittico.\",\"durata\":30,\"genre\":\"Action Adventure Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg\",\"episode_number\":2,\"series_number\":2,\"ac\":[{\"n\":\"Anthony Mackie\",\"i\":\"vecvTm7SimizluJkyIwBxeLbvRm.jpg\",\"c\":\"John Doe\",\"u\":\"t\"},{\"n\":\"Stephanie Beatriz\",\"i\":\"7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg\",\"c\":\"Quiet\",\"u\":\"t\"},{\"n\":\"Nuufolau Joel Seanoa\",\"i\":\"4Bc1T8VET7KqgyKvjmOxtz2XBLa.jpg\",\"c\":\"Sweet Tooth\",\"u\":\"t\"},{\"n\":\"Will Arnett\",\"i\":\"cXupYqk2ERP13XBkw816skYdVDO.jpg\",\"c\":\"Sweet Tooth (voice)\",\"u\":\"t\"},{\"n\":\"Anthony Carrigan\",\"i\":\"emyCDFrdEygDB5ySZLwUqk2wkLa.jpg\",\"c\":\"Calypso\",\"u\":\"t\"},{\"n\":\"Mike Mitchell\",\"i\":\"fwn7cNiVmfGAOvbH2auqgSFVixn.jpg\",\"c\":\"Stu\",\"u\":\"t\"},{\"n\":\"Tahj Vaughans\",\"i\":\"hhEAf5krHKKYiSagnwexloYDPJD.jpg\",\"c\":\"Mike\",\"u\":\"t\"},{\"n\":\"Saylor Curda\",\"i\":\"k1eaDucnuu9MtDMCE2pn9rzeQzS.jpg\",\"c\":\"Mayhem\",\"u\":\"t\"},{\"n\":\"Thomas Haden Church\",\"i\":\"74NK9HCYvNafMggSp1PAK5Nwkpe.jpg\",\"c\":\"Agent Stone\",\"u\":\"t\"},{\"n\":\"Richard de Klerk\",\"i\":\"lmep3NOTwDPW9B3mSRol1kstLLr.jpg\",\"c\":\"Mr. Grimm\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/6wLJiFwmuZNvTiE9aqFqx4dDcWh.jpg\",\"inizio\":\"2026-09-21T19:55:00.000Z\",\"fine\":\"2026-09-21T20:25:00.000Z\",\"rating\":\"3,842\",\"condividi\":\"$undefined\",\"year\":\"2025\",\"pr\":\"Stati Uniti\",\"tiEp\":\"DOLF4C3\",\"trEp\":null}},{\"canale\":{\"logo\":\"11244.png\",\"name\":\"Sky Serie HD\",\"number\":\"112\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"aP5HchtM1JYI\",\"title\":\"Hanno ucciso l'uomo ragno",
+                "descrizione": "Ep3 di 8 - Max e Mauro vengono invitati a suonare in televisione ma c’è un problema: l’esibizione è proprio il giorno prima dell’orale della maturità!"
+            },
+            {
+                "ora": "22:10",
                 "titolo": "Le indagini del comandante Saint Barth",
                 "descrizione": "Gabriel Saint-Barthélémy è chiamato da tutti Saint-Barth per le sue origini. Al suo ritorno nell'isola paradisiaca dove è nato finisce subito per doversi occupare di un omicidio suscitando la curiosità dei colleghi per la sua straordinaria attitudine a calarsi nei panni delle vittime."
-            },
-            {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "20:55",
-                "titolo": "Delitti",
-                "descrizione": "S6 Ep4 di 4 Le Bestie di Satana - Storie di delitti e suicidi si intrecciano con satanismo ed esoterismo."
-            },
-            {
-                "ora": "21:15",
-                "titolo": "Tutankhamon: i misteri del faraone",
-                "descrizione": "Ripercorriamo gli ultimi 100 giorni di vita di Tutankhamon, raccontando la vita quotidiana del faraone 19enne che governava una delle civilta' piu' avanzate al mondo."
-            },
-            {
-                "ora": "21:20",
-                "titolo": "Race to Survive Alaska: Sfida...\",\"prima\":true,\"description\":\"A poche ore dall'inizio della gara, l'Alaska miete la sua prima vittima: un concorrente deve essere evacuato.\",\"durata\":55,\"genre\":\"Avventura\",\"category\":\"Mondo E Tendenze\",\"image\":\"https://ethaneurope.it.imageservice.sky.com/pd-image/194ea3fb-d567-40d9-9b36-aba62b0e71ce/background/600\",\"episode_number\":1,\"series_number\":1,\"director\":null,\"inizio\":\"2026-09-21T19:15:00.000Z\",\"fine\":\"2026-09-21T20:10:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2023\"}},{\"canale\":{\"logo\":\"8007.png\",\"name\":\"Sky Classica\",\"number\":\"124\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"5HE0VDiGeVbO\",\"title\":\"Picnic al Prater con Wiener Symphoniker",
-                "descrizione": "I Wiener Symphoniker ci invitano a seguire con loro il concerto all'aperto davanti allo spettacolare scenario del Wiener Riesenrad - Dirk Kaftan, dir. - con V.L.Boecker, R.Fingerlos (Vienna, Prater - 2023)"
-            },
-            {
-                "ora": "21:00",
-                "titolo": "Maurizio Battista: A Rio a Rio",
-                "descrizione": "Lo spettacolo di Maurizio Battista (ITA 2023)"
-            },
-            {
-                "ora": "21:00",
-                "titolo": "Caught In The Act",
-                "descrizione": "Ep3 di 24 Abbiamo dei cani a casa - Neko sospetta che la sua ragazza stia oltrepassando il limite con i suoi clienti allo strip-club."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Serie",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Avvocati di famiglia",
-                "descrizione": "L'avvocato e alcolizzata in via di guarigione Abigail Bianchi sta lottando per rimettere insieme la sua carriera e la sua famiglia dopo aver toccato il fondo. Come condizione per la sua libertà vigilata, Abby è costretta a lavorare presso lo studio del padre separato, Svensson and Associates, e ad esercitarsi nel diritto di famiglia per la prima volta stringendo nuove relazioni con il fratellastro e la sorellastra che non ha mai incontrato. Il risultato è uno studio legale di famiglia disfunzionale che opera per aiutare altre famiglie con le proprie disfunzioni."
-            },
-            {
-                "ora": "22:05",
-                "titolo": "Avvocati di famiglia",
-                "descrizione": "L'avvocato e alcolizzata in via di guarigione Abigail Bianchi sta lottando per rimettere insieme la sua carriera e la sua famiglia dopo aver toccato il fondo. Come condizione per la sua libertà vigilata, Abby è costretta a lavorare presso lo studio del padre separato, Svensson and Associates, e ad esercitarsi nel diritto di famiglia per la prima volta stringendo nuove relazioni con il fratellastro e la sorellastra che non ha mai incontrato. Il risultato è uno studio legale di famiglia disfunzionale che opera per aiutare altre famiglie con le proprie disfunzioni."
-            },
-            {
-                "ora": "22:55",
-                "titolo": "Avvocati di famiglia",
-                "descrizione": "L'avvocato e alcolizzata in via di guarigione Abigail Bianchi sta lottando per rimettere insieme la sua carriera e la sua famiglia dopo aver toccato il fondo. Come condizione per la sua libertà vigilata, Abby è costretta a lavorare presso lo studio del padre separato, Svensson and Associates, e ad esercitarsi nel diritto di famiglia per la prima volta stringendo nuove relazioni con il fratellastro e la sorellastra che non ha mai incontrato. Il risultato è uno studio legale di famiglia disfunzionale che opera per aiutare altre famiglie con le proprie disfunzioni."
-            },
             {
                 "ora": "23:45",
                 "titolo": "Hanno ucciso l'uomo ragno",
@@ -3464,18 +3464,11 @@
                 "ora": "23:35",
                 "titolo": "X Factor",
                 "descrizione": "Si continua a cercare il prossimo grande talento: le Audition di X Factor 2026 proseguono con Paola, Jake, Francesco e Irama al tavolo."
-            }
-        ],
-        "aggiornato": "19:25"
-    },
-    {
-        "canale": "Sky Investigation",
-        "categoria": "Intrattenimento",
-        "programmi": [
+            },
             {
-                "ora": "21:15",
-                "titolo": "Le indagini del comandante Saint Barth",
-                "descrizione": "Gabriel Saint-Barthélémy è chiamato da tutti Saint-Barth per le sue origini. Al suo ritorno nell'isola paradisiaca dove è nato finisce subito per doversi occupare di un omicidio suscitando la curiosità dei colleghi per la sua straordinaria attitudine a calarsi nei panni delle vittime."
+                "ora": "23:45",
+                "titolo": "Twisted Metal\",\"prima\":true,\"description\":\"Twisted Metal è una action comedy basata su un'idea originale di Rhett Reese e Paul Wernick (Deadpool, Zombieland) e scritta da Michael Jonathan Smith (Cobra Kai), che racconta di un outsider chiacchierone a cui viene offerta la possibilità di una vita migliore, ma solo se riesce a consegnare con successo un pacchetto misterioso attraverso un deserto post-apocalittico.\",\"durata\":30,\"genre\":\"Action Adventure Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg\",\"episode_number\":2,\"series_number\":2,\"ac\":[{\"n\":\"Anthony Mackie\",\"i\":\"vecvTm7SimizluJkyIwBxeLbvRm.jpg\",\"c\":\"John Doe\",\"u\":\"t\"},{\"n\":\"Stephanie Beatriz\",\"i\":\"7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg\",\"c\":\"Quiet\",\"u\":\"t\"},{\"n\":\"Nuufolau Joel Seanoa\",\"i\":\"4Bc1T8VET7KqgyKvjmOxtz2XBLa.jpg\",\"c\":\"Sweet Tooth\",\"u\":\"t\"},{\"n\":\"Will Arnett\",\"i\":\"cXupYqk2ERP13XBkw816skYdVDO.jpg\",\"c\":\"Sweet Tooth (voice)\",\"u\":\"t\"},{\"n\":\"Anthony Carrigan\",\"i\":\"emyCDFrdEygDB5ySZLwUqk2wkLa.jpg\",\"c\":\"Calypso\",\"u\":\"t\"},{\"n\":\"Mike Mitchell\",\"i\":\"fwn7cNiVmfGAOvbH2auqgSFVixn.jpg\",\"c\":\"Stu\",\"u\":\"t\"},{\"n\":\"Tahj Vaughans\",\"i\":\"hhEAf5krHKKYiSagnwexloYDPJD.jpg\",\"c\":\"Mike\",\"u\":\"t\"},{\"n\":\"Saylor Curda\",\"i\":\"k1eaDucnuu9MtDMCE2pn9rzeQzS.jpg\",\"c\":\"Mayhem\",\"u\":\"t\"},{\"n\":\"Thomas Haden Church\",\"i\":\"74NK9HCYvNafMggSp1PAK5Nwkpe.jpg\",\"c\":\"Agent Stone\",\"u\":\"t\"},{\"n\":\"Richard de Klerk\",\"i\":\"lmep3NOTwDPW9B3mSRol1kstLLr.jpg\",\"c\":\"Mr. Grimm\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/6wLJiFwmuZNvTiE9aqFqx4dDcWh.jpg\",\"inizio\":\"2026-09-21T19:55:00.000Z\",\"fine\":\"2026-09-21T20:25:00.000Z\",\"rating\":\"3,842\",\"condividi\":\"$undefined\",\"year\":\"2025\",\"pr\":\"Stati Uniti\",\"tiEp\":\"DOLF4C3\",\"trEp\":null}},{\"canale\":{\"logo\":\"11244.png\",\"name\":\"Sky Serie HD\",\"number\":\"112\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"aP5HchtM1JYI\",\"title\":\"Hanno ucciso l'uomo ragno",
+                "descrizione": "Ep3 di 8 - Max e Mauro vengono invitati a suonare in televisione ma c’è un problema: l’esibizione è proprio il giorno prima dell’orale della maturità!"
             },
             {
                 "ora": "22:10",
@@ -3483,10 +3476,17 @@
                 "descrizione": "Gabriel Saint-Barthélémy è chiamato da tutti Saint-Barth per le sue origini. Al suo ritorno nell'isola paradisiaca dove è nato finisce subito per doversi occupare di un omicidio suscitando la curiosità dei colleghi per la sua straordinaria attitudine a calarsi nei panni delle vittime."
             },
             {
-                "ora": "23:05",
-                "titolo": "The Equalizer",
-                "descrizione": "The Equalizer, serie tv di Andrew W. Marlowe (l'ideatore di Castle) e Terri Edda Miller per la rete americana CBS, è il remake al femminile dell'omonimo crime drama degli anni '80, in Italia meglio conosciuto con il titolo Un giustiziere a New York. Queen Latifah (Chicago) interpreta Robyn McCall, una donna enigmatica e con un passato misterioso la quale usa le proprie ampie capacità per aiutare chi non ha nessun altro cui rivolgersi. Robyn si presenta alla maggior parte delle persone come una qualunque madre single che sta crescendo tranquillamente la figlia adolescente, Delilah (Laya DeLeon Hayes). Ma per pochi fidati, lei è Il Giustiziere - un angelo custode e difensore degli oppressi che è anche ostinato nella sua ricerca di una redenzione."
-            },
+                "ora": "22:00",
+                "titolo": "Veleno",
+                "descrizione": "S1 Ep1 di 5 Episode 1 - Nel 1997 la polizia irrompe in casa di Federico Scotta: i suoi due figli vengono allontanati e la testimonianza di un bambino da' il via al caso dei Diavoli della Bassa Modenese."
+            }
+        ],
+        "aggiornato": "22:11"
+    },
+    {
+        "canale": "Sky Investigation",
+        "categoria": "Intrattenimento",
+        "programmi": [
             {
                 "ora": "23:50",
                 "titolo": "The Equalizer",
@@ -3531,18 +3531,11 @@
                 "ora": "23:45",
                 "titolo": "Twisted Metal\",\"prima\":true,\"description\":\"Twisted Metal è una action comedy basata su un'idea originale di Rhett Reese e Paul Wernick (Deadpool, Zombieland) e scritta da Michael Jonathan Smith (Cobra Kai), che racconta di un outsider chiacchierone a cui viene offerta la possibilità di una vita migliore, ma solo se riesce a consegnare con successo un pacchetto misterioso attraverso un deserto post-apocalittico.\",\"durata\":30,\"genre\":\"Action Adventure Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg\",\"episode_number\":2,\"series_number\":2,\"ac\":[{\"n\":\"Anthony Mackie\",\"i\":\"vecvTm7SimizluJkyIwBxeLbvRm.jpg\",\"c\":\"John Doe\",\"u\":\"t\"},{\"n\":\"Stephanie Beatriz\",\"i\":\"7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg\",\"c\":\"Quiet\",\"u\":\"t\"},{\"n\":\"Nuufolau Joel Seanoa\",\"i\":\"4Bc1T8VET7KqgyKvjmOxtz2XBLa.jpg\",\"c\":\"Sweet Tooth\",\"u\":\"t\"},{\"n\":\"Will Arnett\",\"i\":\"cXupYqk2ERP13XBkw816skYdVDO.jpg\",\"c\":\"Sweet Tooth (voice)\",\"u\":\"t\"},{\"n\":\"Anthony Carrigan\",\"i\":\"emyCDFrdEygDB5ySZLwUqk2wkLa.jpg\",\"c\":\"Calypso\",\"u\":\"t\"},{\"n\":\"Mike Mitchell\",\"i\":\"fwn7cNiVmfGAOvbH2auqgSFVixn.jpg\",\"c\":\"Stu\",\"u\":\"t\"},{\"n\":\"Tahj Vaughans\",\"i\":\"hhEAf5krHKKYiSagnwexloYDPJD.jpg\",\"c\":\"Mike\",\"u\":\"t\"},{\"n\":\"Saylor Curda\",\"i\":\"k1eaDucnuu9MtDMCE2pn9rzeQzS.jpg\",\"c\":\"Mayhem\",\"u\":\"t\"},{\"n\":\"Thomas Haden Church\",\"i\":\"74NK9HCYvNafMggSp1PAK5Nwkpe.jpg\",\"c\":\"Agent Stone\",\"u\":\"t\"},{\"n\":\"Richard de Klerk\",\"i\":\"lmep3NOTwDPW9B3mSRol1kstLLr.jpg\",\"c\":\"Mr. Grimm\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/6wLJiFwmuZNvTiE9aqFqx4dDcWh.jpg\",\"inizio\":\"2026-09-21T19:55:00.000Z\",\"fine\":\"2026-09-21T20:25:00.000Z\",\"rating\":\"3,842\",\"condividi\":\"$undefined\",\"year\":\"2025\",\"pr\":\"Stati Uniti\",\"tiEp\":\"DOLF4C3\",\"trEp\":null}},{\"canale\":{\"logo\":\"11244.png\",\"name\":\"Sky Serie HD\",\"number\":\"112\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"aP5HchtM1JYI\",\"title\":\"Hanno ucciso l'uomo ragno",
                 "descrizione": "Ep3 di 8 - Max e Mauro vengono invitati a suonare in televisione ma c’è un problema: l’esibizione è proprio il giorno prima dell’orale della maturità!"
-            }
-        ],
-        "aggiornato": "19:25"
-    },
-    {
-        "canale": "Sky Crime",
-        "categoria": "Intrattenimento",
-        "programmi": [
+            },
             {
-                "ora": "20:55",
-                "titolo": "Delitti",
-                "descrizione": "S6 Ep4 di 4 Le Bestie di Satana - Storie di delitti e suicidi si intrecciano con satanismo ed esoterismo."
+                "ora": "22:10",
+                "titolo": "Le indagini del comandante Saint Barth",
+                "descrizione": "Gabriel Saint-Barthélémy è chiamato da tutti Saint-Barth per le sue origini. Al suo ritorno nell'isola paradisiaca dove è nato finisce subito per doversi occupare di un omicidio suscitando la curiosità dei colleghi per la sua straordinaria attitudine a calarsi nei panni delle vittime."
             },
             {
                 "ora": "22:00",
@@ -3550,15 +3543,17 @@
                 "descrizione": "S1 Ep1 di 5 Episode 1 - Nel 1997 la polizia irrompe in casa di Federico Scotta: i suoi due figli vengono allontanati e la testimonianza di un bambino da' il via al caso dei Diavoli della Bassa Modenese."
             },
             {
-                "ora": "23:00",
-                "titolo": "Il crimine tra noi",
-                "descrizione": "S1 Ep19 di 28 Gli Orrori della Fattoria - Il ritrovamento di resti umani in una fattoria di campagna fa emergere anni di violenza e una sconvolgente indagine criminale."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Il crimine tra noi",
-                "descrizione": "S1 Ep20 di 28 Terrore nel Campus Universitario - Una serie di brutali omicidi terrorizza una citta' universitaria e lascia gli investigatori sulle tracce di un assassino spietato."
-            },
+                "ora": "22:10",
+                "titolo": "Art Raiders - Caccia ai tombaroli",
+                "descrizione": "Ep1 di 4 Il Cratere di Eufronio - Crimine, arte e indagini impossibili si intrecciano in un racconto di storie incredibili. Protagonista dell'episodio il Cratere di Eufronio."
+            }
+        ],
+        "aggiornato": "22:11"
+    },
+    {
+        "canale": "Sky Crime",
+        "categoria": "Intrattenimento",
+        "programmi": [
             {
                 "ora": "00:00",
                 "titolo": "Veleno",
@@ -3598,86 +3593,101 @@
                 "ora": "05:25",
                 "titolo": "Online - Connessioni Pericolose",
                 "descrizione": "Ep1 di 7 A un passo dalla fine - Trento: una madre riceve un messaggio inquietante dalla figlia. La giovane ha tentato il suicidio. La donna si rivolge alla PolPost per capire cosa ha spinto la figlia a commettere questo gesto."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "X Factor",
+                "descrizione": "Si continua a cercare il prossimo grande talento: le Audition di X Factor 2026 proseguono con Paola, Jake, Francesco e Irama al tavolo."
+            },
+            {
+                "ora": "23:45",
+                "titolo": "Twisted Metal\",\"prima\":true,\"description\":\"Twisted Metal è una action comedy basata su un'idea originale di Rhett Reese e Paul Wernick (Deadpool, Zombieland) e scritta da Michael Jonathan Smith (Cobra Kai), che racconta di un outsider chiacchierone a cui viene offerta la possibilità di una vita migliore, ma solo se riesce a consegnare con successo un pacchetto misterioso attraverso un deserto post-apocalittico.\",\"durata\":30,\"genre\":\"Action Adventure Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg\",\"episode_number\":2,\"series_number\":2,\"ac\":[{\"n\":\"Anthony Mackie\",\"i\":\"vecvTm7SimizluJkyIwBxeLbvRm.jpg\",\"c\":\"John Doe\",\"u\":\"t\"},{\"n\":\"Stephanie Beatriz\",\"i\":\"7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg\",\"c\":\"Quiet\",\"u\":\"t\"},{\"n\":\"Nuufolau Joel Seanoa\",\"i\":\"4Bc1T8VET7KqgyKvjmOxtz2XBLa.jpg\",\"c\":\"Sweet Tooth\",\"u\":\"t\"},{\"n\":\"Will Arnett\",\"i\":\"cXupYqk2ERP13XBkw816skYdVDO.jpg\",\"c\":\"Sweet Tooth (voice)\",\"u\":\"t\"},{\"n\":\"Anthony Carrigan\",\"i\":\"emyCDFrdEygDB5ySZLwUqk2wkLa.jpg\",\"c\":\"Calypso\",\"u\":\"t\"},{\"n\":\"Mike Mitchell\",\"i\":\"fwn7cNiVmfGAOvbH2auqgSFVixn.jpg\",\"c\":\"Stu\",\"u\":\"t\"},{\"n\":\"Tahj Vaughans\",\"i\":\"hhEAf5krHKKYiSagnwexloYDPJD.jpg\",\"c\":\"Mike\",\"u\":\"t\"},{\"n\":\"Saylor Curda\",\"i\":\"k1eaDucnuu9MtDMCE2pn9rzeQzS.jpg\",\"c\":\"Mayhem\",\"u\":\"t\"},{\"n\":\"Thomas Haden Church\",\"i\":\"74NK9HCYvNafMggSp1PAK5Nwkpe.jpg\",\"c\":\"Agent Stone\",\"u\":\"t\"},{\"n\":\"Richard de Klerk\",\"i\":\"lmep3NOTwDPW9B3mSRol1kstLLr.jpg\",\"c\":\"Mr. Grimm\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/6wLJiFwmuZNvTiE9aqFqx4dDcWh.jpg\",\"inizio\":\"2026-09-21T19:55:00.000Z\",\"fine\":\"2026-09-21T20:25:00.000Z\",\"rating\":\"3,842\",\"condividi\":\"$undefined\",\"year\":\"2025\",\"pr\":\"Stati Uniti\",\"tiEp\":\"DOLF4C3\",\"trEp\":null}},{\"canale\":{\"logo\":\"11244.png\",\"name\":\"Sky Serie HD\",\"number\":\"112\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"aP5HchtM1JYI\",\"title\":\"Hanno ucciso l'uomo ragno",
+                "descrizione": "Ep3 di 8 - Max e Mauro vengono invitati a suonare in televisione ma c’è un problema: l’esibizione è proprio il giorno prima dell’orale della maturità!"
+            },
+            {
+                "ora": "22:10",
+                "titolo": "Le indagini del comandante Saint Barth",
+                "descrizione": "Gabriel Saint-Barthélémy è chiamato da tutti Saint-Barth per le sue origini. Al suo ritorno nell'isola paradisiaca dove è nato finisce subito per doversi occupare di un omicidio suscitando la curiosità dei colleghi per la sua straordinaria attitudine a calarsi nei panni delle vittime."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Veleno",
+                "descrizione": "S1 Ep1 di 5 Episode 1 - Nel 1997 la polizia irrompe in casa di Federico Scotta: i suoi due figli vengono allontanati e la testimonianza di un bambino da' il via al caso dei Diavoli della Bassa Modenese."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Adventure",
         "categoria": "Intrattenimento",
         "programmi": [
             {
-                "ora": "21:15",
-                "titolo": "Cucine da incubo",
-                "descrizione": "Al ristorante La Tasca, gestito da Giovanni e dalla sua famiglia, gli affari vanno male: Antonino dovrà dare un’identità alla cucina del locale e vestire i panni del mental coach."
+                "ora": "23:50",
+                "titolo": "Race to Survive Alaska: Sfida estrema",
+                "descrizione": "Nel corso di una durissima prova iniziale al Survivor Camp, i concorrenti devono vivere di ciò che offre la natura per poter continuare la gara."
             },
             {
-                "ora": "21:15",
-                "titolo": "Twisted Metal\",\"prima\":true,\"description\":\"Twisted Metal è una action comedy basata su un'idea originale di Rhett Reese e Paul Wernick (Deadpool, Zombieland) e scritta da Michael Jonathan Smith (Cobra Kai), che racconta di un outsider chiacchierone a cui viene offerta la possibilità di una vita migliore, ma solo se riesce a consegnare con successo un pacchetto misterioso attraverso un deserto post-apocalittico.\",\"durata\":40,\"genre\":\"Action Adventure Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg\",\"episode_number\":1,\"series_number\":2,\"ac\":[{\"n\":\"Anthony Mackie\",\"i\":\"vecvTm7SimizluJkyIwBxeLbvRm.jpg\",\"c\":\"John Doe\",\"u\":\"t\"},{\"n\":\"Stephanie Beatriz\",\"i\":\"7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg\",\"c\":\"Quiet\",\"u\":\"t\"},{\"n\":\"Nuufolau Joel Seanoa\",\"i\":\"4Bc1T8VET7KqgyKvjmOxtz2XBLa.jpg\",\"c\":\"Sweet Tooth\",\"u\":\"t\"},{\"n\":\"Will Arnett\",\"i\":\"cXupYqk2ERP13XBkw816skYdVDO.jpg\",\"c\":\"Sweet Tooth (voice)\",\"u\":\"t\"},{\"n\":\"Anthony Carrigan\",\"i\":\"emyCDFrdEygDB5ySZLwUqk2wkLa.jpg\",\"c\":\"Calypso\",\"u\":\"t\"},{\"n\":\"Mike Mitchell\",\"i\":\"fwn7cNiVmfGAOvbH2auqgSFVixn.jpg\",\"c\":\"Stu\",\"u\":\"t\"},{\"n\":\"Tahj Vaughans\",\"i\":\"hhEAf5krHKKYiSagnwexloYDPJD.jpg\",\"c\":\"Mike\",\"u\":\"t\"},{\"n\":\"Saylor Curda\",\"i\":\"k1eaDucnuu9MtDMCE2pn9rzeQzS.jpg\",\"c\":\"Mayhem\",\"u\":\"t\"},{\"n\":\"Thomas Haden Church\",\"i\":\"74NK9HCYvNafMggSp1PAK5Nwkpe.jpg\",\"c\":\"Agent Stone\",\"u\":\"t\"},{\"n\":\"Richard de Klerk\",\"i\":\"lmep3NOTwDPW9B3mSRol1kstLLr.jpg\",\"c\":\"Mr. Grimm\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/6wLJiFwmuZNvTiE9aqFqx4dDcWh.jpg\",\"inizio\":\"2026-09-21T19:15:00.000Z\",\"fine\":\"2026-09-21T19:55:00.000Z\",\"rating\":\"3,842\",\"condividi\":\"$undefined\",\"year\":\"2025\",\"pr\":\"Stati Uniti\",\"tiEp\":\"PRSRPNT\",\"trEp\":null,\"primaSer\":true}},{\"canale\":{\"logo\":\"11244.png\",\"name\":\"Sky Serie HD\",\"number\":\"112\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"OuiLbT0gS7oK\",\"title\":\"Avvocati di famiglia",
-                "descrizione": "L'avvocato e alcolizzata in via di guarigione Abigail Bianchi sta lottando per rimettere insieme la sua carriera e la sua famiglia dopo aver toccato il fondo. Come condizione per la sua libertà vigilata, Abby è costretta a lavorare presso lo studio del padre separato, Svensson and Associates, e ad esercitarsi nel diritto di famiglia per la prima volta stringendo nuove relazioni con il fratellastro e la sorellastra che non ha mai incontrato. Il risultato è uno studio legale di famiglia disfunzionale che opera per aiutare altre famiglie con le proprie disfunzioni."
+                "ora": "00:35",
+                "titolo": "Bear Grylls: la legge del piu' forte",
+                "descrizione": "Ep5 di 6 Sfide nel deserto - I deserti del pianeta sono in costante crescita e stanno diventando dei luoghi sempre piu' caldi. Le creature che vivono tra la sabbia lottano per adattarsi ai cambiamenti."
             },
             {
-                "ora": "21:15",
-                "titolo": "Le indagini del comandante Saint Barth",
-                "descrizione": "Gabriel Saint-Barthélémy è chiamato da tutti Saint-Barth per le sue origini. Al suo ritorno nell'isola paradisiaca dove è nato finisce subito per doversi occupare di un omicidio suscitando la curiosità dei colleghi per la sua straordinaria attitudine a calarsi nei panni delle vittime."
+                "ora": "01:30",
+                "titolo": "Stupidi al quadrato",
+                "descrizione": "Cercando di capire la scienza che vi è dietro, scopriamo insieme quanti modi possibili esistano per mettersi in serio imbarazzo o farsi molto male scendendo da uno scivolo gonfiabile oppure provando evoluzioni con il kitesurf."
             },
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
+                "ora": "01:55",
+                "titolo": "Stupidi al quadrato",
+                "descrizione": "Dallas Campbell ci spiega quali principi scientifici entrano in gioco, quando si fallisce nel provare salti mortali all'indietro con gli sci o tentando di scendere le scale sulle mani."
             },
             {
-                "ora": "20:55",
-                "titolo": "Delitti",
-                "descrizione": "S6 Ep4 di 4 Le Bestie di Satana - Storie di delitti e suicidi si intrecciano con satanismo ed esoterismo."
+                "ora": "02:20",
+                "titolo": "Trekking estremi",
+                "descrizione": "Dalla giungla all’altopiano, Ryan percorre il Choro Trail e sfida Huayna Potosí, esplorando la biodiversità boliviana."
             },
             {
-                "ora": "21:15",
-                "titolo": "Tutankhamon: i misteri del faraone",
-                "descrizione": "Ripercorriamo gli ultimi 100 giorni di vita di Tutankhamon, raccontando la vita quotidiana del faraone 19enne che governava una delle civilta' piu' avanzate al mondo."
+                "ora": "03:10",
+                "titolo": "Chasing Monsters: A caccia di mostri",
+                "descrizione": "Cyril Chaquet indaga su una delle creature più temute del Rio delle Amazzoni: i pesci piranha, chiedendosi se siano così pericolosi come raccontano numerose leggende."
             },
             {
-                "ora": "21:20",
-                "titolo": "Race to Survive Alaska: Sfida...\",\"prima\":true,\"description\":\"A poche ore dall'inizio della gara, l'Alaska miete la sua prima vittima: un concorrente deve essere evacuato.\",\"durata\":55,\"genre\":\"Avventura\",\"category\":\"Mondo E Tendenze\",\"image\":\"https://ethaneurope.it.imageservice.sky.com/pd-image/194ea3fb-d567-40d9-9b36-aba62b0e71ce/background/600\",\"episode_number\":1,\"series_number\":1,\"director\":null,\"inizio\":\"2026-09-21T19:15:00.000Z\",\"fine\":\"2026-09-21T20:10:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2023\"}},{\"canale\":{\"logo\":\"8007.png\",\"name\":\"Sky Classica\",\"number\":\"124\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"5HE0VDiGeVbO\",\"title\":\"Picnic al Prater con Wiener Symphoniker",
-                "descrizione": "I Wiener Symphoniker ci invitano a seguire con loro il concerto all'aperto davanti allo spettacolare scenario del Wiener Riesenrad - Dirk Kaftan, dir. - con V.L.Boecker, R.Fingerlos (Vienna, Prater - 2023)"
+                "ora": "04:00",
+                "titolo": "Chasing Monsters: A caccia di mostri",
+                "descrizione": "L'appassionato di pesca e avventuriero Cyril Chauquet esplora la costa infestata dagli squali del Sudafrica, alla ricerca del tonno pinna gialla, uno dei torpedo sottomarini più potenti in natura."
             },
             {
-                "ora": "21:00",
-                "titolo": "Maurizio Battista: A Rio a Rio",
-                "descrizione": "Lo spettacolo di Maurizio Battista (ITA 2023)"
+                "ora": "04:45",
+                "titolo": "Predatori letali",
+                "descrizione": "Predatori Letali"
             },
             {
-                "ora": "21:00",
-                "titolo": "Caught In The Act",
-                "descrizione": "Ep3 di 24 Abbiamo dei cani a casa - Neko sospetta che la sua ragazza stia oltrepassando il limite con i suoi clienti allo strip-club."
+                "ora": "05:20",
+                "titolo": "Australia: A caccia di serpenti",
+                "descrizione": "Un serpente bruno orientale ha preso residenza in un complesso di uffici, un nido di uova sulla soglia di casa spaventa una famiglia. Infine, un goanna sfuggente è riuscito a eludere Jess."
+            },
+            {
+                "ora": "05:45",
+                "titolo": "Dillo ai cuccioli",
+                "descrizione": "Francesco Di Napoli e Maria Chiara Giannetta ci raccontano la nuova serie \"Rosa Elettrica\"."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "X Factor",
+                "descrizione": "Si continua a cercare il prossimo grande talento: le Audition di X Factor 2026 proseguono con Paola, Jake, Francesco e Irama al tavolo."
+            },
+            {
+                "ora": "23:45",
+                "titolo": "Twisted Metal\",\"prima\":true,\"description\":\"Twisted Metal è una action comedy basata su un'idea originale di Rhett Reese e Paul Wernick (Deadpool, Zombieland) e scritta da Michael Jonathan Smith (Cobra Kai), che racconta di un outsider chiacchierone a cui viene offerta la possibilità di una vita migliore, ma solo se riesce a consegnare con successo un pacchetto misterioso attraverso un deserto post-apocalittico.\",\"durata\":30,\"genre\":\"Action Adventure Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg\",\"episode_number\":2,\"series_number\":2,\"ac\":[{\"n\":\"Anthony Mackie\",\"i\":\"vecvTm7SimizluJkyIwBxeLbvRm.jpg\",\"c\":\"John Doe\",\"u\":\"t\"},{\"n\":\"Stephanie Beatriz\",\"i\":\"7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg\",\"c\":\"Quiet\",\"u\":\"t\"},{\"n\":\"Nuufolau Joel Seanoa\",\"i\":\"4Bc1T8VET7KqgyKvjmOxtz2XBLa.jpg\",\"c\":\"Sweet Tooth\",\"u\":\"t\"},{\"n\":\"Will Arnett\",\"i\":\"cXupYqk2ERP13XBkw816skYdVDO.jpg\",\"c\":\"Sweet Tooth (voice)\",\"u\":\"t\"},{\"n\":\"Anthony Carrigan\",\"i\":\"emyCDFrdEygDB5ySZLwUqk2wkLa.jpg\",\"c\":\"Calypso\",\"u\":\"t\"},{\"n\":\"Mike Mitchell\",\"i\":\"fwn7cNiVmfGAOvbH2auqgSFVixn.jpg\",\"c\":\"Stu\",\"u\":\"t\"},{\"n\":\"Tahj Vaughans\",\"i\":\"hhEAf5krHKKYiSagnwexloYDPJD.jpg\",\"c\":\"Mike\",\"u\":\"t\"},{\"n\":\"Saylor Curda\",\"i\":\"k1eaDucnuu9MtDMCE2pn9rzeQzS.jpg\",\"c\":\"Mayhem\",\"u\":\"t\"},{\"n\":\"Thomas Haden Church\",\"i\":\"74NK9HCYvNafMggSp1PAK5Nwkpe.jpg\",\"c\":\"Agent Stone\",\"u\":\"t\"},{\"n\":\"Richard de Klerk\",\"i\":\"lmep3NOTwDPW9B3mSRol1kstLLr.jpg\",\"c\":\"Mr. Grimm\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/6wLJiFwmuZNvTiE9aqFqx4dDcWh.jpg\",\"inizio\":\"2026-09-21T19:55:00.000Z\",\"fine\":\"2026-09-21T20:25:00.000Z\",\"rating\":\"3,842\",\"condividi\":\"$undefined\",\"year\":\"2025\",\"pr\":\"Stati Uniti\",\"tiEp\":\"DOLF4C3\",\"trEp\":null}},{\"canale\":{\"logo\":\"11244.png\",\"name\":\"Sky Serie HD\",\"number\":\"112\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"aP5HchtM1JYI\",\"title\":\"Hanno ucciso l'uomo ragno",
+                "descrizione": "Ep3 di 8 - Max e Mauro vengono invitati a suonare in televisione ma c’è un problema: l’esibizione è proprio il giorno prima dell’orale della maturità!"
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "MTV",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Caught In The Act",
-                "descrizione": "Ep3 di 24 Abbiamo dei cani a casa - Neko sospetta che la sua ragazza stia oltrepassando il limite con i suoi clienti allo strip-club."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Back to School",
-                "descrizione": "Ep34 di 36 - Inizia il conto alla rovescia per il \"Jersey Shore Roast\"."
-            },
-            {
-                "ora": "22:50",
-                "titolo": "Ink Master: Shop Wars",
-                "descrizione": "Ep3 di 16 - Ink Master 9: la competizione torna con la posta più alta di sempre e un premio raddoppiato."
-            },
-            {
-                "ora": "23:40",
-                "titolo": "Ridiculousness: Veri American Idiots",
-                "descrizione": "Ep13 di 42 Sterling e Rocsi Diaz XVI - Rob, Steelo e Rosci Diaz controllano CANINE CAR CATASTROPHES, ascoltano tutte le CRAPPY CONFESSIONS e guardano chi vince in UNAMAZING RACES."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Ridiculousness: Veri American Idiots",
@@ -3717,44 +3727,34 @@
                 "ora": "04:35",
                 "titolo": "Ridiculousness: Veri American Idiots",
                 "descrizione": "Ep7 di 42 Sterling e Carly Aquilino XCII - In questo episodio Rob e Steelo sono accompagnati da Carly Aquilino."
+            },
+            {
+                "ora": "04:55",
+                "titolo": "Ridiculousness: Veri American Idiots",
+                "descrizione": "Ep8 di 42 Sterling e Carly Aquilino XCIII - Rob, Steelo e Carly Aquilino nascondono le loro tazze da alcuni DRINK THIEVES."
+            },
+            {
+                "ora": "05:15",
+                "titolo": "Ridiculousness: Veri American Idiots",
+                "descrizione": "Ep9 di 42 Sterling e Carly Aquilino XCIV - In questo episodio Rob e Steelo sono accompagnati da Carly Aquilino."
+            },
+            {
+                "ora": "05:35",
+                "titolo": "Ridiculousness: Veri American Idiots",
+                "descrizione": "Lo show di MTV che mixa i piu' divertenti video amatoriali su internet in un unico esilarante episodio."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "X Factor",
+                "descrizione": "Si continua a cercare il prossimo grande talento: le Audition di X Factor 2026 proseguono con Paola, Jake, Francesco e Irama al tavolo."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Comedy Central",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Maurizio Battista: A Rio a Rio",
-                "descrizione": "Lo spettacolo di Maurizio Battista (ITA 2023)"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Drunk History: Black Stories",
-                "descrizione": "Ep6 di 15 - Fred Rogers lotta per una TV per bambini finanziata dal governo, una giornalista contribuisce ad abbattere il monopolio del petrolio di Rockfeller e la progettista del Vietnam Veterans..."
-            },
-            {
-                "ora": "22:25",
-                "titolo": "Altra epoca, stesso ciclo",
-                "descrizione": "Ambientato all'inizio del secolo, 'Another Period' segue le disavventure dei Bellacourt, Newport, la prima famiglia del RI, che non hanno assolutamente nulla da offrire al mondo, ma che hanno così tanti soldi che non importa. La serie si concentra sulle sorelle 'Lillian' e 'Beatrice', a cui importa solo il loro aspetto, a quali feste partecipano e diventare famose, cosa molto più difficile nel 1902."
-            },
-            {
-                "ora": "22:45",
-                "titolo": "South Park",
-                "descrizione": "Stanley \"Stan\" Marsh, Eric Cartman e Kyle Broflosky e Kenneth \"Kenny\" McCormick, quattro ragazzi che frequentano la scuola elementare e vivono nella cittadina di South Park, in Colorado. Pestiferi, osceni e sfacciatamente intelligenti i ragazzacci affrontano temi di attualità con immediatezza e sana cattiveria sfatando tabù e demonizzando la società americana. Le loro \"armi\" sono la parodia, la commedia nera e il linguaggio scurrile."
-            },
-            {
-                "ora": "23:10",
-                "titolo": "South Park",
-                "descrizione": "Stanley \"Stan\" Marsh, Eric Cartman e Kyle Broflosky e Kenneth \"Kenny\" McCormick, quattro ragazzi che frequentano la scuola elementare e vivono nella cittadina di South Park, in Colorado. Pestiferi, osceni e sfacciatamente intelligenti i ragazzacci affrontano temi di attualità con immediatezza e sana cattiveria sfatando tabù e demonizzando la società americana. Le loro \"armi\" sono la parodia, la commedia nera e il linguaggio scurrile."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "South Park",
-                "descrizione": "Stanley \"Stan\" Marsh, Eric Cartman e Kyle Broflosky e Kenneth \"Kenny\" McCormick, quattro ragazzi che frequentano la scuola elementare e vivono nella cittadina di South Park, in Colorado. Pestiferi, osceni e sfacciatamente intelligenti i ragazzacci affrontano temi di attualità con immediatezza e sana cattiveria sfatando tabù e demonizzando la società americana. Le loro \"armi\" sono la parodia, la commedia nera e il linguaggio scurrile."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Stand Up Comedy (Italy)",
@@ -3784,29 +3784,44 @@
                 "ora": "02:20",
                 "titolo": "Key & Peele",
                 "descrizione": "Ep14 di 22 - Jordan è il beniamino di un gruppo di cantanti 'A Cappella' ma l'arrivo di Keegan accende una forte rivalità tra i due"
+            },
+            {
+                "ora": "02:40",
+                "titolo": "Key & Peele",
+                "descrizione": "Ep15 di 22 - Un gruppo gospel deve esercitarsi senza maestro. Guerrieri celebrano una decapitazione, un prigioniero cerca di ingannare la sua guardia."
+            },
+            {
+                "ora": "03:05",
+                "titolo": "Broad City",
+                "descrizione": "Broad City segue due donne nella loro vita quotidiana a New York, rendendo isterici e inquietanti anche gli eventi più piccoli e banali."
+            },
+            {
+                "ora": "03:25",
+                "titolo": "Broad City",
+                "descrizione": "Broad City segue due donne nella loro vita quotidiana a New York, rendendo isterici e inquietanti anche gli eventi più piccoli e banali."
+            },
+            {
+                "ora": "03:45",
+                "titolo": "Most Ridiculous",
+                "descrizione": "Ep7 di 20 Episodio 7 - Lo show che passa in rassegna i video piu' demenziali del web con il commento dissacrante di Gabriele Cirilli e Dario Cassini."
+            },
+            {
+                "ora": "04:10",
+                "titolo": "Most Ridiculous",
+                "descrizione": "Ep8 di 20 Episodio 8 - Lo show che passa in rassegna i video piu' demenziali del web con il commento dissacrante di Gabriele Cirilli e Dario Cassini."
+            },
+            {
+                "ora": "04:30",
+                "titolo": "Most Ridiculous",
+                "descrizione": "Ep9 di 20 Episodio 9 - Lo show che passa in rassegna i video piu' demenziali del web con il commento dissacrante di Gabriele Cirilli e Dario Cassini."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Arte",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Tutankhamon: i misteri del faraone",
-                "descrizione": "Ripercorriamo gli ultimi 100 giorni di vita di Tutankhamon, raccontando la vita quotidiana del faraone 19enne che governava una delle civilta' piu' avanzate al mondo."
-            },
-            {
-                "ora": "22:10",
-                "titolo": "Art Raiders - Caccia ai tombaroli",
-                "descrizione": "Ep1 di 4 Il Cratere di Eufronio - Crimine, arte e indagini impossibili si intrecciano in un racconto di storie incredibili. Protagonista dell'episodio il Cratere di Eufronio."
-            },
-            {
-                "ora": "23:05",
-                "titolo": "Art Raiders - Caccia ai tombaroli",
-                "descrizione": "Ep2 di 4 La Dea di Morgantina - Crimine, arte e indagini impossibili si intrecciano in un racconto di storie incredibili. Protagonista dell'episodio la Dea di Morgantina."
-            },
             {
                 "ora": "23:55",
                 "titolo": "Tutankhamon: i misteri del faraone",
@@ -3851,24 +3866,29 @@
                 "ora": "05:10",
                 "titolo": "Tutankhamon: i misteri del faraone",
                 "descrizione": "Ripercorriamo gli ultimi 100 giorni di vita di Tutankhamon, raccontando la vita quotidiana del faraone 19enne che governava una delle civilta' piu' avanzate al mondo."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "X Factor",
+                "descrizione": "Si continua a cercare il prossimo grande talento: le Audition di X Factor 2026 proseguono con Paola, Jake, Francesco e Irama al tavolo."
+            },
+            {
+                "ora": "23:45",
+                "titolo": "Twisted Metal\",\"prima\":true,\"description\":\"Twisted Metal è una action comedy basata su un'idea originale di Rhett Reese e Paul Wernick (Deadpool, Zombieland) e scritta da Michael Jonathan Smith (Cobra Kai), che racconta di un outsider chiacchierone a cui viene offerta la possibilità di una vita migliore, ma solo se riesce a consegnare con successo un pacchetto misterioso attraverso un deserto post-apocalittico.\",\"durata\":30,\"genre\":\"Action Adventure Commedia\",\"category\":\"Serie TV\",\"image\":\"https://image.tmdb.org/t/p/w300/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg\",\"episode_number\":2,\"series_number\":2,\"ac\":[{\"n\":\"Anthony Mackie\",\"i\":\"vecvTm7SimizluJkyIwBxeLbvRm.jpg\",\"c\":\"John Doe\",\"u\":\"t\"},{\"n\":\"Stephanie Beatriz\",\"i\":\"7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg\",\"c\":\"Quiet\",\"u\":\"t\"},{\"n\":\"Nuufolau Joel Seanoa\",\"i\":\"4Bc1T8VET7KqgyKvjmOxtz2XBLa.jpg\",\"c\":\"Sweet Tooth\",\"u\":\"t\"},{\"n\":\"Will Arnett\",\"i\":\"cXupYqk2ERP13XBkw816skYdVDO.jpg\",\"c\":\"Sweet Tooth (voice)\",\"u\":\"t\"},{\"n\":\"Anthony Carrigan\",\"i\":\"emyCDFrdEygDB5ySZLwUqk2wkLa.jpg\",\"c\":\"Calypso\",\"u\":\"t\"},{\"n\":\"Mike Mitchell\",\"i\":\"fwn7cNiVmfGAOvbH2auqgSFVixn.jpg\",\"c\":\"Stu\",\"u\":\"t\"},{\"n\":\"Tahj Vaughans\",\"i\":\"hhEAf5krHKKYiSagnwexloYDPJD.jpg\",\"c\":\"Mike\",\"u\":\"t\"},{\"n\":\"Saylor Curda\",\"i\":\"k1eaDucnuu9MtDMCE2pn9rzeQzS.jpg\",\"c\":\"Mayhem\",\"u\":\"t\"},{\"n\":\"Thomas Haden Church\",\"i\":\"74NK9HCYvNafMggSp1PAK5Nwkpe.jpg\",\"c\":\"Agent Stone\",\"u\":\"t\"},{\"n\":\"Richard de Klerk\",\"i\":\"lmep3NOTwDPW9B3mSRol1kstLLr.jpg\",\"c\":\"Mr. Grimm\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://image.tmdb.org/t/p/w780/6wLJiFwmuZNvTiE9aqFqx4dDcWh.jpg\",\"inizio\":\"2026-09-21T19:55:00.000Z\",\"fine\":\"2026-09-21T20:25:00.000Z\",\"rating\":\"3,842\",\"condividi\":\"$undefined\",\"year\":\"2025\",\"pr\":\"Stati Uniti\",\"tiEp\":\"DOLF4C3\",\"trEp\":null}},{\"canale\":{\"logo\":\"11244.png\",\"name\":\"Sky Serie HD\",\"number\":\"112\",\"mondo\":\"intrattenimento\"},\"prog\":{\"id\":\"aP5HchtM1JYI\",\"title\":\"Hanno ucciso l'uomo ragno",
+                "descrizione": "Ep3 di 8 - Max e Mauro vengono invitati a suonare in televisione ma c’è un problema: l’esibizione è proprio il giorno prima dell’orale della maturità!"
+            },
+            {
+                "ora": "22:10",
+                "titolo": "Le indagini del comandante Saint Barth",
+                "descrizione": "Gabriel Saint-Barthélémy è chiamato da tutti Saint-Barth per le sue origini. Al suo ritorno nell'isola paradisiaca dove è nato finisce subito per doversi occupare di un omicidio suscitando la curiosità dei colleghi per la sua straordinaria attitudine a calarsi nei panni delle vittime."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky Documentaries",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Aldair. Cuore giallorosso",
-                "descrizione": "L'incredibile vita di Aldair: dall'uomo al campione che ha scritto la storia della Roma, che con 13 anni di fedelta' giallorossa, e' diventato leggenda."
-            },
-            {
-                "ora": "22:45",
-                "titolo": "Maledetti rigori (USA 1994)",
-                "descrizione": "Storie Mondiali. - Federico Buffa racconta \"Maledetti rigori\". Sotto il sole di mezzogiorno un Codino brilla per l'Italia. In finale il Brasile trionfa ai rigori e dedica la vittoria al grande Ayrton Senna."
-            },
             {
                 "ora": "23:50",
                 "titolo": "Buffa racconta Storie Mondiali",
@@ -3918,24 +3938,24 @@
                 "ora": "23:00",
                 "titolo": "Cheese Hunters",
                 "descrizione": "Il viaggio di Eleonora Baldwin e Fiorenzo Giolito in Piemonte alla ricerca dei formaggi più rari."
-            }
-        ],
-        "aggiornato": "19:25"
-    },
-    {
-        "canale": "Sky Nature",
-        "categoria": "Documentari",
-        "programmi": [
+            },
             {
-                "ora": "21:15",
-                "titolo": "Thailandia selvaggia",
-                "descrizione": "Il cuore della Thailandia è coperto di foreste, che si alternano a fertili campi piani. Ovunque la natura punta a prendere il dominio, dal piccolo villaggio alla caotica Bangkok."
+                "ora": "22:45",
+                "titolo": "Maledetti rigori (USA 1994)",
+                "descrizione": "Storie Mondiali. - Federico Buffa racconta \"Maledetti rigori\". Sotto il sole di mezzogiorno un Codino brilla per l'Italia. In finale il Brasile trionfa ai rigori e dedica la vittoria al grande Ayrton Senna."
             },
             {
                 "ora": "22:15",
                 "titolo": "Thailandia selvaggia",
                 "descrizione": "La Tailandia settentrionale è dominata dalle montagne e ammantata di foreste. Qui, per sopravvivere, sia la fauna selvatica che gli esseri umani si affidano all'armonia naturale che domina il luogo."
-            },
+            }
+        ],
+        "aggiornato": "22:11"
+    },
+    {
+        "canale": "Sky Nature",
+        "categoria": "Documentari",
+        "programmi": [
             {
                 "ora": "23:15",
                 "titolo": "Thailandia selvaggia",
@@ -3985,29 +4005,24 @@
                 "ora": "22:45",
                 "titolo": "Maledetti rigori (USA 1994)",
                 "descrizione": "Storie Mondiali. - Federico Buffa racconta \"Maledetti rigori\". Sotto il sole di mezzogiorno un Codino brilla per l'Italia. In finale il Brasile trionfa ai rigori e dedica la vittoria al grande Ayrton Senna."
+            },
+            {
+                "ora": "22:15",
+                "titolo": "Thailandia selvaggia",
+                "descrizione": "La Tailandia settentrionale è dominata dalle montagne e ammantata di foreste. Qui, per sopravvivere, sia la fauna selvatica che gli esseri umani si affidano all'armonia naturale che domina il luogo."
+            },
+            {
+                "ora": "21:55",
+                "titolo": "Le missioni segrete di Hitler",
+                "descrizione": "S1 Ep1 di 6 Rapire il Papa - Settembre 1943, Adolf Hitler e' furioso per l'estromissione di Mussolini, invia truppe a Roma e ordina al generale delle SS Karl Wolff, braccio destro di Heinrich Himmler, d"
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Discovery Channel",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "21:10",
-                "titolo": "La fattoria Clarkson",
-                "descrizione": "Jeremy Clarkson cerca di gestire una fattoria in campagna."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "La fattoria Clarkson",
-                "descrizione": "Jeremy Clarkson cerca di gestire una fattoria in campagna."
-            },
-            {
-                "ora": "23:05",
-                "titolo": "Giustizia selvaggia",
-                "descrizione": "La squadra entra in azione per risolvere un problema con la caccia agli alci, che e' vietata. Inoltre, aiuta a fermare un suicidio e a bloccare dei criminali intenzionati a cacciare illegalmente."
-            },
             {
                 "ora": "00:05",
                 "titolo": "Come e' fatto",
@@ -4052,29 +4067,29 @@
                 "ora": "05:35",
                 "titolo": "Come e' fatto",
                 "descrizione": "Seguiamo gli strabilianti processi di produzione delle rotaie, dell'acqua desalinizzata, delle sedie a rotelle da corsa e dei pavimenti in parquet."
+            },
+            {
+                "ora": "06:00",
+                "titolo": "Scherzi della natura",
+                "descrizione": "Gli esperti analizzano le immagini di 5.000 uccelli che sono caduti dal cielo in Arkansas. Inoltre perche' una puzzola dovrebbe fare una verticale e cosa rende luminosa una rana?"
+            },
+            {
+                "ora": "23:40",
+                "titolo": "Cose Nostre - I Quattro Picciriddi",
+                "descrizione": "A Catania, nell'estate del 1976, sotto gli occhi di un intero quartiere, scompaiono quattro ragazzini fra 14 e 15 anni. Nessuno vede, nessuno parla, finché il mafioso Antonino Calderone, dieci anni più tardi, rivela la storia al giudice Giovanni Falcone. I quattro picciriddi sono i protagonisti della prossima puntata di Cose Nostre. Si chiamavano Riccardo Cristaldi, Benedetto Zuccaro, Giovanni La Greca e Lorenzo Pace. Per la prima volta dopo cinquant'anni, con interviste al Procuratore aggiunto di Catania Sebastiano Ardita e ai giornalisti Graziella Proto e Salvatore Scalia, Cose Nostre affronta il muro di omertà che ancora circonda la sorte di quei ragazzini, cresciuti nel quartiere popolare di San Cristoforo e abituati a vivere di espedienti, puniti dal boss Nitto Santapaola perché avevano scippato la persona sbagliata."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Il Processo Del Lunedì",
+                "descrizione": "L'approfondimento sportivo del lunedì. Dopo le immagini del posticipo della sera, una riflessione su quanto avvenuto nei tre giorni della serie A: immagini, interviste e un occhio attento alle Coppe Europee."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "History Channel",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Operazione Barbarossa",
-                "descrizione": "S1 Ep3 di 3 Direzione Stalingrado - L'esercito nazista avanza verso Stalingrado, dove sta per iniziare una delle battaglie piu' sanguinose della storia."
-            },
-            {
-                "ora": "21:55",
-                "titolo": "Le missioni segrete di Hitler",
-                "descrizione": "S1 Ep1 di 6 Rapire il Papa - Settembre 1943, Adolf Hitler e' furioso per l'estromissione di Mussolini, invia truppe a Roma e ordina al generale delle SS Karl Wolff, braccio destro di Heinrich Himmler, d"
-            },
-            {
-                "ora": "22:50",
-                "titolo": "Sesso e potere - La vita...",
-                "descrizione": "S1 Ep4 di 6 Mao Zedong - Un ritratto della vita segreta di Mao Zedong, tra ossessioni e convinzioni estreme."
-            },
             {
                 "ora": "23:45",
                 "titolo": "De Gasperi - Il Presidente della ricostruzione",
@@ -4119,54 +4134,29 @@
                 "ora": "05:30",
                 "titolo": "Uncovered Rome",
                 "descrizione": "S1 Ep2 di 4 #Passaggi - Il viaggio prosegue nella Necropoli Portuense. Tra passato e presente si cerca il modo di raccontare un luogo che sfugge a ogni definizione."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Cheese Hunters",
+                "descrizione": "Il viaggio di Eleonora Baldwin e Fiorenzo Giolito in Piemonte alla ricerca dei formaggi più rari."
+            },
+            {
+                "ora": "22:45",
+                "titolo": "Maledetti rigori (USA 1994)",
+                "descrizione": "Storie Mondiali. - Federico Buffa racconta \"Maledetti rigori\". Sotto il sole di mezzogiorno un Codino brilla per l'Italia. In finale il Brasile trionfa ai rigori e dedica la vittoria al grande Ayrton Senna."
+            },
+            {
+                "ora": "22:15",
+                "titolo": "Thailandia selvaggia",
+                "descrizione": "La Tailandia settentrionale è dominata dalle montagne e ammantata di foreste. Qui, per sopravvivere, sia la fauna selvatica che gli esseri umani si affidano all'armonia naturale che domina il luogo."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     },
     {
         "canale": "Sky TG 24",
         "categoria": "News",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Stories",
-                "descrizione": "Tra i protagonisti di “Physical Italia”, Federica Pellegrini si racconta: l’infanzia, l’adolescenza, la prima Olimpiade, il primo passo con il marito, la maternità e tanto altro"
-            },
-            {
-                "ora": "21:45",
-                "titolo": "TG24 mezz'ora",
-                "descrizione": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "TG24 mezz'ora",
-                "descrizione": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
-            },
-            {
-                "ora": "22:15",
-                "titolo": "TG24 Preview",
-                "descrizione": "TG24 Preview"
-            },
-            {
-                "ora": "22:20",
-                "titolo": "TG24 Economia",
-                "descrizione": "L'appuntamento quotidiano con l'approfondimento delle principali notizie economiche della giornata. Conduce Andrea Bignami."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Skyline",
-                "descrizione": "Con Skyline, dal lunedi' al venerdi', vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Skyline",
-                "descrizione": "Con Skyline, dal lunedi' al venerdi', vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie."
-            },
-            {
-                "ora": "23:50",
-                "titolo": "Sky Meteo24",
-                "descrizione": "Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Skyline",
@@ -4186,8 +4176,48 @@
                 "ora": "01:30",
                 "titolo": "TG24 Edicola",
                 "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "02:00",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "02:30",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "03:00",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "03:30",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "04:00",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "04:30",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "05:00",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "05:30",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
             }
         ],
-        "aggiornato": "19:25"
+        "aggiornato": "22:11"
     }
 ]
