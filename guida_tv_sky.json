@@ -4,21 +4,6 @@
         "categoria": "Digitale Terrestre",
         "programmi": [
             {
-                "ora": "20:35",
-                "titolo": "Affari Tuoi",
-                "descrizione": "Stefano De Martino conduce \"Affari tuoi\": 20 concorrenti, uno per regione d'Italia, sfidano la fortuna e il \"Dottore\" per trovare il pacco contenente 300.000 euro."
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Tale E Quale Show",
-                "descrizione": "Sedicesima edizione dello show musicale condotto da Carlo Conti, in cui 11 talent si sfidano tra loro trasformandosi ogni settimana in icone musicali differenti. Nella seconda puntata, si riparte con le trasformazioni degli artisti: Jasmine Carrisi è Angelina Mango, Maddalena Corvaglia si confronta con P!nk, Roberta Morise con Elodie, Paola Perego interpreta Sylvie Vartan, Anna Pettinelli ha il volto di Ditonellapiaga e Selma con Beyoncé; Stefano Meloccaro si mette alla prova con Zucchero, Max Paiella è Tom Jones, Andrea Perroni assume le sembianze di Franco Califano, e Vladimir Randazzo quelle di Achille Lauro. Infine i due \"ragazzi incorreggibili\" Flavio Insinna e Gabriele Cirilli vestono i panni di Bobby Solo ed Elvis Presley. A valutare le performance, Elettra Lamborghini, Alessandro Siani e Cristiano Malgioglio, affiancati dal \"quarto giudice\" Ubaldo Pantani, chiamato a entrare nel gioco e a stilare la propria classifica."
-            },
-            {
-                "ora": "00:10",
-                "titolo": "TG1 Sera",
-                "descrizione": "TG1 Sera"
-            },
-            {
                 "ora": "00:15",
                 "titolo": "Porta A Porta",
                 "descrizione": "Giunto alla trentunesima edizione, il programma di Bruno Vespa offre al pubblico grandi novità, pur confermando la linea editoriale legata agli avvenimenti della politica, come ai grandi fatti di cronaca e alle mutazioni della società."
@@ -49,6 +34,11 @@
                 "descrizione": "Notizie e attualità in tempo reale dall'Italia e dal mondo. Approfondimenti, ospiti in studio, inviati del Tg1 e interviste ai protagonisti della cronaca, dello sport, della cultura e dello spettacolo. Conducono Tiberio Timperi e Maria Soave."
             },
             {
+                "ora": "21:30",
+                "titolo": "Tale E Quale Show",
+                "descrizione": "Sedicesima edizione dello show musicale condotto da Carlo Conti, in cui 11 talent si sfidano tra loro trasformandosi ogni settimana in icone musicali differenti. Nella seconda puntata, si riparte con le trasformazioni degli artisti: Jasmine Carrisi è Angelina Mango, Maddalena Corvaglia si confronta con P!nk, Roberta Morise con Elodie, Paola Perego interpreta Sylvie Vartan, Anna Pettinelli ha il volto di Ditonellapiaga e Selma con Beyoncé; Stefano Meloccaro si mette alla prova con Zucchero, Max Paiella è Tom Jones, Andrea Perroni assume le sembianze di Franco Califano, e Vladimir Randazzo quelle di Achille Lauro. Infine i due \"ragazzi incorreggibili\" Flavio Insinna e Gabriele Cirilli vestono i panni di Bobby Solo ed Elvis Presley. A valutare le performance, Elettra Lamborghini, Alessandro Siani e Cristiano Malgioglio, affiancati dal \"quarto giudice\" Ubaldo Pantani, chiamato a entrare nel gioco e a stilare la propria classifica."
+            },
+            {
                 "ora": "23:10",
                 "titolo": "La Coda Del Diavolo (2024)",
                 "descrizione": "Sante Moras, agente di polizia penitenziaria, viene incastrato per la morte di un detenuto legato all'omicidio di una ragazza. Costretto a fuggire per dimostrare la propria innocenza, incrocia la strada della giornalista Fabiana Lai, impegnata a indagare su una serie di delitti collegati da un misterioso simbolo."
@@ -62,24 +52,24 @@
                 "ora": "21:33",
                 "titolo": "E' sempre Cartabianca",
                 "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
+            },
+            {
+                "ora": "20:40",
+                "titolo": "La ruota dei campioni e delle stelle - nip/vip",
+                "descrizione": "Una puntata speciale con i concorrenti piu' forti della stagione e ospiti d'eccezione. In studio gli amati protagonisti di Zelig! Conduce Gerry Scotti con Samira Lui."
+            },
+            {
+                "ora": "23:38",
+                "titolo": "Come Ti Leggo - Page a' Vu",
+                "descrizione": "Conduce Sonia Bruganelli. Gli ospiti vengono raccontati attraverso i libri e i libri attraverso gli ospiti. In questa puntata: Giuseppe Cruciani e Taylor Mega"
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Rai 2",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "TG2 Post",
-                "descrizione": "Rubrica informativa del TG2. Direttore Antonio Preziosi"
-            },
-            {
-                "ora": "21:20",
-                "titolo": "Doppia colpa",
-                "descrizione": "Doppia colpa, film diretto da Simon Kaijser, è la storia di Evan Birch (Guy Pearce), uomo affascinante, marito felice, padre amorevole e stimato professore di filosofia. Quando Joyce (Odeya Rush), una studentessa di un college vicino dove lavora, scompare misteriosamente, i sospetti ricadono proprio su Evan a causa di alcuni eventi del passato che ritornano a perseguitarlo. Proprio per quest'ultimo motivo, sua moglie (Minnie Driver) fatica a credere al suo alibi, così come il detective Malloy (Pierce Brosnan) che s'insospettisce ancor di più a seguito di alcune prove che indicano l'uomo come il colpevole. Da questo momento in poi Evan dovrà cercare in tutti modi di dimostrare la sua innocenza, spesso sbagliando l'approccio e cacciandosi lui stesso nei guai..."
-            },
             {
                 "ora": "23:10",
                 "titolo": "La Coda Del Diavolo (2024)",
@@ -129,19 +119,24 @@
                 "ora": "05:30",
                 "titolo": "Medici in corsia",
                 "descrizione": "Le storie di una giovane equipe medica guidata dal Dott. Ahrend che, in virtù della sua anzianità, decide di ricominciare da capo la sua vita in una nuova città in una nuova squadra di dottori, fra specializzandi e semplici infermieri."
+            },
+            {
+                "ora": "21:30",
+                "titolo": "Tale E Quale Show",
+                "descrizione": "Sedicesima edizione dello show musicale condotto da Carlo Conti, in cui 11 talent si sfidano tra loro trasformandosi ogni settimana in icone musicali differenti. Nella seconda puntata, si riparte con le trasformazioni degli artisti: Jasmine Carrisi è Angelina Mango, Maddalena Corvaglia si confronta con P!nk, Roberta Morise con Elodie, Paola Perego interpreta Sylvie Vartan, Anna Pettinelli ha il volto di Ditonellapiaga e Selma con Beyoncé; Stefano Meloccaro si mette alla prova con Zucchero, Max Paiella è Tom Jones, Andrea Perroni assume le sembianze di Franco Califano, e Vladimir Randazzo quelle di Achille Lauro. Infine i due \"ragazzi incorreggibili\" Flavio Insinna e Gabriele Cirilli vestono i panni di Bobby Solo ed Elvis Presley. A valutare le performance, Elettra Lamborghini, Alessandro Siani e Cristiano Malgioglio, affiancati dal \"quarto giudice\" Ubaldo Pantani, chiamato a entrare nel gioco e a stilare la propria classifica."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Chi L'Ha Visto?",
+                "descrizione": "$2a"
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Rai 3",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Chi L'Ha Visto?",
-                "descrizione": "$25"
-            },
             {
                 "ora": "00:00",
                 "titolo": "TG3 Linea Notte",
@@ -183,6 +178,11 @@
                 "descrizione": "Sante Moras, agente di polizia penitenziaria, viene incastrato per la morte di un detenuto legato all'omicidio di una ragazza. Costretto a fuggire per dimostrare la propria innocenza, incrocia la strada della giornalista Fabiana Lai, impegnata a indagare su una serie di delitti collegati da un misterioso simbolo."
             },
             {
+                "ora": "21:15",
+                "titolo": "Chi L'Ha Visto?",
+                "descrizione": "$2e"
+            },
+            {
                 "ora": "21:33",
                 "titolo": "E' sempre Cartabianca",
                 "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
@@ -198,27 +198,12 @@
                 "descrizione": "Conduce Sonia Bruganelli. Gli ospiti vengono raccontati attraverso i libri e i libri attraverso gli ospiti. In questa puntata: Giuseppe Cruciani e Taylor Mega"
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Rai 4",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:35",
-                "titolo": "Criminal Minds",
-                "descrizione": "Criminal Minds è una serie poliziesca incentrata sull'Unità di analisi criminale (BAU) che ha sede presso l'accademia dell'FBI a Quantico, in Virginia. L'unità è composta da psichiatri, psicologi e criminologi in grado di “pensare” come gli S.I., sigla che utilizzano per indicare i “soggetti ignoti” che compiono delitti seriali sui quali sono chiamati ad indagare. La squadra interviene in ogni località degli Stati Uniti ogni qual volta si sospetti che i delitti possano essere opera di un serial killer, lavora stilando un profilo psicologico del S.I. in modo da anticiparne le mosse e catturarlo. La squadra è formata da diversi elementi, ognuno con un suo ruolo ben preciso: c'è chi ha l'incarico di indagare sul campo parlando con le famiglie e relazionandosi con le forze di polizia locale, chi si immedesima nel killer per comprenderlo, chi fa ricerche sui soggetti coinvolti. Ovviamente vengono analizzate anche le relazioni tra i vari personaggi."
-            },
-            {
-                "ora": "21:19",
-                "titolo": "Ultima fermata - Rocafort St.",
-                "descrizione": "Laura è una ragazza giovane che ha da poco iniziato a lavorare per la rete metropolitana di Barcellona. Le hanno affidato la gestione della stazione di Rocafort, un luogo antico e apparentemente tranquillo, ma ben presto si renderà conto che questa fermata nasconde una leggenda inquietante che finirà per tormentarla."
-            },
-            {
-                "ora": "22:50",
-                "titolo": "The Bayou",
-                "descrizione": "Una tranquilla vacanza si trasforma in un vero e proprio incubo quando Kyle, universitaria di Houston, e i suoi amici sopravvivono a un incidente aereo. Il loro velivolo, tuttavia, si schianta nelle desolate Everglades della Louisiana, nelle cui acque profonde e paludose è in agguato qualcosa di ancor più pericoloso."
-            },
             {
                 "ora": "00:13",
                 "titolo": "Cure",
@@ -263,34 +248,29 @@
                 "ora": "21:15",
                 "titolo": "Chi L'Ha Visto?",
                 "descrizione": "$2a"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "E' sempre Cartabianca",
+                "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
+            },
+            {
+                "ora": "20:40",
+                "titolo": "La ruota dei campioni e delle stelle - nip/vip",
+                "descrizione": "Una puntata speciale con i concorrenti piu' forti della stagione e ospiti d'eccezione. In studio gli amati protagonisti di Zelig! Conduce Gerry Scotti con Samira Lui."
+            },
+            {
+                "ora": "23:38",
+                "titolo": "Come Ti Leggo - Page a' Vu",
+                "descrizione": "Conduce Sonia Bruganelli. Gli ospiti vengono raccontati attraverso i libri e i libri attraverso gli ospiti. In questa puntata: Giuseppe Cruciani e Taylor Mega"
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Rai 5",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:28",
-                "titolo": "Il Mondo Con Gli Occhi Di Overland - Mauritania: La Magia Del Deserto - 24",
-                "descrizione": "Overland torna a esplorare il Mondo e mostrarcelo con i suoi occhi: è la volta della Mauritania, che rivela bellezze nascoste, tradizioni antiche e paesaggi mozzafiato in un viaggio straordinario. Una terra ricca di storia e cultura, spesso sconosciuta o ricordata solo per eventi negativi. Il viaggio inizia a Nouakchott, capitale caotica e multiculturale, per poi proseguire verso le spettacolari dune di Amatlich, le più belle del Sahara che raccontano la storia delle antiche carovane attraverso il deserto."
-            },
-            {
-                "ora": "21:22",
-                "titolo": "Noos - Esplorazioni - Festa Del Theyyam / Le Vite Degli Aghori Sadhu",
-                "descrizione": "Il primo documentario esplora il festival induista del Theyyam, con danze rituali in cui il protagonista viene \"posseduto\" dalla divinità e benedice i fedeli. Il secondo svela le vite degli Aghori Sadhu di Varanasi: santi che vivono tra i ghat del Gange, praticando riti estremi per liberarsi dal ciclo delle rinascite."
-            },
-            {
-                "ora": "22:15",
-                "titolo": "Paradisi Da Salvare - Pantanal, Il Brasile Selvaggio",
-                "descrizione": "Il Pantanal, la più grande zona umida del Brasile è un santuario per giaguari, rettili, tapiri e molte specie di uccelli. Salvare questo ecosistema unico nel suo genere e le sue specie, minacciato dai continui incendi boschivi e dallo sviluppo intensivo di agricoltura e allevamento, sta diventando una questione urgente."
-            },
-            {
-                "ora": "23:09",
-                "titolo": "Sean Connery Vs. James Bond",
-                "descrizione": "Un cast d'eccezione e un ricchissimo repertorio per il documentario che ricostruisce l'interpretazione più iconica di Sean Connery, l'agente segreto ideato da Fleming."
-            },
             {
                 "ora": "00:06",
                 "titolo": "Sheryl Crow Live At The Capitol Theatre",
@@ -330,19 +310,34 @@
                 "ora": "05:07",
                 "titolo": "Il Pianeta Verde",
                 "descrizione": "In questo episodio David Attenborough ci porterà all'interno di mondi bellissimi e bizzarri creati dalle piante acquatiche. I fiori ricoprono fiumi e laghi, le piante catturano gli animali e la vegetazione da' vita ad habitat sorprendenti e originali."
+            },
+            {
+                "ora": "21:30",
+                "titolo": "Tale E Quale Show",
+                "descrizione": "Sedicesima edizione dello show musicale condotto da Carlo Conti, in cui 11 talent si sfidano tra loro trasformandosi ogni settimana in icone musicali differenti. Nella seconda puntata, si riparte con le trasformazioni degli artisti: Jasmine Carrisi è Angelina Mango, Maddalena Corvaglia si confronta con P!nk, Roberta Morise con Elodie, Paola Perego interpreta Sylvie Vartan, Anna Pettinelli ha il volto di Ditonellapiaga e Selma con Beyoncé; Stefano Meloccaro si mette alla prova con Zucchero, Max Paiella è Tom Jones, Andrea Perroni assume le sembianze di Franco Califano, e Vladimir Randazzo quelle di Achille Lauro. Infine i due \"ragazzi incorreggibili\" Flavio Insinna e Gabriele Cirilli vestono i panni di Bobby Solo ed Elvis Presley. A valutare le performance, Elettra Lamborghini, Alessandro Siani e Cristiano Malgioglio, affiancati dal \"quarto giudice\" Ubaldo Pantani, chiamato a entrare nel gioco e a stilare la propria classifica."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "La Coda Del Diavolo (2024)",
+                "descrizione": "Sante Moras, agente di polizia penitenziaria, viene incastrato per la morte di un detenuto legato all'omicidio di una ragazza. Costretto a fuggire per dimostrare la propria innocenza, incrocia la strada della giornalista Fabiana Lai, impegnata a indagare su una serie di delitti collegati da un misterioso simbolo."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Chi L'Ha Visto?",
+                "descrizione": "$2c"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "E' sempre Cartabianca",
+                "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Rete 4",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:29",
-                "titolo": "La promessa\",\"prima\":true,\"description\":\"Cordoba, 1913. Mentre la Spagna è devastata da alcuni conflitti, c'è un luogo in cui, almeno in apparenza, regna la pace: è il Palazzo La Promesa, nella valle di Los Pedroches, di proprietà dei Marchesi di Lujan. E' proprio qui che Jana si fa assumere come cameriera per scoprire la verità sull'omicidio di sua madre e di suo fratello. La situazione si complica quando Jana si innamora di uno dei figli dei ricchi marchesi, Manuel. Con Jordi Coll (Il Segreto).\",\"durata\":41,\"genre\":\"Dramma Mistero\",\"category\":\"Serie TV\",\"image\":\"https://img-guidatv.org/serie/64808f42e03d43e6abc2de4a_p_1_rs_300.jpg\",\"episode_number\":238,\"series_number\":4,\"ac\":[{\"n\":\"Manuel Regueiro\",\"i\":\"8qD6PmZ7y1yPe9lY23fWy3zSFj4.jpg\",\"c\":\"\",\"u\":\"t\"}],\"director\":\"ND\",\"bk\":\"https://img-guidatv.org/serie/64808f42e03d43e6abc2de4a_b_3_rs_600.jpg\",\"inizio\":\"2026-09-30T17:48:00.000Z\",\"fine\":\"2026-09-30T18:29:00.000Z\",\"rating\":\"3,5\",\"condividi\":\"$undefined\",\"year\":\"2023\",\"tiEp\":\"Episodio 729\",\"trEp\":null},{\"id\":\"YRHpOsqj5bhg\",\"title\":\"4 di sera",
-                "descrizione": "Dibattito quotidiano sui fatti salienti della giornata. Politica, economia, i principali casi di cronaca ed attualita'."
-            },
             {
                 "ora": "21:33",
                 "titolo": "E' sempre Cartabianca",
@@ -397,24 +392,19 @@
                 "ora": "23:40",
                 "titolo": "Barbero risponde",
                 "descrizione": "Il Professor Alessandro Barbero con Davide Savelli per rispondere alle curiosità dei numerosi appassionati di storia. In ogni episodio approfondimenti su periodi, temi e personaggi con esperimenti, prove sul campo e ospiti..."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "Pechino Express",
+                "descrizione": "I viaggiatori raggiungono il secondo paese della rotta di quest'anno, la Cina! Ad accoglierli, una nuova inviata, Giulia Salemi."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Canale 5",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:40",
-                "titolo": "La ruota dei campioni e delle stelle - nip/vip",
-                "descrizione": "Una puntata speciale con i concorrenti piu' forti della stagione e ospiti d'eccezione. In studio gli amati protagonisti di Zelig! Conduce Gerry Scotti con Samira Lui."
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Tg5",
-                "descrizione": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5."
-            },
             {
                 "ora": "00:25",
                 "titolo": "Caduta libera",
@@ -464,24 +454,24 @@
                 "ora": "21:15",
                 "titolo": "Chi L'Ha Visto?",
                 "descrizione": "$2b"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "E' sempre Cartabianca",
+                "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
+            },
+            {
+                "ora": "20:40",
+                "titolo": "La ruota dei campioni e delle stelle - nip/vip",
+                "descrizione": "Una puntata speciale con i concorrenti piu' forti della stagione e ospiti d'eccezione. In studio gli amati protagonisti di Zelig! Conduce Gerry Scotti con Samira Lui."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Italia 1",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:44",
-                "titolo": "NCIS - Unita' Anticrimine",
-                "descrizione": "La serie segue le vicende della principale squadra di agenti speciali dell'agenzia federale Naval Criminal Investigative Service (NCIS), denominata «Major Case Response Team» (MCRT)[5], con sede al Washington Navy Yard di Washington. L'NCIS si occupa dei reati più gravi che vedono coinvolti membri o persone legate alla marina degli Stati Uniti o al corpo dei Marines. Il Major Case Response Team, in particolare, si occupa dei casi più difficili e delicati, quali ad esempio l'omicidio di uomini vicini al Presidente, morti di celebrità all'interno di basi della marina, minacce terroristiche e rapimenti."
-            },
-            {
-                "ora": "21:32",
-                "titolo": "Shark 2 - L'abisso",
-                "descrizione": "Tuffatevi in acque sconosciute con una squadra di coraggiosi esploratori nelle profondità più recondite dell’oceano. Il loro viaggio si trasformerà in una spirale di caos quando una diabolica operazione mineraria minaccerà la loro missione e li costringerà ad una rischiosa lotta per la sopravvivenza. Messi alle strette da colossali Megalodonti e da implacabili saccheggiatori dell’ambiente, i nostri eroi dovranno superare i loro spietati predatori in una corsa contro il tempo al cardiopalma."
-            },
             {
                 "ora": "23:38",
                 "titolo": "Come Ti Leggo - Page a' Vu",
@@ -531,19 +521,24 @@
                 "ora": "04:36",
                 "titolo": "Morte al tiranno! Congiure e attentati contro i dittatori",
                 "descrizione": "Stalin era paranoico ma non c'e' dubbio che molti lo volessero morto. Dopo diversi tentativi di assassinio falliti, l'ultimo complotto ha avuto successo?"
+            },
+            {
+                "ora": "05:28",
+                "titolo": "Morte al tiranno! Congiure e attentati contro i dittatori",
+                "descrizione": "Proprio mentre la Corea ottiene la liberta' dopo decenni di occupazione giapponese, l'ascesa al potere di Kim Il Sung trascina il paese in guerra."
+            },
+            {
+                "ora": "21:30",
+                "titolo": "Tale E Quale Show",
+                "descrizione": "Sedicesima edizione dello show musicale condotto da Carlo Conti, in cui 11 talent si sfidano tra loro trasformandosi ogni settimana in icone musicali differenti. Nella seconda puntata, si riparte con le trasformazioni degli artisti: Jasmine Carrisi è Angelina Mango, Maddalena Corvaglia si confronta con P!nk, Roberta Morise con Elodie, Paola Perego interpreta Sylvie Vartan, Anna Pettinelli ha il volto di Ditonellapiaga e Selma con Beyoncé; Stefano Meloccaro si mette alla prova con Zucchero, Max Paiella è Tom Jones, Andrea Perroni assume le sembianze di Franco Califano, e Vladimir Randazzo quelle di Achille Lauro. Infine i due \"ragazzi incorreggibili\" Flavio Insinna e Gabriele Cirilli vestono i panni di Bobby Solo ed Elvis Presley. A valutare le performance, Elettra Lamborghini, Alessandro Siani e Cristiano Malgioglio, affiancati dal \"quarto giudice\" Ubaldo Pantani, chiamato a entrare nel gioco e a stilare la propria classifica."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "La7",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Una giornata particolare - 8 Settembre Morte e Rinascita della Patria",
-                "descrizione": "Aldo Cazzullo presenta un appassionante viaggio nella giornata cruciale di un personaggio storico. 5a Edizione"
-            },
             {
                 "ora": "23:40",
                 "titolo": "Barbero risponde",
@@ -598,14 +593,49 @@
                 "ora": "23:46",
                 "titolo": "Stolen",
                 "descrizione": "Will Montgomery ha trascorso gli ultimi anni della sua vita in carcere per essere stato tradito dopo una rapina il cui milionario bottino non è mai stato recuperato. Non appena ritornato in libertà, l'uomo ha intenzione di lasciarsi il passato criminale alle spalle e ricostruire il rapporto con la figlia Allison, ma viene contattato dal vecchio socio Vincent, il quale ha appena rapito la ragazza e per liberarla chiede un riscatto di dieci milioni di dollari. Per trovare i soldi necessari Will ha solo 12 ore di tempo, durante le quali dovrà fidarsi del suo istinto e dell'altra sua ex compagna di rapine, la bella Riley, prima che per sua figlia sia troppo tardi."
+            },
+            {
+                "ora": "00:13",
+                "titolo": "Cure",
+                "descrizione": "Un'ondata di orribili omicidi sta investendo Tokyo. L'unica connessione è una sanguinosa X scolpita nel collo di ciascuna delle vittime. In ogni caso, l'assassino si trova vicino alla vittima e non ricorda nulla del crimine. Il detective Takabe e lo psicologo Sakuma sono chiamati per capire la connessione, ma la loro indagine non va da nessuna parte..."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "TV8",
         "categoria": "Digitale Terrestre",
         "programmi": [
+            {
+                "ora": "00:30",
+                "titolo": "Pechino Express",
+                "descrizione": "I viaggiatori raggiungono il secondo paese della rotta di quest'anno, la Cina! Ad accoglierli, una nuova inviata, Giulia Salemi."
+            },
+            {
+                "ora": "04:00",
+                "titolo": "Mostri senza nome: Firenze\",\"prima\":true,\"description\":\"Il 24 marzo del 1995, il geometra Gianfranco Cuccuini viene ritrovato martoriato da 27 coltellate. La prima indiziata viene presto scagionata. Le indagini si concentrano sulla vita privata dell'uomo.\",\"durata\":65,\"genre\":\"Documentari\",\"category\":\"Documentari\",\"image\":\"https://ethaneurope.it.imageservice.sky.com/pd-image/964e3fe2-2356-4ea7-bebe-0dba0f877c1d/background/600\",\"episode_number\":3,\"series_number\":5,\"director\":null,\"inizio\":\"2026-10-01T00:55:00.000Z\",\"fine\":\"2026-10-01T02:00:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2024\"},{\"id\":\"VdqOPrtfxMIN\",\"title\":\"Lady Killer",
+                "descrizione": "Sono delicate, generose, vanitose ed innamorate, ma quando vengono ferite diventano vendicative e pericolose. In ogni episodio affrontiamo il caso di una donna diventata di colpo una feroce assassina."
+            },
+            {
+                "ora": "04:45",
+                "titolo": "Lady Killer",
+                "descrizione": "S22 Ep2 - Sono delicate, generose, vanitose ed innamorate, ma quando vengono ferite diventano vendicative e pericolose. In ogni episodio affrontiamo il caso di una donna diventata di colpo una feroce assassina."
+            },
+            {
+                "ora": "05:30",
+                "titolo": "Borghese al dente",
+                "descrizione": "Alessandro Borghese torna a vestire i panni dello chef rock che mescola i suoi sound musicali preferiti agli ingredienti di ricette tradizionali e sperimentazioni innovative."
+            },
+            {
+                "ora": "21:30",
+                "titolo": "Tale E Quale Show",
+                "descrizione": "Sedicesima edizione dello show musicale condotto da Carlo Conti, in cui 11 talent si sfidano tra loro trasformandosi ogni settimana in icone musicali differenti. Nella seconda puntata, si riparte con le trasformazioni degli artisti: Jasmine Carrisi è Angelina Mango, Maddalena Corvaglia si confronta con P!nk, Roberta Morise con Elodie, Paola Perego interpreta Sylvie Vartan, Anna Pettinelli ha il volto di Ditonellapiaga e Selma con Beyoncé; Stefano Meloccaro si mette alla prova con Zucchero, Max Paiella è Tom Jones, Andrea Perroni assume le sembianze di Franco Califano, e Vladimir Randazzo quelle di Achille Lauro. Infine i due \"ragazzi incorreggibili\" Flavio Insinna e Gabriele Cirilli vestono i panni di Bobby Solo ed Elvis Presley. A valutare le performance, Elettra Lamborghini, Alessandro Siani e Cristiano Malgioglio, affiancati dal \"quarto giudice\" Ubaldo Pantani, chiamato a entrare nel gioco e a stilare la propria classifica."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "La Coda Del Diavolo (2024)",
+                "descrizione": "Sante Moras, agente di polizia penitenziaria, viene incastrato per la morte di un detenuto legato all'omicidio di una ragazza. Costretto a fuggire per dimostrare la propria innocenza, incrocia la strada della giornalista Fabiana Lai, impegnata a indagare su una serie di delitti collegati da un misterioso simbolo."
+            },
             {
                 "ora": "21:15",
                 "titolo": "Chi L'Ha Visto?",
@@ -632,57 +662,17 @@
                 "descrizione": "Il Professor Alessandro Barbero con Davide Savelli per rispondere alle curiosità dei numerosi appassionati di storia. In ogni episodio approfondimenti su periodi, temi e personaggi con esperimenti, prove sul campo e ospiti..."
             },
             {
-                "ora": "00:30",
-                "titolo": "Pechino Express",
-                "descrizione": "I viaggiatori raggiungono il secondo paese della rotta di quest'anno, la Cina! Ad accoglierli, una nuova inviata, Giulia Salemi."
-            },
-            {
                 "ora": "23:45",
                 "titolo": "Osteria Giacobazzi",
                 "descrizione": "Giuseppe Giacobazzi torna con un nuovo progetto portando in scena il calore e l'energia delle osterie romagnole."
-            },
-            {
-                "ora": "23:46",
-                "titolo": "Stolen",
-                "descrizione": "Will Montgomery ha trascorso gli ultimi anni della sua vita in carcere per essere stato tradito dopo una rapina il cui milionario bottino non è mai stato recuperato. Non appena ritornato in libertà, l'uomo ha intenzione di lasciarsi il passato criminale alle spalle e ricostruire il rapporto con la figlia Allison, ma viene contattato dal vecchio socio Vincent, il quale ha appena rapito la ragazza e per liberarla chiede un riscatto di dieci milioni di dollari. Per trovare i soldi necessari Will ha solo 12 ore di tempo, durante le quali dovrà fidarsi del suo istinto e dell'altra sua ex compagna di rapine, la bella Riley, prima che per sua figlia sia troppo tardi."
-            },
-            {
-                "ora": "00:13",
-                "titolo": "Cure",
-                "descrizione": "Un'ondata di orribili omicidi sta investendo Tokyo. L'unica connessione è una sanguinosa X scolpita nel collo di ciascuna delle vittime. In ogni caso, l'assassino si trova vicino alla vittima e non ricorda nulla del crimine. Il detective Takabe e lo psicologo Sakuma sono chiamati per capire la connessione, ma la loro indagine non va da nessuna parte..."
-            },
-            {
-                "ora": "21:14",
-                "titolo": "L'uomo che sussurrava ai cavalli",
-                "descrizione": "Figlia di ricchi professionisti (Scott Thomas, Neill), la 14enne Grace MacLean (Johansson) è vittima a New York di un incidente stradale in cui muore una cara amica, lei perde una gamba e il suo amato purosangue Pilgrim rimane malconcio. Convinta che l'avvenire della figlia sia legato a quello del cavallo, la madre Annie si reca con la figlia in una fattoria del Montana dove vive Tom Booker (Redford), celebre per la sua conoscenza dei cavalli."
-            },
-            {
-                "ora": "00:06",
-                "titolo": "Sheryl Crow Live At The Capitol Theatre",
-                "descrizione": "Dopo il suo debutto nel 1993 con l'album multi-platino \"Tuesday Night Music Club"
-            },
-            {
-                "ora": "23:20",
-                "titolo": "Il nemico alle porte",
-                "descrizione": "Stalingrado è stretta nella morsa nazista e ogni metro di terreno viene conteso armi in pugno. Il tiratore scelto Vassili Zaitsev abbatte uno dopo l'altro i tedeschi. Il commissario politico Danilov fa di lui un potente mezzo di propaganda. È l'eroe sovietico per eccellenza che non sbaglia un colpo. Un maggiore tedesco, König, decide di sfidarlo sul suo stesso terreno: la precisione nella mira. I due danno inizio a un inseguimento che porterà allo scontro finale."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Nove",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:45",
-                "titolo": "Cash or Trash - Chi offre di piu'?",
-                "descrizione": "Alcuni mercanti cercano di aggiudicarsi preziosi oggetti."
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Roberto Lipari - L'ultimo spettacolo",
-                "descrizione": "Un monologo ironico e introspettivo in cui il comico racconta se' stesso."
-            },
             {
                 "ora": "23:45",
                 "titolo": "Osteria Giacobazzi",
@@ -732,19 +722,24 @@
                 "ora": "21:33",
                 "titolo": "E' sempre Cartabianca",
                 "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
+            },
+            {
+                "ora": "20:40",
+                "titolo": "La ruota dei campioni e delle stelle - nip/vip",
+                "descrizione": "Una puntata speciale con i concorrenti piu' forti della stagione e ospiti d'eccezione. In studio gli amati protagonisti di Zelig! Conduce Gerry Scotti con Samira Lui."
+            },
+            {
+                "ora": "23:38",
+                "titolo": "Come Ti Leggo - Page a' Vu",
+                "descrizione": "Conduce Sonia Bruganelli. Gli ospiti vengono raccontati attraverso i libri e i libri attraverso gli ospiti. In questa puntata: Giuseppe Cruciani e Taylor Mega"
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "20 Mediaset",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:08",
-                "titolo": "Kingsman: Il cerchio d'oro",
-                "descrizione": "I nostri eroi si trovano a dover fronteggiare una nuova sfida. Quando il loro quartier generale viene distrutto e il mondo è tenuto in ostaggio, la loro missione li porta a scoprire un'organizzazione di spie alleata, con base negli Stati Uniti, chiamata Statesman e precedente alla formazione dei Kingsmen. In una nuova avventura che testerà la forza e l'arguzia degli agenti ai limiti estremi, queste due organizzazioni d'élite si uniranno per combattere contro il nemico comune per salvare il mondo."
-            },
             {
                 "ora": "23:46",
                 "titolo": "Stolen",
@@ -799,29 +794,19 @@
                 "ora": "23:10",
                 "titolo": "La Coda Del Diavolo (2024)",
                 "descrizione": "Sante Moras, agente di polizia penitenziaria, viene incastrato per la morte di un detenuto legato all'omicidio di una ragazza. Costretto a fuggire per dimostrare la propria innocenza, incrocia la strada della giornalista Fabiana Lai, impegnata a indagare su una serie di delitti collegati da un misterioso simbolo."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Chi L'Ha Visto?",
+                "descrizione": "$30"
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Real Time",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:35",
-                "titolo": "Casa a prima vista",
-                "descrizione": "Ida, Mariana e Damiano sono a Catania alla ricerca della prima casa di proprieta' per una coppia."
-            },
-            {
-                "ora": "21:40",
-                "titolo": "Matrimonio a prima vista Italia",
-                "descrizione": "La convivenza porta nuove scoperte e mette alla prova gli equilibri."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Primo appuntamento",
-                "descrizione": "Con una nuova location torna il dating show condotto da Flavio Montrucchio."
-            },
             {
                 "ora": "00:35",
                 "titolo": "ER: storie incredibili",
@@ -866,193 +851,163 @@
                 "ora": "23:10",
                 "titolo": "La Coda Del Diavolo (2024)",
                 "descrizione": "Sante Moras, agente di polizia penitenziaria, viene incastrato per la morte di un detenuto legato all'omicidio di una ragazza. Costretto a fuggire per dimostrare la propria innocenza, incrocia la strada della giornalista Fabiana Lai, impegnata a indagare su una serie di delitti collegati da un misterioso simbolo."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Chi L'Ha Visto?",
+                "descrizione": "$2a"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "E' sempre Cartabianca",
+                "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
+            },
+            {
+                "ora": "20:40",
+                "titolo": "La ruota dei campioni e delle stelle - nip/vip",
+                "descrizione": "Una puntata speciale con i concorrenti piu' forti della stagione e ospiti d'eccezione. In studio gli amati protagonisti di Zelig! Conduce Gerry Scotti con Samira Lui."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Boing",
         "categoria": "Digitale Terrestre",
         "programmi": [
             {
-                "ora": "21:15",
-                "titolo": "Adventure Time",
-                "descrizione": "La serie segue le avventure di un ragazzo di nome Finn, descritto da Ward come un \"energico ragazzo dalla forte moralità"
-            },
-            {
-                "ora": "21:25",
-                "titolo": "Adventure Time",
-                "descrizione": "La serie segue le avventure di un ragazzo di nome Finn, descritto da Ward come un \"energico ragazzo dalla forte moralità"
-            },
-            {
-                "ora": "21:40",
-                "titolo": "Captain Tsubasa",
-                "descrizione": "Il torneo internazionale giovanile ha inizio e la gara d’inaugurazione vede il Giappone sfidare la nazionale giovanile italiana."
-            },
-            {
-                "ora": "22:10",
-                "titolo": "Captain Tsubasa",
-                "descrizione": "La partita fra Italia e Giappone prosegue con quest’ultimo impegnato in continue azioni d’attacco."
-            },
-            {
-                "ora": "22:35",
+                "ora": "00:35",
                 "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball e Darwin si chiedono qual e' il senso della vita e interpellano tutti: da Larry ai genitori da Madre Natura fino ai pianeti ma la risposta piu' profonda l'avranno da Sussie."
+                "descrizione": "Nicole Watterson invita a pranzo una donna per bene e mentre cerca in tutti i modi di far apparire la sua una famiglia normale Anais fa amicizia col figlio della donna."
             },
             {
-                "ora": "22:50",
+                "ora": "00:45",
                 "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Banana Barbara e' in grado di dipingere il futuro e un suo quadro rappresenta Gumball mentre si mette in imbarazzo sulla tv nazionale. Il ragazzino fara' di tutto per evitarlo."
+                "descrizione": "Darwin ha un talento naturale nel suonare il flauto a coulisse e viene scelto come solista nella banda della scuola. Gumball e' geloso ma non e' il solo."
             },
             {
-                "ora": "23:05",
+                "ora": "00:55",
                 "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Darwin rimane molto colpito da un video che gli mostrano a scuola e decide esagerando di farsi paladino della sicurezza della sua famiglia e di tutta la citta' di Elmore."
+                "descrizione": "I Watterson sono al verde e Larry propone loro di girare il nuovo spot per la catena Joyful Burger. Ma Gumball non vuole vendersi a un'azienda."
             },
             {
-                "ora": "23:15",
+                "ora": "01:05",
                 "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Anais Gumbal e Darwin immaginano un amico e quello appare sul serio ma in verita' e' soltanto un giocattolo mostruoso in cerca di amici."
+                "descrizione": "E' il primo giorno di scuola dopo le vacanze e i bambini sono stati affidati a Richard che deve solo accompagnarli, ma la mattina i figli sembrano scomparsi."
             },
             {
-                "ora": "23:30",
+                "ora": "01:15",
                 "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Palloncino e' buono e gentile con tutti e Gumball vuole scoprire il lato piu' oscuro del suo carattere cercando in tutti i modi di farlo arrabbiare."
+                "descrizione": "Nonostante i suoi sforzi, Rob, la nemesi di Gumbal e Darwin, non riesce ad essere cattivo e pericoloso come vorrebbe; cosi' i ragazzi decidono di aiutarlo."
             },
             {
-                "ora": "23:40",
+                "ora": "01:30",
                 "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball e' convinto che a scuola esista una societa' segreta e vuole a tutti i costi entrarne a far parte."
+                "descrizione": "Gumball e Darwin credono che gli anziani di Elmore siano una gang e vogliono entrarci."
             },
             {
-                "ora": "23:50",
+                "ora": "01:40",
                 "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball tenta di evitare che gli raccontino le scene dell'ultimo film horror uscito al cinema ma pare che tutta Elmore lo abbia visto prima di lui."
+                "descrizione": "Gumball e Darwin scoprono che a scuola non ci sono solo i loro compagni di classe ma anche altri studenti. Una di questi e' Clare Cooper e ha una triste storia."
             },
             {
-                "ora": "00:00",
+                "ora": "01:50",
                 "titolo": "Lo straordinario mondo di Gumball",
-                "descrizione": "Gumball e Darwin rischiano di fare tardi a scuola e mentre provano ad arrivare in tempo causano una serie di sbalzi temporali."
+                "descrizione": "Per impedire che Louie e nonna Jojo si sposino, Richard con l'inganno fa firmare un documento di adozione a Loiue dove diventa suo padre."
+            },
+            {
+                "ora": "02:00",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Alla notizia del compleanno di Nuvola, Gumball e Darwin entrano nel panico perche' non sanno cosa regalarle, dato che la ragazza ha gia' tutto quello che vuole."
+            },
+            {
+                "ora": "02:10",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Gumball vuole dimostrare al sig.Fitzgerald di essere il ragazzo giusto per Nocciolina. Cosi' lo tampina e cerca di aiutarlo a vincere un contratto con una partita a golf."
+            },
+            {
+                "ora": "02:20",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Nonno Louie regala un assegno a Gumball, Darwin e Anais. Mentre i ragazzi pensano a come spendere i loro soldi, si intromettono Mamma e Papa'."
+            },
+            {
+                "ora": "02:30",
+                "titolo": "Lo straordinario mondo di Gumball",
+                "descrizione": "Anais e' arrabbiata con un bambino che le fa sempre dispetti e la tratta male,cosi' Gumball e Darwin tentano di aiutarla a risolvere il problema senza ricorrere alla violenza."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "K2",
         "categoria": "Digitale Terrestre",
         "programmi": [
             {
-                "ora": "21:05",
+                "ora": "00:30",
+                "titolo": "Maca&Roni",
+                "descrizione": "1' Stagione Ep.7 - Maca il gatto e Roni il pinguino creano tanti problemi!"
+            },
+            {
+                "ora": "00:45",
+                "titolo": "Maca&Roni",
+                "descrizione": "1' Stagione Ep.8 - Maca il gatto e Roni il pinguino creano tanti problemi!"
+            },
+            {
+                "ora": "01:00",
+                "titolo": "Maca&Roni",
+                "descrizione": "1' Stagione Ep.9 - Maca il gatto e Roni il pinguino creano tanti problemi!"
+            },
+            {
+                "ora": "01:20",
+                "titolo": "Karate Sheep",
+                "descrizione": "1' Stagione Ep.8 - Wanda la pecora deve tenere al sicuro le altre pecore dal pericoloso Wolf."
+            },
+            {
+                "ora": "01:40",
                 "titolo": "Zig & Sharko",
                 "descrizione": "4' Stagione Ep.21 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Sharko."
             },
             {
-                "ora": "21:20",
-                "titolo": "Le avventure di Bernie",
-                "descrizione": "1' Stagione Ep.3 - Dopo non essere riuscito ad aiutare Zig a mangiare Marina, Bernie si è perso in fondo alloceano! Il geniale inventore cerca di tornare in ogni modo sulla sua isola."
+                "ora": "02:00",
+                "titolo": "Zig & Sharko",
+                "descrizione": "4' Stagione Ep.22 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Sharko."
             },
             {
-                "ora": "21:30",
-                "titolo": "Mermicorno Starfall",
-                "descrizione": "2' Stagione Ep.3 - Le avventure di piccole creature metà unicorno e metà sirena."
+                "ora": "02:25",
+                "titolo": "Zig & Sharko",
+                "descrizione": "4' Stagione Ep.23 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Sharko."
             },
             {
-                "ora": "22:00",
-                "titolo": "Japanizi: Going, Going, Gong!",
-                "descrizione": "1' Stagione Ep.30 - Un game show comico in stile giapponese per tutta la famiglia."
+                "ora": "02:45",
+                "titolo": "Zig & Sharko",
+                "descrizione": "4' Stagione Ep.24 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Sharko."
             },
             {
-                "ora": "22:20",
-                "titolo": "Japanizi: Going, Going, Gong!",
-                "descrizione": "1' Stagione Ep.1 - Un game show comico in stile giapponese per tutta la famiglia."
+                "ora": "03:10",
+                "titolo": "Karate Sheep",
+                "descrizione": "1' Stagione Ep.9 - Wanda la pecora deve tenere al sicuro le altre pecore dal pericoloso Wolf."
             },
             {
-                "ora": "22:45",
-                "titolo": "Maca&Roni",
-                "descrizione": "3' Stagione Ep.47 - Maca il gatto e Roni il pinguino creano tanti problemi!"
+                "ora": "03:30",
+                "titolo": "Karate Sheep",
+                "descrizione": "1' Stagione Ep.10 - Wanda la pecora deve tenere al sicuro le altre pecore dal pericoloso Wolf."
             },
             {
-                "ora": "23:00",
-                "titolo": "Maca&Roni",
-                "descrizione": "1' Stagione Ep.1 - Maca il gatto e Roni il pinguino creano tanti problemi!"
+                "ora": "03:50",
+                "titolo": "Zig & Sharko",
+                "descrizione": "4' Stagione Ep.25 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Sharko."
             },
             {
-                "ora": "23:15",
-                "titolo": "Maca&Roni",
-                "descrizione": "1' Stagione Ep.2 - Maca il gatto e Roni il pinguino creano tanti problemi!"
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Maca&Roni",
-                "descrizione": "1' Stagione Ep.3 - Maca il gatto e Roni il pinguino creano tanti problemi!"
-            },
-            {
-                "ora": "23:45",
-                "titolo": "Maca&Roni",
-                "descrizione": "1' Stagione Ep.4 - Maca il gatto e Roni il pinguino creano tanti problemi!"
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Maca&Roni",
-                "descrizione": "1' Stagione Ep.5 - Maca il gatto e Roni il pinguino creano tanti problemi!"
-            },
-            {
-                "ora": "00:15",
-                "titolo": "Maca&Roni",
-                "descrizione": "1' Stagione Ep.6 - Maca il gatto e Roni il pinguino creano tanti problemi!"
+                "ora": "04:10",
+                "titolo": "Zig & Sharko",
+                "descrizione": "4' Stagione Ep.26 - La simpatica iena Zig, costantemente affamata, elabora i più bizzarri piani per mangiare la sirena Marina, protetta dallo squalo Sharko."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Rai Gulp",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:00",
-                "titolo": "Il Collegio 9 - Sesta Puntata: Notti Magiche",
-                "descrizione": "La squadra di calcio del \"Collegio\" è pronta a scendere in campo contro una squadra di Campobasso. Riuscirà a vincere? Intanto, due collegiali rimaste in convitto scoprono il loro destino..."
-            },
-            {
-                "ora": "21:55",
-                "titolo": "Il Campeggio",
-                "descrizione": "Oscar e Scricciola sono migliori amici e partecipano insieme al loro primo campeggio estivo…ma non sarà un’estate come le altre! L’isola è, infatti, abitata da creature magiche, cibi parlanti, una luna chiacchierona e streghe sorveglianti. Segui tutte le avventure di Oscar e Scricciola alle prese con Yeti, viaggi nel tempo e tanti misteri da scoprire! Nel mondo del Campeggio Fantastico tutto è possibile!"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Il Campeggio",
-                "descrizione": "Oscar e Scricciola sono migliori amici e partecipano insieme al loro primo campeggio estivo…ma non sarà un’estate come le altre! L’isola è, infatti, abitata da creature magiche, cibi parlanti, una luna chiacchierona e streghe sorveglianti. Segui tutte le avventure di Oscar e Scricciola alle prese con Yeti, viaggi nel tempo e tanti misteri da scoprire! Nel mondo del Campeggio Fantastico tutto è possibile!"
-            },
-            {
-                "ora": "22:10",
-                "titolo": "Goldrake",
-                "descrizione": "Tutto inizia quando Fleed, pacifica stella della nebulosa di Vega, dalle avanzate conoscenze scientifiche, viene invasa dall'esercito del malvagio Re Vega, intenzionato ad estendere il proprio dominio su tutta l'intera galassia. Ben presto Fleed cade sotto il dominio delle truppe di Vega, che seminando morte e distruzione, la conquistano. Duke Fleed, principe ereditario della stella che porta il suo nome, viene catturato ed imprigionato mentre la famiglia trova una morte orrenda. Il perfido Re Vega costringe gli scienziati di Fleed ad usare tutte le loro sofisticate tecnologie per creare una terribile macchina da guerra che gli permetta di conquistare l'intero universo: l'astronave-robot \"Goldrake\". Il principe non può permettere che un arma tanto potente finisca nelle mani di Vega e fuggendo dalla prigione in cui è rinchiuso riesce a rubare \"Goldrake\"."
-            },
-            {
-                "ora": "22:35",
-                "titolo": "Super Spike Ball",
-                "descrizione": "La Lucky Squad arriva a Malta per la semifinale del torneo contro le Super Roller. Il campo da gioco si trova in cima a un cantiere edile, con ostacoli imprevisti come cemento fresco e attrezzature da costruzione. Durante la partita, molto combattuta, Lucky si distrae costruendo una statua di Monica, finendo ripetutamente bloccato nel cemento. Viola fatica inizialmente ma trova l'ispirazione nelle parole di Lucky sui \"mattoni\" che servono per costruire una base solida, cambiando approccio. Con giocate spettacolari e acrobatiche da entrambe le squadre, la Lucky Squad vince 25-23 qualificandosi per la finale."
-            },
-            {
-                "ora": "22:40",
-                "titolo": "Super Spike Ball",
-                "descrizione": "Alla vigilia della finale contro i Super Heroes, i ragazzi sono tesi e preoccupati. Lucky propone una sessione di meditazione nel chiostro del Palazzo del Gran Maestro per aiutarli a superare le paure. Uno per uno, Viola, Lj e Nino entrano in visualizzazioni immaginarie dove affrontano versioni gigantesche e minacciose dei loro avversari più temuti, quelli contro cui disputeranno la finale: Brain Master, Freeze e Triple. Guidati dalla voce di Lucky, ognuno trova il modo di sconfiggere il proprio \"mostro interiore"
-            },
-            {
-                "ora": "23:05",
-                "titolo": "La Compagnia dei Celestini",
-                "descrizione": "Un gruppo di ragazzini si allena lontano da occhi indiscreti, per giocare alla pallastrada, un gioco simile al calcio dove le poche regole sono strutturate sull'ambiente urbano. Lentamente i giovani protagonisti sapranno convincere gli adulti che li circondano della bontà del loro sport, pieno di valori come rispetto, solidarietà e amicizia e con il loro sostegno potranno disputare partite di pallastrada in trasferta per tutto il mondo."
-            },
-            {
-                "ora": "23:20",
-                "titolo": "La Compagnia dei Celestini",
-                "descrizione": "Un gruppo di ragazzini si allena lontano da occhi indiscreti, per giocare alla pallastrada, un gioco simile al calcio dove le poche regole sono strutturate sull'ambiente urbano. Lentamente i giovani protagonisti sapranno convincere gli adulti che li circondano della bontà del loro sport, pieno di valori come rispetto, solidarietà e amicizia e con il loro sostegno potranno disputare partite di pallastrada in trasferta per tutto il mondo."
-            },
-            {
-                "ora": "23:55",
-                "titolo": "Spike Team",
-                "descrizione": "Le Spike assistono alla partita delle Rose contro le Best. Il livello tecnico è impressionante e Lucky cerca di stimolare le ragazze con un nuovo allenamento. Ma Vittoria si sfila dall'incombenza e raggiunge il padre all'ippodromo, per la gara di ostacoli in cui il genitore ha riposto mille speranze. Ma Vittoria non vuole più seguire la strada del padre e, di fronte all'ostacolo più importante, ferma il cavallo e rinuncia."
-            },
             {
                 "ora": "00:10",
                 "titolo": "Spike Team",
@@ -1067,96 +1022,126 @@
                 "ora": "00:50",
                 "titolo": "Le tre moschettiere",
                 "descrizione": "D'Artagnan è costretta ad allontanarsi da Parigi dato che il suo cavallo non sta bene e deve essere condotto nelle campagne. Ma le sue amiche moschettiere scopriranno che è solo un piano ideato dal malvagio Jussac per prendere il suo posto alla corte del re..."
+            },
+            {
+                "ora": "01:05",
+                "titolo": "Gormiti",
+                "descrizione": "Riff, Ikor, Eron, Trek e Ao-Ki si trovano nel Regno del Ghiaccio, per far visita al padre di Ikor, Kori, re di questo Regno. Qui saranno sorpresi da una nuova minaccia: Gredd, in possesso di un frammento del Ghiaccio ha trasformato i Servi delle Tenebre in Servi del Ghiaccio. Questi faranno prigionieri Re Kori e le sue guardie. I Guardiani, dopo varie difficoltà, riusciranno a salvarli grazie all'aiuto di Hurik, Gormita del Fuoco. Re Kori, che inizialmente credeva che Ikor e i suoi amici fossero soltanto dei bambini che giocano \"a fare i Guardiani"
+            },
+            {
+                "ora": "01:10",
+                "titolo": "Gormiti",
+                "descrizione": "Ikor deve affrontare un prova per dimostrare a Re Kori di essere in grado di fare affidamento sui suoi compagni, e di meritarsi quindi il titolo di Difensore del Reame. Durante la prova, però, il castello viene attaccato dai Darkan , e Ikor dimostrerà sul campo di avere fiducia nei suoi amici."
+            },
+            {
+                "ora": "01:35",
+                "titolo": "La famiglia Skrokkiazeppi",
+                "descrizione": "Gli Skrokkiazeppi ricevono come biglietto d'auguri di Buon Anno, una foto dirtente di Lucas e la sua famiglia. Ortika vuole ricambiare con una foto altrettanto divertente. Nonna Cikuta, inoltre, convince tutti che saranno maledetti se non restituiranno gli auguri. Ma come fare una foto di famiglia adatta, quando si è dei Troll?"
+            },
+            {
+                "ora": "01:40",
+                "titolo": "La famiglia Skrokkiazeppi",
+                "descrizione": "Ortika porta a casa un telefono fisso! Prekullio non vuole usarlo, ma poi la figlia lo convince. Così comincia a fare acquisti per telefono. Questo primo oggetto comprato a caso, è l'inizio di una spirale di acquisti compulsivi che coinvolgeranno tutta la famiglia. Ma ciò che si compra, prima o poi, bisogna pagarlo."
+            },
+            {
+                "ora": "01:55",
+                "titolo": "Coop Troop",
+                "descrizione": "La Coop Troop risponde alla chiamata di Crystal, tormentata da un fastidioso singhiozzo che non le dà tregua. In realtà, nessuno dei soccorritori ha le idee chiare su come affrontare il problema. Ognuno di loro propone fantasiose soluzioni e alla fine, quando finalmente a Crystal passerà il singhiozzo, ognuno cercherà di attribuirsene il merito."
+            },
+            {
+                "ora": "02:00",
+                "titolo": "Coop Troop",
+                "descrizione": "Sam chiede l'intervento della Coop Troop perché Esther, camaleonte dalle numerose personalità, si è impadronita di una pantofola del suo padrone e non vuole restituirla. Quando Flo e gli altri la acciuffano, Esther dichiara di essere l'imperatrice della Via Lattea e che la pantofola in questione è un oggetto sacro e per restituirla pone delle condizioni al limite dell'assurdo..."
+            },
+            {
+                "ora": "02:20",
+                "titolo": "Super Happy Magic Forest",
+                "descrizione": "Un lamento terribile risuona nella Foresta e nessuno degli abitanti, compresi i nostri eroi, è riuscito a chiudere occhio. Mr. Simpaticone, più irritabile del solito, manda gli eroi in missione per scoprire la fonte di quel frastuono e permettere agli abitanti di tornare a dormire."
+            },
+            {
+                "ora": "02:25",
+                "titolo": "Super Happy Magic Forest",
+                "descrizione": "Per un incidente, gli eroi sono costretti a ospitare il Re Goblin. Il problema è che non riescono più a liberarsene! Piuttosto che convivere per sempre con l'ospite sgradito e le sue cattive maniere, gli eroi escogitano una missione speciale che lo farà tornare di corsa alla sua torre, lontano dalle loro vite."
+            },
+            {
+                "ora": "02:35",
+                "titolo": "Super Happy Magic Forest",
+                "descrizione": "Blossom si offre volontaria per scortare Una l'unicorno fino alla prossima tappa del suo tour. Una missione apparentemente semplice, se non fosse che l'apprensione di Blossom finisce per mettere in pericolo la sua eroina. Al momento del bisogno, però, riesce a chiedere aiuto, salvando Una e riportando l'armonia."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Frisbee",
         "categoria": "Digitale Terrestre",
         "programmi": [
             {
-                "ora": "21:05",
+                "ora": "00:30",
                 "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "3' Stagione Ep.27 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
+                "descrizione": "3' Stagione Ep.38 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
             },
             {
-                "ora": "21:20",
+                "ora": "00:45",
                 "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "3' Stagione Ep.28 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
+                "descrizione": "3' Stagione Ep.39 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
             },
             {
-                "ora": "21:30",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "3' Stagione Ep.29 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
+                "ora": "01:05",
+                "titolo": "Floopaloo",
+                "descrizione": "1' Stagione Ep.19 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
             },
             {
-                "ora": "21:45",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "3' Stagione Ep.30 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
+                "ora": "01:25",
+                "titolo": "Floopaloo",
+                "descrizione": "1' Stagione Ep.20 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
             },
             {
-                "ora": "22:00",
+                "ora": "01:45",
                 "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
-                "descrizione": "3' Stagione Ep.8 - Oggy si prende cura di Piya, figlia dei suoi amici indiani"
+                "descrizione": "7' Stagione Ep.14 - Oggy si prende cura di Piya, figlia dei suoi amici indiani."
             },
             {
-                "ora": "22:25",
+                "ora": "02:05",
                 "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
-                "descrizione": "3' Stagione Ep.9 - Oggy si prende cura di Piya, figlia dei suoi amici indiani"
+                "descrizione": "7' Stagione Ep.15 - Oggy si prende cura di Piya, figlia dei suoi amici indiani."
             },
             {
-                "ora": "22:45",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "3' Stagione Ep.31 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
+                "ora": "02:30",
+                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
+                "descrizione": "7' Stagione Ep.16 - Oggy si prende cura di Piya, figlia dei suoi amici indiani."
             },
             {
-                "ora": "23:00",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "3' Stagione Ep.32 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
+                "ora": "02:50",
+                "titolo": "Oggy e i maledetti scarafaggi - Next Generation",
+                "descrizione": "7' Stagione Ep.17 - Oggy si prende cura di Piya, figlia dei suoi amici indiani."
             },
             {
-                "ora": "23:15",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "3' Stagione Ep.33 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
+                "ora": "03:10",
+                "titolo": "Floopaloo",
+                "descrizione": "1' Stagione Ep.21 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
             },
             {
-                "ora": "23:30",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "3' Stagione Ep.34 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
+                "ora": "03:30",
+                "titolo": "Floopaloo",
+                "descrizione": "1' Stagione Ep.22 - Lisa e Matias trascorrono l'estate in un luogo dai magici paesaggi. Tra in fiumi verticali, pietre baffute e alberi dei ricordi, troveranno delle creature leggendarie."
             },
             {
-                "ora": "23:45",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "3' Stagione Ep.35 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
+                "ora": "03:50",
+                "titolo": "Oggy Oggy",
+                "descrizione": "2' Stagione Ep.5 - Gioco, avventura e amici rendono la vita di Oggy Oggy divertente! Curioso e audace, questo adorabile gattino è sempre pronto ad aiutare un amico e a vivere nuove esperienze."
             },
             {
-                "ora": "00:00",
-                "titolo": "Alvinnn!!! And the Chipmunks",
-                "descrizione": "3' Stagione Ep.36 - Le avventure di tre scoiattoli dalla voce incredibile, 'adottati' da Dave Seville, che diventano un fenomeno musicale."
+                "ora": "04:15",
+                "titolo": "Oggy Oggy",
+                "descrizione": "2' Stagione Ep.6 - Gioco, avventura e amici rendono la vita di Oggy Oggy divertente! Curioso e audace, questo adorabile gattino è sempre pronto ad aiutare un amico e a vivere nuove esperienze."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "DMAX",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "19:55",
-                "titolo": "Airport Security: Spagna",
-                "descrizione": "Seguiamo il lavoro degli agenti ai confini spagnoli."
-            },
-            {
-                "ora": "21:45",
-                "titolo": "Overload",
-                "descrizione": "A Predazzo, Gianluca, Manuel e la nuova recluta Tommaso devono posare una passerella d'acciaio da 50 metri coordinando due autogru' e una piattaforma radiocomandata."
-            },
-            {
-                "ora": "22:45",
-                "titolo": "Overload",
-                "descrizione": "L'abete di Natale destinato al Duomo di Milano non puo' aspettare. Ma quello che sembra un sollevamento pianificato si trasforma per Gianluca in una corsa contro il tempo."
-            },
             {
                 "ora": "23:45",
                 "titolo": "Affari col botto",
@@ -1201,24 +1186,29 @@
                 "ora": "21:15",
                 "titolo": "Chi L'Ha Visto?",
                 "descrizione": "$2a"
+            },
+            {
+                "ora": "21:33",
+                "titolo": "E' sempre Cartabianca",
+                "descrizione": "Talk di attualita' e politica, approfondita e commentata dagli ospiti. Bianca Berlinguer conduce dando voce a tutte le opinioni."
+            },
+            {
+                "ora": "20:40",
+                "titolo": "La ruota dei campioni e delle stelle - nip/vip",
+                "descrizione": "Una puntata speciale con i concorrenti piu' forti della stagione e ospiti d'eccezione. In studio gli amati protagonisti di Zelig! Conduce Gerry Scotti con Samira Lui."
+            },
+            {
+                "ora": "23:38",
+                "titolo": "Come Ti Leggo - Page a' Vu",
+                "descrizione": "Conduce Sonia Bruganelli. Gli ospiti vengono raccontati attraverso i libri e i libri attraverso gli ospiti. In questa puntata: Giuseppe Cruciani e Taylor Mega"
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Rai Sport",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "20:35",
-                "titolo": "80 Years Old - Fipav Anniversary 1946 - 2026",
-                "descrizione": "Il docufilm che ripercorre i gloriosi 80 anni della Federazione Italiana Pallavolo grazie alle testimonianze di numerosi protagonisti che hanno contribuito a scriverne i suoi momenti indimenticabili."
-            },
-            {
-                "ora": "22:40",
-                "titolo": "Automobilismo: Mondiale Endurance 2026 -",
-                "descrizione": "Mondiale Endurance - 6 ore di Fuji"
-            },
             {
                 "ora": "23:25",
                 "titolo": "Pallavolo - Courmayeur Cup 2026 - Finale: Conegliano - Milano",
@@ -1268,29 +1258,24 @@
                 "ora": "23:40",
                 "titolo": "Barbero risponde",
                 "descrizione": "Il Professor Alessandro Barbero con Davide Savelli per rispondere alle curiosità dei numerosi appassionati di storia. In ogni episodio approfondimenti su periodi, temi e personaggi con esperimenti, prove sul campo e ospiti..."
+            },
+            {
+                "ora": "00:30",
+                "titolo": "Pechino Express",
+                "descrizione": "I viaggiatori raggiungono il secondo paese della rotta di quest'anno, la Cina! Ad accoglierli, una nuova inviata, Giulia Salemi."
+            },
+            {
+                "ora": "23:45",
+                "titolo": "Osteria Giacobazzi",
+                "descrizione": "Giuseppe Giacobazzi torna con un nuovo progetto portando in scena il calore e l'energia delle osterie romagnole."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sportitalia",
         "categoria": "Digitale Terrestre",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Qualificazioni Coppa d'Africa Congo-Camerun",
-                "descrizione": "Qualificazioni Coppa d'Africa Congo-Camerun"
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Sportitaliamercato",
-                "descrizione": "Il programma tratta le vicende del calciomercato sia nella sessione estiva che in quella invernale e va in onda alle ore 23.00 dal lunedì al venerdì"
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Tale E Quale Show",
-                "descrizione": "Sedicesima edizione dello show musicale condotto da Carlo Conti, in cui 11 talent si sfidano tra loro trasformandosi ogni settimana in icone musicali differenti. Nella seconda puntata, si riparte con le trasformazioni degli artisti: Jasmine Carrisi è Angelina Mango, Maddalena Corvaglia si confronta con P!nk, Roberta Morise con Elodie, Paola Perego interpreta Sylvie Vartan, Anna Pettinelli ha il volto di Ditonellapiaga e Selma con Beyoncé; Stefano Meloccaro si mette alla prova con Zucchero, Max Paiella è Tom Jones, Andrea Perroni assume le sembianze di Franco Califano, e Vladimir Randazzo quelle di Achille Lauro. Infine i due \"ragazzi incorreggibili\" Flavio Insinna e Gabriele Cirilli vestono i panni di Bobby Solo ed Elvis Presley. A valutare le performance, Elettra Lamborghini, Alessandro Siani e Cristiano Malgioglio, affiancati dal \"quarto giudice\" Ubaldo Pantani, chiamato a entrare nel gioco e a stilare la propria classifica."
-            },
             {
                 "ora": "23:10",
                 "titolo": "La Coda Del Diavolo (2024)",
@@ -1335,49 +1320,29 @@
                 "ora": "23:46",
                 "titolo": "Stolen",
                 "descrizione": "Will Montgomery ha trascorso gli ultimi anni della sua vita in carcere per essere stato tradito dopo una rapina il cui milionario bottino non è mai stato recuperato. Non appena ritornato in libertà, l'uomo ha intenzione di lasciarsi il passato criminale alle spalle e ricostruire il rapporto con la figlia Allison, ma viene contattato dal vecchio socio Vincent, il quale ha appena rapito la ragazza e per liberarla chiede un riscatto di dieci milioni di dollari. Per trovare i soldi necessari Will ha solo 12 ore di tempo, durante le quali dovrà fidarsi del suo istinto e dell'altra sua ex compagna di rapine, la bella Riley, prima che per sua figlia sia troppo tardi."
+            },
+            {
+                "ora": "00:13",
+                "titolo": "Cure",
+                "descrizione": "Un'ondata di orribili omicidi sta investendo Tokyo. L'unica connessione è una sanguinosa X scolpita nel collo di ciascuna delle vittime. In ogni caso, l'assassino si trova vicino alla vittima e non ricorda nulla del crimine. Il detective Takabe e lo psicologo Sakuma sono chiamati per capire la connessione, ma la loro indagine non va da nessuna parte..."
+            },
+            {
+                "ora": "21:14",
+                "titolo": "L'uomo che sussurrava ai cavalli",
+                "descrizione": "Figlia di ricchi professionisti (Scott Thomas, Neill), la 14enne Grace MacLean (Johansson) è vittima a New York di un incidente stradale in cui muore una cara amica, lei perde una gamba e il suo amato purosangue Pilgrim rimane malconcio. Convinta che l'avvenire della figlia sia legato a quello del cavallo, la madre Annie si reca con la figlia in una fattoria del Montana dove vive Tom Booker (Redford), celebre per la sua conoscenza dei cavalli."
+            },
+            {
+                "ora": "00:06",
+                "titolo": "Sheryl Crow Live At The Capitol Theatre",
+                "descrizione": "Dopo il suo debutto nel 1993 con l'album multi-platino \"Tuesday Night Music Club"
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport 24",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "21:30",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "22:30",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "TG Ultima Parola",
-                "descrizione": "Approfondimenti in studio con ospiti e live. Il riassunto della giornata sportiva vista con gli occhi della nostra redazione."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "TG Ultima Parola",
-                "descrizione": "Approfondimenti in studio con ospiti e live. Il riassunto della giornata sportiva vista con gli occhi della nostra redazione."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "News Line",
-                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
-            },
             {
                 "ora": "00:30",
                 "titolo": "News Line",
@@ -1402,34 +1367,49 @@
                 "ora": "02:30",
                 "titolo": "News Line",
                 "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "03:00",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "03:30",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "04:00",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "04:30",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "05:00",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "05:30",
+                "titolo": "News Line",
+                "descrizione": "Tutto quello che è accaduto nel panorama sportivo delle ultime 24 ore, con analisi, notizie, e una lettura dei giornali che troveremo in edicola."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Sport 24 Today",
+                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport Uno",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "19:55",
-                "titolo": "Napoli Basketball - Bourg-en-Bresse",
-                "descrizione": "Bourg-en-Bresse Eurocup. - Debutto di lusso in Europa per i ragazzi Repesa, reduci dalla vittoria di Roma. A Napoli arrivano i campioni in carica dell'Eurocup, i francesi di Bourg-en-Bresse. Telecronaca di Calogero Destro."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Totti",
-                "descrizione": "90/10"
-            },
-            {
-                "ora": "22:30",
-                "titolo": "Uefa Champions League Magazine 2026/2027 Ep.4 28/09/2026",
-                "descrizione": "2026/2027 Ep.4 28/09/2026 UEFA Champions League Magazine. - Approfondimento sportivo calcistico dedicato alla UEFA Champions League."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Cocciaretto",
-                "descrizione": "Teo Trials"
-            },
             {
                 "ora": "23:30",
                 "titolo": "EA7 Emporio Armani Milano - Virtus Bologna",
@@ -1469,34 +1449,34 @@
                 "ora": "23:35",
                 "titolo": "Lippi",
                 "descrizione": "Giorgio Porra' racconta Marcello Lippi: il suo mare, le sue radici, Vialli e la Juve che nel 1996 conquisto' la Champions, preludio al trionfo Mondiale del 2006"
+            },
+            {
+                "ora": "21:00",
+                "titolo": "Tennis: ATP & WTA",
+                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Napoli Basketball - Bourg-en-Bresse",
+                "descrizione": "Eurocup. - Debutto di lusso in Europa per i ragazzi Repesa, reduci dalla vittoria di Roma. A Napoli arrivano i campioni in carica dell'Eurocup, i francesi di Bourg-en-Bresse. Telecronaca di Calogero Destro."
+            },
+            {
+                "ora": "22:35",
+                "titolo": "Rigas Zelli - Bertram Derthona Tortona",
+                "descrizione": "Tortona Eurocup. - La banda di Fioretti, vinta la prima di campionato in casa contro Verona, debuttano in Europa volando in Lettonia per il primo turno del gruppo A. Telecronaca di Giovanni Poggi."
+            },
+            {
+                "ora": "20:00",
+                "titolo": "Atlanta Braves - Philadelphia Phillies",
+                "descrizione": "Atlanta/ Philadelphia 30/09/2026 Baseball Mlb. - Baseball Mlb"
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport Calcio",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "20:55",
-                "titolo": "Turchia - Italia",
-                "descrizione": "Nei 6 precedenti (amichevoli escluse), Italia imbattuta con 5 vittorie e un pari. Entrambe reduci da una sconfitta rispettivamente contro Francia e Belgio. TC: Caressa-Bergomi"
-            },
-            {
-                "ora": "22:45",
-                "titolo": "Totti",
-                "descrizione": "90/10"
-            },
-            {
-                "ora": "23:15",
-                "titolo": "Tutti I Gol Di Shevchenko In Champions League",
-                "descrizione": "Champions League. - Tutti i gol di Andriy Shevchenko in Champions League con le 3 maglie di club con cui ha giocato: Dinamo Kiev, Milan e Chelsea. Il Pallone d'oro 2004 ha alzato la coppa nel 2003."
-            },
-            {
-                "ora": "23:35",
-                "titolo": "Lippi",
-                "descrizione": "Giorgio Porra' racconta Marcello Lippi: il suo mare, le sue radici, Vialli e la Juve che nel 1996 conquisto' la Champions, preludio al trionfo Mondiale del 2006"
-            },
             {
                 "ora": "00:35",
                 "titolo": "Calcio Wsl Highlights Ep.4 30/09/2026",
@@ -1528,6 +1508,11 @@
                 "descrizione": "Bologna Eurolega. - Le migliori squadre d'Europa si affrontano nell'Eurolega."
             },
             {
+                "ora": "23:35",
+                "titolo": "Lippi",
+                "descrizione": "Giorgio Porra' racconta Marcello Lippi: il suo mare, le sue radici, Vialli e la Juve che nel 1996 conquisto' la Champions, preludio al trionfo Mondiale del 2006"
+            },
+            {
                 "ora": "21:00",
                 "titolo": "Tennis: ATP & WTA",
                 "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
@@ -1536,24 +1521,29 @@
                 "ora": "23:00",
                 "titolo": "Napoli Basketball - Bourg-en-Bresse",
                 "descrizione": "Eurocup. - Debutto di lusso in Europa per i ragazzi Repesa, reduci dalla vittoria di Roma. A Napoli arrivano i campioni in carica dell'Eurocup, i francesi di Bourg-en-Bresse. Telecronaca di Calogero Destro."
+            },
+            {
+                "ora": "22:35",
+                "titolo": "Rigas Zelli - Bertram Derthona Tortona",
+                "descrizione": "Tortona Eurocup. - La banda di Fioretti, vinta la prima di campionato in casa contro Verona, debuttano in Europa volando in Lettonia per il primo turno del gruppo A. Telecronaca di Giovanni Poggi."
+            },
+            {
+                "ora": "20:00",
+                "titolo": "Atlanta Braves - Philadelphia Phillies",
+                "descrizione": "Atlanta/ Philadelphia 30/09/2026 Baseball Mlb. - Baseball Mlb"
+            },
+            {
+                "ora": "23:05",
+                "titolo": "Motori Formula 1 2016 - Stag. 1 Ep. 112 - Motori F1 2016 Ep.16 Gp Malesia Gara 02/10/16",
+                "descrizione": "02/10/16 Motori Formula 1 2016. - Motori Formula 1 2016"
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport Tennis",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Tennis: ATP & WTA",
-                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Tennis Atp Tour This Week 2026 30/09/2026",
-                "descrizione": "30/09/2026 ATP Tour: This Week. - Gli aggiornamenti sul circuito maschile di tennis professionistico. Con informazioni dettagliate sui vari giocatori di punta e sui tornei piu' importanti, accompagnate da analisi approfondite."
-            },
             {
                 "ora": "00:30",
                 "titolo": "Tennis: ATP & WTA",
@@ -1580,6 +1570,11 @@
                 "descrizione": "Giorgio Porra' racconta Marcello Lippi: il suo mare, le sue radici, Vialli e la Juve che nel 1996 conquisto' la Champions, preludio al trionfo Mondiale del 2006"
             },
             {
+                "ora": "21:00",
+                "titolo": "Tennis: ATP & WTA",
+                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
+            },
+            {
                 "ora": "23:00",
                 "titolo": "Napoli Basketball - Bourg-en-Bresse",
                 "descrizione": "Eurocup. - Debutto di lusso in Europa per i ragazzi Repesa, reduci dalla vittoria di Roma. A Napoli arrivano i campioni in carica dell'Eurocup, i francesi di Bourg-en-Bresse. Telecronaca di Calogero Destro."
@@ -1603,44 +1598,19 @@
                 "ora": "22:00",
                 "titolo": "Giappone, Suzuka 1998. Classe 500 - MOTOGP",
                 "descrizione": "Le piu' belle gare all'esordio di stagione. Primo gran premio per il mondiale 1998 della premier class. Riviviamo il debutto di Max Biaggi in classe 500 su Honda."
+            },
+            {
+                "ora": "21:00",
+                "titolo": "BMW PGA Championship: Giorno 4",
+                "descrizione": "DP World Tour. - Dal Wentworth Club di Virginia Water, Inghilterra."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport F1",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Malesia 2013 - F1",
-                "descrizione": "E il secondo appuntamento del 2013. Alla prima gara in Australia aveva vinto Raikkonnen. In Malesia la griglia di partenza vede in pole position proprio il tedesco della Red Bull."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Malesia 2008 - F1",
-                "descrizione": "Seconda gara della stagione, in Australia ha vinto Lewis Hamilton. A Sepang la Ferrari prova a reagire con il campione del mondo in carica Raikkonen. In pole Felipe Massa con l'altra Ferrari."
-            },
-            {
-                "ora": "22:30",
-                "titolo": "Reparto Corse F1",
-                "descrizione": "Davide Camicioli e Matteo Bobbi presentano e analizzano i week end di gara di Formula 1. I momenti principali, le parole dei protagonisti e le prospettive mondiali dei contendenti."
-            },
-            {
-                "ora": "22:50",
-                "titolo": "Il nuovo Max",
-                "descrizione": "Il nuovo Max"
-            },
-            {
-                "ora": "23:05",
-                "titolo": "Motori Formula 1 2016 - Stag. 1 Ep. 112 - Motori F1 2016 Ep.16 Gp Malesia Gara 02/10/16",
-                "descrizione": "02/10/16 Motori Formula 1 2016. - Motori Formula 1 2016"
-            },
-            {
-                "ora": "00:05",
-                "titolo": "Motori F1 History - Stag. 1 Ep. 92 - F1 History Gp Malesia 1999 22/02/18",
-                "descrizione": "Motori F1 History. - Motori F1 History"
-            },
             {
                 "ora": "00:30",
                 "titolo": "Malesia 2000 - F1",
@@ -1670,29 +1640,44 @@
                 "ora": "04:00",
                 "titolo": "Malesia 2008 - F1",
                 "descrizione": "Seconda gara della stagione, in Australia ha vinto Lewis Hamilton. A Sepang la Ferrari prova a reagire con il campione del mondo in carica Raikkonen. In pole Felipe Massa con l'altra Ferrari."
+            },
+            {
+                "ora": "04:30",
+                "titolo": "Reparto Corse F1",
+                "descrizione": "Davide Camicioli e Matteo Bobbi presentano e analizzano i week end di gara di Formula 1. I momenti principali, le parole dei protagonisti e le prospettive mondiali dei contendenti."
+            },
+            {
+                "ora": "04:45",
+                "titolo": "Il nuovo Max",
+                "descrizione": "Il nuovo Max"
+            },
+            {
+                "ora": "05:00",
+                "titolo": "Motori Formula 1 2016 - Stag. 1 Ep. 112 - Motori F1 2016 Ep.16 Gp Malesia Gara 02/10/16",
+                "descrizione": "02/10/16 Motori Formula 1 2016. - Motori Formula 1 2016"
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Sport 24 Today",
+                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
+            },
+            {
+                "ora": "23:30",
+                "titolo": "EA7 Emporio Armani Milano - Virtus Bologna",
+                "descrizione": "Bologna Eurolega. - Le migliori squadre d'Europa si affrontano nell'Eurolega."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Lippi",
+                "descrizione": "Giorgio Porra' racconta Marcello Lippi: il suo mare, le sue radici, Vialli e la Juve che nel 1996 conquisto' la Champions, preludio al trionfo Mondiale del 2006"
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport Legend",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "20:45",
-                "titolo": "Buffa Racconta - Stag. 1 Ep. 37 - Buffa Racconta Gigi Riva 2a Parte 20/12/19",
-                "descrizione": "L'uomo nato due volte, la seconda per sempre. A 50 anni dallo storico scudetto conquistato dal Cagliari, il racconto di Federico Buffa dedicato a Gigi Riva."
-            },
-            {
-                "ora": "21:45",
-                "titolo": "Totti",
-                "descrizione": "90/10"
-            },
-            {
-                "ora": "22:15",
-                "titolo": "Federica Pellegrini",
-                "descrizione": "Prima olimpionica azzurra nella Hall of Fame del nuoto, Federica Pellegrini ha rappresentato record e ori, ma la sua eredita' va oltre i titoli. Un dono per lo sport italiano."
-            },
             {
                 "ora": "23:15",
                 "titolo": "Il Processo del 6 Dicembre 1993",
@@ -1737,29 +1722,29 @@
                 "ora": "23:35",
                 "titolo": "Lippi",
                 "descrizione": "Giorgio Porra' racconta Marcello Lippi: il suo mare, le sue radici, Vialli e la Juve che nel 1996 conquisto' la Champions, preludio al trionfo Mondiale del 2006"
+            },
+            {
+                "ora": "21:00",
+                "titolo": "Tennis: ATP & WTA",
+                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Napoli Basketball - Bourg-en-Bresse",
+                "descrizione": "Eurocup. - Debutto di lusso in Europa per i ragazzi Repesa, reduci dalla vittoria di Roma. A Napoli arrivano i campioni in carica dell'Eurocup, i francesi di Bourg-en-Bresse. Telecronaca di Calogero Destro."
+            },
+            {
+                "ora": "22:35",
+                "titolo": "Rigas Zelli - Bertram Derthona Tortona",
+                "descrizione": "Tortona Eurocup. - La banda di Fioretti, vinta la prima di campionato in casa contro Verona, debuttano in Europa volando in Lettonia per il primo turno del gruppo A. Telecronaca di Giovanni Poggi."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport MotoGP",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:05",
-                "titolo": "Italia",
-                "descrizione": "Scopriamo insieme dettagli salienti che riguardano il campionato del mondo Superbike."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Giappone, Suzuka 1998. Classe 500 - MOTOGP",
-                "descrizione": "Le piu' belle gare all'esordio di stagione. Primo gran premio per il mondiale 1998 della premier class. Riviviamo il debutto di Max Biaggi in classe 500 su Honda."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "GP Giappone: Gara",
-                "descrizione": "Diciassettesimo appuntamento del mondiale 2025: a Motegi, in Giappone, si accendono i motori per la gara della MotoGP. Telecronaca Meda - Sanchini"
-            },
             {
                 "ora": "00:00",
                 "titolo": "Giappone, Motegi 2016. MotoGP - MOTOGP",
@@ -1804,29 +1789,29 @@
                 "ora": "22:00",
                 "titolo": "Sport 24 Today",
                 "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
+            },
+            {
+                "ora": "23:30",
+                "titolo": "EA7 Emporio Armani Milano - Virtus Bologna",
+                "descrizione": "Bologna Eurolega. - Le migliori squadre d'Europa si affrontano nell'Eurolega."
+            },
+            {
+                "ora": "23:35",
+                "titolo": "Lippi",
+                "descrizione": "Giorgio Porra' racconta Marcello Lippi: il suo mare, le sue radici, Vialli e la Juve che nel 1996 conquisto' la Champions, preludio al trionfo Mondiale del 2006"
+            },
+            {
+                "ora": "21:00",
+                "titolo": "Tennis: ATP & WTA",
+                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport Basket",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "20:00",
-                "titolo": "Panathinaikos Aktor - Lyon-Villeurbanne",
-                "descrizione": "Lyon-Villeurbanne Eurolega. - Zelimir Obradovic contro Tony Parker: sfida fra panchine eccellenti nel secondo turno di Eurolega con i francesi pronti a sfidare l'avveniristico parquet di OAKA. Telecronaca di Andrea Solaini."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Ep.1",
-                "descrizione": "Basket Room Serie A"
-            },
-            {
-                "ora": "22:35",
-                "titolo": "Rigas Zelli - Bertram Derthona Tortona",
-                "descrizione": "Tortona Eurocup. - La banda di Fioretti, vinta la prima di campionato in casa contro Verona, debuttano in Europa volando in Lettonia per il primo turno del gruppo A. Telecronaca di Giovanni Poggi."
-            },
             {
                 "ora": "00:30",
                 "titolo": "Maxima Roma - U-BT Cluj-Napoca",
@@ -1871,19 +1856,29 @@
                 "ora": "23:00",
                 "titolo": "Napoli Basketball - Bourg-en-Bresse",
                 "descrizione": "Eurocup. - Debutto di lusso in Europa per i ragazzi Repesa, reduci dalla vittoria di Roma. A Napoli arrivano i campioni in carica dell'Eurocup, i francesi di Bourg-en-Bresse. Telecronaca di Calogero Destro."
+            },
+            {
+                "ora": "22:35",
+                "titolo": "Rigas Zelli - Bertram Derthona Tortona",
+                "descrizione": "Tortona Eurocup. - La banda di Fioretti, vinta la prima di campionato in casa contro Verona, debuttano in Europa volando in Lettonia per il primo turno del gruppo A. Telecronaca di Giovanni Poggi."
+            },
+            {
+                "ora": "20:00",
+                "titolo": "Atlanta Braves - Philadelphia Phillies",
+                "descrizione": "Atlanta/ Philadelphia 30/09/2026 Baseball Mlb. - Baseball Mlb"
+            },
+            {
+                "ora": "23:05",
+                "titolo": "Motori Formula 1 2016 - Stag. 1 Ep. 112 - Motori F1 2016 Ep.16 Gp Malesia Gara 02/10/16",
+                "descrizione": "02/10/16 Motori Formula 1 2016. - Motori Formula 1 2016"
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport Arena",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "20:55",
-                "titolo": "Maxima Roma - U-BT Cluj-Napoca",
-                "descrizione": "Cluj-Napoca Eurocup. - Riapre per l'Europa il PalaEur: dopo la sconfitta in campionato contro Napoli, la Maxima ceca la prima vittoria della sua storia ospitando i campioni di Romania. Telecronaca di Sandro Pugliese."
-            },
             {
                 "ora": "23:00",
                 "titolo": "Napoli Basketball - Bourg-en-Bresse",
@@ -1938,29 +1933,19 @@
                 "ora": "22:35",
                 "titolo": "Rigas Zelli - Bertram Derthona Tortona",
                 "descrizione": "Tortona Eurocup. - La banda di Fioretti, vinta la prima di campionato in casa contro Verona, debuttano in Europa volando in Lettonia per il primo turno del gruppo A. Telecronaca di Giovanni Poggi."
+            },
+            {
+                "ora": "20:00",
+                "titolo": "Atlanta Braves - Philadelphia Phillies",
+                "descrizione": "Atlanta/ Philadelphia 30/09/2026 Baseball Mlb. - Baseball Mlb"
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport Max",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "20:00",
-                "titolo": "Atlanta Braves - Philadelphia Phillies",
-                "descrizione": "Atlanta/ Philadelphia 30/09/2026 Baseball Mlb. - Baseball Mlb"
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Totti",
-                "descrizione": "90/10"
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Rally The Wrc Magazine 2026 Ep.13 29/09/2026",
-                "descrizione": "29/09/2026 WRC Highlight Show. - Riviviamo le fasi piu' emozionanti delle gare del World Rally Championship."
-            },
             {
                 "ora": "00:30",
                 "titolo": "Cocciaretto",
@@ -2005,34 +1990,29 @@
                 "ora": "21:00",
                 "titolo": "Tennis: ATP & WTA",
                 "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Napoli Basketball - Bourg-en-Bresse",
+                "descrizione": "Eurocup. - Debutto di lusso in Europa per i ragazzi Repesa, reduci dalla vittoria di Roma. A Napoli arrivano i campioni in carica dell'Eurocup, i francesi di Bourg-en-Bresse. Telecronaca di Calogero Destro."
+            },
+            {
+                "ora": "22:35",
+                "titolo": "Rigas Zelli - Bertram Derthona Tortona",
+                "descrizione": "Tortona Eurocup. - La banda di Fioretti, vinta la prima di campionato in casa contro Verona, debuttano in Europa volando in Lettonia per il primo turno del gruppo A. Telecronaca di Giovanni Poggi."
+            },
+            {
+                "ora": "20:00",
+                "titolo": "Atlanta Braves - Philadelphia Phillies",
+                "descrizione": "Atlanta/ Philadelphia 30/09/2026 Baseball Mlb. - Baseball Mlb"
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport Mix",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "20:00",
-                "titolo": "Panathinaikos Aktor - Lyon-Villeurbanne",
-                "descrizione": "Lyon-Villeurbanne Eurolega. - Zelimir Obradovic contro Tony Parker: sfida fra panchine eccellenti nel secondo turno di Eurolega con i francesi pronti a sfidare l'avveniristico parquet di OAKA. Telecronaca di Andrea Solaini."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Oteos - On The Evolution Of Sports 2026 Ep.6 Lo Sport In Nave 29/09/2026",
-                "descrizione": "2026 Ep.6 Lo Sport In Nave 29/09/2026 Oteos - On The Evolution Of Sports. - Lo sport e' rimasto sempre uguale, ma al contempo e' cambiato molto: si e' trasformato ed evoluto. I protagonisti del passato, affiancati da atleti di oggi e da giovani emergenti, spiegano come siano cambiate tecniche, materiali, attrezzature e regole."
-            },
-            {
-                "ora": "22:15",
-                "titolo": "Rally The Wrc Magazine 2026 Ep.13 29/09/2026",
-                "descrizione": "29/09/2026 WRC Highlight Show. - Riviviamo le fasi piu' emozionanti delle gare del World Rally Championship."
-            },
-            {
-                "ora": "22:45",
-                "titolo": "Icarus Ultra",
-                "descrizione": "Continua in Alta Badia il nostro DSS Tour. Florian Eisath sulla Re Laurino del comprensorio Carezza. Sport e Sostenibilita' a San Martino di Castrozza. Impresa di Nico De Corato a Dubai."
-            },
             {
                 "ora": "23:15",
                 "titolo": "Finale: Francia - Polonia",
@@ -2072,19 +2052,34 @@
                 "ora": "23:35",
                 "titolo": "Lippi",
                 "descrizione": "Giorgio Porra' racconta Marcello Lippi: il suo mare, le sue radici, Vialli e la Juve che nel 1996 conquisto' la Champions, preludio al trionfo Mondiale del 2006"
+            },
+            {
+                "ora": "21:00",
+                "titolo": "Tennis: ATP & WTA",
+                "descrizione": "Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani."
+            },
+            {
+                "ora": "23:00",
+                "titolo": "Napoli Basketball - Bourg-en-Bresse",
+                "descrizione": "Eurocup. - Debutto di lusso in Europa per i ragazzi Repesa, reduci dalla vittoria di Roma. A Napoli arrivano i campioni in carica dell'Eurocup, i francesi di Bourg-en-Bresse. Telecronaca di Calogero Destro."
+            },
+            {
+                "ora": "22:35",
+                "titolo": "Rigas Zelli - Bertram Derthona Tortona",
+                "descrizione": "Tortona Eurocup. - La banda di Fioretti, vinta la prima di campionato in casa contro Verona, debuttano in Europa volando in Lettonia per il primo turno del gruppo A. Telecronaca di Giovanni Poggi."
+            },
+            {
+                "ora": "20:00",
+                "titolo": "Atlanta Braves - Philadelphia Phillies",
+                "descrizione": "Atlanta/ Philadelphia 30/09/2026 Baseball Mlb. - Baseball Mlb"
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport Golf",
         "categoria": "Sport",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "BMW PGA Championship: Giorno 4",
-                "descrizione": "DP World Tour. - Dal Wentworth Club di Virginia Water, Inghilterra."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Golf Major Us Pga Championship - Ep. 4 - Golf Major Us Pga Championship 2026 4a Giornata 17/05/2026",
@@ -2139,25 +2134,20 @@
                 "ora": "22:00",
                 "titolo": "Giappone, Suzuka 1998. Classe 500 - MOTOGP",
                 "descrizione": "Le piu' belle gare all'esordio di stagione. Primo gran premio per il mondiale 1998 della premier class. Riviviamo il debutto di Max Biaggi in classe 500 su Honda."
+            },
+            {
+                "ora": "21:00",
+                "titolo": "BMW PGA Championship: Giorno 4",
+                "descrizione": "DP World Tour. - Dal Wentworth Club di Virginia Water, Inghilterra."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport 251",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "23:30",
                 "titolo": "EA7 Emporio Armani Milano - Virtus Bologna",
                 "descrizione": "Bologna Eurolega. - Le migliori squadre d'Europa si affrontano nell'Eurolega."
@@ -2206,25 +2196,25 @@
                 "ora": "23:15",
                 "titolo": "Il Processo del 6 Dicembre 1993",
                 "descrizione": "processo di Biscardi. - In questa puntata del celebre programma di Aldo Biscardi con Maurizio Mosca, Silvana Giacobini interroga Petra Scharbach sull'amicizia con l'attaccante del Parma Faustino Asprilla."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Finale: Francia - Polonia",
+                "descrizione": "Dall'Italia, la Bulgaria e la Finlandia."
+            },
+            {
+                "ora": "00:20",
+                "titolo": "GP Madrid: Gara",
+                "descrizione": "Prima storica gara sul nuovo circuito di Madrid. Antonelli comanda la classifica con 66 punti su Russell, Ferrari in cerca di riscatto. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport 252",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "23:30",
                 "titolo": "EA7 Emporio Armani Milano - Virtus Bologna",
                 "descrizione": "Bologna Eurolega. - Le migliori squadre d'Europa si affrontano nell'Eurolega."
@@ -2273,25 +2263,25 @@
                 "ora": "23:15",
                 "titolo": "Il Processo del 6 Dicembre 1993",
                 "descrizione": "processo di Biscardi. - In questa puntata del celebre programma di Aldo Biscardi con Maurizio Mosca, Silvana Giacobini interroga Petra Scharbach sull'amicizia con l'attaccante del Parma Faustino Asprilla."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Finale: Francia - Polonia",
+                "descrizione": "Dall'Italia, la Bulgaria e la Finlandia."
+            },
+            {
+                "ora": "00:20",
+                "titolo": "GP Madrid: Gara",
+                "descrizione": "Prima storica gara sul nuovo circuito di Madrid. Antonelli comanda la classifica con 66 punti su Russell, Ferrari in cerca di riscatto. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport 253",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "23:30",
                 "titolo": "EA7 Emporio Armani Milano - Virtus Bologna",
                 "descrizione": "Bologna Eurolega. - Le migliori squadre d'Europa si affrontano nell'Eurolega."
@@ -2340,25 +2330,25 @@
                 "ora": "23:15",
                 "titolo": "Il Processo del 6 Dicembre 1993",
                 "descrizione": "processo di Biscardi. - In questa puntata del celebre programma di Aldo Biscardi con Maurizio Mosca, Silvana Giacobini interroga Petra Scharbach sull'amicizia con l'attaccante del Parma Faustino Asprilla."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Finale: Francia - Polonia",
+                "descrizione": "Dall'Italia, la Bulgaria e la Finlandia."
+            },
+            {
+                "ora": "00:20",
+                "titolo": "GP Madrid: Gara",
+                "descrizione": "Prima storica gara sul nuovo circuito di Madrid. Antonelli comanda la classifica con 66 punti su Russell, Ferrari in cerca di riscatto. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport 254",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "23:30",
                 "titolo": "EA7 Emporio Armani Milano - Virtus Bologna",
                 "descrizione": "Bologna Eurolega. - Le migliori squadre d'Europa si affrontano nell'Eurolega."
@@ -2407,25 +2397,25 @@
                 "ora": "23:15",
                 "titolo": "Il Processo del 6 Dicembre 1993",
                 "descrizione": "processo di Biscardi. - In questa puntata del celebre programma di Aldo Biscardi con Maurizio Mosca, Silvana Giacobini interroga Petra Scharbach sull'amicizia con l'attaccante del Parma Faustino Asprilla."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Finale: Francia - Polonia",
+                "descrizione": "Dall'Italia, la Bulgaria e la Finlandia."
+            },
+            {
+                "ora": "00:20",
+                "titolo": "GP Madrid: Gara",
+                "descrizione": "Prima storica gara sul nuovo circuito di Madrid. Antonelli comanda la classifica con 66 punti su Russell, Ferrari in cerca di riscatto. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport 255",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "23:30",
                 "titolo": "EA7 Emporio Armani Milano - Virtus Bologna",
                 "descrizione": "Bologna Eurolega. - Le migliori squadre d'Europa si affrontano nell'Eurolega."
@@ -2474,25 +2464,25 @@
                 "ora": "23:15",
                 "titolo": "Il Processo del 6 Dicembre 1993",
                 "descrizione": "processo di Biscardi. - In questa puntata del celebre programma di Aldo Biscardi con Maurizio Mosca, Silvana Giacobini interroga Petra Scharbach sull'amicizia con l'attaccante del Parma Faustino Asprilla."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Finale: Francia - Polonia",
+                "descrizione": "Dall'Italia, la Bulgaria e la Finlandia."
+            },
+            {
+                "ora": "00:20",
+                "titolo": "GP Madrid: Gara",
+                "descrizione": "Prima storica gara sul nuovo circuito di Madrid. Antonelli comanda la classifica con 66 punti su Russell, Ferrari in cerca di riscatto. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport 256",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "23:30",
                 "titolo": "EA7 Emporio Armani Milano - Virtus Bologna",
                 "descrizione": "Bologna Eurolega. - Le migliori squadre d'Europa si affrontano nell'Eurolega."
@@ -2541,25 +2531,25 @@
                 "ora": "23:15",
                 "titolo": "Il Processo del 6 Dicembre 1993",
                 "descrizione": "processo di Biscardi. - In questa puntata del celebre programma di Aldo Biscardi con Maurizio Mosca, Silvana Giacobini interroga Petra Scharbach sull'amicizia con l'attaccante del Parma Faustino Asprilla."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Finale: Francia - Polonia",
+                "descrizione": "Dall'Italia, la Bulgaria e la Finlandia."
+            },
+            {
+                "ora": "00:20",
+                "titolo": "GP Madrid: Gara",
+                "descrizione": "Prima storica gara sul nuovo circuito di Madrid. Antonelli comanda la classifica con 66 punti su Russell, Ferrari in cerca di riscatto. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport 257",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "23:30",
                 "titolo": "EA7 Emporio Armani Milano - Virtus Bologna",
                 "descrizione": "Bologna Eurolega. - Le migliori squadre d'Europa si affrontano nell'Eurolega."
@@ -2608,25 +2598,25 @@
                 "ora": "23:15",
                 "titolo": "Il Processo del 6 Dicembre 1993",
                 "descrizione": "processo di Biscardi. - In questa puntata del celebre programma di Aldo Biscardi con Maurizio Mosca, Silvana Giacobini interroga Petra Scharbach sull'amicizia con l'attaccante del Parma Faustino Asprilla."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Finale: Francia - Polonia",
+                "descrizione": "Dall'Italia, la Bulgaria e la Finlandia."
+            },
+            {
+                "ora": "00:20",
+                "titolo": "GP Madrid: Gara",
+                "descrizione": "Prima storica gara sul nuovo circuito di Madrid. Antonelli comanda la classifica con 66 punti su Russell, Ferrari in cerca di riscatto. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport 258",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "23:30",
                 "titolo": "EA7 Emporio Armani Milano - Virtus Bologna",
                 "descrizione": "Bologna Eurolega. - Le migliori squadre d'Europa si affrontano nell'Eurolega."
@@ -2675,25 +2665,25 @@
                 "ora": "23:15",
                 "titolo": "Il Processo del 6 Dicembre 1993",
                 "descrizione": "processo di Biscardi. - In questa puntata del celebre programma di Aldo Biscardi con Maurizio Mosca, Silvana Giacobini interroga Petra Scharbach sull'amicizia con l'attaccante del Parma Faustino Asprilla."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Finale: Francia - Polonia",
+                "descrizione": "Dall'Italia, la Bulgaria e la Finlandia."
+            },
+            {
+                "ora": "00:20",
+                "titolo": "GP Madrid: Gara",
+                "descrizione": "Prima storica gara sul nuovo circuito di Madrid. Antonelli comanda la classifica con 66 punti su Russell, Ferrari in cerca di riscatto. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Sport 259",
         "categoria": "Sport",
         "programmi": [
             {
-                "ora": "06:00",
-                "titolo": "Programmazione non disponibile",
-                "descrizione": "La programmazione sarà disponibile fra qualche ora vi preghiamo di riprovare"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Sport 24 Today",
-                "descrizione": "Le notizie e i commenti del giorno, le anteprime e l'attualita' con servizi, commenti, interviste e collegamenti."
-            },
-            {
                 "ora": "23:30",
                 "titolo": "EA7 Emporio Armani Milano - Virtus Bologna",
                 "descrizione": "Bologna Eurolega. - Le migliori squadre d'Europa si affrontano nell'Eurolega."
@@ -2742,19 +2732,24 @@
                 "ora": "23:15",
                 "titolo": "Il Processo del 6 Dicembre 1993",
                 "descrizione": "processo di Biscardi. - In questa puntata del celebre programma di Aldo Biscardi con Maurizio Mosca, Silvana Giacobini interroga Petra Scharbach sull'amicizia con l'attaccante del Parma Faustino Asprilla."
+            },
+            {
+                "ora": "23:15",
+                "titolo": "Finale: Francia - Polonia",
+                "descrizione": "Dall'Italia, la Bulgaria e la Finlandia."
+            },
+            {
+                "ora": "00:20",
+                "titolo": "GP Madrid: Gara",
+                "descrizione": "Prima storica gara sul nuovo circuito di Madrid. Antonelli comanda la classifica con 66 punti su Russell, Ferrari in cerca di riscatto. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Cinema Uno",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Notte prima degli esami 3.0",
-                "descrizione": "Alla vigilia della maturità, un gruppo di liceali romani si ritrova a vivere la sua ultima grande avventura insieme: amori segreti, tradimenti, amicizie messe alla prova e piani disperati per ingannare la prof più temuta della scuola. Tra feste clandestine, motorini che sfrecciano nella notte e un viaggio improvvisato fino a Napoli, Giulio e i suoi amici dovranno affrontare il passaggio all’età adulta scoprendo che crescere significa anche sbagliare, perdonare e avere il coraggio di dire finalmente la verità."
-            },
             {
                 "ora": "23:00",
                 "titolo": "The Beekeeper",
@@ -2809,19 +2804,19 @@
                 "ora": "23:20",
                 "titolo": "Love Again",
                 "descrizione": "Dopo aver perso il fidanzato, Mira Ray continua a inviare romantici messaggi al suo vecchio numero di cellulare senza rendersi conto che è stato riassegnato al telefono aziendale del giornalista Rob Burns. Rob rimane colpito dalle parole di Mira e, quando gli viene assegnato il compito di scrivere un articolo sulla superstar Celine Dion (che interpreta se stessa nel suo primo ruolo cinematografico), chiede il suo aiuto per capire come incontrare Mira di persona e conquistare il suo cuore."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Ammazzare stanca",
+                "descrizione": "Nei primi anni '70 la ndrangheta calabrese dilaga e impera, dal sud al nord. Antonio, figlio del pericoloso boss calabrese trapiantato in Lombardia, Giacomo Zagari, ritrovandosi a uccidere più e più volte, capisce di non essere adatto a quella vita estrema. E mentre i suoi coetanei si ribellano nelle fabbriche, nelle università, nelle piazze, Antonio trova il coraggio di andare contro il padre, rifiutandone l'eredità."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Cinema Collection",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Uncharted",
-                "descrizione": "Basato su una delle serie di videogiochi più vendute e acclamate dalla critica, Uncharted presenta al pubblico il giovane e furbo Nathan Drake nella sua prima avventura alla ricerca del tesoro con l’arguto partner Victor \"Sully\" Sullivan. In un’epica avventura piena di azione che attraversa il mondo intero, i due protagonisti partono alla pericolosa ricerca del \"più grande tesoro mai trovato"
-            },
             {
                 "ora": "23:15",
                 "titolo": "La mummia (2017)",
@@ -2876,24 +2871,19 @@
                 "ora": "23:10",
                 "titolo": "Ammazzare stanca",
                 "descrizione": "Nei primi anni '70 la ndrangheta calabrese dilaga e impera, dal sud al nord. Antonio, figlio del pericoloso boss calabrese trapiantato in Lombardia, Giacomo Zagari, ritrovandosi a uccidere più e più volte, capisce di non essere adatto a quella vita estrema. E mentre i suoi coetanei si ribellano nelle fabbriche, nelle università, nelle piazze, Antonio trova il coraggio di andare contro il padre, rifiutandone l'eredità."
+            },
+            {
+                "ora": "22:55",
+                "titolo": "Anna",
+                "descrizione": "Nella notte del 21 marzo 1956, Anna Magnani attende in solitudine la notizia della vittoria dell’Oscar per La rosa tatuata. Quella notte, colma di speranza e tensione, segna un punto di svolta: il trionfo pubblico si scontra con una frattura privata. Mentre il mondo la acclama, Anna affronta l’addio doloroso a Roberto Rossellini. La rottura segna l’inizio di un distacco crescente dal cinema e il ritorno al teatro, luogo più intimo e autentico. Ma soprattutto, comincia un viaggio interiore tra ferite, amore e memoria."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Cinema Family",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Il Grinch",
-                "descrizione": "Al di sopra della città di Chissarà, dentro una grotta profonda e confortevole, vive il Grinch col suo cane Max. Verde, peloso e solitario, il Grinch odia il Natale, ne odia le assemblee di persone, lo spirito allegro e cordiale e soprattutto i canti. Per cinquantatré lunghi anni l'ha sopportato, ma ora non ce la fa più e prende una decisione radicale: ruberà il Natale ai ChiNonSo. Nottetempo, porterà loro via tutti i regali, gli addobbi, la felicità. Allora sì che smetteranno di cantare. O ancora no?"
-            },
-            {
-                "ora": "22:25",
-                "titolo": "Il mistero della casa del tempo",
-                "descrizione": "Un giovane orfano di nome Lewis Barnavelt va a vivere insieme allo zio. Presto scopre che lo zio non è chi dice di essere e deve fare i conti con una realtà inaspettata dove un misterioso orologio nascosto nei muri di casa sembra avere il potere di cambiare il destino del mondo."
-            },
             {
                 "ora": "00:15",
                 "titolo": "Genitori vs Influencer",
@@ -2930,6 +2920,11 @@
                 "descrizione": "Il mercenario Nick Morton ruba all'archeologa Jenny Halsey le indicazioni di un'antica tomba e, nel tentativo di salvarla, finisce per farla bombardare dai droni. Questo apre l'accesso a un'enorme grotta in Mesopotamia, dove si trova il sarcofago della principessa egizia Ahmanet, che ha portato il dio Set sul nostro mondo, ma fu fermata e mummificata prima di completare il rituale. Nick vi entra insieme a Jenny e a Chris, i tre liberano il sarcofago di Ahmanet e lo caricano su un aereo militare, che però precipita su una chiesa in Inghilterra. Jenny si salva dalla caduta, ma Nick dovrebbe sfracellarsi, invece si risveglia in obitorio misteriosamente senza un graffio e con forti allucinazioni che lo attraggono irresistibilmente verso il sarcofago. Basteranno i mezzi dell'organizzazione segreta per cui lavora il dottor Henry Jekyll a spezzare la maledizione della risvegliata e potente principessa Ahmanet?"
             },
             {
+                "ora": "22:25",
+                "titolo": "Il mistero della casa del tempo",
+                "descrizione": "Un giovane orfano di nome Lewis Barnavelt va a vivere insieme allo zio. Presto scopre che lo zio non è chi dice di essere e deve fare i conti con una realtà inaspettata dove un misterioso orologio nascosto nei muri di casa sembra avere il potere di cambiare il destino del mondo."
+            },
+            {
                 "ora": "23:15",
                 "titolo": "Le belve",
                 "descrizione": "Ben e Chon sono due amici per la pelle che condividono tutto, dall’amore per la bella Ophelia – detta O - all’attività di coltivatori e spacciatori della miglior marijuana della California del Sud. È stato Chon, ex marine, a riportare i primi semi dall’Afghanistan, poi è venuto Ben, botanico e buddista, che ne ha fatto un prodotto sopraffino, buono per far dollari così come per alleviare il dolore dei malati terminali. La vita scorre dunque idilliaca per il fortunato trio e i loro amici, finché un brutale cartello di trafficanti messicani non decide di fare affari con loro, che lo vogliano o meno."
@@ -2943,19 +2938,19 @@
                 "ora": "22:45",
                 "titolo": "L'illusione perfetta - Now You See Me: Now You Don't",
                 "descrizione": "I maghi del crimine sono tornati! Al loro fianco, una nuova generazione di illusionisti riscrive le regole dello spettacolo con numeri mozzafiato, colpi di scena e sorprese che sfidano l’immaginazione. Un'esperienza visiva che sul grande schermo si trasforma in spettacolo puro."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Love Again",
+                "descrizione": "Dopo aver perso il fidanzato, Mira Ray continua a inviare romantici messaggi al suo vecchio numero di cellulare senza rendersi conto che è stato riassegnato al telefono aziendale del giornalista Rob Burns. Rob rimane colpito dalle parole di Mira e, quando gli viene assegnato il compito di scrivere un articolo sulla superstar Celine Dion (che interpreta se stessa nel suo primo ruolo cinematografico), chiede il suo aiuto per capire come incontrare Mira di persona e conquistare il suo cuore."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Cinema Action",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Miami Vice",
-                "descrizione": "Ispirato alla serie che ottenne un grande successo in tutto il mondo tra il 1984 e il 1994, il ritorno di Miami Vice firmato da Michael Mann si permette oggi ciò che la televisione di allora non poteva proporre al proprio pubblico. Quindi nella vicenda di Sonny e Tubbs, i due poliziotti abilissimi a infiltrarsi in un grosso giro di droga, inserisce violenza ad alta intensità di decibel e una storia di passione che non concede più che tanto alla vista ma offre comunque un buon grado di calor bianco. Michael Mann è un maestro accreditato del genere e con questo remake è consapevole di prendersi un bel rischio. Colin Farrell (bello e inespressivo più di quanto basta) e Jamie Foxx rilevano Don Johnson e Philip Michael Thomas."
-            },
             {
                 "ora": "23:15",
                 "titolo": "Le belve",
@@ -3010,19 +3005,19 @@
                 "ora": "23:20",
                 "titolo": "Love Again",
                 "descrizione": "Dopo aver perso il fidanzato, Mira Ray continua a inviare romantici messaggi al suo vecchio numero di cellulare senza rendersi conto che è stato riassegnato al telefono aziendale del giornalista Rob Burns. Rob rimane colpito dalle parole di Mira e, quando gli viene assegnato il compito di scrivere un articolo sulla superstar Celine Dion (che interpreta se stessa nel suo primo ruolo cinematografico), chiede il suo aiuto per capire come incontrare Mira di persona e conquistare il suo cuore."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Ammazzare stanca",
+                "descrizione": "Nei primi anni '70 la ndrangheta calabrese dilaga e impera, dal sud al nord. Antonio, figlio del pericoloso boss calabrese trapiantato in Lombardia, Giacomo Zagari, ritrovandosi a uccidere più e più volte, capisce di non essere adatto a quella vita estrema. E mentre i suoi coetanei si ribellano nelle fabbriche, nelle università, nelle piazze, Antonio trova il coraggio di andare contro il padre, rifiutandone l'eredità."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Cinema Suspense",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Run",
-                "descrizione": "Dicono che non ci si possa sottrarre all’amore di una madre, ma per Chloe questa non è una rassicurazione: è una minaccia. C’è qualcosa di innaturale, quasi sinistro nella relazione tra Chloe e sua madre Diane. Diane ha cresciuto sua figlia nel totale isolamento, controllandone ogni movimento sin dalla nascita, dietro segreti che Chloe sta solo iniziando ad intuire. Un horror psicologico che mostra come, quando l’amore di una madre diventa troppo stretto, devi scappare."
-            },
             {
                 "ora": "22:30",
                 "titolo": "Una Di Famiglia - The Housemaid",
@@ -3077,19 +3072,19 @@
                 "ora": "23:20",
                 "titolo": "Love Again",
                 "descrizione": "Dopo aver perso il fidanzato, Mira Ray continua a inviare romantici messaggi al suo vecchio numero di cellulare senza rendersi conto che è stato riassegnato al telefono aziendale del giornalista Rob Burns. Rob rimane colpito dalle parole di Mira e, quando gli viene assegnato il compito di scrivere un articolo sulla superstar Celine Dion (che interpreta se stessa nel suo primo ruolo cinematografico), chiede il suo aiuto per capire come incontrare Mira di persona e conquistare il suo cuore."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Ammazzare stanca",
+                "descrizione": "Nei primi anni '70 la ndrangheta calabrese dilaga e impera, dal sud al nord. Antonio, figlio del pericoloso boss calabrese trapiantato in Lombardia, Giacomo Zagari, ritrovandosi a uccidere più e più volte, capisce di non essere adatto a quella vita estrema. E mentre i suoi coetanei si ribellano nelle fabbriche, nelle università, nelle piazze, Antonio trova il coraggio di andare contro il padre, rifiutandone l'eredità."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Cinema Romance",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Cuori ribelli",
-                "descrizione": "Fine del secolo scorso. Joseph e Shannon, due giovani irlandesi appartenenti a differenti classi sociali, sono accomunati dagli stessi sogni. Decidono così di partire per l'america per trovare della terra da coltivare. Arrivati a Boston, Joseph, si da per un pò di tempo alla boxe, ma alla fine decidono di partire per l'Oklahoma, dove, dopo tanti sacrifici riusciranno a realizzare i loro sogni."
-            },
             {
                 "ora": "23:20",
                 "titolo": "Love Again",
@@ -3144,19 +3139,19 @@
                 "ora": "22:45",
                 "titolo": "L'illusione perfetta - Now You See Me: Now You Don't",
                 "descrizione": "I maghi del crimine sono tornati! Al loro fianco, una nuova generazione di illusionisti riscrive le regole dello spettacolo con numeri mozzafiato, colpi di scena e sorprese che sfidano l’immaginazione. Un'esperienza visiva che sul grande schermo si trasforma in spettacolo puro."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Ammazzare stanca",
+                "descrizione": "Nei primi anni '70 la ndrangheta calabrese dilaga e impera, dal sud al nord. Antonio, figlio del pericoloso boss calabrese trapiantato in Lombardia, Giacomo Zagari, ritrovandosi a uccidere più e più volte, capisce di non essere adatto a quella vita estrema. E mentre i suoi coetanei si ribellano nelle fabbriche, nelle università, nelle piazze, Antonio trova il coraggio di andare contro il padre, rifiutandone l'eredità."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Cinema Drama",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "Idoli - Fino all’ultima corsa",
-                "descrizione": "Edu è un giovane pilota motociclistico particolarmente aggressivo di cui nessuna squadra si fida. Eli, team leader dell’ Aspar Team in Moto2, gli offre un’opportunità a condizione che sia suo padre, Antonio Belardi, ad allenarlo. Edu non vede il padre da molti anni, un ex pilota che si è ritirato dalle piste dopo aver causato la morte di un altro pilota durante una gara. Sebbene Edu odi il padre per averlo abbandonato, sa che solo con lui potrà aiutarlo a realizzare il suo sogno. Edu decide quindi di sottoporsi alla rigida disciplina che Antonio gli impone, che prevede tra l’altro di mettere da parte l’amore… Fino a quando non incontra Luna, una giovane artista che ha appena aperto uno studio di tatuaggi proprio sotto casa sua."
-            },
             {
                 "ora": "23:10",
                 "titolo": "Ammazzare stanca",
@@ -3211,19 +3206,19 @@
                 "ora": "22:45",
                 "titolo": "L'illusione perfetta - Now You See Me: Now You Don't",
                 "descrizione": "I maghi del crimine sono tornati! Al loro fianco, una nuova generazione di illusionisti riscrive le regole dello spettacolo con numeri mozzafiato, colpi di scena e sorprese che sfidano l’immaginazione. Un'esperienza visiva che sul grande schermo si trasforma in spettacolo puro."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Love Again",
+                "descrizione": "Dopo aver perso il fidanzato, Mira Ray continua a inviare romantici messaggi al suo vecchio numero di cellulare senza rendersi conto che è stato riassegnato al telefono aziendale del giornalista Rob Burns. Rob rimane colpito dalle parole di Mira e, quando gli viene assegnato il compito di scrivere un articolo sulla superstar Celine Dion (che interpreta se stessa nel suo primo ruolo cinematografico), chiede il suo aiuto per capire come incontrare Mira di persona e conquistare il suo cuore."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Cinema Comedy",
         "categoria": "Cinema",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "La vita è una cosa meravigliosa",
-                "descrizione": "Una commedia che vede protagonisti diversi personaggi le cui vicende si intrecciano: Cesare, un poliziotto che si occupa d'intercettazioni e vive spiando le vite degli altri; Antonio, presidente di un importante gruppo bancario, al quale i politici chiedono con insistenza fondi neri per finanziare i loro impicci. Un'indagine unisce il proprietario della clinica dove lavora Claudio, un chirurgo sposato con Elena, Vanessa, la figlia di Antonio, Marco, un giovane elettricista, e Laura, una massaggiatrice che si è innamorata di Cesare senza sapere che fa il poliziotto. Queste storie iniziano tutte male: Cesare scopre di avere una fidanzata che fa la escort, Laura incontra solo uomini sbagliati, Antonio è ricattato dai politici che lo obbligano a fare imbrogli, Claudio ha un figlio che combina solo guai, Elena soffre di una gelosia maniacale, Vanessa è una ragazza viziata, Marco viene accusato ingiustamente di un furto che non ha commesso. Ma... la vita è una cosa meravigliosa."
-            },
             {
                 "ora": "22:45",
                 "titolo": "L'illusione perfetta - Now You See Me: Now You Don't",
@@ -3278,24 +3273,19 @@
                 "ora": "22:30",
                 "titolo": "Una Di Famiglia - The Housemaid",
                 "descrizione": "La trama segue Millie, una donna che cerca un nuovo inizio e trova lavoro come domestica per una coppia benestante ed elitaria. Ma come spesso accade nei thriller, le apparenze ingannano. Millie scoprirà presto che dietro la facciata di questa ricca famiglia perfetta si nascondono segreti oscuri e pericolosi."
+            },
+            {
+                "ora": "23:20",
+                "titolo": "Love Again",
+                "descrizione": "Dopo aver perso il fidanzato, Mira Ray continua a inviare romantici messaggi al suo vecchio numero di cellulare senza rendersi conto che è stato riassegnato al telefono aziendale del giornalista Rob Burns. Rob rimane colpito dalle parole di Mira e, quando gli viene assegnato il compito di scrivere un articolo sulla superstar Celine Dion (che interpreta se stessa nel suo primo ruolo cinematografico), chiede il suo aiuto per capire come incontrare Mira di persona e conquistare il suo cuore."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Uno",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Foodish\",\"prima\":true,\"description\":\"Joe Bastianich e Giorgio Mastrota alla ricerca dei pizzoccheri più Foodish della Valtellina.\",\"durata\":60,\"genre\":\"Show\",\"category\":\"Intrattenimento\",\"image\":\"https://ethaneurope.it.imageservice.sky.com/pd-image/01dd6975-bbc1-4b86-a137-33d596bd4de4/background/600\",\"episode_number\":29,\"series_number\":3,\"director\":null,\"inizio\":\"2026-09-30T18:15:00.000Z\",\"fine\":\"2026-09-30T19:15:00.000Z\",\"condividi\":\"$undefined\",\"year\":\"2025\"},{\"id\":\"YKKuV70df3oh\",\"title\":\"Le_ali",
-                "descrizione": "Le_Ali, il nuovo singolo di Max Pezzali, fuori il 2 ottobre, racconta di ragazzi che con pochi mezzi e sogni enormi provano a trasformare una passione in realta'."
-            },
-            {
-                "ora": "21:20",
-                "titolo": "X Factor",
-                "descrizione": "Si chiude la fase delle Audition: ultima occasione per convincere Paola, Jake, Francesco e Irama e accedere ai Bootcamp."
-            },
             {
                 "ora": "00:15",
                 "titolo": "Cucine da incubo",
@@ -3315,6 +3305,11 @@
                 "ora": "03:45",
                 "titolo": "X Factor",
                 "descrizione": "Cominciano le Audition di X Factor 2026: i concorrenti si giocano il sogno davanti a Francesco Gabbani, Irama, Jake La Furia e Paola Iezzi. Conduce Giorgia."
+            },
+            {
+                "ora": "21:20",
+                "titolo": "X Factor",
+                "descrizione": "Si chiude la fase delle Audition: ultima occasione per convincere Paola, Jake, Francesco e Irama e accedere ai Bootcamp."
             },
             {
                 "ora": "22:05",
@@ -3345,34 +3340,19 @@
                 "ora": "22:50",
                 "titolo": "Alone",
                 "descrizione": "I partecipanti continuano a cercare nuovi modi per cacciare, ma anche per preservare le loro fonti di cibo. Un sopravvissuto si mantiene costruendo un rifugio, mentre un altro si prende una pausa dal proprio lavoro per trovare sostentamento."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "Puccini - Tosca",
+                "descrizione": "Opera in tre atti (1900) su libretto di L.Illica e G.Giacosa - con A.Harteros, A.Antonenko, L.Tezier, A.Mastroni - Staatskapelle Dresda - C.Thielemann, dir. - M.Sturminger, reg. (Salisburgo, 2018)"
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Atlantic",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Apples Never Fall",
-                "descrizione": "Joy e Stan, due ex allenatori di tennis, possono finalmente godersi la vita dopo la vendita della loro accademia. Ma quando Joy scompare, i quattro figli della coppia si ritrovano ad analizzare il matrimonio dei genitori da una prospettiva diversa."
-            },
-            {
-                "ora": "22:05",
-                "titolo": "Apples Never Fall",
-                "descrizione": "Joy e Stan, due ex allenatori di tennis, possono finalmente godersi la vita dopo la vendita della loro accademia. Ma quando Joy scompare, i quattro figli della coppia si ritrovano ad analizzare il matrimonio dei genitori da una prospettiva diversa."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Twisted Metal",
-                "descrizione": "Twisted Metal è una action comedy basata su un'idea originale di Rhett Reese e Paul Wernick (Deadpool, Zombieland) e scritta da Michael Jonathan Smith (Cobra Kai), che racconta di un outsider chiacchierone a cui viene offerta la possibilità di una vita migliore, ma solo se riesce a consegnare con successo un pacchetto misterioso attraverso un deserto post-apocalittico."
-            },
-            {
-                "ora": "23:40",
-                "titolo": "Twisted Metal",
-                "descrizione": "Twisted Metal è una action comedy basata su un'idea originale di Rhett Reese e Paul Wernick (Deadpool, Zombieland) e scritta da Michael Jonathan Smith (Cobra Kai), che racconta di un outsider chiacchierone a cui viene offerta la possibilità di una vita migliore, ma solo se riesce a consegnare con successo un pacchetto misterioso attraverso un deserto post-apocalittico."
-            },
             {
                 "ora": "00:05",
                 "titolo": "Twisted Metal",
@@ -3412,23 +3392,16 @@
                 "ora": "05:10",
                 "titolo": "Poker Face",
                 "descrizione": "Charlie è una donna con un dono straordinario: riconoscere quando qualcuno mente. A bordo della sua Plymouth Barracuda, attraversa il paese e, a ogni tappa, si trova coinvolta in strani crimini che non può fare a meno di risolvere."
-            }
-        ],
-        "aggiornato": "19:17"
-    },
-    {
-        "canale": "Sky Serie",
-        "categoria": "Intrattenimento",
-        "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "The Other Bennet Sister: Orgoglio e...",
-                "descrizione": "Al suo primo ballo, Mary Bennet spera di conquistare l'approvazione della sua famiglia."
             },
             {
-                "ora": "21:50",
-                "titolo": "The Other Bennet Sister: Orgoglio e...",
-                "descrizione": "Mary abbandona ogni speranza di sposarsi, ma un ospite giunto a Longbourn mette alla prova la sua determinazione."
+                "ora": "21:20",
+                "titolo": "X Factor",
+                "descrizione": "Si chiude la fase delle Audition: ultima occasione per convincere Paola, Jake, Francesco e Irama e accedere ai Bootcamp."
+            },
+            {
+                "ora": "22:05",
+                "titolo": "Apples Never Fall",
+                "descrizione": "Joy e Stan, due ex allenatori di tennis, possono finalmente godersi la vita dopo la vendita della loro accademia. Ma quando Joy scompare, i quattro figli della coppia si ritrovano ad analizzare il matrimonio dei genitori da una prospettiva diversa."
             },
             {
                 "ora": "22:20",
@@ -3436,10 +3409,17 @@
                 "descrizione": "La serie segue un gruppo di vigili del fuoco di Seattle presso la Stazione 19, nelle loro vite personali e professionali."
             },
             {
-                "ora": "23:10",
-                "titolo": "Station 19",
-                "descrizione": "La serie segue un gruppo di vigili del fuoco di Seattle presso la Stazione 19, nelle loro vite personali e professionali."
-            },
+                "ora": "00:20",
+                "titolo": "Sheriff Country",
+                "descrizione": "Mickey Fox indaga su attività criminali e pattuglia le strade della piccola città di Edgewater mentre affronta il padre ex detenuto e un misterioso incidente che coinvolge la figlia ribelle."
+            }
+        ],
+        "aggiornato": "22:36"
+    },
+    {
+        "canale": "Sky Serie",
+        "categoria": "Intrattenimento",
+        "programmi": [
             {
                 "ora": "00:00",
                 "titolo": "Avvocati di famiglia",
@@ -3479,29 +3459,34 @@
                 "ora": "22:05",
                 "titolo": "Apples Never Fall",
                 "descrizione": "Joy e Stan, due ex allenatori di tennis, possono finalmente godersi la vita dopo la vendita della loro accademia. Ma quando Joy scompare, i quattro figli della coppia si ritrovano ad analizzare il matrimonio dei genitori da una prospettiva diversa."
+            },
+            {
+                "ora": "22:20",
+                "titolo": "Station 19",
+                "descrizione": "La serie segue un gruppo di vigili del fuoco di Seattle presso la Stazione 19, nelle loro vite personali e professionali."
+            },
+            {
+                "ora": "00:20",
+                "titolo": "Sheriff Country",
+                "descrizione": "Mickey Fox indaga su attività criminali e pattuglia le strade della piccola città di Edgewater mentre affronta il padre ex detenuto e un misterioso incidente che coinvolge la figlia ribelle."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Escobar: caccia al re dei narcos",
+                "descrizione": "Il piu' grande narcotrafficante di tutti i tempi, il piu' spietato criminale che la Storia ricordi, il re dei narcos: Pablo Escobar. Ripercorriamo le tappe che hanno portato alla sua cattura."
+            },
+            {
+                "ora": "22:10",
+                "titolo": "33 giri Italian masters",
+                "descrizione": "Ep2 di 6 Luca Carboni - Ci sono album che hanno segnato la storia della musica italiana: scopriamone i segreti. Nella puntata Luca Carboni ci racconta il suo album omonimo \"Luca Carboni\"."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Investigation",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Delitti in Paradiso",
-                "descrizione": "La serie si svolge nella splendida cornice di una piccola isola caraibica, Saint-Marie, dove il poliziotto Richard Poole, britannico doc, viene inviato per risolvere un misterioso omicidio.Poole si ritrova in una fatiscente stazione di polizia a lavorare con una nuova partner, la brillante Camille Bordey, in un ambiente totalmente diverso da tutto ciò a cui lui è abituato. Lui è un tipo da giacca, cravatta e mocassini... in spiaggia. Nonostante ciò, pur essendo assolutamente un pesce fuor d'acqua in questo paradiso terrestre, si dimostrerà all’altezza di risolvere ogni caso che si presenterà di episodio in episodio."
-            },
-            {
-                "ora": "22:45",
-                "titolo": "Law & Order: I due volti della giustizia",
-                "descrizione": "Law & Order è un media franchise creato da Dick Wolf per la NBC Universal e formato da varie serie televisive poliziesco-giudiziarie e un film per la televisione, trasmessi sul network NBC dal 13 settembre 1990. Il franchise Law & Order nel tempo ha ispirato anche una serie di adattamenti televisivi stranieri, un docu-reality e videogiochi ufficiali, oltre a generare una serie di crossover con altre serie tv statunitensi."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Law & Order: I due volti della giustizia",
-                "descrizione": "Law & Order è un media franchise creato da Dick Wolf per la NBC Universal e formato da varie serie televisive poliziesco-giudiziarie e un film per la televisione, trasmessi sul network NBC dal 13 settembre 1990. Il franchise Law & Order nel tempo ha ispirato anche una serie di adattamenti televisivi stranieri, un docu-reality e videogiochi ufficiali, oltre a generare una serie di crossover con altre serie tv statunitensi."
-            },
             {
                 "ora": "00:20",
                 "titolo": "Sheriff Country",
@@ -3546,34 +3531,29 @@
                 "ora": "22:05",
                 "titolo": "Apples Never Fall",
                 "descrizione": "Joy e Stan, due ex allenatori di tennis, possono finalmente godersi la vita dopo la vendita della loro accademia. Ma quando Joy scompare, i quattro figli della coppia si ritrovano ad analizzare il matrimonio dei genitori da una prospettiva diversa."
+            },
+            {
+                "ora": "22:20",
+                "titolo": "Station 19",
+                "descrizione": "La serie segue un gruppo di vigili del fuoco di Seattle presso la Stazione 19, nelle loro vite personali e professionali."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Escobar: caccia al re dei narcos",
+                "descrizione": "Il piu' grande narcotrafficante di tutti i tempi, il piu' spietato criminale che la Storia ricordi, il re dei narcos: Pablo Escobar. Ripercorriamo le tappe che hanno portato alla sua cattura."
+            },
+            {
+                "ora": "22:10",
+                "titolo": "33 giri Italian masters",
+                "descrizione": "Ep2 di 6 Luca Carboni - Ci sono album che hanno segnato la storia della musica italiana: scopriamone i segreti. Nella puntata Luca Carboni ci racconta il suo album omonimo \"Luca Carboni\"."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Crime",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "La banda della Magliana - La...",
-                "descrizione": "S1 Ep4 di 4 La caduta - La storia di Franco Giuseppucci e l'ascesa della Banda della Magliana ai vertici della criminalita' romana, tra interviste inedite e documenti esclusivi."
-            },
-            {
-                "ora": "22:05",
-                "titolo": "Bande criminali italiane",
-                "descrizione": "S1 Ep4 La banda di Via Padova - Analisi delle bande italiane che hanno fatto la storia: fughe, lusso e violenze. Quattro storie di ribellione, fascino oscuro e disprezzo verso la società."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Crimini selvaggi",
-                "descrizione": "S1 Ep1 di 16 Nascosto nel fango - Criminali in fuga tra le paludi e un cucciolo da salvare: gli agenti affrontano una serie di interventi ad alto rischio."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Crimini selvaggi",
-                "descrizione": "S1 Ep2 di 16 Ricercati nelle paludi - Gli agenti affrontano paludi infestate da alligatori, fughe imprevedibili e una curiosa vicenda che coinvolge una donna, una pizza e un alligatore."
-            },
             {
                 "ora": "00:00",
                 "titolo": "Escobar: caccia al re dei narcos",
@@ -3613,18 +3593,11 @@
                 "ora": "00:20",
                 "titolo": "Sheriff Country",
                 "descrizione": "Mickey Fox indaga su attività criminali e pattuglia le strade della piccola città di Edgewater mentre affronta il padre ex detenuto e un misterioso incidente che coinvolge la figlia ribelle."
-            }
-        ],
-        "aggiornato": "19:17"
-    },
-    {
-        "canale": "Sky Adventure",
-        "categoria": "Intrattenimento",
-        "programmi": [
+            },
             {
-                "ora": "21:15",
-                "titolo": "Dinosauri: L'apocalisse",
-                "descrizione": "Sir David Attenborough riporta in vita, con un dettaglio senza precedenti, il mondo perduto degli ultimi giorni dei dinosauri. Esplorando le colline del North Dakota, il paleontologo Robert DePalma fa un'incredibile scoperta."
+                "ora": "22:10",
+                "titolo": "33 giri Italian masters",
+                "descrizione": "Ep2 di 6 Luca Carboni - Ci sono album che hanno segnato la storia della musica italiana: scopriamone i segreti. Nella puntata Luca Carboni ci racconta il suo album omonimo \"Luca Carboni\"."
             },
             {
                 "ora": "22:50",
@@ -3632,10 +3605,22 @@
                 "descrizione": "I partecipanti continuano a cercare nuovi modi per cacciare, ma anche per preservare le loro fonti di cibo. Un sopravvissuto si mantiene costruendo un rifugio, mentre un altro si prende una pausa dal proprio lavoro per trovare sostentamento."
             },
             {
-                "ora": "23:40",
-                "titolo": "Australia: A caccia di serpenti",
-                "descrizione": "Mick e Adele ricevono una chiamata riguardo a un serpente avvistato tra i giocattoli di alcuni bambini. Chris si mette in pericolo durante la ricerca di un pitone sfuggente."
+                "ora": "23:10",
+                "titolo": "Puccini - Tosca",
+                "descrizione": "Opera in tre atti (1900) su libretto di L.Illica e G.Giacosa - con A.Harteros, A.Antonenko, L.Tezier, A.Mastroni - Staatskapelle Dresda - C.Thielemann, dir. - M.Sturminger, reg. (Salisburgo, 2018)"
             },
+            {
+                "ora": "23:00",
+                "titolo": "Stand Up Comedy (Italy)",
+                "descrizione": "Ep3 di 14 - In questo episodio: Fill Pill, Martina Catuzzi, Horea Sas e Xhuliano Dule."
+            }
+        ],
+        "aggiornato": "22:36"
+    },
+    {
+        "canale": "Sky Adventure",
+        "categoria": "Intrattenimento",
+        "programmi": [
             {
                 "ora": "00:10",
                 "titolo": "Australia: A caccia di serpenti",
@@ -3680,39 +3665,29 @@
                 "ora": "22:05",
                 "titolo": "Apples Never Fall",
                 "descrizione": "Joy e Stan, due ex allenatori di tennis, possono finalmente godersi la vita dopo la vendita della loro accademia. Ma quando Joy scompare, i quattro figli della coppia si ritrovano ad analizzare il matrimonio dei genitori da una prospettiva diversa."
+            },
+            {
+                "ora": "22:20",
+                "titolo": "Station 19",
+                "descrizione": "La serie segue un gruppo di vigili del fuoco di Seattle presso la Stazione 19, nelle loro vite personali e professionali."
+            },
+            {
+                "ora": "00:20",
+                "titolo": "Sheriff Country",
+                "descrizione": "Mickey Fox indaga su attività criminali e pattuglia le strade della piccola città di Edgewater mentre affronta il padre ex detenuto e un misterioso incidente che coinvolge la figlia ribelle."
+            },
+            {
+                "ora": "00:00",
+                "titolo": "Escobar: caccia al re dei narcos",
+                "descrizione": "Il piu' grande narcotrafficante di tutti i tempi, il piu' spietato criminale che la Storia ricordi, il re dei narcos: Pablo Escobar. Ripercorriamo le tappe che hanno portato alla sua cattura."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "MTV",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "21:10",
-                "titolo": "Caught In The Act",
-                "descrizione": "Ep8 di 12 Non sto così male - Ruby e Johnny hanno in comune la passione per la fotografia, ma Ruby sente che Johnny non è concentrato su di lei come dovrebbe."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "The Challenge: All Stars",
-                "descrizione": "Ep6 di 12 - Le nove coppie si sfidano nella prima Star Challenge della stagione."
-            },
-            {
-                "ora": "22:50",
-                "titolo": "Ink Master: Shop Wars",
-                "descrizione": "Ep7 di 16 - Uno dei veterani più celebri del programma torna per dare una scossa alla gara. La battaglia per aggiudicarsi 200.000 $ e il titolo di Master Studio continua."
-            },
-            {
-                "ora": "23:40",
-                "titolo": "Ridiculousness: Veri American Idiots",
-                "descrizione": "Ep17 di 42 - In questa puntata Rob e Steelo sono affiancati da Lolo Wood."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Ridiculousness: Veri American Idiots",
-                "descrizione": "Ep13 di 42 Sterling e Carly Aquilino LXXIX - In questo episodio Rob e Steelo danno il benvenuto a Carly Aquilino."
-            },
             {
                 "ora": "00:25",
                 "titolo": "Ridiculousness: Veri American Idiots",
@@ -3747,44 +3722,39 @@
                 "ora": "05:20",
                 "titolo": "Ridiculousness: Veri American Idiots",
                 "descrizione": "Ep33 di 42 Sterling e Rocsi Diaz XXXIV - Rob, Steelo e Rocsi Diaz salgono sugli alberi sbagliati in DEAD LIMBS."
+            },
+            {
+                "ora": "05:35",
+                "titolo": "Ridiculousness: Veri American Idiots",
+                "descrizione": "Ep34 di 42 Paige Desorbo - Rob, Steelo e Paige Desorbo hanno i brividi sulla spina dorsale in VERTABREAKERS."
+            },
+            {
+                "ora": "21:20",
+                "titolo": "X Factor",
+                "descrizione": "Si chiude la fase delle Audition: ultima occasione per convincere Paola, Jake, Francesco e Irama e accedere ai Bootcamp."
+            },
+            {
+                "ora": "22:05",
+                "titolo": "Apples Never Fall",
+                "descrizione": "Joy e Stan, due ex allenatori di tennis, possono finalmente godersi la vita dopo la vendita della loro accademia. Ma quando Joy scompare, i quattro figli della coppia si ritrovano ad analizzare il matrimonio dei genitori da una prospettiva diversa."
+            },
+            {
+                "ora": "22:20",
+                "titolo": "Station 19",
+                "descrizione": "La serie segue un gruppo di vigili del fuoco di Seattle presso la Stazione 19, nelle loro vite personali e professionali."
+            },
+            {
+                "ora": "00:20",
+                "titolo": "Sheriff Country",
+                "descrizione": "Mickey Fox indaga su attività criminali e pattuglia le strade della piccola città di Edgewater mentre affronta il padre ex detenuto e un misterioso incidente che coinvolge la figlia ribelle."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Comedy Central",
         "categoria": "Intrattenimento",
         "programmi": [
-            {
-                "ora": "21:10",
-                "titolo": "Comedy Central Presents",
-                "descrizione": "Ep5 di 6 Pino e gli anticorpo Special - Piacere Pino la lavatrice! Seguite le storiche avventure di Pino e gli anticorpi!"
-            },
-            {
-                "ora": "22:00",
-                "titolo": "South Park",
-                "descrizione": "Stanley \"Stan\" Marsh, Eric Cartman e Kyle Broflosky e Kenneth \"Kenny\" McCormick, quattro ragazzi che frequentano la scuola elementare e vivono nella cittadina di South Park, in Colorado. Pestiferi, osceni e sfacciatamente intelligenti i ragazzacci affrontano temi di attualità con immediatezza e sana cattiveria sfatando tabù e demonizzando la società americana. Le loro \"armi\" sono la parodia, la commedia nera e il linguaggio scurrile."
-            },
-            {
-                "ora": "22:20",
-                "titolo": "South Park",
-                "descrizione": "Stanley \"Stan\" Marsh, Eric Cartman e Kyle Broflosky e Kenneth \"Kenny\" McCormick, quattro ragazzi che frequentano la scuola elementare e vivono nella cittadina di South Park, in Colorado. Pestiferi, osceni e sfacciatamente intelligenti i ragazzacci affrontano temi di attualità con immediatezza e sana cattiveria sfatando tabù e demonizzando la società americana. Le loro \"armi\" sono la parodia, la commedia nera e il linguaggio scurrile."
-            },
-            {
-                "ora": "22:40",
-                "titolo": "Ugly Americans",
-                "descrizione": "In un universo alternativo di \"New York City\" creature dell'orrore, della fantasia e della fantascienza vivono tra noi come comuni cittadini."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Stand Up Comedy (Italy)",
-                "descrizione": "Ep3 di 14 - In questo episodio: Fill Pill, Martina Catuzzi, Horea Sas e Xhuliano Dule."
-            },
-            {
-                "ora": "23:50",
-                "titolo": "Stand Up Comedy",
-                "descrizione": "Ep13 di 14 - In questo episodio: Albert Canepa, Martina Catuzzi, Laura Pusceddu, Daniele Raco."
-            },
             {
                 "ora": "00:30",
                 "titolo": "Reno 911!",
@@ -3814,29 +3784,44 @@
                 "ora": "02:25",
                 "titolo": "Key & Peele",
                 "descrizione": "Ep7 di 8 - La serie di sketch comici con Keegan-Michael Key e Jordan Peele, in cui i due comici, irriverenti carismatici e di talento, esaminano la vita in modo provocatorio e irriverente."
+            },
+            {
+                "ora": "02:45",
+                "titolo": "Key & Peele",
+                "descrizione": "Ep8 di 8 - La serie di sketch comici con Keegan-Michael Key e Jordan Peele, in cui i due comici, irriverenti carismatici e di talento, esaminano la vita in modo provocatorio e irriverente."
+            },
+            {
+                "ora": "03:05",
+                "titolo": "Programmazione da definire",
+                "descrizione": "I palinsesti sono in via di definizione da parte emittente"
+            },
+            {
+                "ora": "03:20",
+                "titolo": "Broad City",
+                "descrizione": "Broad City segue due donne nella loro vita quotidiana a New York, rendendo isterici e inquietanti anche gli eventi più piccoli e banali."
+            },
+            {
+                "ora": "03:45",
+                "titolo": "Broad City",
+                "descrizione": "Broad City segue due donne nella loro vita quotidiana a New York, rendendo isterici e inquietanti anche gli eventi più piccoli e banali."
+            },
+            {
+                "ora": "04:10",
+                "titolo": "Most Ridiculous 6",
+                "descrizione": "S6 Ep14 Episode 14 - La sesta stagione di Most Ridiculous vede i creator digitali Edoardo Zaggia e Alberto Sacco commentare con il loro stile dissacrante una nuova selezione di video amatoriali e virali."
+            },
+            {
+                "ora": "04:30",
+                "titolo": "Most Ridiculous 6",
+                "descrizione": "S6 Ep15 Episode 15 - La sesta stagione di Most Ridiculous vede i creator digitali Edoardo Zaggia e Alberto Sacco commentare con il loro stile dissacrante una nuova selezione di video amatoriali e virali."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Arte",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "33 giri Italian masters",
-                "descrizione": "Ep4 di 6 Zucchero - Oro, incenso e birra - Ci sono album che hanno segnato la storia della musica italiana. Nell'episodio Zucchero ci racconta il suo album Oro incenso e birra."
-            },
-            {
-                "ora": "22:10",
-                "titolo": "33 giri Italian masters",
-                "descrizione": "Ep2 di 6 Luca Carboni - Ci sono album che hanno segnato la storia della musica italiana: scopriamone i segreti. Nella puntata Luca Carboni ci racconta il suo album omonimo \"Luca Carboni\"."
-            },
-            {
-                "ora": "23:05",
-                "titolo": "33 giri Italian masters",
-                "descrizione": "Ep7 di 7 Fabrizio De Andre' - Le nuvole - Ci sono album che hanno segnato la storia della musica italiana: scopriamone i segreti. Oggi raccontiamo l'album \"Le nuvole\" di Fabrizio De Andre'."
-            },
             {
                 "ora": "00:00",
                 "titolo": "33 giri Italian masters",
@@ -3881,29 +3866,29 @@
                 "ora": "21:20",
                 "titolo": "X Factor",
                 "descrizione": "Si chiude la fase delle Audition: ultima occasione per convincere Paola, Jake, Francesco e Irama e accedere ai Bootcamp."
+            },
+            {
+                "ora": "22:05",
+                "titolo": "Apples Never Fall",
+                "descrizione": "Joy e Stan, due ex allenatori di tennis, possono finalmente godersi la vita dopo la vendita della loro accademia. Ma quando Joy scompare, i quattro figli della coppia si ritrovano ad analizzare il matrimonio dei genitori da una prospettiva diversa."
+            },
+            {
+                "ora": "22:20",
+                "titolo": "Station 19",
+                "descrizione": "La serie segue un gruppo di vigili del fuoco di Seattle presso la Stazione 19, nelle loro vite personali e professionali."
+            },
+            {
+                "ora": "00:20",
+                "titolo": "Sheriff Country",
+                "descrizione": "Mickey Fox indaga su attività criminali e pattuglia le strade della piccola città di Edgewater mentre affronta il padre ex detenuto e un misterioso incidente che coinvolge la figlia ribelle."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Documentaries",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "20:35",
-                "titolo": "Il futuro del pianeta",
-                "descrizione": "Dai mari alle praterie, dalle foreste alle comunità umane, osserviamo come ecosistemi sani possano ridurre il carbonio e contribuire a fermare il riscaldamento globale."
-            },
-            {
-                "ora": "21:40",
-                "titolo": "Surviving Earth",
-                "descrizione": "Un pesce primordiale intraprende un viaggio fino ai confini dell'oceano alla ricerca di una compagna, prima che la sua barriera corallina, esotica e colorata, venga distrutta dalle acque gelide."
-            },
-            {
-                "ora": "22:25",
-                "titolo": "Giulio Regeni: Tutto il male del mondo",
-                "descrizione": "Gli eventi relativi alla morte di Giulio Regeni, rapito, torturato e ucciso in Egitto, con la ricostruzione della sua famiglia e dell'avvocato Alessandra Ballerini, che illustrano le fasi del rapimento, della tortura e dell'omicidio."
-            },
             {
                 "ora": "00:20",
                 "titolo": "Surviving Earth",
@@ -3940,6 +3925,11 @@
                 "descrizione": "S3 Ep6 Masciarelli - Guidata dal Marina Cvetic e le sue figlie, la cantina Masciarelli produce vini di grandissimo fascino e classe, a cominciare del Trebbiano di Montepulciano. Prox Ep. 1 ott 07:00."
             },
             {
+                "ora": "22:25",
+                "titolo": "Giulio Regeni: Tutto il male del mondo",
+                "descrizione": "Gli eventi relativi alla morte di Giulio Regeni, rapito, torturato e ucciso in Egitto, con la ricostruzione della sua famiglia e dell'avvocato Alessandra Ballerini, che illustrano le fasi del rapimento, della tortura e dell'omicidio."
+            },
+            {
                 "ora": "22:55",
                 "titolo": "Predatori Dei Carpazi",
                 "descrizione": "Durante i mesi estivi, mentre una madre orso bruno lotta per dar da mangiare ai suoi due cuccioli, due piccoli di lince si allontanano dalla tana."
@@ -3948,29 +3938,24 @@
                 "ora": "22:00",
                 "titolo": "Enigmi Alieni",
                 "descrizione": "S18 Ep2 di 3 Misteri tra le piramidi - Misteri d'Egitto: la Piramide perduta di Abu Rawash. Secondo alcuni ricercatori, qui si nascondono i segreti di un'antica civilta' extraterrestre."
+            },
+            {
+                "ora": "20:35",
+                "titolo": "Questa terra e' la mia terra: del...",
+                "descrizione": "Dall’antipasto al dolce ricette per non sprecare neppure una briciola. Peppe Guida e le sue ricette zero sprechi con il pane"
+            },
+            {
+                "ora": "20:35",
+                "titolo": "Il futuro del pianeta",
+                "descrizione": "Dai mari alle praterie, dalle foreste alle comunità umane, osserviamo come ecosistemi sani possano ridurre il carbonio e contribuire a fermare il riscaldamento globale."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky Nature",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "21:15",
-                "titolo": "Cacciatori africani",
-                "descrizione": "Ep1 di 6 Il leopardo affamato - Un vecchio leopardo lotta per la sopravvivenza contro un branco di leoni affamati."
-            },
-            {
-                "ora": "22:05",
-                "titolo": "Cacciatori africani",
-                "descrizione": "Ep2 di 6 L'ultima resistenza di un leopardo - Un vecchio leopardo affronta la sfida suprema: un rivale piu' giovane e sano."
-            },
-            {
-                "ora": "22:55",
-                "titolo": "Predatori Dei Carpazi",
-                "descrizione": "Durante i mesi estivi, mentre una madre orso bruno lotta per dar da mangiare ai suoi due cuccioli, due piccoli di lince si allontanano dalla tana."
-            },
             {
                 "ora": "23:50",
                 "titolo": "Predatori Dei Carpazi",
@@ -4015,34 +4000,29 @@
                 "ora": "22:25",
                 "titolo": "Giulio Regeni: Tutto il male del mondo",
                 "descrizione": "Gli eventi relativi alla morte di Giulio Regeni, rapito, torturato e ucciso in Egitto, con la ricostruzione della sua famiglia e dell'avvocato Alessandra Ballerini, che illustrano le fasi del rapimento, della tortura e dell'omicidio."
+            },
+            {
+                "ora": "22:55",
+                "titolo": "Predatori Dei Carpazi",
+                "descrizione": "Durante i mesi estivi, mentre una madre orso bruno lotta per dar da mangiare ai suoi due cuccioli, due piccoli di lince si allontanano dalla tana."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Enigmi Alieni",
+                "descrizione": "S18 Ep2 di 3 Misteri tra le piramidi - Misteri d'Egitto: la Piramide perduta di Abu Rawash. Secondo alcuni ricercatori, qui si nascondono i segreti di un'antica civilta' extraterrestre."
+            },
+            {
+                "ora": "20:35",
+                "titolo": "Questa terra e' la mia terra: del...",
+                "descrizione": "Dall’antipasto al dolce ricette per non sprecare neppure una briciola. Peppe Guida e le sue ricette zero sprechi con il pane"
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Discovery Channel",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "21:10",
-                "titolo": "Indagini paranormali con Josh Gates",
-                "descrizione": "Phil e Heather esplorano una vasta grotta sotterranea legata ai Maya."
-            },
-            {
-                "ora": "22:05",
-                "titolo": "Indagini paranormali con Josh Gates",
-                "descrizione": "Heather e Phil analizzano il mistero legato a uno spirito ancestrale dei Maya."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Indagini paranormali con Josh Gates",
-                "descrizione": "La squadra e' a Okinawa per indagare su racconti relativi ad alcuni misteriosi spiriti."
-            },
-            {
-                "ora": "23:55",
-                "titolo": "Come e' fatto",
-                "descrizione": "In questa puntata di 'Come e' Fatto' scopriamo le origini di alcuni prodotti: piastrelle di ceramica, dadi, fucinati di acciaio e skateboard."
-            },
             {
                 "ora": "00:05",
                 "titolo": "Come e' fatto",
@@ -4082,34 +4062,34 @@
                 "ora": "05:10",
                 "titolo": "Come e' fatto",
                 "descrizione": "Esaminiamo numerosi oggetti di uso quotidiano per scoprire come sono fatti e come vengono prodotti. In questo episodio hummus e sombreri di paglia."
+            },
+            {
+                "ora": "05:30",
+                "titolo": "Come e' fatto",
+                "descrizione": "Esaminiamo numerosi oggetti di uso quotidiano per scoprire come sono fatti e come vengono prodotti. In questo episodio tequila, infradito e letti ad acqua."
+            },
+            {
+                "ora": "06:00",
+                "titolo": "Scherzi della natura",
+                "descrizione": "Gli esperti spiegano perche' alcuni elefanti arrivano fuori lo stesso hotel ogni anno. Inoltre da cosa sono stati prodotti alcuni anelli di bolle lungo la costa di Portland?"
+            },
+            {
+                "ora": "21:30",
+                "titolo": "Tale E Quale Show",
+                "descrizione": "Sedicesima edizione dello show musicale condotto da Carlo Conti, in cui 11 talent si sfidano tra loro trasformandosi ogni settimana in icone musicali differenti. Nella seconda puntata, si riparte con le trasformazioni degli artisti: Jasmine Carrisi è Angelina Mango, Maddalena Corvaglia si confronta con P!nk, Roberta Morise con Elodie, Paola Perego interpreta Sylvie Vartan, Anna Pettinelli ha il volto di Ditonellapiaga e Selma con Beyoncé; Stefano Meloccaro si mette alla prova con Zucchero, Max Paiella è Tom Jones, Andrea Perroni assume le sembianze di Franco Califano, e Vladimir Randazzo quelle di Achille Lauro. Infine i due \"ragazzi incorreggibili\" Flavio Insinna e Gabriele Cirilli vestono i panni di Bobby Solo ed Elvis Presley. A valutare le performance, Elettra Lamborghini, Alessandro Siani e Cristiano Malgioglio, affiancati dal \"quarto giudice\" Ubaldo Pantani, chiamato a entrare nel gioco e a stilare la propria classifica."
+            },
+            {
+                "ora": "23:10",
+                "titolo": "La Coda Del Diavolo (2024)",
+                "descrizione": "Sante Moras, agente di polizia penitenziaria, viene incastrato per la morte di un detenuto legato all'omicidio di una ragazza. Costretto a fuggire per dimostrare la propria innocenza, incrocia la strada della giornalista Fabiana Lai, impegnata a indagare su una serie di delitti collegati da un misterioso simbolo."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "History Channel",
         "categoria": "Documentari",
         "programmi": [
-            {
-                "ora": "21:10",
-                "titolo": "Oak Island e il tesoro maledetto",
-                "descrizione": "S13 Ep2 di 10 Il ritorno - seconda parte - Riparte la ricerca del tesoro di Oak Island. Una sorprendente scoperta potrebbe dimostrare il coinvolgimento dei Cavalieri Templari."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "Enigmi Alieni",
-                "descrizione": "S18 Ep2 di 3 Misteri tra le piramidi - Misteri d'Egitto: la Piramide perduta di Abu Rawash. Secondo alcuni ricercatori, qui si nascondono i segreti di un'antica civilta' extraterrestre."
-            },
-            {
-                "ora": "22:50",
-                "titolo": "Bermuda: I misteri degli abissi",
-                "descrizione": "S2 Ep6 di 12 La Marine Suplhur Queen - A notte fonda la squadra raggiunge un sito remoto che potrebbe essere la Marine Sulphur Queen, scomparsa nel 1963 con 39 uomini a bordo."
-            },
-            {
-                "ora": "23:35",
-                "titolo": "Affari di famiglia",
-                "descrizione": "Ep15 Jimi Hendrix - Seguiamo gli affari dei proprietari del 'Gold & Silver Pawn Shop', un negozio dove si comprano e vendono oggetti il cui valore e' stabilito dalla storia che raccontano."
-            },
             {
                 "ora": "00:25",
                 "titolo": "Enigmi Alieni",
@@ -4149,64 +4129,34 @@
                 "ora": "22:55",
                 "titolo": "Predatori Dei Carpazi",
                 "descrizione": "Durante i mesi estivi, mentre una madre orso bruno lotta per dar da mangiare ai suoi due cuccioli, due piccoli di lince si allontanano dalla tana."
+            },
+            {
+                "ora": "22:00",
+                "titolo": "Enigmi Alieni",
+                "descrizione": "S18 Ep2 di 3 Misteri tra le piramidi - Misteri d'Egitto: la Piramide perduta di Abu Rawash. Secondo alcuni ricercatori, qui si nascondono i segreti di un'antica civilta' extraterrestre."
+            },
+            {
+                "ora": "20:35",
+                "titolo": "Questa terra e' la mia terra: del...",
+                "descrizione": "Dall’antipasto al dolce ricette per non sprecare neppure una briciola. Peppe Guida e le sue ricette zero sprechi con il pane"
+            },
+            {
+                "ora": "20:35",
+                "titolo": "Il futuro del pianeta",
+                "descrizione": "Dai mari alle praterie, dalle foreste alle comunità umane, osserviamo come ecosistemi sani possano ridurre il carbonio e contribuire a fermare il riscaldamento globale."
+            },
+            {
+                "ora": "21:15",
+                "titolo": "Cacciatori africani",
+                "descrizione": "Ep1 di 6 Il leopardo affamato - Un vecchio leopardo lotta per la sopravvivenza contro un branco di leoni affamati."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     },
     {
         "canale": "Sky TG 24",
         "categoria": "News",
         "programmi": [
-            {
-                "ora": "21:00",
-                "titolo": "TG24 mezz'ora",
-                "descrizione": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
-            },
-            {
-                "ora": "21:35",
-                "titolo": "Wow",
-                "descrizione": "L'appuntamento quotidiano con le principali notizie di cultura, cinema, musica, arte e intrattenimento."
-            },
-            {
-                "ora": "21:50",
-                "titolo": "Sky Meteo24",
-                "descrizione": "Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali."
-            },
-            {
-                "ora": "22:00",
-                "titolo": "TG24 mezz'ora",
-                "descrizione": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo."
-            },
-            {
-                "ora": "22:15",
-                "titolo": "TG24 Preview",
-                "descrizione": "TG24 Preview"
-            },
-            {
-                "ora": "22:20",
-                "titolo": "TG24 Economia",
-                "descrizione": "L'appuntamento quotidiano con l'approfondimento delle principali notizie economiche della giornata. Conduce Andrea Bignami."
-            },
-            {
-                "ora": "23:00",
-                "titolo": "Skyline",
-                "descrizione": "Con Skyline, dal lunedi' al venerdi', vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie."
-            },
-            {
-                "ora": "23:30",
-                "titolo": "Skyline",
-                "descrizione": "Con Skyline, dal lunedi' al venerdi', vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie."
-            },
-            {
-                "ora": "23:50",
-                "titolo": "Sky Meteo24",
-                "descrizione": "Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali."
-            },
-            {
-                "ora": "00:00",
-                "titolo": "Skyline",
-                "descrizione": "Con Skyline, dal lunedi' al venerdi', vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie."
-            },
             {
                 "ora": "00:30",
                 "titolo": "TG24 Edicola",
@@ -4216,8 +4166,58 @@
                 "ora": "01:00",
                 "titolo": "TG24 Edicola",
                 "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "01:30",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "02:00",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "02:30",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "03:00",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "03:30",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "04:00",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "04:30",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "05:00",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "05:30",
+                "titolo": "TG24 Edicola",
+                "descrizione": "Telegiornale con la lettura dei principali quotidiani."
+            },
+            {
+                "ora": "21:30",
+                "titolo": "Tale E Quale Show",
+                "descrizione": "Sedicesima edizione dello show musicale condotto da Carlo Conti, in cui 11 talent si sfidano tra loro trasformandosi ogni settimana in icone musicali differenti. Nella seconda puntata, si riparte con le trasformazioni degli artisti: Jasmine Carrisi è Angelina Mango, Maddalena Corvaglia si confronta con P!nk, Roberta Morise con Elodie, Paola Perego interpreta Sylvie Vartan, Anna Pettinelli ha il volto di Ditonellapiaga e Selma con Beyoncé; Stefano Meloccaro si mette alla prova con Zucchero, Max Paiella è Tom Jones, Andrea Perroni assume le sembianze di Franco Califano, e Vladimir Randazzo quelle di Achille Lauro. Infine i due \"ragazzi incorreggibili\" Flavio Insinna e Gabriele Cirilli vestono i panni di Bobby Solo ed Elvis Presley. A valutare le performance, Elettra Lamborghini, Alessandro Siani e Cristiano Malgioglio, affiancati dal \"quarto giudice\" Ubaldo Pantani, chiamato a entrare nel gioco e a stilare la propria classifica."
             }
         ],
-        "aggiornato": "19:17"
+        "aggiornato": "22:36"
     }
 ]
